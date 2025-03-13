@@ -1,14 +1,14 @@
 # Второй сезон. Идентичность.
 
-- [Идентичность. Человек-флешка](your-flash-memory-card-with-identity.md)
-- [Основы идентичности. Место и время](placeandtime.md)
-- [Политическая идентичность. Свои и чужие](political-identity.md)
-- [Политическая борьба. Асабия](asabiya.md)
-- [NPC.Кризис идентичности](the-crisis-of-identity.md)
-- [Миметический кризис](mimetic.md)
-- [Технология вместо веры](technology-instead-of-faith.md)
-- [Прыжок веры](a-leap-of-faith.md)
-- [Идентичность. Развязка](identity-conclusion.md)
-- [Идентичность. Ответы на вопросы](identity-qa.md)
-- [Монархизм. Номинализм. Повесточка](monarchs-and-agenda.md)
-- [Радость понимания. Финал сезона](the-joy-of-understanding.md)
+- [Идентичность. Человек-флешка](your-flash-memory-card-with-identity.md) 17 сентября 2023
+- [Основы идентичности. Место и время](placeandtime.md) 26 сентября 2023
+- [Политическая идентичность. Свои и чужие](political-identity.md) 01 октября 2023
+- [Политическая борьба. Асабия](asabiya.md) 08 октября 2023
+- [NPC.Кризис идентичности](the-crisis-of-identity.md) 14 октября 2023
+- [Миметический кризис](mimetic.md) 23 октября 2023
+- [Технология вместо веры](technology-instead-of-faith.md) 28 октября 2023
+- [Прыжок веры](a-leap-of-faith.md) 05 ноября 2023
+- [Идентичность. Развязка](identity-conclusion.md) 13 ноября 2023
+- [Идентичность. Ответы на вопросы](identity-qa.md) 26 ноября 2023
+- [Монархизм. Номинализм. Повесточка](monarchs-and-agenda.md) 02 декабря 2023
+- [Радость понимания. Финал сезона](the-joy-of-understanding.md) 11 декабря 2023
