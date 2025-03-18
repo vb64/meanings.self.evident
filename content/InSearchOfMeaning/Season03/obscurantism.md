@@ -1,6 +1,6 @@
 # Об ученых и мракобесии
 
-17 июля 2024 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/obscurantism.md) 37:46
+17 июля 2024 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/obscurantism) 37:46
 
 Насколько наши школьные представления о мучениках и героях науки соответствуют фактам их биографии?
 От Огюста Конта до Роберта Сапольски - научный позитивизм, как квази-религиозное учение.
