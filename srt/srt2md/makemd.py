@@ -11,6 +11,34 @@ FIRST_SCHELIN = (SPEAK_SCHELIN, SPEAK_GOLUB)
 SRT_PATH = os.path.join("..", "InSearchOfMeaning")
 
 SRT = {
+  'Season01': [
+    ("pinker", FIRST_GOLUB),
+    ("apocalypse", FIRST_SCHELIN),
+    ("faust", FIRST_SCHELIN),
+    ("identity", FIRST_SCHELIN),
+    ("orange", FIRST_GOLUB),
+    ("snowflakes", FIRST_GOLUB),
+    ("limits", FIRST_GOLUB),
+    ("ai", FIRST_SCHELIN),
+    ("vr", FIRST_SCHELIN),
+    ("mt", FIRST_SCHELIN),
+    ("otvety", FIRST_GOLUB),
+    ("final", FIRST_SCHELIN),
+  ],
+  'Season02': [
+    ("your-flash-memory-card-with-identity", FIRST_SCHELIN),
+    ("placeandtime", FIRST_SCHELIN),
+    ("political-identity", FIRST_GOLUB),
+    ("asabiya", FIRST_SCHELIN),
+    ("the-crisis-of-identity", FIRST_SCHELIN),
+    ("mimetic", FIRST_SCHELIN),
+    ("technology-instead-of-faith", FIRST_GOLUB),
+    ("a-leap-of-faith", FIRST_GOLUB),
+    ("identity-conclusion", FIRST_GOLUB),
+    ("identity-qa", FIRST_SCHELIN),
+    ("monarchs-and-agenda", FIRST_SCHELIN),
+    ("the-joy-of-understanding", FIRST_GOLUB),
+  ],
   'Season03': [
     ("republic", FIRST_SCHELIN),
     ("democracy", FIRST_GOLUB),
