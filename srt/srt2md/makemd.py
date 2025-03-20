@@ -59,6 +59,7 @@ SRT = {
     ("freedom-and-quadrobers", FIRST_SCHELIN),
     ("battle_of_the_sexes", FIRST_GOLUB),
     ("human_vs_humanity", FIRST_GOLUB),
+    ("confession", FIRST_SCHELIN),
     ("muses_of_tradition", FIRST_GOLUB),
   ],
 }
