@@ -5,6 +5,10 @@ SRT_PATH = "../InSearchOfMeaning/Season04/"
 SRT_EXT = ".srt"
 
 
+def speaker_index(text):
+    return int(text.split()[1].strip(':'))
+
+
 def is_complete(sentence):
     return sentence[-1] in SENTENCE_END
 
@@ -36,6 +40,7 @@ def whisper(in_file, out_file, diarization):
     start = 0
     text = []
     eof = False
+    current_speaker = None
     while not eof:
         chunk = lines[start:start + 4]
         start += 4
@@ -44,12 +49,24 @@ def whisper(in_file, out_file, diarization):
         else:
             item = chunk[2].strip()
             if diarization:
+                speaker = speaker_index(item)
+                if speaker != current_speaker:
+                    text.append("\n{}\n".format(speaker))
+                    current_speaker = speaker
                 item = item[SPEAKER:]
+
             text.append(item)
 
     out = open(out_file, "wt", encoding="utf-8")
     group = []
     for sentence in text:
+        if sentence.startswith('\n'):  # speaker sign
+            if group:
+                write_sentence(out, ' '.join(group))
+            group = []
+            out.write(sentence)
+            continue
+
         group.append(sentence)
         if is_complete(sentence):
             write_sentence(out, ' '.join(group))
