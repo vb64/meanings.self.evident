@@ -53,7 +53,8 @@ def split_to_sentences(text):
             current = []
 
     if current:
-        raise Exception("Wrong sentence: {}".format(text))
+        print("***WARN sentence: {}".format(text))
+        sentences.append(' '.join(current))
 
     return sentences
 
