@@ -1,6 +1,6 @@
 # Инструкция для желающих помочь в обработке машинного перевода
 
-Перейдите на [корневую страницу](https://github.com/vb64/meanings.self.evident/blob/readme/content/InSearchOfMeaning/README.md) проекта.
+Перейдите на [корневую страницу](https://github.com/vb64/meanings.self.evident/blob/main/content/InSearchOfMeaning/README.md) проекта.
 
 По ссылкам сезонов и выпусков выберите интересующий вас выпуск.
 
