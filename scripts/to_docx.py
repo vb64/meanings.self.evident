@@ -1,5 +1,7 @@
 import os
 from markdown_it import MarkdownIt
+from docx import Document
+from htmldocx import HtmlToDocx
 
 
 def main():
@@ -10,12 +12,17 @@ def main():
     m_d = (MarkdownIt("commonmark").enable('table'))  # Enable support for tables
     html = m_d.render(text)
 
-    print('#html', html)
+    # print('#html', html)
 
-    out_file = os.path.join("build", "muses_of_tradition.html")
-    out = open(out_file, "wt", encoding="utf-8")
-    out.write(html)
-    out.close()
+    # https://github.com/pqzx/html2docx
+    document = Document()
+    parser = HtmlToDocx()
+    parser.add_html_to_document(html, document)
+    document.save(os.path.join("build", 'muses_of_tradition.docx'))
+    # out_file = os.path.join("build", "muses_of_tradition.html")
+    # out = open(out_file, "wt", encoding="utf-8")
+    # out.write(html)
+    # out.close()
 
 
 if __name__ == '__main__':
