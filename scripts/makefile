@@ -15,6 +15,7 @@ setup: setup_python setup_pip
 
 setup_pip:
 	$(PIP) --upgrade pip
+	$(PIP) -r requirements.txt
 
 setup_python:
 	$(PYTHON_BIN) -m venv ./venv
