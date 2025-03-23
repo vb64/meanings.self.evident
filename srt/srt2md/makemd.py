@@ -23,16 +23,16 @@ SCHELIN_ROMANENKO = (Speak.Schelin, Speak.Romanenko)
 SRT = {
 
   Course.GnosticThinking: [
-    ("gnosticism", ROMANENKO_SCHELIN),
-    ("modern", ROMANENKO_SCHELIN),
-    ("gobs", ROMANENKO_SCHELIN),
-    ("enlightenment", ROMANENKO_SCHELIN),
+    ("gnosticism", SCHELIN_ROMANENKO),
+    ("modern", SCHELIN_ROMANENKO),
+    ("gobs", SCHELIN_ROMANENKO),
+    ("enlightenment", SCHELIN_ROMANENKO),
     ("nationalism", ROMANENKO_SCHELIN),
 
     ("marxism", SCHELIN_GOLUB),
     ("positivism", SCHELIN_GOLUB),
     ("deep_state", SCHELIN_GOLUB),
-    ("info_wars", SCHELIN_GOLUB),
+    ("info_wars", GOLUB_SCHELIN),
   ],
 
   Course.InSearchOfMeaning: {
