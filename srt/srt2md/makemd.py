@@ -1,7 +1,7 @@
 import os
 
 
-class Cycle:
+class Course:
     InSearchOfMeaning = "InSearchOfMeaning"
     GnosticThinking = "GnosticThinking"
 
@@ -22,11 +22,20 @@ SCHELIN_ROMANENKO = (Speak.Schelin, Speak.Romanenko)
 
 SRT = {
 
-  Cycle.GnosticThinking: [
+  Course.GnosticThinking: [
     ("gnosticism", ROMANENKO_SCHELIN),
+    ("modern", ROMANENKO_SCHELIN),
+    ("gobs", ROMANENKO_SCHELIN),
+    ("enlightenment", ROMANENKO_SCHELIN),
+    ("nationalism", ROMANENKO_SCHELIN),
+
+    ("marxism", SCHELIN_GOLUB),
+    ("positivism", SCHELIN_GOLUB),
+    ("deep_state", SCHELIN_GOLUB),
+    ("info_wars", SCHELIN_GOLUB),
   ],
 
-  Cycle.InSearchOfMeaning: {
+  Course.InSearchOfMeaning: {
     'Season01': [
       ("pinker", GOLUB_SCHELIN),
       ("apocalypse", SCHELIN_GOLUB),
@@ -153,9 +162,9 @@ def whisper(in_file, out_file, speakers):
 
 
 def in_search_of_meaning():
-    data = SRT[Cycle.InSearchOfMeaning]
+    data = SRT[Course.InSearchOfMeaning]
     for season in data:
-        path = os.path.join('..', Cycle.InSearchOfMeaning, season)
+        path = os.path.join('..', Course.InSearchOfMeaning, season)
         for name, speakers in data[season]:
             whisper(
               os.path.join(path, name + ".srt"),
@@ -165,8 +174,8 @@ def in_search_of_meaning():
 
 
 def gnostic_thinking():
-    data = SRT[Cycle.GnosticThinking]
-    path = os.path.join('..', Cycle.GnosticThinking)
+    data = SRT[Course.GnosticThinking]
+    path = os.path.join('..', Course.GnosticThinking)
     for name, speakers in data:
         whisper(
           os.path.join(path, name + ".srt"),
@@ -176,7 +185,7 @@ def gnostic_thinking():
 
 
 def main():
-    in_search_of_meaning()
+    # in_search_of_meaning()
     gnostic_thinking()
 
 
