@@ -1,67 +1,93 @@
 import os
 
+
+class Course:
+    InSearchOfMeaning = "InSearchOfMeaning"
+    GnosticThinking = "GnosticThinking"
+
+
+class Speak:
+    Schelin = "П.Щелин"
+    Golub = "Е.Голуб"
+    Romanenko = "Ю.Романенко"
+
+
 SENTENCE_END = ".!?"
 SPEAKER = len("Speaker 0: ")
 
-SPEAK_GOLUB = "Е.Голуб"
-SPEAK_SCHELIN = "П.Щелин"
-FIRST_GOLUB = (SPEAK_GOLUB, SPEAK_SCHELIN)
-FIRST_SCHELIN = (SPEAK_SCHELIN, SPEAK_GOLUB)
-
-SRT_PATH = os.path.join("..", "InSearchOfMeaning")
+GOLUB_SCHELIN = (Speak.Golub, Speak.Schelin)
+SCHELIN_GOLUB = (Speak.Schelin, Speak.Golub)
+ROMANENKO_SCHELIN = (Speak.Romanenko, Speak.Schelin)
+SCHELIN_ROMANENKO = (Speak.Schelin, Speak.Romanenko)
 
 SRT = {
-  'Season01': [
-    ("pinker", FIRST_GOLUB),
-    ("apocalypse", FIRST_SCHELIN),
-    ("faust", FIRST_SCHELIN),
-    ("identity", FIRST_SCHELIN),
-    ("orange", FIRST_GOLUB),
-    ("snowflakes", FIRST_GOLUB),
-    ("limits", FIRST_GOLUB),
-    ("ai", FIRST_SCHELIN),
-    ("vr", FIRST_SCHELIN),
-    ("mt", FIRST_SCHELIN),
-    ("otvety", FIRST_GOLUB),
-    ("final", FIRST_SCHELIN),
+
+  Course.GnosticThinking: [
+    ("gnosticism", SCHELIN_ROMANENKO),
+    ("modern", SCHELIN_ROMANENKO),
+    ("gobs", SCHELIN_ROMANENKO),
+    ("enlightenment", SCHELIN_ROMANENKO),
+    ("nationalism", ROMANENKO_SCHELIN),
+
+    ("marxism", SCHELIN_GOLUB),
+    ("positivism", SCHELIN_GOLUB),
+    ("deep_state", SCHELIN_GOLUB),
+    ("info_wars", GOLUB_SCHELIN),
   ],
-  'Season02': [
-    ("your-flash-memory-card-with-identity", FIRST_SCHELIN),
-    ("placeandtime", FIRST_SCHELIN),
-    ("political-identity", FIRST_GOLUB),
-    ("asabiya", FIRST_SCHELIN),
-    ("the-crisis-of-identity", FIRST_SCHELIN),
-    ("mimetic", FIRST_SCHELIN),
-    ("technology-instead-of-faith", FIRST_GOLUB),
-    ("a-leap-of-faith", FIRST_GOLUB),
-    ("identity-conclusion", FIRST_GOLUB),
-    ("identity-qa", FIRST_SCHELIN),
-    ("monarchs-and-agenda", FIRST_SCHELIN),
-    ("the-joy-of-understanding", FIRST_GOLUB),
-  ],
-  'Season03': [
-    ("republic", FIRST_SCHELIN),
-    ("democracy", FIRST_GOLUB),
-    ("imperia", FIRST_SCHELIN),
-    ("people", FIRST_SCHELIN),
-    ("reforma", FIRST_SCHELIN),
-    ("renaissance", FIRST_SCHELIN),
-    ("varlaam", FIRST_SCHELIN),
-    ("bacon", FIRST_SCHELIN),
-    ("mendacium", FIRST_GOLUB),
-    ("enlightenment", FIRST_SCHELIN),
-    ("obscurantism", FIRST_GOLUB),
-    ("final3", FIRST_SCHELIN),
-    ("year2024", FIRST_SCHELIN),
-  ],
-  'Season04': [
-    ("ontology_of_lies", FIRST_SCHELIN),
-    ("freedom-and-quadrobers", FIRST_SCHELIN),
-    ("battle_of_the_sexes", FIRST_GOLUB),
-    ("human_vs_humanity", FIRST_GOLUB),
-    ("confession", FIRST_SCHELIN),
-    ("muses_of_tradition", FIRST_GOLUB),
-  ],
+
+  Course.InSearchOfMeaning: {
+    'Season01': [
+      ("pinker", GOLUB_SCHELIN),
+      ("apocalypse", SCHELIN_GOLUB),
+      ("faust", SCHELIN_GOLUB),
+      ("identity", SCHELIN_GOLUB),
+      ("orange", GOLUB_SCHELIN),
+      ("snowflakes", GOLUB_SCHELIN),
+      ("limits", GOLUB_SCHELIN),
+      ("ai", SCHELIN_GOLUB),
+      ("vr", SCHELIN_GOLUB),
+      ("mt", SCHELIN_GOLUB),
+      ("otvety", GOLUB_SCHELIN),
+      ("final", SCHELIN_GOLUB),
+    ],
+    'Season02': [
+      ("your-flash-memory-card-with-identity", SCHELIN_GOLUB),
+      ("placeandtime", SCHELIN_GOLUB),
+      ("political-identity", GOLUB_SCHELIN),
+      ("asabiya", SCHELIN_GOLUB),
+      ("the-crisis-of-identity", SCHELIN_GOLUB),
+      ("mimetic", SCHELIN_GOLUB),
+      ("technology-instead-of-faith", GOLUB_SCHELIN),
+      ("a-leap-of-faith", GOLUB_SCHELIN),
+      ("identity-conclusion", GOLUB_SCHELIN),
+      ("identity-qa", SCHELIN_GOLUB),
+      ("monarchs-and-agenda", SCHELIN_GOLUB),
+      ("the-joy-of-understanding", GOLUB_SCHELIN),
+    ],
+    'Season03': [
+      ("republic", SCHELIN_GOLUB),
+      ("democracy", GOLUB_SCHELIN),
+      ("imperia", SCHELIN_GOLUB),
+      ("people", SCHELIN_GOLUB),
+      ("reforma", SCHELIN_GOLUB),
+      ("renaissance", SCHELIN_GOLUB),
+      ("varlaam", SCHELIN_GOLUB),
+      ("bacon", SCHELIN_GOLUB),
+      ("mendacium", GOLUB_SCHELIN),
+      ("enlightenment", SCHELIN_GOLUB),
+      ("obscurantism", GOLUB_SCHELIN),
+      ("final3", SCHELIN_GOLUB),
+      ("year2024", SCHELIN_GOLUB),
+    ],
+    'Season04': [
+      ("ontology_of_lies", SCHELIN_GOLUB),
+      ("freedom-and-quadrobers", SCHELIN_GOLUB),
+      ("battle_of_the_sexes", GOLUB_SCHELIN),
+      ("human_vs_humanity", GOLUB_SCHELIN),
+      ("confession", SCHELIN_GOLUB),
+      ("muses_of_tradition", GOLUB_SCHELIN),
+    ],
+  },
 }
 
 def speaker_index(text):
@@ -135,15 +161,32 @@ def whisper(in_file, out_file, speakers):
     out.close()
 
 
-def main():
-    for season in SRT:
-        path = os.path.join(SRT_PATH, season)
-        for name, speakers in SRT[season]:
+def in_search_of_meaning():
+    data = SRT[Course.InSearchOfMeaning]
+    for season in data:
+        path = os.path.join('..', Course.InSearchOfMeaning, season)
+        for name, speakers in data[season]:
             whisper(
               os.path.join(path, name + ".srt"),
               os.path.join("build", name + ".md"),
               speakers
             )
+
+
+def gnostic_thinking():
+    data = SRT[Course.GnosticThinking]
+    path = os.path.join('..', Course.GnosticThinking)
+    for name, speakers in data:
+        whisper(
+          os.path.join(path, name + ".srt"),
+          os.path.join("build", name + ".md"),
+          speakers
+        )
+
+
+def main():
+    # in_search_of_meaning()
+    gnostic_thinking()
 
 
 if __name__ == '__main__':
