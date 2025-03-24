@@ -7,7 +7,7 @@ class Course:
 
 
 class Speak:
-    Schelin = "П.Щелин"
+    Shchelin = "П.Щелин"
     Golub = "Е.Голуб"
     Romanenko = "Ю.Романенко"
 
@@ -15,77 +15,77 @@ class Speak:
 SENTENCE_END = ".!?"
 SPEAKER = len("Speaker 0: ")
 
-GOLUB_SCHELIN = (Speak.Golub, Speak.Schelin)
-SCHELIN_GOLUB = (Speak.Schelin, Speak.Golub)
-ROMANENKO_SCHELIN = (Speak.Romanenko, Speak.Schelin)
-SCHELIN_ROMANENKO = (Speak.Schelin, Speak.Romanenko)
+GOLUB_SHCHELIN = (Speak.Golub, Speak.Shchelin)
+SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
+ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
+SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
 
 SRT = {
 
   Course.GnosticThinking: [
-    ("gnosticism", SCHELIN_ROMANENKO),
-    ("modern", SCHELIN_ROMANENKO),
-    ("gobs", SCHELIN_ROMANENKO),
-    ("enlightenment", SCHELIN_ROMANENKO),
-    ("nationalism", ROMANENKO_SCHELIN),
+    ("gnosticism", SHCHELIN_ROMANENKO),
+    ("modern", SHCHELIN_ROMANENKO),
+    ("gobs", SHCHELIN_ROMANENKO),
+    ("enlightenment", SHCHELIN_ROMANENKO),
+    ("nationalism", ROMANENKO_SHCHELIN),
 
-    ("marxism", SCHELIN_GOLUB),
-    ("positivism", SCHELIN_GOLUB),
-    ("deep_state", SCHELIN_GOLUB),
-    ("info_wars", GOLUB_SCHELIN),
+    ("marxism", SHCHELIN_GOLUB),
+    ("positivism", SHCHELIN_GOLUB),
+    ("deep_state", SHCHELIN_GOLUB),
+    ("info_wars", GOLUB_SHCHELIN),
   ],
 
   Course.InSearchOfMeaning: {
     'Season01': [
-      ("pinker", GOLUB_SCHELIN),
-      ("apocalypse", SCHELIN_GOLUB),
-      ("faust", SCHELIN_GOLUB),
-      ("identity", SCHELIN_GOLUB),
-      ("orange", GOLUB_SCHELIN),
-      ("snowflakes", GOLUB_SCHELIN),
-      ("limits", GOLUB_SCHELIN),
-      ("ai", SCHELIN_GOLUB),
-      ("vr", SCHELIN_GOLUB),
-      ("mt", SCHELIN_GOLUB),
-      ("otvety", GOLUB_SCHELIN),
-      ("final", SCHELIN_GOLUB),
+      ("pinker", GOLUB_SHCHELIN),
+      ("apocalypse", SHCHELIN_GOLUB),
+      ("faust", SHCHELIN_GOLUB),
+      ("identity", SHCHELIN_GOLUB),
+      ("orange", GOLUB_SHCHELIN),
+      ("snowflakes", GOLUB_SHCHELIN),
+      ("limits", GOLUB_SHCHELIN),
+      ("ai", SHCHELIN_GOLUB),
+      ("vr", SHCHELIN_GOLUB),
+      ("mt", SHCHELIN_GOLUB),
+      ("otvety", GOLUB_SHCHELIN),
+      ("final", SHCHELIN_GOLUB),
     ],
     'Season02': [
-      ("your-flash-memory-card-with-identity", SCHELIN_GOLUB),
-      ("placeandtime", SCHELIN_GOLUB),
-      ("political-identity", GOLUB_SCHELIN),
-      ("asabiya", SCHELIN_GOLUB),
-      ("the-crisis-of-identity", SCHELIN_GOLUB),
-      ("mimetic", SCHELIN_GOLUB),
-      ("technology-instead-of-faith", GOLUB_SCHELIN),
-      ("a-leap-of-faith", GOLUB_SCHELIN),
-      ("identity-conclusion", GOLUB_SCHELIN),
-      ("identity-qa", SCHELIN_GOLUB),
-      ("monarchs-and-agenda", SCHELIN_GOLUB),
-      ("the-joy-of-understanding", GOLUB_SCHELIN),
+      ("your-flash-memory-card-with-identity", SHCHELIN_GOLUB),
+      ("placeandtime", SHCHELIN_GOLUB),
+      ("political-identity", GOLUB_SHCHELIN),
+      ("asabiya", SHCHELIN_GOLUB),
+      ("the-crisis-of-identity", SHCHELIN_GOLUB),
+      ("mimetic", SHCHELIN_GOLUB),
+      ("technology-instead-of-faith", GOLUB_SHCHELIN),
+      ("a-leap-of-faith", GOLUB_SHCHELIN),
+      ("identity-conclusion", GOLUB_SHCHELIN),
+      ("identity-qa", SHCHELIN_GOLUB),
+      ("monarchs-and-agenda", SHCHELIN_GOLUB),
+      ("the-joy-of-understanding", GOLUB_SHCHELIN),
     ],
     'Season03': [
-      ("republic", SCHELIN_GOLUB),
-      ("democracy", GOLUB_SCHELIN),
-      ("imperia", SCHELIN_GOLUB),
-      ("people", SCHELIN_GOLUB),
-      ("reforma", SCHELIN_GOLUB),
-      ("renaissance", SCHELIN_GOLUB),
-      ("varlaam", SCHELIN_GOLUB),
-      ("bacon", SCHELIN_GOLUB),
-      ("mendacium", GOLUB_SCHELIN),
-      ("enlightenment", SCHELIN_GOLUB),
-      ("obscurantism", GOLUB_SCHELIN),
-      ("final3", SCHELIN_GOLUB),
-      ("year2024", SCHELIN_GOLUB),
+      ("republic", SHCHELIN_GOLUB),
+      ("democracy", GOLUB_SHCHELIN),
+      ("imperia", SHCHELIN_GOLUB),
+      ("people", SHCHELIN_GOLUB),
+      ("reforma", SHCHELIN_GOLUB),
+      ("renaissance", SHCHELIN_GOLUB),
+      ("varlaam", SHCHELIN_GOLUB),
+      ("bacon", SHCHELIN_GOLUB),
+      ("mendacium", GOLUB_SHCHELIN),
+      ("enlightenment", SHCHELIN_GOLUB),
+      ("obscurantism", GOLUB_SHCHELIN),
+      ("final3", SHCHELIN_GOLUB),
+      ("year2024", SHCHELIN_GOLUB),
     ],
     'Season04': [
-      ("ontology_of_lies", SCHELIN_GOLUB),
-      ("freedom-and-quadrobers", SCHELIN_GOLUB),
-      ("battle_of_the_sexes", GOLUB_SCHELIN),
-      ("human_vs_humanity", GOLUB_SCHELIN),
-      ("confession", SCHELIN_GOLUB),
-      ("muses_of_tradition", GOLUB_SCHELIN),
+      ("ontology_of_lies", SHCHELIN_GOLUB),
+      ("freedom-and-quadrobers", SHCHELIN_GOLUB),
+      ("battle_of_the_sexes", GOLUB_SHCHELIN),
+      ("human_vs_humanity", GOLUB_SHCHELIN),
+      ("confession", SHCHELIN_GOLUB),
+      ("muses_of_tradition", GOLUB_SHCHELIN),
     ],
   },
 }
@@ -185,7 +185,7 @@ def gnostic_thinking():
 
 
 def main():
-    # in_search_of_meaning()
+    in_search_of_meaning()
     gnostic_thinking()
 
 
