@@ -45,7 +45,12 @@ def proc_line(out, line, speakers):
             line = line[len(speaker):]
             break
 
-    for sentence in split_to_sentences(line.strip()):
+    line = line.strip()
+    if line.startswith('-'):
+        line = line.lstrip('-')
+    line = line.strip()
+
+    for sentence in split_to_sentences(line):
         out.write(sentence)
         out.write('\n')
 
