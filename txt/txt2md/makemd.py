@@ -11,16 +11,17 @@ class Speak:
 
 SENTENCE_END = ".!?"
 
-GOLUB_SHCHELIN = (Speak.Golub, Speak.Shchelin)
-SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
-
 TXT = {
   Course.InSearchOfMeaning: {
     'Season01': [
-      ("pinker", GOLUB_SHCHELIN),
+      ("pinker", (("Евгений Голуб:", Speak.Golub), ("Павел Щелин:", Speak.Shchelin))),
     ]
   }
 }
+
+
+def proc_txt(in_file, out_file, speakers):
+    print(in_file)
 
 
 def in_search_of_meaning():
@@ -28,7 +29,11 @@ def in_search_of_meaning():
     for season in data:
         path = os.path.join('..', Course.InSearchOfMeaning, season)
         for name, speakers in data[season]:
-            print(os.path.join(path, name + ".txt"))
+            proc_txt(
+              os.path.join(path, name + ".txt"),
+              os.path.join("build", name + ".md"),
+              speakers
+            )
 
 
 def main():
