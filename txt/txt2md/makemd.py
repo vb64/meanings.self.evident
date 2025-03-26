@@ -16,6 +16,7 @@ TXT = {
     'Season01': [
       ("pinker", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
       ("apocalypse", {"Евгений:": Speak.Golub, "Павел:": Speak.Shchelin}),
+      ("faust", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
     ]
   }
 }
@@ -48,6 +49,8 @@ def proc_line(out, line, speakers):
     line = line.strip()
     if line.startswith('-'):
         line = line.lstrip('-')
+    elif line.startswith('—'):
+        line = line.lstrip('—')
     line = line.strip()
 
     for sentence in split_to_sentences(line):
