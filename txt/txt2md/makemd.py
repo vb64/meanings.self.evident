@@ -17,8 +17,10 @@ TXT = {
       ("pinker", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
       ("apocalypse", {"Евгений:": Speak.Golub, "Павел:": Speak.Shchelin}),
       ("faust", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
-    ]
-  }
+      ("limits", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
+      ("snowflakes", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
+    ],
+  },
 }
 
 
