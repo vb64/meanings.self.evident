@@ -15,6 +15,7 @@ TXT = {
   Course.InSearchOfMeaning: {
     'Season01': [
       ("pinker", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
+      ("apocalypse", {"Евгений:": Speak.Golub, "Павел:": Speak.Shchelin}),
     ]
   }
 }
