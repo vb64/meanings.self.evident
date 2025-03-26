@@ -20,15 +20,33 @@ TXT = {
 }
 
 
+def split_to_sentences(text):
+    sentences = []
+    current = []
+    for word in text.split():
+        current.append(word)
+        if word[-1] in SENTENCE_END:
+            sentences.append(' '.join(current))
+            current = []
+
+    if current:
+        print("***WARN sentence: {}".format(text))
+        sentences.append(' '.join(current))
+
+    return sentences
+
+
 def proc_line(out, line, speakers):
     for speaker in speakers:
         if line.startswith(speaker):
+            out.write('\n')
             out.write("**{}:**\n".format(speakers[speaker]))
             line = line[len(speaker):]
             break
 
-    out.write(line.strip())
-    out.write('\n')
+    for sentence in split_to_sentences(line.strip()):
+        out.write(sentence)
+        out.write('\n')
 
 
 def proc_txt(in_file, out_file, speakers):
