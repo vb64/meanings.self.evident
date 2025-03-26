@@ -86,6 +86,7 @@ SRT = {
       ("human_vs_humanity", GOLUB_SHCHELIN),
       ("confession", SHCHELIN_GOLUB),
       ("muses_of_tradition", GOLUB_SHCHELIN),
+      ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
     ],
   },
 }
@@ -183,10 +184,18 @@ def gnostic_thinking():
           speakers
         )
 
+def private():
+    whisper(
+      os.path.join("build", "private.srt"),
+      os.path.join("build", "private.md"),
+      (Speak.Shchelin, "Speaker")
+    )
+
 
 def main():
     in_search_of_meaning()
     gnostic_thinking()
+    # private()
 
 
 if __name__ == '__main__':
