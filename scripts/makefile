@@ -16,6 +16,9 @@ docx:
 srt:
 	$(PYTHON) make_srt.py
 
+txt:
+	$(PYTHON) make_txt.py
+
 setup: setup_python setup_pip
 
 setup_pip:

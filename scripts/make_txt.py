@@ -11,6 +11,8 @@ class Speak:
 
 SENTENCE_END = ".!?"
 
+TXT_PATH = os.path.join('..', 'txt')
+
 TXT = {
   Course.InSearchOfMeaning: {
     'Season01': [
@@ -73,7 +75,7 @@ def proc_txt(in_file, out_file, speakers):
 def in_search_of_meaning():
     data = TXT[Course.InSearchOfMeaning]
     for season in data:
-        path = os.path.join('..', Course.InSearchOfMeaning, season)
+        path = os.path.join(TXT_PATH, Course.InSearchOfMeaning, season)
         for name, speakers in data[season]:
             proc_txt(
               os.path.join(path, name + ".txt"),
