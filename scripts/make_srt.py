@@ -131,27 +131,28 @@ def whisper(in_file, out_file, speakers):
     out.close()
 
 
+def call_whisper(path, name, speakers):
+    whisper(
+      os.path.join(path, name + ".srt"),
+      os.path.join("build", name + ".md"),
+      speakers
+    )
+
+
 def in_search_of_meaning():
     data = SRT[Course.InSearchOfMeaning]
     for season in data:
         path = os.path.join(SRT_PATH, Course.InSearchOfMeaning, season)
         for name, speakers in data[season]:
-            whisper(
-              os.path.join(path, name + ".srt"),
-              os.path.join("build", name + ".md"),
-              speakers
-            )
+            call_whisper(path, name, speakers)
 
 
 def gnostic_thinking():
     data = SRT[Course.GnosticThinking]
     path = os.path.join(SRT_PATH, Course.GnosticThinking)
     for name, speakers in data:
-        whisper(
-          os.path.join(path, name + ".srt"),
-          os.path.join("build", name + ".md"),
-          speakers
-        )
+        call_whisper(path, name, speakers)
+
 
 def private():
     whisper(
