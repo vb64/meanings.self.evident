@@ -1,19 +1,8 @@
 import os
+from text import Course, Speak, split_to_sentences, is_complete
 
-
-class Course:
-    InSearchOfMeaning = "InSearchOfMeaning"
-    GnosticThinking = "GnosticThinking"
-
-
-class Speak:
-    Shchelin = "П.Щелин"
-    Golub = "Е.Голуб"
-    Romanenko = "Ю.Романенко"
-
-
-SENTENCE_END = ".!?"
 SPEAKER = len("Speaker 0: ")
+SRT_PATH = os.path.join('..', 'srt')
 
 GOLUB_SHCHELIN = (Speak.Golub, Speak.Shchelin)
 SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
@@ -95,26 +84,6 @@ def speaker_index(text):
     return int(text.split()[1].strip(':'))
 
 
-def is_complete(sentence):
-    return sentence[-1] in SENTENCE_END
-
-
-def split_to_sentences(text):
-    sentences = []
-    current = []
-    for word in text.split():
-        current.append(word)
-        if word[-1] in SENTENCE_END:
-            sentences.append(' '.join(current))
-            current = []
-
-    if current:
-        print("***WARN sentence: {}".format(text))
-        sentences.append(' '.join(current))
-
-    return sentences
-
-
 def write_sentence(out, text):
     for i in split_to_sentences(text):
         out.write(i)
@@ -162,27 +131,28 @@ def whisper(in_file, out_file, speakers):
     out.close()
 
 
+def call_whisper(path, name, speakers):
+    whisper(
+      os.path.join(path, name + ".srt"),
+      os.path.join("build", name + ".md"),
+      speakers
+    )
+
+
 def in_search_of_meaning():
     data = SRT[Course.InSearchOfMeaning]
     for season in data:
-        path = os.path.join('..', Course.InSearchOfMeaning, season)
+        path = os.path.join(SRT_PATH, Course.InSearchOfMeaning, season)
         for name, speakers in data[season]:
-            whisper(
-              os.path.join(path, name + ".srt"),
-              os.path.join("build", name + ".md"),
-              speakers
-            )
+            call_whisper(path, name, speakers)
 
 
 def gnostic_thinking():
     data = SRT[Course.GnosticThinking]
-    path = os.path.join('..', Course.GnosticThinking)
+    path = os.path.join(SRT_PATH, Course.GnosticThinking)
     for name, speakers in data:
-        whisper(
-          os.path.join(path, name + ".srt"),
-          os.path.join("build", name + ".md"),
-          speakers
-        )
+        call_whisper(path, name, speakers)
+
 
 def private():
     whisper(

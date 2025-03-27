@@ -1,16 +1,7 @@
 import os
+from text import Course, Speak, split_to_sentences
 
-
-class Course:
-    InSearchOfMeaning = "InSearchOfMeaning"
-
-
-class Speak:
-    Shchelin = "П.Щелин"
-    Golub = "Е.Голуб"
-
-SENTENCE_END = ".!?"
-
+TXT_PATH = os.path.join('..', 'txt')
 TXT = {
   Course.InSearchOfMeaning: {
     'Season01': [
@@ -22,22 +13,6 @@ TXT = {
     ],
   },
 }
-
-
-def split_to_sentences(text):
-    sentences = []
-    current = []
-    for word in text.split():
-        current.append(word)
-        if word[-1] in SENTENCE_END:
-            sentences.append(' '.join(current))
-            current = []
-
-    if current:
-        print("***WARN sentence: {}".format(text))
-        sentences.append(' '.join(current))
-
-    return sentences
 
 
 def proc_line(out, line, speakers):
@@ -73,7 +48,7 @@ def proc_txt(in_file, out_file, speakers):
 def in_search_of_meaning():
     data = TXT[Course.InSearchOfMeaning]
     for season in data:
-        path = os.path.join('..', Course.InSearchOfMeaning, season)
+        path = os.path.join(TXT_PATH, Course.InSearchOfMeaning, season)
         for name, speakers in data[season]:
             proc_txt(
               os.path.join(path, name + ".txt"),

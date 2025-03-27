@@ -9,7 +9,15 @@ endif
 PIP = $(PYTHON) -m pip install
 
 all:
+
+docx:
 	$(PYTHON) to_docx.py
+
+srt:
+	$(PYTHON) make_srt.py
+
+txt:
+	$(PYTHON) make_txt.py
 
 setup: setup_python setup_pip
 
