@@ -1,18 +1,7 @@
 import os
-
-
-class Course:
-    InSearchOfMeaning = "InSearchOfMeaning"
-
-
-class Speak:
-    Shchelin = "П.Щелин"
-    Golub = "Е.Голуб"
-
-SENTENCE_END = ".!?"
+from text import Course, Speak, split_to_sentences
 
 TXT_PATH = os.path.join('..', 'txt')
-
 TXT = {
   Course.InSearchOfMeaning: {
     'Season01': [
@@ -24,22 +13,6 @@ TXT = {
     ],
   },
 }
-
-
-def split_to_sentences(text):
-    sentences = []
-    current = []
-    for word in text.split():
-        current.append(word)
-        if word[-1] in SENTENCE_END:
-            sentences.append(' '.join(current))
-            current = []
-
-    if current:
-        print("***WARN sentence: {}".format(text))
-        sentences.append(' '.join(current))
-
-    return sentences
 
 
 def proc_line(out, line, speakers):
