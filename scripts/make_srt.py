@@ -1,26 +1,13 @@
 import os
+from text import Course, Speak, split_to_sentences, is_complete
 
-
-class Course:
-    InSearchOfMeaning = "InSearchOfMeaning"
-    GnosticThinking = "GnosticThinking"
-
-
-class Speak:
-    Shchelin = "П.Щелин"
-    Golub = "Е.Голуб"
-    Romanenko = "Ю.Романенко"
-
-
-SENTENCE_END = ".!?"
 SPEAKER = len("Speaker 0: ")
+SRT_PATH = os.path.join('..', 'srt')
 
 GOLUB_SHCHELIN = (Speak.Golub, Speak.Shchelin)
 SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
 ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
 SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
-
-SRT_PATH = os.path.join('..', 'srt')
 
 SRT = {
 
@@ -95,26 +82,6 @@ SRT = {
 
 def speaker_index(text):
     return int(text.split()[1].strip(':'))
-
-
-def is_complete(sentence):
-    return sentence[-1] in SENTENCE_END
-
-
-def split_to_sentences(text):
-    sentences = []
-    current = []
-    for word in text.split():
-        current.append(word)
-        if word[-1] in SENTENCE_END:
-            sentences.append(' '.join(current))
-            current = []
-
-    if current:
-        print("***WARN sentence: {}".format(text))
-        sentences.append(' '.join(current))
-
-    return sentences
 
 
 def write_sentence(out, text):
