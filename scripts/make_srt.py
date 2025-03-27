@@ -20,6 +20,8 @@ SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
 ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
 SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
 
+SRT_PATH = os.path.join('..', 'srt')
+
 SRT = {
 
   Course.GnosticThinking: [
@@ -165,7 +167,7 @@ def whisper(in_file, out_file, speakers):
 def in_search_of_meaning():
     data = SRT[Course.InSearchOfMeaning]
     for season in data:
-        path = os.path.join('..', Course.InSearchOfMeaning, season)
+        path = os.path.join(SRT_PATH, Course.InSearchOfMeaning, season)
         for name, speakers in data[season]:
             whisper(
               os.path.join(path, name + ".srt"),
@@ -176,7 +178,7 @@ def in_search_of_meaning():
 
 def gnostic_thinking():
     data = SRT[Course.GnosticThinking]
-    path = os.path.join('..', Course.GnosticThinking)
+    path = os.path.join(SRT_PATH, Course.GnosticThinking)
     for name, speakers in data:
         whisper(
           os.path.join(path, name + ".srt"),
