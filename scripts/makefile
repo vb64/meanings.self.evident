@@ -19,6 +19,9 @@ srt:
 txt:
 	$(PYTHON) make_txt.py
 
+pdf:
+	$(PYTHON) make_pdf.py
+
 setup: setup_python setup_pip
 
 setup_pip:

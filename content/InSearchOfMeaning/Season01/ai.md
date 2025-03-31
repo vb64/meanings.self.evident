@@ -1,4 +1,4 @@
-﻿# AI. Идеальный собеседник
+# AI. Идеальный собеседник
 
 22 апреля 2023 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/ai) 28:23
 

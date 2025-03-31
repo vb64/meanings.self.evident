@@ -1,4 +1,4 @@
-﻿# Исповедь на кушетке
+# Исповедь на кушетке
 
 14 февраля 2025 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/confession) 29:06
 

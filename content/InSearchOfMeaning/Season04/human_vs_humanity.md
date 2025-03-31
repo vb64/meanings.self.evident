@@ -1,4 +1,4 @@
-﻿# Человек vs. Человечность
+# Человек vs. Человечность
 
 07 февраля 2025 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/human-vs-humanity) 22:56
 

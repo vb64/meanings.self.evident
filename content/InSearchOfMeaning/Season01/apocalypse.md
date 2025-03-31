@@ -1,4 +1,4 @@
-﻿# Апокалипсис и Трансгуманизм
+# Апокалипсис и Трансгуманизм
 
 11 марта 2023 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/apocalypse) 33:15
 

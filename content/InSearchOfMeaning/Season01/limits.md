@@ -1,4 +1,4 @@
-﻿# Пределы человечности
+# Пределы человечности
 
 15 апреля 2023 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/limits) 28:52
 

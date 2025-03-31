@@ -1,4 +1,4 @@
-﻿# Манифест традиционалистов
+# Манифест традиционалистов
 
 06 мая 2023 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/mt) 24:09
 

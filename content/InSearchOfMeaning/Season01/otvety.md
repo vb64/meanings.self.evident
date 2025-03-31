@@ -1,4 +1,4 @@
-﻿# Ответы на вопросы слушателей
+# Ответы на вопросы слушателей
 
 13 мая 2023 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/otvety) 27:03
 
