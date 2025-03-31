@@ -3,6 +3,10 @@ from markdown_pdf import Section, MarkdownPdf
 
 SOURCES = [
   ('', [('title.md', False)]),
+  ('Season01', [('title.md', False)]),
+  ('Season02', [('title.md', False)]),
+  ('Season03', [('title.md', False)]),
+  ('Season04', [('title.md', False)]),
 ]
 
 ROOT = os.path.join('..', 'content', 'InSearchOfMeaning')
