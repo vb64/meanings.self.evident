@@ -66,6 +66,7 @@ SOURCES = [
 ]
 
 ROOT = os.path.join('..', 'content', 'InSearchOfMeaning')
+CSS = "h1 {text-align:center;}"
 
 def hook(text):
     return text.replace(
@@ -92,5 +93,5 @@ pdf = MarkdownPdf(toc_level=3)
 pdf.meta["title"] = "Стенограммы подкаста «В поисках смысла» Евгения Голуба и Павла Щелина."
 pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
 for section in sections:
-    pdf.add_section(section)
+    pdf.add_section(section, user_css=CSS)
 pdf.save(os.path.join('build', 'В_поисках_смысла.pdf'))

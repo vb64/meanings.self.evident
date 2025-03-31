@@ -1,6 +1,10 @@
 # В Поисках Смысла
 
+<div style="text-align: center;">
+
 ![В Поисках Смысла](default.jpg)
+
+</div>
 
 Cтенограммы подкаста "В поисках Смысла", созданные по аудиозаписям на сайте [Simplecast](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/).
 С того же сайта взяты краткие авторские текстовые аннотации к каждому выпуску.
