@@ -1,4 +1,4 @@
-﻿# AI. Великое Разделение
+# AI. Великое Разделение
 
 29 апреля 2023 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/vr) 27:55
 

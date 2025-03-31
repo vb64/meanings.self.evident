@@ -1,4 +1,4 @@
-﻿# Свобода и Квадроберы
+# Свобода и Квадроберы
 
 24 января 2025 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/freedom-and-quadrobers) 28:58
 

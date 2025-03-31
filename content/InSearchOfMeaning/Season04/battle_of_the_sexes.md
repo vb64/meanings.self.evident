@@ -1,4 +1,4 @@
-﻿# Война полов
+# Война полов
 
 31 января 2025 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/the-battle-of-the-sexes) 35:00
 

@@ -1,4 +1,4 @@
-﻿# Цивилизация Фауста
+# Цивилизация Фауста
 
 18 марта 2023 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/faust) 31:56
 
