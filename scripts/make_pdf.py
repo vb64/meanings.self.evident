@@ -3,17 +3,73 @@ from markdown_pdf import Section, MarkdownPdf
 
 SOURCES = [
   ('', [('title.md', False)]),
-  ('Season01', [('title.md', False)]),
-  ('Season02', [('title.md', False)]),
-  ('Season03', [('title.md', False)]),
-  ('Season04', [('title.md', False)]),
+
+  ('Season01', [
+    ('title.md', False),
+    ("pinker.md", True),
+    ("apocalypse.md", True),
+    ("faust.md", True),
+    ("identity.md", True),
+    ("orange.md", True),
+    ("snowflakes.md", True),
+    ("limits.md", True),
+    ("ai.md", True),
+    ("vr.md", True),
+    ("mt.md", True),
+    ("otvety.md", True),
+    ("final.md", True),
+  ]),
+
+  ('Season02', [
+    ('title.md', False),
+    ("your-flash-memory-card-with-identity.md", True),
+    ("placeandtime.md", True),
+    ("political-identity.md", True),
+    ("asabiya.md", True),
+    ("the-crisis-of-identity.md", True),
+    ("mimetic.md", True),
+    ("technology-instead-of-faith.md", True),
+    ("a-leap-of-faith.md", True),
+    ("identity-conclusion.md", True),
+    ("identity-qa.md", True),
+    ("monarchs-and-agenda.md", True),
+    ("the-joy-of-understanding.md", True),
+  ]),
+
+  ('Season03', [
+    ('title.md', False),
+    ("republic.md", True),
+    ("democracy.md", True),
+    ("imperia.md", True),
+    ("people.md", True),
+    ("reforma.md", True),
+    ("renaissance.md", True),
+    ("varlaam.md", True),
+    ("bacon.md", True),
+    ("mendacium.md", True),
+    ("enlightenment.md", True),
+    ("obscurantism.md", True),
+    ("final3.md", True),
+    ("year2024.md", True),
+  ]),
+
+  ('Season04', [
+    ('title.md', False),
+    ("ontology_of_lies.md", True),
+    ("freedom-and-quadrobers.md", True),
+    ("battle_of_the_sexes.md", True),
+    ("human_vs_humanity.md", True),
+    ("confession_on_the_couch.md", True),
+    ("muses_of_tradition.md", True),
+    ("vinaiotvetsvennosti.md", True),
+  ]),
 ]
 
 ROOT = os.path.join('..', 'content', 'InSearchOfMeaning')
 
 def hook(text):
     return text.replace(
-      '# ', '### '
+      '# ', '## '
     )
 
 
