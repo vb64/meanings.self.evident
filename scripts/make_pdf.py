@@ -65,6 +65,19 @@ IN_SEARCH_OF_MEANING = [
   ]),
 ]
 
+GNOSTIC_THINKING = [
+  ('', [('title.md', False)]),
+  ('', [('gnosticism.md', False)]),
+  ('', [('modern.md', False)]),
+  ('', [('gobs.md', False)]),
+  ('', [('enlightenment.md', False)]),
+  ('', [('nationalism.md', False)]),
+  ('', [('marxism.md', False)]),
+  ('', [('positivism.md', False)]),
+  ('', [('deep_state.md', False)]),
+  ('', [('info_wars.md', False)]),
+]
+
 CSS = "h1 {text-align:center;}"
 
 def hook(text):
@@ -106,9 +119,24 @@ def in_search_of_meaning():
     pdf.save(os.path.join('build', 'В_поисках_смысла.pdf'))
 
 
+def gnostic_thinking():
+    sections = make_sections(
+      GNOSTIC_THINKING,
+      os.path.join('..', 'content', 'GnosticThinking')
+    )
+    sections[0].toc = False
+
+    pdf = MarkdownPdf(toc_level=3)
+    pdf.meta["title"] = "Cтенограммы цикла «Гностическое Мышление»."
+    pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+    for section in sections:
+        pdf.add_section(section)
+    pdf.save(os.path.join('build', 'Гностическое_мышление.pdf'))
+
+
 def main():
     in_search_of_meaning()
-    # gnostic_thinking()
+    gnostic_thinking()
 
 
 if __name__ == '__main__':
