@@ -1,7 +1,7 @@
 import os
 from markdown_pdf import Section, MarkdownPdf
 
-SOURCES = [
+IN_SEARCH_OF_MEANING = [
   ('', [('title.md', False)]),
 
   ('Season01', [
@@ -65,7 +65,6 @@ SOURCES = [
   ]),
 ]
 
-ROOT = os.path.join('..', 'content', 'InSearchOfMeaning')
 CSS = "h1 {text-align:center;}"
 
 def hook(text):
@@ -74,8 +73,8 @@ def hook(text):
     )
 
 
-def make_section(prefix, file_name, is_hook):
-    folder = os.path.join(ROOT, prefix)
+def make_section(prefix, file_name, is_hook, root):
+    folder = os.path.join(root, prefix)
     text = open(os.path.join(folder, file_name), encoding="utf8").read()
     if is_hook:
         text = hook(text)
@@ -83,15 +82,34 @@ def make_section(prefix, file_name, is_hook):
     return Section(text, root=folder)
 
 
-sections = []
-for prefix, file_list in SOURCES:
-    for file_name, is_hook in file_list:
-        sections.append(make_section(prefix, file_name, is_hook))
-sections[0].toc = False
+def make_sections(src, root):
+    sections = []
+    for prefix, file_list in src:
+        for file_name, is_hook in file_list:
+            sections.append(make_section(prefix, file_name, is_hook, root))
 
-pdf = MarkdownPdf(toc_level=3)
-pdf.meta["title"] = "Стенограммы подкаста «В поисках смысла» Евгения Голуба и Павла Щелина."
-pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
-for section in sections:
-    pdf.add_section(section, user_css=CSS)
-pdf.save(os.path.join('build', 'В_поисках_смысла.pdf'))
+    return sections
+
+
+def in_search_of_meaning():
+    sections = make_sections(
+      IN_SEARCH_OF_MEANING,
+      os.path.join('..', 'content', 'InSearchOfMeaning')
+    )
+    sections[0].toc = False
+
+    pdf = MarkdownPdf(toc_level=3)
+    pdf.meta["title"] = "Стенограммы подкаста «В поисках смысла» Евгения Голуба и Павла Щелина."
+    pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+    for section in sections:
+        pdf.add_section(section, user_css=CSS)
+    pdf.save(os.path.join('build', 'В_поисках_смысла.pdf'))
+
+
+def main():
+    in_search_of_meaning()
+    # gnostic_thinking()
+
+
+if __name__ == '__main__':
+    main()
