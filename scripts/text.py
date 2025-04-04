@@ -4,12 +4,18 @@ SENTENCE_END = ".!?"
 class Course:
     InSearchOfMeaning = "InSearchOfMeaning"
     GnosticThinking = "GnosticThinking"
+    Mash = "Mash"
+    Shelest = "Shelest"
 
 
 class Speak:
     Shchelin = "П.Щелин"
     Golub = "Е.Голуб"
     Romanenko = "Ю.Романенко"
+    Izotov = "С.Изотов"
+    OrlovSm = "И.Орлов"
+    Shelest = "А.Шелест"
+    Bondarenko = "К.Бондаренко"
 
 
 def is_complete(sentence):
