@@ -1,5 +1,9 @@
 import os
 from markdown_pdf import Section, MarkdownPdf
+from text import Course
+
+AUTHOR = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+CONTENT = os.path.join('..', 'content')
 
 
 class InSearchOfMeaning:
@@ -8,8 +12,6 @@ class InSearchOfMeaning:
     Season03 = 'Season03'
     Season04 = 'Season04'
 
-
-AUTHOR = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
 
 IN_SEARCH_OF_MEANING_SEASONS = [
   InSearchOfMeaning.Season01,
@@ -82,18 +84,69 @@ IN_SEARCH_OF_MEANING = [
   ]),
 ]
 
-GNOSTIC_THINKING = [
-  ('', [('title.md', False)]),
-  ('', [('gnosticism.md', False)]),
-  ('', [('modern.md', False)]),
-  ('', [('gobs.md', False)]),
-  ('', [('enlightenment.md', False)]),
-  ('', [('nationalism.md', False)]),
-  ('', [('marxism.md', False)]),
-  ('', [('positivism.md', False)]),
-  ('', [('deep_state.md', False)]),
-  ('', [('info_wars.md', False)]),
-]
+PODCAST = {
+  Course.GnosticThinking: [
+    ('', [('title.md', False)]),
+    ('', [('gnosticism.md', False)]),
+    ('', [('modern.md', False)]),
+    ('', [('gobs.md', False)]),
+    ('', [('enlightenment.md', False)]),
+    ('', [('nationalism.md', False)]),
+    ('', [('marxism.md', False)]),
+    ('', [('positivism.md', False)]),
+    ('', [('deep_state.md', False)]),
+    ('', [('info_wars.md', False)]),
+  ],
+
+  Course.Mash: [
+    ('', [('title.md', False)]),
+    ('', [('2025_03_28.md', False)]),
+  ],
+
+  Course.Shelest: [
+    ('', [('title.md', False)]),
+    ('', [('2023_02_09.md', False)]),
+    ('', [('2023_04_01.md', False)]),
+    ('', [('2023_05_04.md', False)]),
+    ('', [('2023_06_21.md', False)]),
+    ('', [('2023_07_15.md', False)]),
+    ('', [('2023_08_03.md', False)]),
+    ('', [('2023_08_30.md', False)]),
+    ('', [('2023_09_23.md', False)]),
+    ('', [('2023_10_12.md', False)]),
+    ('', [('2023_11_02.md', False)]),
+    ('', [('2023_11_22.md', False)]),
+    ('', [('2023_11_23.md', False)]),
+    ('', [('2023_12_13.md', False)]),
+    ('', [('2023_12_28.md', False)]),
+    ('', [('2024_01_19.md', False)]),
+    ('', [('2024_02_10.md', False)]),
+    ('', [('2024_03_14.md', False)]),
+    ('', [('2024_04_03.md', False)]),
+    ('', [('2024_04_24.md', False)]),
+    ('', [('2024_05_10.md', False)]),
+    ('', [('2024_05_29.md', False)]),
+    ('', [('2024_06_15.md', False)]),
+    ('', [('2024_06_26.md', False)]),
+    ('', [('2024_08_07.md', False)]),
+    ('', [('2024_08_19.md', False)]),
+    ('', [('2024_09_04.md', False)]),
+    ('', [('2024_09_26.md', False)]),
+    ('', [('2024_10_10.md', False)]),
+    ('', [('2024_10_25.md', False)]),
+    ('', [('2024_11_12.md', False)]),
+    ('', [('2024_11_30.md', False)]),
+    ('', [('2024_12_10.md', False)]),
+    ('', [('2024_12_24.md', False)]),
+    ('', [('2025_01_11.md', False)]),
+    ('', [('2025_01_27.md', False)]),
+    ('', [('2025_02_11.md', False)]),
+    ('', [('2025_02_22.md', False)]),
+    ('', [('2025_03_06.md', False)]),
+    ('', [('2025_03_17.md', False)]),
+    ('', [('2025_03_31.md', False)]),
+  ],
+}
 
 CSS = "h1 {text-align:center;}"
 
@@ -122,7 +175,7 @@ def make_sections(src, root):
 
 
 def in_search_of_meaning():
-    root = os.path.join('..', 'content', 'InSearchOfMeaning')
+    root = os.path.join(CONTENT, Course.InSearchOfMeaning)
     sections = make_sections(IN_SEARCH_OF_MEANING, root)
     sections[0].toc = False
 
@@ -149,24 +202,38 @@ def in_search_of_meaning():
         pdf.save(os.path.join('build', season + '.pdf'))
 
 
-def gnostic_thinking():
+def podcast(name, title, pdf_name):
     sections = make_sections(
-      GNOSTIC_THINKING,
-      os.path.join('..', 'content', 'GnosticThinking')
+      PODCAST[name],
+      os.path.join(CONTENT, name)
     )
     sections[0].toc = False
 
     pdf = MarkdownPdf(toc_level=3)
-    pdf.meta["title"] = "Cтенограммы цикла «Гностическое Мышление»."
+    pdf.meta["title"] = title
     pdf.meta["author"] = AUTHOR
     for section in sections:
         pdf.add_section(section)
-    pdf.save(os.path.join('build', 'Гностическое_мышление.pdf'))
+    pdf.save(os.path.join('build', pdf_name))
 
 
 def main():
     in_search_of_meaning()
-    gnostic_thinking()
+    podcast(
+      Course.GnosticThinking,
+      "Cтенограммы цикла «Гностическое Мышление».",
+      'Гностическое_мышление.pdf'
+    )
+    podcast(
+      Course.Mash,
+      "Cтенограммы подкастов «Mash Room».",
+      'Mash_Room.pdf'
+    )
+    podcast(
+      Course.Shelest,
+      "Cтенограммы эфиров с А.Шелестом.",
+      'Шелест.pdf'
+    )
 
 
 if __name__ == '__main__':
