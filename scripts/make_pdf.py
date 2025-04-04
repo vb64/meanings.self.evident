@@ -2,6 +2,9 @@ import os
 from markdown_pdf import Section, MarkdownPdf
 from text import Course
 
+AUTHOR = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+CONTENT = os.path.join('..', 'content')
+
 
 class InSearchOfMeaning:
     Season01 = 'Season01'
@@ -9,8 +12,6 @@ class InSearchOfMeaning:
     Season03 = 'Season03'
     Season04 = 'Season04'
 
-
-AUTHOR = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
 
 IN_SEARCH_OF_MEANING_SEASONS = [
   InSearchOfMeaning.Season01,
@@ -125,7 +126,7 @@ def make_sections(src, root):
 
 
 def in_search_of_meaning():
-    root = os.path.join('..', 'content', 'InSearchOfMeaning')
+    root = os.path.join(CONTENT, Course.InSearchOfMeaning)
     sections = make_sections(IN_SEARCH_OF_MEANING, root)
     sections[0].toc = False
 
@@ -155,7 +156,7 @@ def in_search_of_meaning():
 def podcast(name, title, pdf_name):
     sections = make_sections(
       PODCAST[name],
-      os.path.join('..', 'content', name)
+      os.path.join(CONTENT, name)
     )
     sections[0].toc = False
 
