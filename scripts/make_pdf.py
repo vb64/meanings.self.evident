@@ -1,6 +1,8 @@
 import os
 from markdown_pdf import Section, MarkdownPdf
 
+AUTHOR = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+
 IN_SEARCH_OF_MEANING = [
   ('', [('title.md', False)]),
 
@@ -113,7 +115,7 @@ def in_search_of_meaning():
 
     pdf = MarkdownPdf(toc_level=3)
     pdf.meta["title"] = "Стенограммы подкаста «В поисках смысла» Евгения Голуба и Павла Щелина."
-    pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+    pdf.meta["author"] = AUTHOR
     for section in sections:
         pdf.add_section(section, user_css=CSS)
     pdf.save(os.path.join('build', 'В_поисках_смысла.pdf'))
@@ -128,7 +130,7 @@ def gnostic_thinking():
 
     pdf = MarkdownPdf(toc_level=3)
     pdf.meta["title"] = "Cтенограммы цикла «Гностическое Мышление»."
-    pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+    pdf.meta["author"] = AUTHOR
     for section in sections:
         pdf.add_section(section)
     pdf.save(os.path.join('build', 'Гностическое_мышление.pdf'))
