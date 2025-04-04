@@ -1,5 +1,6 @@
 import os
 from markdown_pdf import Section, MarkdownPdf
+from text import Course
 
 
 class InSearchOfMeaning:
@@ -82,18 +83,20 @@ IN_SEARCH_OF_MEANING = [
   ]),
 ]
 
-GNOSTIC_THINKING = [
-  ('', [('title.md', False)]),
-  ('', [('gnosticism.md', False)]),
-  ('', [('modern.md', False)]),
-  ('', [('gobs.md', False)]),
-  ('', [('enlightenment.md', False)]),
-  ('', [('nationalism.md', False)]),
-  ('', [('marxism.md', False)]),
-  ('', [('positivism.md', False)]),
-  ('', [('deep_state.md', False)]),
-  ('', [('info_wars.md', False)]),
-]
+PODCAST = {
+  Course.GnosticThinking: [
+    ('', [('title.md', False)]),
+    ('', [('gnosticism.md', False)]),
+    ('', [('modern.md', False)]),
+    ('', [('gobs.md', False)]),
+    ('', [('enlightenment.md', False)]),
+    ('', [('nationalism.md', False)]),
+    ('', [('marxism.md', False)]),
+    ('', [('positivism.md', False)]),
+    ('', [('deep_state.md', False)]),
+    ('', [('info_wars.md', False)]),
+  ]
+}
 
 CSS = "h1 {text-align:center;}"
 
@@ -149,24 +152,28 @@ def in_search_of_meaning():
         pdf.save(os.path.join('build', season + '.pdf'))
 
 
-def gnostic_thinking():
+def podcast(name, title, pdf_name):
     sections = make_sections(
-      GNOSTIC_THINKING,
-      os.path.join('..', 'content', 'GnosticThinking')
+      PODCAST[name],
+      os.path.join('..', 'content', name)
     )
     sections[0].toc = False
 
     pdf = MarkdownPdf(toc_level=3)
-    pdf.meta["title"] = "Cтенограммы цикла «Гностическое Мышление»."
+    pdf.meta["title"] = title
     pdf.meta["author"] = AUTHOR
     for section in sections:
         pdf.add_section(section)
-    pdf.save(os.path.join('build', 'Гностическое_мышление.pdf'))
+    pdf.save(os.path.join('build', pdf_name))
 
 
 def main():
     in_search_of_meaning()
-    gnostic_thinking()
+    podcast(
+      Course.GnosticThinking,
+      "Cтенограммы цикла «Гностическое Мышление».",
+      'Гностическое_мышление.pdf'
+    )
 
 
 if __name__ == '__main__':
