@@ -1,10 +1,27 @@
 import os
 from markdown_pdf import Section, MarkdownPdf
 
+
+class InSearchOfMeaning:
+    Season01 = 'Season01'
+    Season02 = 'Season02'
+    Season03 = 'Season03'
+    Season04 = 'Season04'
+
+
+AUTHOR = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+
+IN_SEARCH_OF_MEANING_SEASONS = [
+  InSearchOfMeaning.Season01,
+  InSearchOfMeaning.Season02,
+  InSearchOfMeaning.Season03,
+  InSearchOfMeaning.Season04,
+]
+
 IN_SEARCH_OF_MEANING = [
   ('', [('title.md', False)]),
 
-  ('Season01', [
+  (InSearchOfMeaning.Season01, [
     ('title.md', False),
     ("pinker.md", True),
     ("apocalypse.md", True),
@@ -20,7 +37,7 @@ IN_SEARCH_OF_MEANING = [
     ("final.md", True),
   ]),
 
-  ('Season02', [
+  (InSearchOfMeaning.Season02, [
     ('title.md', False),
     ("your-flash-memory-card-with-identity.md", True),
     ("placeandtime.md", True),
@@ -36,7 +53,7 @@ IN_SEARCH_OF_MEANING = [
     ("the-joy-of-understanding.md", True),
   ]),
 
-  ('Season03', [
+  (InSearchOfMeaning.Season03, [
     ('title.md', False),
     ("republic.md", True),
     ("democracy.md", True),
@@ -53,7 +70,7 @@ IN_SEARCH_OF_MEANING = [
     ("year2024.md", True),
   ]),
 
-  ('Season04', [
+  (InSearchOfMeaning.Season04, [
     ('title.md', False),
     ("ontology_of_lies.md", True),
     ("freedom-and-quadrobers.md", True),
@@ -105,18 +122,31 @@ def make_sections(src, root):
 
 
 def in_search_of_meaning():
-    sections = make_sections(
-      IN_SEARCH_OF_MEANING,
-      os.path.join('..', 'content', 'InSearchOfMeaning')
-    )
+    root = os.path.join('..', 'content', 'InSearchOfMeaning')
+    sections = make_sections(IN_SEARCH_OF_MEANING, root)
     sections[0].toc = False
 
     pdf = MarkdownPdf(toc_level=3)
     pdf.meta["title"] = "Стенограммы подкаста «В поисках смысла» Евгения Голуба и Павла Щелина."
-    pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+    pdf.meta["author"] = AUTHOR
     for section in sections:
         pdf.add_section(section, user_css=CSS)
     pdf.save(os.path.join('build', 'В_поисках_смысла.pdf'))
+
+    for season, file_list in IN_SEARCH_OF_MEANING:
+        if season not in IN_SEARCH_OF_MEANING_SEASONS:
+            continue
+
+        sections = []
+        for file_name, is_hook in file_list:
+            sections.append(make_section(season, file_name, is_hook, root))
+
+        pdf = MarkdownPdf(toc_level=3)
+        pdf.meta["title"] = season
+        pdf.meta["author"] = AUTHOR
+        for section in sections:
+            pdf.add_section(section, user_css=CSS)
+        pdf.save(os.path.join('build', season + '.pdf'))
 
 
 def gnostic_thinking():
@@ -128,7 +158,7 @@ def gnostic_thinking():
 
     pdf = MarkdownPdf(toc_level=3)
     pdf.meta["title"] = "Cтенограммы цикла «Гностическое Мышление»."
-    pdf.meta["author"] = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+    pdf.meta["author"] = AUTHOR
     for section in sections:
         pdf.add_section(section)
     pdf.save(os.path.join('build', 'Гностическое_мышление.pdf'))
