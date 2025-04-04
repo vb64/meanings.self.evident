@@ -1,12 +1,27 @@
 import os
 from markdown_pdf import Section, MarkdownPdf
 
+
+class InSearchOfMeaning:
+    Season01 = 'Season01'
+    Season02 = 'Season02'
+    Season03 = 'Season03'
+    Season04 = 'Season04'
+
+
 AUTHOR = "Vitaly Bogomolov mail@vitaly-bogomolov.ru"
+
+IN_SEARCH_OF_MEANING_SEASONS = [
+  InSearchOfMeaning.Season01,
+  InSearchOfMeaning.Season02,
+  InSearchOfMeaning.Season03,
+  InSearchOfMeaning.Season04,
+]
 
 IN_SEARCH_OF_MEANING = [
   ('', [('title.md', False)]),
 
-  ('Season01', [
+  (InSearchOfMeaning.Season01, [
     ('title.md', False),
     ("pinker.md", True),
     ("apocalypse.md", True),
@@ -22,7 +37,7 @@ IN_SEARCH_OF_MEANING = [
     ("final.md", True),
   ]),
 
-  ('Season02', [
+  (InSearchOfMeaning.Season02, [
     ('title.md', False),
     ("your-flash-memory-card-with-identity.md", True),
     ("placeandtime.md", True),
@@ -38,7 +53,7 @@ IN_SEARCH_OF_MEANING = [
     ("the-joy-of-understanding.md", True),
   ]),
 
-  ('Season03', [
+  (InSearchOfMeaning.Season03, [
     ('title.md', False),
     ("republic.md", True),
     ("democracy.md", True),
@@ -55,7 +70,7 @@ IN_SEARCH_OF_MEANING = [
     ("year2024.md", True),
   ]),
 
-  ('Season04', [
+  (InSearchOfMeaning.Season04, [
     ('title.md', False),
     ("ontology_of_lies.md", True),
     ("freedom-and-quadrobers.md", True),
