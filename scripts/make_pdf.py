@@ -122,10 +122,8 @@ def make_sections(src, root):
 
 
 def in_search_of_meaning():
-    sections = make_sections(
-      IN_SEARCH_OF_MEANING,
-      os.path.join('..', 'content', 'InSearchOfMeaning')
-    )
+    root = os.path.join('..', 'content', 'InSearchOfMeaning')
+    sections = make_sections(IN_SEARCH_OF_MEANING, root)
     sections[0].toc = False
 
     pdf = MarkdownPdf(toc_level=3)
@@ -134,6 +132,21 @@ def in_search_of_meaning():
     for section in sections:
         pdf.add_section(section, user_css=CSS)
     pdf.save(os.path.join('build', 'В_поисках_смысла.pdf'))
+
+    for season, file_list in IN_SEARCH_OF_MEANING:
+        if season not in IN_SEARCH_OF_MEANING_SEASONS:
+            continue
+
+        sections = []
+        for file_name, is_hook in file_list:
+            sections.append(make_section(season, file_name, is_hook, root))
+
+        pdf = MarkdownPdf(toc_level=3)
+        pdf.meta["title"] = season
+        pdf.meta["author"] = AUTHOR
+        for section in sections:
+            pdf.add_section(section, user_css=CSS)
+        pdf.save(os.path.join('build', season + '.pdf'))
 
 
 def gnostic_thinking():
