@@ -81,6 +81,7 @@ IN_SEARCH_OF_MEANING = [
     ("confession_on_the_couch.md", True),
     ("muses_of_tradition.md", True),
     ("vinaiotvetsvennosti.md", True),
+    ("the-courage-to-be.md", True),
   ]),
 ]
 

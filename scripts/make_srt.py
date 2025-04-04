@@ -126,6 +126,7 @@ SRT = {
       ("confession", SHCHELIN_GOLUB),
       ("muses_of_tradition", GOLUB_SHCHELIN),
       ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
+      ("the-courage-to-be", GOLUB_SHCHELIN),
     ],
   },
 }
