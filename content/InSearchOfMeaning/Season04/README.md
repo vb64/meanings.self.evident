@@ -7,4 +7,4 @@
 - [x] [Исповедь на кушетке](confession_on_the_couch.md) 14 февраля 2025
 - [x] [Музы традиции](muses_of_tradition.md) 28 февраля 2025
 - [x] [Логика вины и логика причинности](vinaiotvetsvennosti.md) 21 марта 2025
-- [ ] [Мужество быть](the-courage-to-be.md) 04 апреля 2025
+- [x] [Мужество быть](the-courage-to-be.md) 04 апреля 2025
