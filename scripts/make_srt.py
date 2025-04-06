@@ -8,14 +8,14 @@ GOLUB_SHCHELIN = (Speak.Golub, Speak.Shchelin)
 SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
 ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
 SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
-IZOTOV_ORLOV_SHCHELIN = (Speak.Izotov, Speak.OrlovSm, Speak.Shchelin)
+SHCHELIN_IZOTOV_ORLOV = (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)
 SHELEST_SHCHELIN = (Speak.Shelest, Speak.Shchelin)
 SHELEST_SHCHELIN_BONDARENKO = (Speak.Shelest, Speak.Shchelin, Speak.Bondarenko)
 
 SRT = {
 
   Course.Mash: [
-    ("2025_03_28", IZOTOV_ORLOV_SHCHELIN),
+    ("2025_03_28", SHCHELIN_IZOTOV_ORLOV),
   ],
 
   Course.Shelest: [
@@ -27,38 +27,39 @@ SRT = {
     ("2023_08_03", SHELEST_SHCHELIN),
     ("2023_08_30", SHELEST_SHCHELIN),
     ("2023_09_23", SHELEST_SHCHELIN),
-    ("2023_10_12", SHELEST_SHCHELIN),
-    ("2023_11_02", SHELEST_SHCHELIN),
-    ("2023_11_22", SHELEST_SHCHELIN),
-    ("2023_11_23", SHELEST_SHCHELIN),
-    ("2023_12_13", SHELEST_SHCHELIN),
-    ("2023_12_28", SHELEST_SHCHELIN),
-    ("2024_01_19", SHELEST_SHCHELIN),
-    ("2024_02_10", SHELEST_SHCHELIN),
-    ("2024_03_14", SHELEST_SHCHELIN),
-    ("2024_04_03", SHELEST_SHCHELIN),
-    ("2024_04_24", SHELEST_SHCHELIN),
-    ("2024_05_10", SHELEST_SHCHELIN),
-    ("2024_05_29", SHELEST_SHCHELIN),
-    ("2024_06_15", SHELEST_SHCHELIN),
-    ("2024_06_26", SHELEST_SHCHELIN),
-    ("2024_08_07", SHELEST_SHCHELIN),
-    ("2024_08_19", SHELEST_SHCHELIN),
-    ("2024_09_04", SHELEST_SHCHELIN),
-    ("2024_09_26", SHELEST_SHCHELIN),
-    ("2024_10_10", SHELEST_SHCHELIN),
-    ("2024_10_25", SHELEST_SHCHELIN),
-    ("2024_11_12", SHELEST_SHCHELIN),
-    ("2024_11_30", SHELEST_SHCHELIN),
-    ("2024_12_10", SHELEST_SHCHELIN),
-    ("2024_12_24", SHELEST_SHCHELIN),
-    ("2025_01_11", SHELEST_SHCHELIN),
-    ("2025_01_27", SHELEST_SHCHELIN),
-    ("2025_02_11", SHELEST_SHCHELIN),
-    ("2025_02_22", SHELEST_SHCHELIN),
-    ("2025_03_06", SHELEST_SHCHELIN),
-    ("2025_03_17", SHELEST_SHCHELIN),
-    ("2025_03_31", SHELEST_SHCHELIN_BONDARENKO),
+
+#    ("2023_10_12", SHELEST_SHCHELIN),
+#    ("2023_11_02", SHELEST_SHCHELIN),
+#    ("2023_11_22", SHELEST_SHCHELIN),
+#    ("2023_11_23", SHELEST_SHCHELIN),
+#    ("2023_12_13", SHELEST_SHCHELIN),
+#    ("2023_12_28", SHELEST_SHCHELIN),
+#    ("2024_01_19", SHELEST_SHCHELIN),
+#    ("2024_02_10", SHELEST_SHCHELIN),
+#    ("2024_03_14", SHELEST_SHCHELIN),
+#    ("2024_04_03", SHELEST_SHCHELIN),
+#    ("2024_04_24", SHELEST_SHCHELIN),
+#    ("2024_05_10", SHELEST_SHCHELIN),
+#    ("2024_05_29", SHELEST_SHCHELIN),
+#    ("2024_06_15", SHELEST_SHCHELIN),
+#    ("2024_06_26", SHELEST_SHCHELIN),
+#    ("2024_08_07", SHELEST_SHCHELIN),
+#    ("2024_08_19", SHELEST_SHCHELIN),
+#    ("2024_09_04", SHELEST_SHCHELIN),
+#    ("2024_09_26", SHELEST_SHCHELIN),
+#    ("2024_10_10", SHELEST_SHCHELIN),
+#    ("2024_10_25", SHELEST_SHCHELIN),
+#    ("2024_11_12", SHELEST_SHCHELIN),
+#    ("2024_11_30", SHELEST_SHCHELIN),
+#    ("2024_12_10", SHELEST_SHCHELIN),
+#    ("2024_12_24", SHELEST_SHCHELIN),
+#    ("2025_01_11", SHELEST_SHCHELIN),
+#    ("2025_01_27", SHELEST_SHCHELIN),
+#    ("2025_02_11", SHELEST_SHCHELIN),
+#    ("2025_02_22", SHELEST_SHCHELIN),
+#    ("2025_03_06", SHELEST_SHCHELIN),
+#    ("2025_03_17", SHELEST_SHCHELIN),
+#    ("2025_03_31", SHELEST_SHCHELIN_BONDARENKO),
   ],
 
   Course.GnosticThinking: [
@@ -214,10 +215,10 @@ def private():
 
 
 def main():
-    in_search_of_meaning()
-    podcast(Course.GnosticThinking)
-    # podcast(Course.Mash)
-    # podcast(Course.Shelest)
+    # in_search_of_meaning()
+    # podcast(Course.GnosticThinking)
+    podcast(Course.Mash)
+    podcast(Course.Shelest)
     # private()
 
 
