@@ -10,6 +10,7 @@ ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
 SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
 SHCHELIN_IZOTOV_ORLOV = (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)
 SHELEST_SHCHELIN = (Speak.Shelest, Speak.Shchelin)
+SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
 SHELEST_SHCHELIN_BONDARENKO = (Speak.Shelest, Speak.Shchelin, Speak.Bondarenko)
 
 SRT = {
@@ -19,14 +20,14 @@ SRT = {
   ],
 
   Course.Shelest: [
-    ("2023_02_09", SHELEST_SHCHELIN),
-    ("2023_04_01", SHELEST_SHCHELIN),
-    ("2023_05_04", SHELEST_SHCHELIN),
-    ("2023_06_21", SHELEST_SHCHELIN),
-    ("2023_07_15", SHELEST_SHCHELIN),
-    ("2023_08_03", SHELEST_SHCHELIN),
-    ("2023_08_30", SHELEST_SHCHELIN),
-    ("2023_09_23", SHELEST_SHCHELIN),
+    ("2023_02_09", SHCHELIN_SHELEST),
+    ("2023_04_01", SHCHELIN_SHELEST),
+    ("2023_05_04", SHCHELIN_SHELEST),
+    ("2023_06_21", SHCHELIN_SHELEST),
+    ("2023_07_15", SHCHELIN_SHELEST),
+    ("2023_08_03", SHCHELIN_SHELEST),
+    ("2023_08_30", SHCHELIN_SHELEST),
+    ("2023_09_23", SHCHELIN_SHELEST),
 
 #    ("2023_10_12", SHELEST_SHCHELIN),
 #    ("2023_11_02", SHELEST_SHCHELIN),
@@ -215,8 +216,8 @@ def private():
 
 
 def main():
-    # in_search_of_meaning()
-    # podcast(Course.GnosticThinking)
+    in_search_of_meaning()
+    podcast(Course.GnosticThinking)
     podcast(Course.Mash)
     podcast(Course.Shelest)
     # private()
