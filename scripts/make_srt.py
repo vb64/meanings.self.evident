@@ -12,11 +12,17 @@ SHCHELIN_IZOTOV_ORLOV = (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)
 SHELEST_SHCHELIN = (Speak.Shelest, Speak.Shchelin)
 SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
 SHELEST_SHCHELIN_BONDARENKO = (Speak.Shelest, Speak.Shchelin, Speak.Bondarenko)
+SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
+PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
 
 SRT = {
 
   Course.Mash: [
     ("2025_03_28", SHCHELIN_IZOTOV_ORLOV),
+  ],
+
+  Course.Panchenko: [
+    ("2025_04_06", SHCHELIN_PANCHENKO),
   ],
 
   Course.Shelest: [
@@ -220,6 +226,7 @@ def main():
     podcast(Course.GnosticThinking)
     podcast(Course.Mash)
     podcast(Course.Shelest)
+    podcast(Course.Panchenko)
     # private()
 
 
