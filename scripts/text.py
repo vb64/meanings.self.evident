@@ -6,6 +6,7 @@ class Course:
     GnosticThinking = "GnosticThinking"
     Mash = "Mash"
     Shelest = "Shelest"
+    Panchenko = "Panchenko"
 
 
 class Speak:
@@ -16,6 +17,7 @@ class Speak:
     OrlovSm = "И.Орлов"
     Shelest = "А.Шелест"
     Bondarenko = "К.Бондаренко"
+    Panchenko = "Д.Панченко"
 
 
 def is_complete(sentence):

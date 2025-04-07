@@ -104,6 +104,11 @@ PODCAST = {
     ('', [('2025_03_28.md', False)]),
   ],
 
+  Course.Panchenko: [
+    ('', [('title.md', False)]),
+    ('', [('2025_04_06.md', False)]),
+  ],
+
   Course.Shelest: [
     ('', [('title.md', False)]),
     ('', [('2023_02_09.md', False)]),
@@ -234,6 +239,11 @@ def main():
       Course.Shelest,
       "Cтенограммы эфиров с А.Шелестом.",
       'Шелест.pdf'
+    )
+    podcast(
+      Course.Panchenko,
+      "Cтенограммы эфиров с Д.Панченко.",
+      'Панченко.pdf'
     )
 
 
