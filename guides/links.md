@@ -1,5 +1,5 @@
-# Ссылки
+# РЎСЃС‹Р»РєРё
 
-- Разбиение mp3 файла на части: https://mp3cut.net/ru/
-- Преобразование mp3 в текст: https://any2text.com
-- Преобразование markdown в docx: https://cloudconvert.com/md-to-docx
+- Р Р°Р·Р±РёРµРЅРёРµ mp3 С„Р°Р№Р»Р° РЅР° С‡Р°СЃС‚Рё: https://mp3cut.net/ru/
+- РџСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ mp3 РІ С‚РµРєСЃС‚: https://any2text.com
+- РџСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ markdown РІ docx: https://cloudconvert.com/md-to-docx
