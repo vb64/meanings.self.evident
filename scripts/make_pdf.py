@@ -82,6 +82,7 @@ IN_SEARCH_OF_MEANING = [
     ("muses_of_tradition.md", True),
     ("vinaiotvetsvennosti.md", True),
     ("the-courage-to-be.md", True),
+    ("dukhovny-fast-food.md", True),
   ]),
 ]
 
