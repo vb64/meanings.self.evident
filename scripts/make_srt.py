@@ -14,7 +14,7 @@ SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
 SHCHELIN_BONDARENKO_SHELEST = (Speak.Shchelin, Speak.Bondarenko, Speak.Shelest)
 SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
 PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
-GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shchelin, Speak.Shevchenko)
+GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
 
 SRT = {
 
@@ -225,10 +225,10 @@ def private():
 
 def main():
     in_search_of_meaning()
-    podcast(Course.GnosticThinking)
-    podcast(Course.Mash)
-    podcast(Course.Shelest)
-    podcast(Course.Panchenko)
+    # podcast(Course.GnosticThinking)
+    # podcast(Course.Mash)
+    # podcast(Course.Shelest)
+    # podcast(Course.Panchenko)
     # private()
 
 
