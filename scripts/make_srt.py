@@ -11,7 +11,7 @@ SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
 SHCHELIN_IZOTOV_ORLOV = (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)
 SHELEST_SHCHELIN = (Speak.Shelest, Speak.Shchelin)
 SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
-SHELEST_SHCHELIN_BONDARENKO = (Speak.Shelest, Speak.Shchelin, Speak.Bondarenko)
+SHCHELIN_BONDARENKO_SHELEST = (Speak.Shchelin, Speak.Bondarenko, Speak.Shelest)
 SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
 PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
 
@@ -62,11 +62,11 @@ SRT = {
     ("2025_01_11", SHELEST_SHCHELIN),
     ("2025_01_27", SHELEST_SHCHELIN),
     ("2025_02_11", SHELEST_SHCHELIN),
-#    ("2025_02_22", SHELEST_SHCHELIN),
-#    ("2025_03_06", SHELEST_SHCHELIN),
-#    ("2025_03_17", SHELEST_SHCHELIN),
-#    ("2025_03_31", SHELEST_SHCHELIN_BONDARENKO),
-#    ("2025_04_09", SHELEST_SHCHELIN),
+    ("2025_02_22", SHELEST_SHCHELIN),
+    ("2025_03_06", SHCHELIN_SHELEST),
+    ("2025_03_17", SHCHELIN_SHELEST),
+    ("2025_03_31", SHCHELIN_BONDARENKO_SHELEST),
+    ("2025_04_09", SHELEST_SHCHELIN),
   ],
 
   Course.GnosticThinking: [
