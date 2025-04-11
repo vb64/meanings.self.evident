@@ -18,6 +18,7 @@ class Speak:
     Shelest = "А.Шелест"
     Bondarenko = "К.Бондаренко"
     Panchenko = "Д.Панченко"
+    Shevchenko = "И.Шевченко"
 
 
 def is_complete(sentence):

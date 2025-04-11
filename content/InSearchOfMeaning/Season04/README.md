@@ -8,3 +8,4 @@
 - [x] [Музы традиции](muses_of_tradition.md) 28 февраля 2025
 - [x] [Логика вины и логика причинности](vinaiotvetsvennosti.md) 21 марта 2025
 - [x] [Мужество быть](the-courage-to-be.md) 04 апреля 2025
+- [ ] [Духовный фастфуд](dukhovny-fast-food.md) 11 апреля 2025

@@ -14,6 +14,7 @@ SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
 SHCHELIN_BONDARENKO_SHELEST = (Speak.Shchelin, Speak.Bondarenko, Speak.Shelest)
 SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
 PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
+GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
 
 SRT = {
 
@@ -135,6 +136,7 @@ SRT = {
       ("muses_of_tradition", GOLUB_SHCHELIN),
       ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
       ("the-courage-to-be", SHCHELIN_GOLUB),
+      ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
     ],
   },
 }
