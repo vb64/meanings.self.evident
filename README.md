@@ -11,3 +11,11 @@
 - Каталог `guides` содержит инструкции для людей, желающих помочь с вычиткой и редактированием машинных переводов.
 
 Проект создан и существует при поддержке участников [группы "Смыслы самоочевидного"](https://t.me/c/1923776800/371293) в мессенджере Telegram.
+
+```bibtex
+@unpublished{hassouna2024whisperdiarization,
+  title={Whisper Diarization: Speaker Diarization Using OpenAI Whisper},
+  author={Ashraf, Mahmoud},
+  year={2024}
+}
+```
