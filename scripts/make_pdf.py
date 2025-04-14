@@ -82,6 +82,7 @@ IN_SEARCH_OF_MEANING = [
     ("muses_of_tradition.md", True),
     ("vinaiotvetsvennosti.md", True),
     ("the-courage-to-be.md", True),
+    ("dukhovny-fast-food.md", True),
   ]),
 ]
 
@@ -153,6 +154,7 @@ PODCAST = {
     ('', [('2025_03_06.md', False)]),
     ('', [('2025_03_17.md', False)]),
     ('', [('2025_03_31.md', False)]),
+    ('', [('2025_04_09.md', False)]),
   ],
 }
 
@@ -225,7 +227,17 @@ def podcast(name, title, pdf_name):
     pdf.save(os.path.join('build', pdf_name))
 
 
+def private(name, title, pdf_name):
+    pdf = MarkdownPdf(toc_level=3)
+    pdf.meta["title"] = title
+    pdf.meta["author"] = AUTHOR
+    section = make_section('', name, False, 'build')
+    pdf.add_section(section)
+    pdf.save(os.path.join('build', pdf_name))
+
+
 def main():
+    # private('private.md', 'April_6_session_1', 'April_6_session_1.pdf')
     in_search_of_meaning()
     podcast(
       Course.GnosticThinking,

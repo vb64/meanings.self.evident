@@ -11,10 +11,11 @@ SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
 SHCHELIN_IZOTOV_ORLOV = (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)
 SHELEST_SHCHELIN = (Speak.Shelest, Speak.Shchelin)
 SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
-SHELEST_SHCHELIN_BONDARENKO = (Speak.Shelest, Speak.Shchelin, Speak.Bondarenko)
+SHCHELIN_BONDARENKO_SHELEST = (Speak.Shchelin, Speak.Bondarenko, Speak.Shelest)
 SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
 PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
 SHCHELIN_PANCHENKO_TRANS = (Speak.Shchelin, Speak.Translator, Speak.Panchenko)
+GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
 
 SRT = {
 
@@ -50,25 +51,26 @@ SRT = {
     ("2024_04_24", SHCHELIN_SHELEST),
     ("2024_05_10", SHCHELIN_SHELEST),
     ("2024_05_29", SHELEST_SHCHELIN),
-#    ("2024_06_15", SHELEST_SHCHELIN),
-#    ("2024_06_26", SHELEST_SHCHELIN),
-#    ("2024_08_07", SHELEST_SHCHELIN),
-#    ("2024_08_19", SHELEST_SHCHELIN),
-#    ("2024_09_04", SHELEST_SHCHELIN),
-#    ("2024_09_26", SHELEST_SHCHELIN),
-#    ("2024_10_10", SHELEST_SHCHELIN),
-#    ("2024_10_25", SHELEST_SHCHELIN),
-#    ("2024_11_12", SHELEST_SHCHELIN),
-#    ("2024_11_30", SHELEST_SHCHELIN),
-#    ("2024_12_10", SHELEST_SHCHELIN),
-#    ("2024_12_24", SHELEST_SHCHELIN),
-#    ("2025_01_11", SHELEST_SHCHELIN),
-#    ("2025_01_27", SHELEST_SHCHELIN),
-#    ("2025_02_11", SHELEST_SHCHELIN),
-#    ("2025_02_22", SHELEST_SHCHELIN),
-#    ("2025_03_06", SHELEST_SHCHELIN),
-#    ("2025_03_17", SHELEST_SHCHELIN),
-#    ("2025_03_31", SHELEST_SHCHELIN_BONDARENKO),
+    ("2024_06_15", SHCHELIN_SHELEST),
+    ("2024_06_26", SHELEST_SHCHELIN),
+    ("2024_08_07", SHCHELIN_SHELEST),
+    ("2024_08_19", SHCHELIN_SHELEST),
+    ("2024_09_04", SHCHELIN_SHELEST),
+    ("2024_09_26", SHELEST_SHCHELIN),
+    ("2024_10_10", SHELEST_SHCHELIN),
+    ("2024_10_25", SHELEST_SHCHELIN),
+    ("2024_11_12", SHCHELIN_SHELEST),
+    ("2024_11_30", SHCHELIN_SHELEST),
+    ("2024_12_10", SHCHELIN_SHELEST),
+    ("2024_12_24", SHELEST_SHCHELIN),
+    ("2025_01_11", SHELEST_SHCHELIN),
+    ("2025_01_27", SHELEST_SHCHELIN),
+    ("2025_02_11", SHELEST_SHCHELIN),
+    ("2025_02_22", SHELEST_SHCHELIN),
+    ("2025_03_06", SHCHELIN_SHELEST),
+    ("2025_03_17", SHCHELIN_SHELEST),
+    ("2025_03_31", SHCHELIN_BONDARENKO_SHELEST),
+    ("2025_04_09", SHELEST_SHCHELIN),
   ],
 
   Course.GnosticThinking: [
@@ -137,6 +139,7 @@ SRT = {
       ("muses_of_tradition", GOLUB_SHCHELIN),
       ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
       ("the-courage-to-be", SHCHELIN_GOLUB),
+      ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
     ],
   },
 }

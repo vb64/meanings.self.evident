@@ -1,4 +1,4 @@
-﻿# Мужество быть.
+# Мужество быть.
 
 04 апреля 2025 [Аудиоверсия](https://paradoks-pinkera-pilotnyy-vypusk.simplecast.com/episodes/the-courage-to-be) 28:21
 
