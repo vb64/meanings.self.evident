@@ -22,6 +22,7 @@ SRT = {
   ],
 
   Course.Panchenko: [
+    ("2024_06_22", SHCHELIN_PANCHENKO),
     ("2025_04_06", SHCHELIN_PANCHENKO),
   ],
 
