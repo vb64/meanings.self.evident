@@ -224,10 +224,10 @@ def private():
 
 
 def main():
-    # in_search_of_meaning()
-    # podcast(Course.GnosticThinking)
-    # podcast(Course.Mash)
-    # podcast(Course.Shelest)
+    in_search_of_meaning()
+    podcast(Course.GnosticThinking)
+    podcast(Course.Mash)
+    podcast(Course.Shelest)
     podcast(Course.Panchenko)
     # private()
 
