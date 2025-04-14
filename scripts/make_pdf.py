@@ -107,6 +107,8 @@ PODCAST = {
 
   Course.Panchenko: [
     ('', [('title.md', False)]),
+    ('', [('2024_06_22.md', False)]),
+    ('', [('2025_02_24.md', False)]),
     ('', [('2025_04_06.md', False)]),
   ],
 

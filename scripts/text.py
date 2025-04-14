@@ -18,6 +18,7 @@ class Speak:
     Shelest = "А.Шелест"
     Bondarenko = "К.Бондаренко"
     Panchenko = "Д.Панченко"
+    Translator = "Переводчик"
     Shevchenko = "И.Шевченко"
 
 
