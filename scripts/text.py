@@ -23,7 +23,7 @@ class Speak:
 
 
 def is_complete(sentence):
-    return sentence[-1] in SENTENCE_END
+    return sentence and (sentence[-1] in SENTENCE_END)
 
 
 def split_to_sentences(text):
