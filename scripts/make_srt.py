@@ -142,9 +142,9 @@ SRT = {
       ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
     ],
     'Other': [
-      ("polit_nemota", SHCHELIN_GOLUB),
+      # ("polit_nemota", SHCHELIN_GOLUB),
       # ("straw_man", SHCHELIN_GOLUB),
-      # ("year2024", SHCHELIN_GOLUB),
+      ("year2024", SHCHELIN_GOLUB),
     ],
   },
 }

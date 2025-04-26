@@ -88,8 +88,8 @@ IN_SEARCH_OF_MEANING = [
 
   (InSearchOfMeaning.Other, [
     ('title.md', False),
+    ("polit_nemota.md", True),
     ("straw_man.md", True),
-    ("year2024.md", True),
     ("year2024.md", True),
   ]),
 ]
