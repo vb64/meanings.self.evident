@@ -129,7 +129,6 @@ SRT = {
       ("enlightenment", SHCHELIN_GOLUB),
       ("obscurantism", GOLUB_SHCHELIN),
       ("final3", SHCHELIN_GOLUB),
-      ("year2024", SHCHELIN_GOLUB),
     ],
     'Season04': [
       ("ontology_of_lies", SHCHELIN_GOLUB),
@@ -141,6 +140,11 @@ SRT = {
       ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
       ("the-courage-to-be", SHCHELIN_GOLUB),
       ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
+    ],
+    'Other': [
+      ("polit_nemota", SHCHELIN_GOLUB),
+      ("straw_man", GOLUB_SHCHELIN),
+      ("year2024", SHCHELIN_GOLUB),
     ],
   },
 }

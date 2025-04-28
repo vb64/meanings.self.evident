@@ -11,6 +11,7 @@ class InSearchOfMeaning:
     Season02 = 'Season02'
     Season03 = 'Season03'
     Season04 = 'Season04'
+    Other = 'Other'
 
 
 IN_SEARCH_OF_MEANING_SEASONS = [
@@ -18,6 +19,7 @@ IN_SEARCH_OF_MEANING_SEASONS = [
   InSearchOfMeaning.Season02,
   InSearchOfMeaning.Season03,
   InSearchOfMeaning.Season04,
+  InSearchOfMeaning.Other,
 ]
 
 IN_SEARCH_OF_MEANING = [
@@ -69,7 +71,6 @@ IN_SEARCH_OF_MEANING = [
     ("enlightenment.md", True),
     ("obscurantism.md", True),
     ("final3.md", True),
-    ("year2024.md", True),
   ]),
 
   (InSearchOfMeaning.Season04, [
@@ -83,6 +84,13 @@ IN_SEARCH_OF_MEANING = [
     ("vinaiotvetsvennosti.md", True),
     ("the-courage-to-be.md", True),
     ("dukhovny-fast-food.md", True),
+  ]),
+
+  (InSearchOfMeaning.Other, [
+    ('title.md', False),
+    ("polit_nemota.md", True),
+    ("straw_man.md", True),
+    ("year2024.md", True),
   ]),
 ]
 
