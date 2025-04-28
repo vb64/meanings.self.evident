@@ -14,7 +14,8 @@ SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
 SHCHELIN_BONDARENKO_SHELEST = (Speak.Shchelin, Speak.Bondarenko, Speak.Shelest)
 SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
 PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
-SHCHELIN_PANCHENKO_TRANS = (Speak.Shchelin, Speak.Translator, Speak.Panchenko)
+SHCHELIN_TRANS_PANCHENKO = (Speak.Shchelin, Speak.Translator, Speak.Panchenko)
+SHCHELIN_PANCHENKO_TRANS = (Speak.Shchelin, Speak.Panchenko, Speak.Translator)
 GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
 
 SRT = {
@@ -27,8 +28,8 @@ SRT = {
     ("2024_06_22", SHCHELIN_PANCHENKO),
     ("2024_11_06", SHCHELIN_PANCHENKO),
     # ("2025_01_20", SHCHELIN_PANCHENKO),
-    ("2025_01_23", SHCHELIN_PANCHENKO),
-    ("2025_02_24", SHCHELIN_PANCHENKO_TRANS),
+    ("2025_01_23", SHCHELIN_PANCHENKO_TRANS),
+    ("2025_02_24", SHCHELIN_TRANS_PANCHENKO),
     ("2025_04_06", SHCHELIN_PANCHENKO),
   ],
 
