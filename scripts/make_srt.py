@@ -227,21 +227,12 @@ def podcast(name):
         call_whisper(path, name, speakers)
 
 
-def private():
-    whisper(
-      os.path.join("build", "private.srt"),
-      os.path.join("build", "private.md"),
-      (Speak.Shchelin, "Speaker")
-    )
-
-
 def main():
     in_search_of_meaning()
     podcast(Course.GnosticThinking)
     podcast(Course.Mash)
     podcast(Course.Shelest)
     podcast(Course.Panchenko)
-    # private()
 
 
 if __name__ == '__main__':
