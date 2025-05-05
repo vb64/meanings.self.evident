@@ -116,6 +116,8 @@ PODCAST = {
   Course.Panchenko: [
     ('', [('title.md', False)]),
     ('', [('2024_06_22.md', False)]),
+    ('', [('2024_11_06.md', False)]),
+    ('', [('2025_01_23.md', False)]),
     ('', [('2025_02_24.md', False)]),
     ('', [('2025_04_06.md', False)]),
   ],
@@ -257,17 +259,7 @@ def podcast(name, title, pdf_name):
     pdf.save(os.path.join('build', pdf_name))
 
 
-def private(name, title, pdf_name):
-    pdf = MarkdownPdf(toc_level=3)
-    pdf.meta["title"] = title
-    pdf.meta["author"] = AUTHOR
-    section = make_section('', name, False, 'build')
-    pdf.add_section(section)
-    pdf.save(os.path.join('build', pdf_name))
-
-
 def main():
-    # private('private.md', 'April_6_session_1', 'April_6_session_1.pdf')
     in_search_of_meaning()
     podcast(
       Course.GnosticThinking,

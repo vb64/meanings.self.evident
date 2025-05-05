@@ -19,11 +19,10 @@ SHCHELIN_BONDARENKO_SHELEST = (Speak.Shchelin, Speak.Bondarenko, Speak.Shelest)
 
 SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
 PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
-SHCHELIN_PANCHENKO_TRANS = (Speak.Shchelin, Speak.Translator, Speak.Panchenko)
 
-SHCHELIN_DUDNIK = (Speak.Shchelin, Speak.Dudnik)
-DUDNIK_SHCHELIN = (Speak.Dudnik, Speak.Shchelin)
-KHAZIN_SHCHELIN_DUDNIK = (Speak.Khazin, Speak.Shchelin, Speak.Dudnik)
+SHCHELIN_TRANS_PANCHENKO = (Speak.Shchelin, Speak.Translator, Speak.Panchenko)
+SHCHELIN_PANCHENKO_TRANS = (Speak.Shchelin, Speak.Panchenko, Speak.Translator)
+GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
 
 SRT = {
 
@@ -33,7 +32,9 @@ SRT = {
 
   Course.Panchenko: [
     ("2024_06_22", SHCHELIN_PANCHENKO),
-    ("2025_02_24", SHCHELIN_PANCHENKO_TRANS),
+    ("2024_11_06", SHCHELIN_PANCHENKO),
+    ("2025_01_23", SHCHELIN_PANCHENKO_TRANS),
+    ("2025_02_24", SHCHELIN_TRANS_PANCHENKO),
     ("2025_04_06", SHCHELIN_PANCHENKO),
   ],
 
@@ -251,21 +252,12 @@ def podcast(name):
         call_whisper(path, name, speakers)
 
 
-def private():
-    whisper(
-      os.path.join("build", "private.srt"),
-      os.path.join("build", "private.md"),
-      (Speak.Shchelin, "Speaker")
-    )
-
-
 def main():
     in_search_of_meaning()
     podcast(Course.GnosticThinking)
     podcast(Course.Mash)
     podcast(Course.Shelest)
     podcast(Course.Panchenko)
-    # private()
 
 
 if __name__ == '__main__':
