@@ -6,14 +6,20 @@ SRT_PATH = os.path.join('..', 'srt')
 
 GOLUB_SHCHELIN = (Speak.Golub, Speak.Shchelin)
 SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
+GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
+
 ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
 SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
+
 SHCHELIN_IZOTOV_ORLOV = (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)
+
 SHELEST_SHCHELIN = (Speak.Shelest, Speak.Shchelin)
 SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
 SHCHELIN_BONDARENKO_SHELEST = (Speak.Shchelin, Speak.Bondarenko, Speak.Shelest)
+
 SHCHELIN_PANCHENKO = (Speak.Shchelin, Speak.Panchenko)
 PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
+
 SHCHELIN_TRANS_PANCHENKO = (Speak.Shchelin, Speak.Translator, Speak.Panchenko)
 SHCHELIN_PANCHENKO_TRANS = (Speak.Shchelin, Speak.Panchenko, Speak.Translator)
 GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
@@ -30,6 +36,26 @@ SRT = {
     ("2025_01_23", SHCHELIN_PANCHENKO_TRANS),
     ("2025_02_24", SHCHELIN_TRANS_PANCHENKO),
     ("2025_04_06", SHCHELIN_PANCHENKO),
+  ],
+
+  Course.Dudnik: [
+    ("2022_11_03", SHCHELIN_DUDNIK),
+    ("2024_05_14", SHCHELIN_DUDNIK),
+    ("2024_06_04", SHCHELIN_DUDNIK),
+    ("2024_07_09", SHCHELIN_DUDNIK),
+    ("2024_08_14", SHCHELIN_DUDNIK),
+    ("2024_09_13", SHCHELIN_DUDNIK),
+    ("2024_10_02", SHCHELIN_DUDNIK),
+    ("2024_10_14", SHCHELIN_DUDNIK),
+    ("2024_11_04", SHCHELIN_DUDNIK),
+    ("2024_11_23", SHCHELIN_DUDNIK),
+    ("2024_12_26", SHCHELIN_DUDNIK),
+    ("2025_01_15", SHCHELIN_DUDNIK),
+    ("2025_02_19", SHCHELIN_DUDNIK),
+    # ("2025_03_11", SHCHELIN_DUDNIK),
+    ("2025_03_22", SHCHELIN_DUDNIK),
+    ("2025_03_25", KHAZIN_SHCHELIN_DUDNIK),
+    ("2025_04_24", SHCHELIN_DUDNIK),
   ],
 
   Course.Shelest: [
