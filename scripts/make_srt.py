@@ -22,7 +22,11 @@ PANCHENKO_SHCHELIN = (Speak.Panchenko, Speak.Shchelin)
 
 SHCHELIN_TRANS_PANCHENKO = (Speak.Shchelin, Speak.Translator, Speak.Panchenko)
 SHCHELIN_PANCHENKO_TRANS = (Speak.Shchelin, Speak.Panchenko, Speak.Translator)
-GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
+
+SHCHELIN_DUDNIK = (Speak.Shchelin, Speak.Dudnik)
+SHCHELIN_DUDNIK_TRANS = (Speak.Shchelin, Speak.Dudnik, Speak.Translator)
+DUDNIK_SHCHELIN = (Speak.Dudnik, Speak.Shchelin)
+KHAZIN_SHCHELIN_DUDNIK = (Speak.Khazin, Speak.Shchelin, Speak.Dudnik)
 
 SRT = {
 
@@ -43,14 +47,14 @@ SRT = {
     ("2024_05_14", SHCHELIN_DUDNIK),
     ("2024_06_04", SHCHELIN_DUDNIK),
     ("2024_07_09", SHCHELIN_DUDNIK),
-    ("2024_08_14", SHCHELIN_DUDNIK),
+    ("2024_08_14", SHCHELIN_DUDNIK_TRANS),
     ("2024_09_13", SHCHELIN_DUDNIK),
     ("2024_10_02", SHCHELIN_DUDNIK),
     ("2024_10_14", SHCHELIN_DUDNIK),
     ("2024_11_04", SHCHELIN_DUDNIK),
     ("2024_11_23", SHCHELIN_DUDNIK),
     ("2024_12_26", SHCHELIN_DUDNIK),
-    ("2025_01_15", SHCHELIN_DUDNIK),
+    ("2025_01_15", DUDNIK_SHCHELIN),
     ("2025_02_19", SHCHELIN_DUDNIK),
     # ("2025_03_11", SHCHELIN_DUDNIK),
     ("2025_03_22", SHCHELIN_DUDNIK),
@@ -258,6 +262,7 @@ def main():
     podcast(Course.Mash)
     podcast(Course.Shelest)
     podcast(Course.Panchenko)
+    podcast(Course.Dudnik)
 
 
 if __name__ == '__main__':
