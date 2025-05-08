@@ -173,6 +173,7 @@ SRT = {
       ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
       ("the-courage-to-be", SHCHELIN_GOLUB),
       ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
+      ("lukewarm", GOLUB_SHCHELIN),
     ],
     'Other': [
       ("polit_nemota", SHCHELIN_GOLUB),

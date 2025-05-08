@@ -84,6 +84,7 @@ IN_SEARCH_OF_MEANING = [
     ("vinaiotvetsvennosti.md", True),
     ("the-courage-to-be.md", True),
     ("dukhovny-fast-food.md", True),
+    ("lukewarm.md", True),
   ]),
 
   (InSearchOfMeaning.Other, [
