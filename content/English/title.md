@@ -9,3 +9,4 @@ Playlist [Videos with English Speaking guests](https://www.youtube.com/playlist?
 - The Illusion of Modern Political. Conversation with @JonathanPageau. Sep 17, 2024
 - Традиция и Человек. Беседа с Николаем Котаром @NicholasKotarauthor. Oct 14, 2024
 - Metacrisis. Interview with Jordan Hall @JordanGreenhall. Jan 20, 2025
+- On Fasts and Feasts. Conversation with John Heers @heavythingslightly. March 21, 2025
