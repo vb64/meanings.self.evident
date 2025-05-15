@@ -13,6 +13,9 @@
 
 Проект создан и существует при поддержке участников [группы "Смыслы самоочевидного"](https://t.me/c/1923776800/371293) в мессенджере Telegram.
 
+Преобразование аудио записи в текст (транскрибирование) с разделением по собеседникам (диаризация) выполнено с помощью бесплатной программы с открытым кодом [whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization).
+Спасибо [автору](https://github.com/MahmoudAshraf97) этой программы за его труд.
+
 ```bibtex
 @unpublished{hassouna2024whisperdiarization,
   title={Whisper Diarization: Speaker Diarization Using OpenAI Whisper},
