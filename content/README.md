@@ -23,7 +23,7 @@
 - [ ] 00/30 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 - [ ] 00/15 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
-- [ ] 00/05 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
+- [ ] 00/06 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
 - [ ] 00/07 [Отдельные беседы.](Singles/README.md)
