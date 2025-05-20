@@ -28,10 +28,22 @@ SHCHELIN_DUDNIK_TRANS = (Speak.Shchelin, Speak.Dudnik, Speak.Translator)
 DUDNIK_SHCHELIN = (Speak.Dudnik, Speak.Shchelin)
 KHAZIN_SHCHELIN_DUDNIK = (Speak.Khazin, Speak.Shchelin, Speak.Dudnik)
 
+SHCHELIN_CHERNOV = (Speak.Shchelin, Speak.Chernov)
+CHERNOV_SHCHELIN = (Speak.Chernov, Speak.Shchelin)
+
 SRT = {
 
   Course.Mash: [
     ("2025_03_28", SHCHELIN_IZOTOV_ORLOV),
+  ],
+
+  Course.Chernov: [
+    ("2023_12_16", SHCHELIN_CHERNOV),
+    ("2024_04_16", CHERNOV_SHCHELIN),
+    ("2024_04_23", SHCHELIN_CHERNOV),
+    ("2024_05_22", SHCHELIN_CHERNOV),
+    ("2024_08_13", SHCHELIN_CHERNOV),
+    ("2025_04_07", SHCHELIN_CHERNOV),
   ],
 
   Course.Panchenko: [
@@ -266,6 +278,7 @@ def main():
     podcast(Course.Shelest)
     podcast(Course.Panchenko)
     podcast(Course.Dudnik)
+    podcast(Course.Chernov)
 
 
 if __name__ == '__main__':

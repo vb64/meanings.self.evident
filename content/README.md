@@ -17,7 +17,7 @@
 Запланировано:
 
 - [ ] 00/08 [Videos with English Speaking guests.](English/README.md)
-- [ ] 00/07 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
+- [ ] 00/06 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 00/03 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/30 [Александр Бобылев и НАРОД.](Bobileff/README.md)
