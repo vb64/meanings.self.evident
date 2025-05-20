@@ -12,6 +12,12 @@ TXT = {
       ("snowflakes", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
     ],
   },
+
+  Course.Chernov: {
+    '': [
+      ("2024_04_23", {"Алексей:": Speak.Chernov, "Павел:": Speak.Shchelin}),
+    ],
+  },
 }
 
 
@@ -57,9 +63,20 @@ def in_search_of_meaning():
             )
 
 
+def podcast(folder):
+    data = TXT[folder]
+    path = os.path.join(TXT_PATH, folder)
+    for name, speakers in data['']:
+        proc_txt(
+          os.path.join(path, name + ".txt"),
+          os.path.join("build", name + ".md"),
+          speakers
+        )
+
+
 def main():
     in_search_of_meaning()
-
+    podcast(Course.Chernov)
 
 if __name__ == '__main__':
     main()
