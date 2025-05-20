@@ -15,11 +15,12 @@
 
 Проект создан и существует при поддержке участников [группы "Смыслы самоочевидного"](https://t.me/c/1923776800/371293) в мессенджере Telegram.
 
-[Вычитку и исправление ошибок](Contributors.md) машинного перевода помогали делать следующие люди:
+[Вычитку и исправление ошибок](Contributors.md) машинного перевода помогали делать следующие люди и ресурсы:
 [@stasptk](https://t.me/stasptk),
 [@V_OlIga](https://t.me/V_OlIga),
 [@Ingvarr_J](https://t.me/Ingvarr_J),
-[@nataliachaplinaa](https://t.me/nataliachaplinaa)
+[@nataliachaplinaa](https://t.me/nataliachaplinaa),
+["Хвиля"](https://hvylya.net)
 
 Преобразование аудио записи в текст (транскрибирование) с разделением по собеседникам (диаризация) выполнено с помощью бесплатной программы с открытым кодом [whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization).
 Спасибо [автору](https://github.com/MahmoudAshraf97) этой программы за его труд.

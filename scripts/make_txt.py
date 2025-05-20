@@ -18,6 +18,13 @@ TXT = {
       ("2024_04_23", {"Алексей:": Speak.Chernov, "Павел:": Speak.Shchelin}),
     ],
   },
+
+  Course.GnosticThinking: {
+    '': [
+      ("gnosticism", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
+      ("modern", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
+    ],
+  },
 }
 
 
@@ -81,6 +88,8 @@ def podcast(folder):
 def main():
     in_search_of_meaning()
     podcast(Course.Chernov)
+    podcast(Course.GnosticThinking)
+
 
 if __name__ == '__main__':
     main()
