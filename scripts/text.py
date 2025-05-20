@@ -8,6 +8,7 @@ class Course:
     Shelest = "Shelest"
     Panchenko = "Panchenko"
     Dudnik = "Dudnik"
+    Chernov = "Chernov"
 
 
 class Speak:
@@ -23,6 +24,7 @@ class Speak:
     Shevchenko = "И.Шевченко"
     Dudnik = "С.Дудник"
     Khazin = "М.Хазин"
+    Chernov = "А.Чернов"
 
 
 def is_complete(sentence):
