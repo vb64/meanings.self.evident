@@ -26,5 +26,5 @@
 - [ ] 00/06 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
-- [ ] 00/07 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/08 [Отдельные беседы.](Singles/README.md)
 - [ ] 00/05 [Эфиры с Чадаевым и Ураловым.](Uralov/README.md) "Чистота Понимания".
