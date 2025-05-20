@@ -1,8 +1,8 @@
 # Лекция 1. Гностицизм как признак Запада
 
-05 мая 2023 [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZDnJdZtpKTfSRtD7frH2TWs0bjCpyqQKVy) 46:41
+13 ноября 2021 [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZDnJdZtpKTfSRtD7frH2TWs0bjCpyqQKVy) 46:41
 
-Первая Лекция из серии "Гностическое Мышление" помогает понять откуда растут корни столь популярный идей "Зеленого Перехода".
+[Первая Лекция](https://hvylya.net/interview/244247-korni-utopii-zelenogo-perehoda-gnosticizm-kak-prizrak-zapadnogo-proekta) из серии "Гностическое Мышление" помогает понять откуда растут корни столь популярный идей "Зеленого Перехода".
 
 **Ю.Романенко:**
 Друзья, всем привет!

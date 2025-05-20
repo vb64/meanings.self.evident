@@ -18,3 +18,8 @@ Ingvar [@Ingvarr_J](https://t.me/Ingvarr_J)
 Наталия Чаплина [@nataliachaplinaa](https://t.me/nataliachaplinaa)
 
 - Эфиры с Алексеем Черновым. [Квантовые парадоксы православия.](/content/Chernov/2024_04_23.md).
+
+["Хвиля"](https://hvylya.net)
+
+- Гностическое Мышление. [Гностицизм как признак Запада](/content/GnosticThinking/gnosticism.md)
+- Гностическое Мышление. [16 век - Рубикон Модерна](/content/GnosticThinking/modern.md)
