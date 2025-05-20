@@ -36,6 +36,10 @@ def proc_line(out, line, speakers):
         line = line.lstrip('—')
     line = line.strip()
 
+    if not line:
+        out.write('\n')
+        return
+
     for sentence in split_to_sentences(line):
         out.write(sentence)
         out.write('\n')
