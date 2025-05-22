@@ -1,0 +1,2364 @@
+1
+00:00:03,740 --> 00:00:03,960
+Speaker 0: 
+
+2
+00:00:05,240 --> 00:00:05,880
+Speaker 1: Hello, everyone.
+
+3
+00:00:06,480 --> 00:00:15,200
+Speaker 1: Today, I have a wonderful guest, Jonathan Pichot, for the second time on my channel, which makes me incredibly privileged and happy.
+
+4
+00:00:16,059 --> 00:00:17,280
+Speaker 1: Thank you, Jonathan, for your time.
+
+5
+00:00:17,540 --> 00:00:18,880
+Speaker 1: You're sincerely welcomed.
+
+6
+00:00:19,780 --> 00:00:21,360
+Speaker 0: No, it's great to see you again, Pavel.
+
+7
+00:00:21,400 --> 00:00:23,120
+Speaker 0: Thank you.
+
+8
+00:00:23,180 --> 00:00:38,280
+Speaker 1: So, what I want to explore today is, in effect, a continuation of our previous conversation, because there are many topics and themes raised back then, like I think it was in May, but there is still much more to explore.
+
+9
+00:00:40,380 --> 00:00:51,780
+Speaker 1: I will put in the link to this video an article, which I published on A Symbolic World, which will be referenced quite often, I think, or at least I hope several times during our study conversation.
+
+10
+00:00:52,040 --> 00:00:56,060
+Speaker 1: And so, for everyone who wants, please take a look.
+
+11
+00:00:56,980 --> 00:00:58,800
+Speaker 1: So, but my first question will be more general.
+
+12
+00:00:59,820 --> 00:01:14,520
+Speaker 1: I noticed that, generally speaking, you tend to avoid talking about, let's say, political phenomenons in most of your conversations, videos, projects.
+
+13
+00:01:14,980 --> 00:01:30,400
+Speaker 1: There are some very huge, notable exceptions, like your ARC paper, which I still... ...recommend to reading, because it was very interesting content for you to a little bit step into the field, but can I ask you a more broad question first?
+
+14
+00:01:30,520 --> 00:01:47,480
+Speaker 1: Could it be that you might think that nowadays we kind of live in a time where political language is simultaneously an opposition to symbolic language and theological language, but also is used as a substitution to it?
+
+15
+00:01:47,920 --> 00:01:48,040
+Speaker 0: Mm-hmm.
+
+16
+00:01:49,840 --> 00:02:01,260
+Speaker 0: Well, I think that my... ...my hesitation to talk about politics is mostly because I don't believe that the solution to our problem lies there.
+
+17
+00:02:02,620 --> 00:02:04,680
+Speaker 0: And so, that's one.
+
+18
+00:02:04,960 --> 00:02:15,020
+Speaker 0: The second one is also because the political in the normal world is something which should be very close to you, right?
+
+19
+00:02:15,680 --> 00:02:16,860
+Speaker 0: It's the life of the polis.
+
+20
+00:02:16,960 --> 00:02:18,660
+Speaker 0: It's the life of the city in which you live.
+
+21
+00:02:18,740 --> 00:02:34,160
+Speaker 0: And it's... ...and it's... ...it's... ...it should be understood as a place where your activity can make a difference, you know, and can be part of the process of people getting along or not getting along or whatever.
+
+22
+00:02:35,300 --> 00:02:50,880
+Speaker 0: And I think that one of the things that's happened, you know, let's say in the 20th century, since World War II, it's accelerating more and more, is the pervasiveness of political discourse on a global scale.
+
+23
+00:02:50,980 --> 00:03:01,380
+Speaker 0: Which is that now we have this situation where we basically are pulled into discussions about what's happening everywhere in the world.
+
+24
+00:03:01,700 --> 00:03:08,140
+Speaker 0: And that is happening both in terms of media, but it's also happening in the West because of immigration.
+
+25
+00:03:08,280 --> 00:03:11,200
+Speaker 0: You know, it's like you go to downtown Montreal.
+
+26
+00:03:11,280 --> 00:03:20,140
+Speaker 0: I went to downtown Montreal a few weeks ago, and there's this huge demonstration of Venezuelans that are demonstrating about Venezuela in Montreal.
+
+27
+00:03:20,240 --> 00:03:27,260
+Speaker 0: And we know... ...that there are constant demonstrations about Palestine everywhere in the rest of the world.
+
+28
+00:03:27,340 --> 00:03:35,060
+Speaker 0: And so one of the things that the kind of globalism has done is that it's made politics everywhere, everywhere, right?
+
+29
+00:03:35,380 --> 00:03:38,260
+Speaker 0: And that is, to me, that is destructive.
+
+30
+00:03:38,380 --> 00:03:46,900
+Speaker 0: It's destructive personally to the person to think that they are always concerned about everything that happens everywhere in the world.
+
+31
+00:03:48,480 --> 00:03:49,720
+Speaker 0: That is destructive to the person.
+
+32
+00:03:49,760 --> 00:03:56,000
+Speaker 0: But I also think it's destructive... ...to the actual polis, which is the actual participation in your everyday life.
+
+33
+00:03:56,080 --> 00:03:58,200
+Speaker 0: So, you know, we have this idea.
+
+34
+00:03:58,320 --> 00:04:03,440
+Speaker 0: And I suffer from the same problem, which is that the real stakes are here at the national level.
+
+35
+00:04:03,880 --> 00:04:05,380
+Speaker 0: You know, Trump versus Harris.
+
+36
+00:04:05,480 --> 00:04:06,980
+Speaker 0: That's what really matters.
+
+37
+00:04:07,380 --> 00:04:12,840
+Speaker 0: But get involved in my own town, in my own community, in my own... Yeah, that's boring.
+
+38
+00:04:12,900 --> 00:04:14,740
+Speaker 0: Like, that doesn't make a difference, right?
+
+39
+00:04:16,339 --> 00:04:20,180
+Speaker 0: So I think that this is one of the reasons why I don't talk.
+
+40
+00:04:20,279 --> 00:04:22,720
+Speaker 0: I don't talk about international politics very much.
+
+41
+00:04:23,140 --> 00:04:24,900
+Speaker 0: Like you said, there are some notable exceptions.
+
+42
+00:04:25,420 --> 00:04:45,960
+Speaker 0: The ARC paper was there mostly because I think that it was there to introduce a different way of thinking about politics, a different way of thinking about identity, which I think is a better solution to the culture war and all the madness that you see of people getting sucked into every little nonsense and, you know, all the political commentators.
+
+43
+00:04:46,920 --> 00:04:53,980
+Speaker 0: Because I kind of follow some of them and I can watch them just, you know, it's just... Hook, bite, and then you go in.
+
+44
+00:04:55,720 --> 00:04:58,460
+Speaker 0: There are bigger questions to ask, like, even in terms of politics.
+
+45
+00:04:58,920 --> 00:05:14,320
+Speaker 0: Sorry, I'm going so long on this, but I think it's important to say at the outset, you know, is also one of the things people don't ask enough is, why am I asked to care about this particular thing right now that has nothing to do with me?
+
+46
+00:05:15,020 --> 00:05:19,740
+Speaker 0: You know, what are the forces which are making me care about this conflict?
+
+47
+00:05:20,540 --> 00:05:23,000
+Speaker 0: And I... I don't even know that this conflict exists.
+
+48
+00:05:23,060 --> 00:05:26,280
+Speaker 0: Like, Somalia is being bombed every day.
+
+49
+00:05:27,160 --> 00:05:28,920
+Speaker 0: I don't even... I never heard about it.
+
+50
+00:05:29,080 --> 00:05:29,820
+Speaker 0: I don't know about that.
+
+51
+00:05:30,360 --> 00:05:30,540
+Speaker 0: What?
+
+52
+00:05:30,820 --> 00:05:31,040
+Speaker 0: Really?
+
+53
+00:05:31,140 --> 00:05:32,340
+Speaker 0: Somalia is being bombed every day?
+
+54
+00:05:32,540 --> 00:05:32,700
+Speaker 0: Yeah.
+
+55
+00:05:32,960 --> 00:05:33,080
+Speaker 0: Yeah.
+
+56
+00:05:33,300 --> 00:05:35,540
+Speaker 0: Somalia is being bombed every day and it's been happening for years.
+
+57
+00:05:36,900 --> 00:05:49,880
+Speaker 0: And this is the situation where you have these weird things where conflicts all of a sudden become salient, artificially, I think, for certain reasons and others have just ignored it and it's on the international scale.
+
+58
+00:05:50,260 --> 00:05:56,240
+Speaker 0: You could say, you know, on the local scale, you know why certain things become salient.
+
+59
+00:05:56,300 --> 00:05:58,080
+Speaker 0: It's because they're relevant to my life.
+
+60
+00:05:58,140 --> 00:06:04,320
+Speaker 0: You know, if the town here decides to put a highway over my house, then I'm going to care about that.
+
+61
+00:06:04,440 --> 00:06:12,240
+Speaker 0: And I'm going to get involved in the polis and involved in the politics and go to the meetings and fight for my participation in this city.
+
+62
+00:06:12,380 --> 00:06:28,440
+Speaker 0: So all of these are the things that people, I think, have to remember, you know, constantly, which is that... I'm Canadian, I'm not American, I am not going to get involved in American politics, or at least very little, because it's just not my country.
+
+63
+00:06:28,480 --> 00:06:30,240
+Speaker 0: Yeah.
+
+64
+00:06:30,280 --> 00:06:34,960
+Speaker 1: I think you raised several important questions in your answer, which is always a great mark.
+
+65
+00:06:35,520 --> 00:06:51,080
+Speaker 1: Basically, and it kind of comes to the problem, which I think is a key issue, is that the language of political, you're absolutely right when you were describing these problems, which comes up to mind when we talk about political issues.
+
+66
+00:06:51,120 --> 00:07:00,560
+Speaker 1: Even as we raise the question of politics or community in modern day language, it's like politics must be something big, something fleshy, something from the outside.
+
+67
+00:07:01,220 --> 00:07:20,000
+Speaker 1: But don't you think that one of the main reasons for it is pretty fundamental, that our very basic understanding of exactly what community is, what the polis is, is simply off the mark and it's been off the mark, let's say, not for like today or yesterday, but for, I would argue, at least 100 years.
+
+68
+00:07:20,920 --> 00:07:30,780
+Speaker 1: And I think the way to help people to understand what I mean by this is to highlight the link between community and community.
+
+69
+00:07:31,440 --> 00:07:34,980
+Speaker 1: And I think that's where the language of symbolism can come into play.
+
+70
+00:07:35,140 --> 00:07:45,700
+Speaker 1: Like, I don't know if you thought about it, but basically it would be interesting to hear your opinion, because I think it's very on the surface if you start thinking about it, but at the same time, it has a very huge implications.
+
+71
+00:07:45,860 --> 00:07:49,900
+Speaker 1: So if you think that community is not just a contract.
+
+72
+00:07:50,420 --> 00:07:50,680
+Speaker 1: Yeah.
+
+73
+00:07:50,720 --> 00:07:53,260
+Speaker 1: It's connected with a bigger reality.
+
+74
+00:07:53,540 --> 00:07:54,340
+Speaker 1: What do you like?
+
+75
+00:07:54,620 --> 00:07:55,080
+Speaker 0: No, I don't.
+
+76
+00:07:55,120 --> 00:07:55,880
+Speaker 1: Do you agree with it?
+
+77
+00:07:56,140 --> 00:07:57,140
+Speaker 0: No, I completely agree.
+
+78
+00:07:57,320 --> 00:08:01,360
+Speaker 0: You know, by the way, for people who haven't read the article, I'm sure you're going to link to it.
+
+79
+00:08:01,760 --> 00:08:20,640
+Speaker 0: It's a great article because it goes into, you know, some of the things that I talk about, you know, but it does it, you know, quoting Hobbes directly and talking, you know, using examples directly in the Enlightenment of how there's a transformation that's being brought about in terms of this notion.
+
+80
+00:08:20,900 --> 00:08:38,900
+Speaker 0: Like you said, of something like the fact that we are these individuals that are free floating and that we need to create a kind of illusion of unity in order to tamper our passions and tamper the wildness of the individual.
+
+81
+00:08:42,020 --> 00:08:47,300
+Speaker 0: And that creates this serious problem, which is definitely the one that we're in now.
+
+82
+00:08:47,700 --> 00:08:51,860
+Speaker 0: And so it's possible even to think you don't necessarily address that.
+
+83
+00:08:51,900 --> 00:09:06,920
+Speaker 0: Directly in your article, which is that the end point of thinking that, right, that we have these kind of artificial constructs that we create in order to tamper us and to, you know, that the end of that is to say, well, couldn't we just have one for all people?
+
+84
+00:09:06,960 --> 00:09:08,020
+Speaker 0: Like, couldn't we just have one?
+
+85
+00:09:08,720 --> 00:09:11,460
+Speaker 0: Couldn't we just have a global state?
+
+86
+00:09:11,500 --> 00:09:14,740
+Speaker 0: Because anyways, it's all a kind of artificial construct anyways.
+
+87
+00:09:14,800 --> 00:09:15,580
+Speaker 0: It doesn't really matter.
+
+88
+00:09:15,960 --> 00:09:21,820
+Speaker 0: You know, and if we could do that, then we could just have one state and then a bunch of free floating.
+
+89
+00:09:21,880 --> 00:09:22,360
+Speaker 0: Individuals.
+
+90
+00:09:22,420 --> 00:09:38,940
+Speaker 1: And that would be a kind of ideal of the of the vision, you know, are well, since you mentioned it, I think basically what we are dealing with and that's why I'm a little bit one can say even pushing you with my question.
+
+91
+00:09:40,500 --> 00:09:49,700
+Speaker 1: We're in a state where we, I think, actually need the language of symbolism and the language of religious philosophy to talk about the most fundamental political things.
+
+92
+00:09:51,140 --> 00:09:51,640
+Speaker 1: Because it's all.
+
+93
+00:09:51,720 --> 00:09:59,900
+Speaker 1: Related to these processes, as you like to say, they are playing out like you cannot understand the drive for this global unification.
+
+94
+00:10:00,120 --> 00:10:08,140
+Speaker 1: You cannot understand the drive for this creation of universal tower or tower of Babel on that says this, like, actually, I think it's happening right now.
+
+95
+00:10:08,220 --> 00:10:15,900
+Speaker 1: There is happening like a big UN summit with something together for the future, where effectively is discussing again another version of the world government.
+
+96
+00:10:15,940 --> 00:10:20,740
+Speaker 1: That's already like this global censorship, this global control over resources, all the things like.
+
+97
+00:10:21,260 --> 00:10:56,860
+Speaker 1: And it's very easy to, let's say, brush it out as madness or exactly to talk about is, let's say, just, for example, like, people, like, to do in the classical political analysis, which you find so annoying that, oh, this is this power group and this one's this and this one's this and that's the secret plan for them to make more money out of this and you're missing the most important thing, I think, which is the actual first on the statement of political theology, because what political theology actually says that all political processes are teeming with one another.
+
+98
+00:10:57,040 --> 00:10:57,140
+Speaker 1: Right.
+
+99
+00:11:03,520 --> 00:11:04,060
+Speaker 1: Right.
+
+100
+00:11:07,360 --> 00:11:07,520
+Speaker 1: Right.
+
+101
+00:11:08,460 --> 00:11:08,860
+Speaker 1: Right.
+
+102
+00:11:09,240 --> 00:11:09,360
+Speaker 1: Right.
+
+103
+00:11:09,400 --> 00:11:09,480
+Speaker 1: Right.
+
+104
+00:11:14,140 --> 00:11:14,260
+Speaker 1: Right.
+
+105
+00:11:14,300 --> 00:11:14,460
+Speaker 1: Right.
+
+106
+00:11:16,460 --> 00:11:16,600
+Speaker 1: Right.
+
+107
+00:11:16,880 --> 00:11:17,040
+Speaker 1: Right.
+
+108
+00:11:17,900 --> 00:11:18,040
+Speaker 1: Right.
+
+109
+00:11:18,660 --> 00:11:18,820
+Speaker 1: Right.
+
+110
+00:11:18,900 --> 00:11:19,040
+Speaker 1: Right.
+
+111
+00:11:19,440 --> 00:11:19,600
+Speaker 1: Right.
+
+112
+00:11:19,720 --> 00:11:19,840
+Speaker 1: Right.
+
+113
+00:11:20,000 --> 00:11:20,120
+Speaker 1: Right.
+
+114
+00:11:20,620 --> 00:11:20,760
+Speaker 1: Right.
+
+115
+00:11:20,880 --> 00:11:21,060
+Speaker 1: Right.
+
+116
+00:11:21,100 --> 00:11:21,820
+Speaker 1: Right.
+
+117
+00:11:22,440 --> 00:11:23,040
+Speaker 1: Right.
+
+118
+00:11:23,080 --> 00:11:23,320
+Speaker 1: Right.
+
+119
+00:11:25,780 --> 00:11:27,580
+Speaker 1: Right.
+
+120
+00:11:27,620 --> 00:11:27,760
+Speaker 1: Right.
+
+121
+00:11:27,980 --> 00:11:28,240
+Speaker 1: Right.
+
+122
+00:11:28,820 --> 00:11:29,000
+Speaker 1: Right.
+
+123
+00:11:29,380 --> 00:11:29,580
+Speaker 1: Right.
+
+124
+00:11:29,680 --> 00:11:29,780
+Speaker 1: Right.
+
+125
+00:11:29,840 --> 00:11:29,940
+Speaker 1: Right.
+
+126
+00:11:30,340 --> 00:11:30,540
+Speaker 1: Right.
+
+127
+00:11:30,580 --> 00:11:31,420
+Speaker 1: Right.
+
+128
+00:11:32,200 --> 00:11:32,320
+Speaker 1: Right.
+
+129
+00:11:36,720 --> 00:11:36,840
+Speaker 1: Right.
+
+130
+00:11:37,200 --> 00:11:37,320
+Speaker 1: Right.
+
+131
+00:11:37,860 --> 00:11:38,080
+Speaker 1: Right.
+
+132
+00:11:39,160 --> 00:11:39,500
+Speaker 1: Right.
+
+133
+00:11:39,760 --> 00:11:40,200
+Speaker 1: Right.
+
+134
+00:11:41,540 --> 00:11:45,340
+Speaker 1: Let's say the key symbolic conflict.
+
+135
+00:11:45,940 --> 00:11:47,560
+Speaker 1: That's how symbolism comes into play.
+
+136
+00:11:47,600 --> 00:11:50,880
+Speaker 1: And I want maybe first for you to explain to other people.
+
+137
+00:11:50,960 --> 00:11:53,720
+Speaker 1: the difference between symbolic and virtual.
+
+138
+00:11:54,060 --> 00:12:04,120
+Speaker 1: I think that's one of the very key understanding to understand the difference between in the nature of political processes, let's say pre-enlightenment, pre-modernity and post-enlightenment, post-modernity.
+
+139
+00:12:04,260 --> 00:12:05,360
+Speaker 1: So if you can help.
+
+140
+00:12:08,100 --> 00:12:10,780
+Speaker 0: I mean, I'm not sure I completely understand your question.
+
+141
+00:12:10,880 --> 00:12:17,880
+Speaker 0: I mean, I'm not sure how it is you want me to, you know, because I think that I want to be careful.
+
+142
+00:12:18,280 --> 00:12:19,560
+Speaker 0: You know, I think...
+
+143
+00:12:19,600 --> 00:12:21,060
+Speaker 1: Okay, I will rephrase basically.
+
+144
+00:12:21,420 --> 00:12:25,940
+Speaker 1: Okay, people, let's say, why symbol is not an illusion?
+
+145
+00:12:27,220 --> 00:12:29,220
+Speaker 1: Why symbol is more than just an illusion?
+
+146
+00:12:29,600 --> 00:12:30,480
+Speaker 0: Yeah, well, yeah.
+
+147
+00:12:30,720 --> 00:12:37,680
+Speaker 0: I mean, I think that like, because you can, a way to understand it is to understand it kind of fractally, right?
+
+148
+00:12:37,860 --> 00:12:43,800
+Speaker 0: As the person and the fact that humans have multiplicity in them.
+
+149
+00:12:43,900 --> 00:12:46,960
+Speaker 0: We have different ideas and Hobbes is right about that, right?
+
+150
+00:12:47,360 --> 00:12:55,240
+Speaker 0: But what he's wrong about and what he doesn't seem, at least in my perception, to understand is that those multiple desires are resolved.
+
+151
+00:12:55,640 --> 00:13:03,520
+Speaker 0: They're resolved in the person and they should be to some extent resolved in the person because that's the vector of unity of those desires.
+
+152
+00:13:03,940 --> 00:13:14,060
+Speaker 0: But once you start to think that in some ways they're out of control, you know, that there's this out of control desires in you and all you are is an unconscious stream of desire.
+
+153
+00:13:14,160 --> 00:13:16,620
+Speaker 0: Not that you're not that because we are that to some extent.
+
+154
+00:13:17,160 --> 00:13:32,280
+Speaker 0: Then exactly this weird idea that the communion between us is not something which is real because he doesn't seem to see it at the level of the person already, right?
+
+155
+00:13:32,320 --> 00:13:35,120
+Speaker 0: And so it's these artificial constructs that are there.
+
+156
+00:13:35,280 --> 00:13:40,080
+Speaker 0: Whereas just as you can know that as a person, sometimes you get pulled in different directions.
+
+157
+00:13:40,120 --> 00:13:41,000
+Speaker 0: You can feel it inside you.
+
+158
+00:13:41,040 --> 00:13:41,800
+Speaker 0: Everybody feels it.
+
+159
+00:13:42,200 --> 00:13:48,460
+Speaker 0: But you can also act with unitary purpose and unitary direction and you can also experience that in you.
+
+160
+00:13:49,080 --> 00:13:57,560
+Speaker 0: And in the same way, humans are, are made to create or to participate in those bodies as persons with each other.
+
+161
+00:13:58,080 --> 00:14:11,700
+Speaker 0: And so the communion of love that you talk about in your article, which is really the true way in which people can bond together towards higher bodies is already something that happens inside you.
+
+162
+00:14:13,000 --> 00:14:18,640
+Speaker 0: And that is, and to imagine the, to imagine these free floating particles, right?
+
+163
+00:14:19,480 --> 00:14:29,100
+Speaker 0: That they're not, by their own multiplicity called to join into unity by that very fact and that there is such a thing as only multiplicity.
+
+164
+00:14:29,180 --> 00:14:33,380
+Speaker 0: That type of, that type of intuition is wrong.
+
+165
+00:14:33,460 --> 00:14:46,680
+Speaker 0: And it creates the problem that we talk about, which is in some ways to understand the state as an artificial constraint that is top down on free floating particles.
+
+166
+00:14:47,060 --> 00:14:49,800
+Speaker 0: Whereas that is not how it happens in you.
+
+167
+00:14:50,320 --> 00:14:51,640
+Speaker 0: That's not how it happens in anything.
+
+168
+00:14:52,180 --> 00:14:54,300
+Speaker 0: And it's also not how it happens in people.
+
+169
+00:14:54,440 --> 00:15:10,500
+Speaker 0: Like the best, you know, people, it's weird how people, even the way that people think about the past, because we're so ruined by media and movies and stories, you know, it's like, you know, a 15th century peasant loved the king.
+
+170
+00:15:11,440 --> 00:15:13,040
+Speaker 0: I know that, I know you don't like that.
+
+171
+00:15:13,300 --> 00:15:15,480
+Speaker 0: I know people don't like that.
+
+172
+00:15:15,540 --> 00:15:15,800
+Speaker 1: I like it.
+
+173
+00:15:15,840 --> 00:15:19,340
+Speaker 0: I know most people don't like that because they think that, that no, it's always just a problem.
+
+174
+00:15:19,380 --> 00:15:20,660
+Speaker 0: It's always depression.
+
+175
+00:15:20,720 --> 00:15:24,100
+Speaker 0: It's always like, no, the 15th century president loved his king.
+
+176
+00:15:24,740 --> 00:15:43,480
+Speaker 0: And the 15th century peasant would excuse the king constantly, even sometimes wrongly would say, oh, the reason why the king is doing this is because he doesn't know, like he doesn't know that there are people around, you know, like this is, and you think that this is, but this is totally natural.
+
+177
+00:15:43,560 --> 00:15:48,940
+Speaker 0: Like this is a natural way because we exist in this body and we have to live in this body.
+
+178
+00:15:49,060 --> 00:16:04,220
+Speaker 0: And therefore, to imagine always our leaders as duplicitous and false and as power hungry only as that, is to destroy the very community in which we live.
+
+179
+00:16:04,780 --> 00:16:11,140
+Speaker 0: And so the way in which, let's say normal ancient societies function was usually like that.
+
+180
+00:16:11,660 --> 00:16:16,720
+Speaker 0: So once in a while, there could be obviously a horrible leader and that can happen.
+
+181
+00:16:16,760 --> 00:16:19,340
+Speaker 1: Quite often, even realistically.
+
+182
+00:16:19,380 --> 00:16:20,500
+Speaker 0: Even, yeah, to be realistic.
+
+183
+00:16:20,560 --> 00:16:21,600
+Speaker 0: Quite often, exactly.
+
+184
+00:16:23,460 --> 00:16:30,080
+Speaker 0: But even if that happened, like you could be caught, like you could be caught by lower forms of this, right?
+
+185
+00:16:30,160 --> 00:16:41,780
+Speaker 0: Like, so let's say you get a really horrible king, but then at the level of a lower level, which is, you know, my town, my city, my parish, my community, then you can get, you can be caught by that, right?
+
+186
+00:16:42,540 --> 00:16:53,080
+Speaker 0: Whereas in this vision of the free-floating passions of the person, you know, it's just, it's illusion, and tyranny all the way, all the way through, you know?
+
+187
+00:16:53,360 --> 00:16:56,200
+Speaker 1: But, go on, go on.
+
+188
+00:16:56,840 --> 00:16:58,940
+Speaker 0: Yeah, but I think that's what you were referring to, right?
+
+189
+00:16:59,020 --> 00:17:10,500
+Speaker 0: Which is that this idea that power structures, that what we consider power structures are just artificial and are not actually natural to the binding of people together.
+
+190
+00:17:11,880 --> 00:17:31,940
+Speaker 1: Well, I was actually referring even to slightly, I would say more general problem, like, which is, what I think underlies, actually, the Hobbesian world, you know, maybe Hobbes per se, but what we developed after it, let's say the Enlightenment project, is even a bigger philosophical debate about what is real.
+
+191
+00:17:32,500 --> 00:17:52,860
+Speaker 1: I will bring it to it, like, because, let's say if you consider that the only real thing is something which is quantifiable and something which is material, then automatically it leaves you with a way fewer, let's say, options for the way you see your society and the failures of your society.
+
+192
+00:17:52,940 --> 00:17:58,720
+Speaker 1: You mentioned it, that, for example, peasants love the king and, like, they even were very tolerant to human mistake.
+
+193
+00:17:59,140 --> 00:18:02,960
+Speaker 1: Well, one of the reason, because they were understanding that it is human.
+
+194
+00:18:03,400 --> 00:18:15,940
+Speaker 1: Like, I know very well, you mean, like, in the folk stories and even, like, ethnography, like, even in the 19th century Russia, basically, the often peasants' attitude towards, let's say, a tsar was pity.
+
+195
+00:18:16,320 --> 00:18:21,540
+Speaker 1: Like, they were pitying him because it's such a heavy, effectively, job to care, it's such a heavy cross to bear.
+
+196
+00:18:21,660 --> 00:18:23,640
+Speaker 1: Like, it was understood as a cross.
+
+197
+00:18:24,380 --> 00:18:26,220
+Speaker 1: And in a sense, it is true.
+
+198
+00:18:26,680 --> 00:18:41,140
+Speaker 1: But if you consider that the whole reality is a mechanism, that everything can be arranged rationally, that everything can be, let's say, created perfectly to minimize the failures, then you create, you end up in this vicious cycle, vicious pattern.
+
+199
+00:18:41,680 --> 00:18:46,460
+Speaker 1: And you lose the most important thing of what the communion is, even while you are still doing it.
+
+200
+00:18:46,580 --> 00:18:49,620
+Speaker 1: I think that's the key problem, the key problem.
+
+201
+00:18:49,720 --> 00:18:51,460
+Speaker 0: Reduce communion to bureaucracy.
+
+202
+00:18:51,720 --> 00:19:27,100
+Speaker 0: Like, exactly, that's exactly what we saw in the modern state, which is the reality of people living together and having to negotiate and to share and to have conflicts and all of that, you know, and that out of that, you need, obviously, to have certain people that are legislators, that are rulers or whatever, but to transform that into a machine, like you said, a bureaucracy of management, you know, of management, of statistics, of people, you know, it leads to, I mean, yeah, it leads to what we have to learn.
+
+203
+00:19:27,200 --> 00:19:31,600
+Speaker 1: However, like, I think it's not even that, it's important to understand now, but it's only a first step.
+
+204
+00:19:31,660 --> 00:19:39,720
+Speaker 1: And that's what I think, I try to convey in maybe future conversations to go into deeper, because I think it's only tier one illusion.
+
+205
+00:19:40,500 --> 00:19:49,640
+Speaker 1: Like, the truth is that despite that that's what we think the community and politics is, we act in a completely different reality.
+
+206
+00:19:50,220 --> 00:20:00,080
+Speaker 1: And what I mean is like I say, we can change the basic principles of any, all of the functions of an annuity, and for this, I'm very grateful for your question.
+
+207
+00:20:00,180 --> 00:20:06,900
+Speaker 1: Like, basically what I'm saying, regardless whether we think that a political community is a church, it is still a church.
+
+208
+00:20:07,300 --> 00:20:08,480
+Speaker 1: You might not think it is.
+
+209
+00:20:08,900 --> 00:20:11,220
+Speaker 1: You might pretend it's a rational agreement.
+
+210
+00:20:11,580 --> 00:20:21,840
+Speaker 1: You might pretend that it is like something we, like rational beings signed up here, but it still functions, according to the laws of political theological reality.
+
+211
+00:20:21,940 --> 00:20:24,600
+Speaker 1: It still functions as an effective church.
+
+212
+00:20:24,960 --> 00:20:27,900
+Speaker 1: It still is united by the same sacred center.
+
+213
+00:20:28,320 --> 00:20:29,900
+Speaker 1: And it is exactly sacred.
+
+214
+00:20:30,040 --> 00:20:34,720
+Speaker 1: And the very simple answer to it, like how to prove it, let's say to demonstrate, is the attitude.
+
+215
+00:20:35,020 --> 00:20:36,480
+Speaker 1: You don't treat it rationally.
+
+216
+00:20:36,840 --> 00:20:38,280
+Speaker 1: You treat it as something as a holy.
+
+217
+00:20:38,680 --> 00:20:41,380
+Speaker 1: In case of America, for example, it's the Declaration of Independence.
+
+218
+00:20:41,800 --> 00:20:43,200
+Speaker 1: It's not just a paper.
+
+219
+00:20:43,700 --> 00:20:45,160
+Speaker 1: It's the same as the covenant.
+
+220
+00:20:45,420 --> 00:20:46,920
+Speaker 1: It's the same as the Ark of Covenant.
+
+221
+00:20:47,340 --> 00:20:49,080
+Speaker 1: Like, and it functions in the same way.
+
+222
+00:20:49,440 --> 00:20:53,020
+Speaker 1: But we don't have the language to talk about it in the same way.
+
+223
+00:20:53,500 --> 00:20:57,260
+Speaker 1: And that's a huge gray zone where many different tricks are happening.
+
+224
+00:20:57,940 --> 00:21:18,500
+Speaker 0: Yeah, but you could also kind of see it as a progressive erosion, though, of that way of functioning, which is that, you know, let's say, and it's manifested in the breakdown, let's say in the spreading out of the, let's say of the suburbs.
+
+225
+00:21:18,800 --> 00:21:19,380
+Speaker 0: I always use that.
+
+226
+00:21:19,420 --> 00:21:23,820
+Speaker 0: That example is a good example because, you know, my suburb has no identity.
+
+227
+00:21:24,060 --> 00:21:25,880
+Speaker 0: Like no one cares about it.
+
+228
+00:21:25,960 --> 00:21:27,300
+Speaker 0: It has no say center.
+
+229
+00:21:27,500 --> 00:21:30,820
+Speaker 0: It has no, you know, you barely know who the mayor is.
+
+230
+00:21:30,900 --> 00:21:35,660
+Speaker 0: Doesn't really matter because they're all being managed by the state anyways.
+
+231
+00:21:35,720 --> 00:21:40,200
+Speaker 0: And that's where they get most of the funds seem to come from there more than even from the taxes.
+
+232
+00:21:40,260 --> 00:21:47,060
+Speaker 0: And so there's this like weird top-down thing that happens even in terms of our communities, you know?
+
+233
+00:21:47,100 --> 00:21:49,660
+Speaker 0: And so then it gets projected higher up.
+
+234
+00:21:51,000 --> 00:22:00,640
+Speaker 0: You know, and America is a good example of one that's holding to some extent, but in Canada, we, you know, Trudeau said we're a post-national nation.
+
+235
+00:22:01,340 --> 00:22:04,300
+Speaker 0: We're a nation of openness.
+
+236
+00:22:04,620 --> 00:22:07,640
+Speaker 0: Like our only value is inclusion.
+
+237
+00:22:08,920 --> 00:22:16,360
+Speaker 0: And so it's like, it's, you know, and it's very dangerous to the existence of the, it's a very dangerous to the cohesion of our society.
+
+238
+00:22:16,400 --> 00:22:18,000
+Speaker 0: It's a very dangerous to the cohesion of our society.
+
+239
+00:22:18,040 --> 00:22:19,920
+Speaker 0: It's a very dangerous to the cohesion of our society, right?
+
+240
+00:22:19,980 --> 00:22:21,100
+Speaker 0: To move in that direction.
+
+241
+00:22:22,180 --> 00:22:24,220
+Speaker 0: Because you're right that we need those.
+
+242
+00:22:24,900 --> 00:22:29,700
+Speaker 0: We need some kind of center to recognize who we are and how we participate.
+
+243
+00:22:30,100 --> 00:22:35,980
+Speaker 0: But as we kind of deconstruct them, you know, possibly the purpose is again to put them higher, right?
+
+244
+00:22:36,080 --> 00:22:38,220
+Speaker 1: Like you- Well, versus definitely to put them higher.
+
+245
+00:22:38,400 --> 00:22:40,260
+Speaker 1: But I think it's weird, basically.
+
+246
+00:22:40,940 --> 00:22:43,100
+Speaker 1: Sorry, maybe I didn't convince this idea correctly.
+
+247
+00:22:43,220 --> 00:22:45,460
+Speaker 1: I think even need is not wrong enough.
+
+248
+00:22:45,500 --> 00:22:47,540
+Speaker 1: It's not just the fact that we need these centers.
+
+249
+00:22:47,880 --> 00:22:54,600
+Speaker 1: It's the fact that we end up having them no matter what we think we know, no matter what we think it is.
+
+250
+00:22:54,740 --> 00:22:57,880
+Speaker 1: And in case of the, you brought the idea, for example, of inclusion.
+
+251
+00:22:58,860 --> 00:23:07,680
+Speaker 1: Basically, as you well know, the human nature and the human creativity is very talented in creating idols out of literally anything.
+
+252
+00:23:07,820 --> 00:23:11,980
+Speaker 1: So inclusion can become the idol around which you're trying to center your community.
+
+253
+00:23:12,540 --> 00:23:18,360
+Speaker 1: But you think about it as just, let's say a neutral value or as a sort of a rational thought processes.
+
+254
+00:23:18,680 --> 00:23:24,340
+Speaker 1: You don't interact with it as with idol, but it interacts with you as an idol.
+
+255
+00:23:24,380 --> 00:23:33,460
+Speaker 0: Inclusion is literally like, etymologically inclusion is a diabolical center because it is division.
+
+256
+00:23:33,660 --> 00:23:36,620
+Speaker 0: Like you can't make multiplicity the center.
+
+257
+00:23:36,780 --> 00:23:37,800
+Speaker 0: Like that's not possible.
+
+258
+00:23:38,380 --> 00:23:44,280
+Speaker 0: That is how you destroy something is to say, I'm gonna make the purpose of my car inclusion.
+
+259
+00:23:44,360 --> 00:23:44,480
+Speaker 0: What?
+
+260
+00:23:44,520 --> 00:23:45,720
+Speaker 0: You're gonna make the purpose of your car inclusion?
+
+261
+00:23:45,780 --> 00:23:47,660
+Speaker 0: So it's like, I'm gonna make the purpose of your car inclusion.
+
+262
+00:23:48,320 --> 00:23:56,060
+Speaker 0: I'm gonna start like putting branches on it and like just adding stuff to it because I don't know what the purpose of it except for it to be inclusion.
+
+263
+00:23:56,840 --> 00:23:58,140
+Speaker 0: Nothing can function that way.
+
+264
+00:23:58,280 --> 00:24:23,020
+Speaker 0: It's like, it is a destructive gesture, but there is something obviously unconsciously, there are still things that act as these weird, even that, like it acts as a illusion of a center for a while, but ultimately it's leading to our, it's leading to something else taking its place.
+
+265
+00:24:23,060 --> 00:24:29,500
+Speaker 0: I don't know what exactly, but something has to come and fill the vacuum because you can't have, you can't have inclusion as an identity.
+
+266
+00:24:29,740 --> 00:24:31,660
+Speaker 0: It's just, that's a, it's a non-starter.
+
+267
+00:24:32,360 --> 00:24:35,220
+Speaker 1: Well, you will have basically the returnable gods.
+
+268
+00:24:35,540 --> 00:24:37,820
+Speaker 1: Like, because that's, I think is the ultimate trick.
+
+269
+00:24:37,880 --> 00:24:39,020
+Speaker 1: Like it's a second level trick.
+
+270
+00:24:39,100 --> 00:24:44,760
+Speaker 1: And like originally, like it takes generally quite a while normally to explain, but I think you will get it pretty quickly.
+
+271
+00:24:46,000 --> 00:24:53,440
+Speaker 1: The trick is that we, we act, let's say as if, so what's the project of modernity?
+
+272
+00:24:53,800 --> 00:24:55,180
+Speaker 1: What is the project of enlightenment?
+
+273
+00:24:55,300 --> 00:25:02,540
+Speaker 1: Like is that what you put in your theological and teleological foundations, the logos of a community and every community is structured around a logos.
+
+274
+00:25:02,780 --> 00:25:07,920
+Speaker 1: Like as you will know, it reflects the logos and it's moving towards the logos simultaneously.
+
+275
+00:25:07,980 --> 00:25:09,800
+Speaker 1: And in this movement, it becomes a community.
+
+276
+00:25:10,640 --> 00:25:17,500
+Speaker 1: And the idea of enlightenment, the idea of modernity, the idea of hopes out of fear, as we discussed, because humans cannot be trusted, basically.
+
+277
+00:25:17,960 --> 00:25:19,960
+Speaker 1: So we don't put a real logos.
+
+278
+00:25:20,140 --> 00:25:31,260
+Speaker 1: Let's say, what I mean by real logos, if you talk to, let's say an ancient tribe, and you say that they have their animal totem or their ancestor totem, they act to it as real.
+
+279
+00:25:31,480 --> 00:25:33,560
+Speaker 1: Even Zeus is real for an ancient Greek.
+
+280
+00:25:33,820 --> 00:25:35,700
+Speaker 1: It's not, Zeus is not an illusion.
+
+281
+00:25:36,140 --> 00:25:39,020
+Speaker 1: The mammoth head on a stick, it's not an illusion.
+
+282
+00:25:39,100 --> 00:25:43,200
+Speaker 1: It's a real, so, and the people are united about this thing as it's a real thing.
+
+283
+00:25:43,280 --> 00:25:46,100
+Speaker 1: It's an invisible thing, but it's a real thing.
+
+284
+00:25:46,600 --> 00:25:47,200
+Speaker 1: The idea of modernity.
+
+285
+00:25:47,240 --> 00:25:49,360
+Speaker 1: Modernity is like, we are above this.
+
+286
+00:25:49,840 --> 00:25:53,140
+Speaker 1: It's a simple story, it's a dumb folk story tale.
+
+287
+00:25:53,240 --> 00:26:00,700
+Speaker 1: So we're putting an illusion, a simulacrum, a construct, a whole, et cetera, et cetera, et cetera, which I call virtual.
+
+288
+00:26:00,760 --> 00:26:01,740
+Speaker 1: Like, that's what I kinda mean.
+
+289
+00:26:01,820 --> 00:26:05,140
+Speaker 1: So it's virtual in the sense that we created it and we understand that it is an illusion.
+
+290
+00:26:05,800 --> 00:26:11,420
+Speaker 1: We know that it is an illusion, but we expect it to act as if it's a real.
+
+291
+00:26:12,020 --> 00:26:16,640
+Speaker 1: And that's why our understanding of this process is effectively wrong.
+
+292
+00:26:16,940 --> 00:26:19,260
+Speaker 1: I'm constantly surprised why it's not working.
+
+293
+00:26:19,460 --> 00:26:25,120
+Speaker 1: Like, it's effectively a world which has cut itself from the heaven.
+
+294
+00:26:25,700 --> 00:26:31,060
+Speaker 1: It's a world that deliberately cut itself from the heaven and creates a simulacrum of a heaven on the lower level.
+
+295
+00:26:31,440 --> 00:26:34,820
+Speaker 1: And all political projects of the last 400 years are this.
+
+296
+00:26:35,560 --> 00:26:38,080
+Speaker 1: Like, all of them are just different variations of this.
+
+297
+00:26:38,740 --> 00:26:40,340
+Speaker 0: Yeah.
+
+298
+00:26:40,380 --> 00:26:47,240
+Speaker 0: Yeah, I mean, I agree that the, and it's, you know, it's one version of the existentialist nonsense, right?
+
+299
+00:26:47,320 --> 00:26:58,340
+Speaker 0: This idea that Sisyphus would just continue to roll his rock up the hill even though he knows that it's gonna come back down and he knows that there's nothing up there, right, that will bind him to a purpose.
+
+300
+00:26:59,440 --> 00:27:03,680
+Speaker 0: You know, that's not, that's not, how can I say this?
+
+301
+00:27:03,740 --> 00:27:08,300
+Speaker 0: Like, you act, it runs out, right?
+
+302
+00:27:10,460 --> 00:27:10,900
+Speaker 1: It runs out.
+
+303
+00:27:11,060 --> 00:27:12,760
+Speaker 1: It runs out, and it has to speed up.
+
+304
+00:27:12,800 --> 00:28:35,240
+Speaker 1: And it's like basically a metaphor, and I think this can be used as effectively directory it constantly needs more and it reminds that's why these projects are becoming shorter with each with each iteration if you notice that the new big flash idea but at the same time that's why you can maybe never thought about it but i think that's actually the reason why let's say all and that's what i think is not this is it's partially what is gnosticism is uh this like creation of this like virtual realities and like political gnosticism like we know the secret let's say knowledge of ideal of illusion of dialectics and we move it forward et cetera et cetera but that's why it's so important for us to control the speech because those who control the speech those who control the discourse they control is an illusion and it is very ironic because we expect that we will seriously discuss and read something which is we understand which is which doesn't really exist as if it is the most important and as if it's the most like in our life as this inclusion is just the biggest let's say the most uh visible example on you know on the modern level but it was before let's say class let's treat class as the most important oh let's treat race as the most important thing and it's it's going when it's going on but at the same time it's only on the surface level uh at least that's what do you
+
+305
+00:28:35,380 --> 00:29:01,580
+Speaker 0: think is driving this because this is i guess that's a good question right to say you know because one of the things you see in in your article and you describe i think very well is in some ways when you talk about game of thrones in the article you all actually represent a character i haven't watched game of thrones but one of the characters basically knows that this is an illusion they know that this whole thing is a charade but they do it nonetheless
+
+306
+00:29:03,280 --> 00:30:36,980
+Speaker 1: uh i would say two two answers one is uh simple another is more exactly theological simple answer is the uh is this exactly philosophical uh they are we need to understand that the foundation of all political processes of modernity is fear and hope starts with fear because that's why it's so important to understand the time where he's coming from he's coming from a time of religious wars that's a very uncomfortable truth about human nature that when you believe in something with your whole heart it can lead to a lot of violence the notion of martyr is the same as the witness effectively to witness an idea is to be ready to die for an idea let's say or to die in the pursuit of an idea and it can lead to a very massive things let's say 100 years of religious war in europe not good so basically what i think it's partially started out of good intention and the good intention went well if climbing towards the heaven is so painful and there is so much blood in the process let's just subdues this thing we are afraid of it we are afraid of human nature when generally are afraid of human nature because the father can be oppressive the mother can strangle his baby etc etc etc at the same time the political structure can result in the genius side we are afraid of it so let's substitute it with something we think we can control so we cannot control a human card but we think we can control an institution that's what i think is one half of the answer and that's kind of let's say good intention at least half of the answer
+
+307
+00:30:39,680 --> 00:30:48,400
+Speaker 0: and so but so safety would be your safety so basically we just need to preserve ourselves like just yeah
+
+308
+00:30:48,740 --> 00:31:42,400
+Speaker 1: the comfort let's say that's why it develops into what let's say sergey bulgakov it's one of the russian philosophers of the early 20th century because it's amor lotsi the love for a place so the love so let's cut let's close the heaven for ourselves let's focus on what is below and let's try to make it as nice as comfortable as safe as controllable as we possibly can like that one of the half of the answer that's what the good intention is but the uncomfortable truth and that's what i think people don't understand even when they're involved in these processes that what is really happening is uh even a bigger trick and to understand it i think you need to go a little bit to the art i know you're uh one of your favorite bands is dirt poor robins and do you do you remember like their enchanted song they have this uh quote like and if we cannot raise the dead we're gonna raise hell instead yeah yeah
+
+309
+00:31:42,440 --> 00:31:43,160
+Speaker 0: yeah yeah no but i think that's
+
+310
+00:31:43,200 --> 00:32:25,860
+Speaker 1: what the good intention is and that's what i think that if you're answering what is happening so that's is happening because not only visible things are real in political reality basically this logos around which the political community united and that's why i brought the example of a tribe they are not just ideas that are embodied ideas let's say they are principalities they are demons they are angels and they are acting as well and that's what i think is honestly what is playing out so thinking that you control this that was that's why this image of pollen is so important so you think you are trying to create safety you think you are trying to create this mechanism but what in this fact you are becoming the vessel for the spirits you can't even
+
+311
+00:32:26,040 --> 00:33:06,500
+Speaker 0: okay i understand yeah so basically what you're saying what you seem to be to be suggesting is that in the desire to be safe and secure and you know in control and and you know uh to protect ourselves which makes sense in this desire to cover ourselves then we become the vehicle for forces that uh that we don't even maybe even know we like we we we you know because there are other agencies acting on us like there are other patterns playing through us and then people don't even realize what's going on and that is that what you meant when you said the return of the gods yes okay
+
+312
+00:33:06,800 --> 00:35:04,780
+Speaker 1: yes that's what i meant by the return of the pagan gods uh or demons etc because we lost that's what i like about this let's say medieval political language they in their worldview they do have place for this and they understand that different forces can be played they for example can say something well we sinned that's why this calamity has fallen upon us like it's not a ridiculous phrase to say and it is a very smart uh things to say because ultimately a community is what it remembers and one can say it's a community is a reflection of an idol or a god of a principality or a logos it is oriented towards or it's prayed towards but we lost this language in a pursuit of safety because the pursuit of this higher original the pursuit of the higher purpose is kind of false problem of uh waiting for the second it's kind of connected with the millennia reason if you go deep into the medieval history basically long story short i think people got tired of waiting for the second coming they tried to build it on with its own hands in a process they created a lot of mess like you don't want to be in the 16th century europe it's really a lot of mess and they started to desire safety but the problem is it's not just we here who are in place the prince basically principalities have agency ultimately and i don't i know i don't need to persuade you in this but uh like it is what is playing out uh uh in a political process but the modern political sense simply cannot talk about it nevertheless it is what is happening that's why it becomes very ironic as in the sense in that sense as the uh striving is smarter than more than let's say uh president because tribe knows that when it prays to the god of its tribe it treats it as a god whereas when modern president talks about diversity equity inclusion or the green new deal they don't know that they are praying but they are and that's what i think the ultimate difference like if you want to put this way yeah
+
+313
+00:35:04,820 --> 00:36:16,160
+Speaker 0: yeah yeah and i'm trying to see the mechanism that you're describing i mean i kind of see it it's a little bit of a like it's a it's not totally clear to me but let's let's play out it let's give it let's give an example let me let me try to play out an example tell me what you think and so the easiest one is greed for example like money would be an easy one uh which is that people say oh well we need to be comfortable we need to be safe like we want to to basically make this right uh and in order to do that without knowing it they unleash let's say a an action in the world of of uh an intention to really give a little bit of a chance to the market and to really accelerate let's say economy in a way that you see happening and this kind of desire to accumulate money and to accumulate goods and to do all that and that becomes its own thing that now nobody can control like nobody who who knows what the market is like nobody knows what the market is nobody nobody knows what the stock market is with these we are completely subservient to it and then someone announces on the on the news well the stock market crashed today People will lose their houses.
+
+314
+00:36:16,940 --> 00:36:19,580
+Speaker 0: All these things are going to happen because the stock market crashed.
+
+315
+00:36:20,040 --> 00:36:22,480
+Speaker 0: And nobody knows what the causalities are.
+
+316
+00:36:22,540 --> 00:36:28,200
+Speaker 0: We're completely subservient to this thing that nobody can control, nobody can understand.
+
+317
+00:36:28,720 --> 00:36:32,600
+Speaker 1: Yeah, even in this example, it can be put in even more direct terms, let's say.
+
+318
+00:36:32,680 --> 00:36:39,600
+Speaker 1: So we said that the increasing of human well-being is the ultimate purpose of a state, for example.
+
+319
+00:36:39,800 --> 00:36:41,040
+Speaker 1: That's the phrase which is often heard.
+
+320
+00:36:41,120 --> 00:36:42,680
+Speaker 1: So let's say the material well-being.
+
+321
+00:36:43,680 --> 00:36:49,940
+Speaker 1: Well, and for this material well-being, we sacrifice literally, we bring sacrifices, like literal sacrifices.
+
+322
+00:36:50,000 --> 00:36:53,940
+Speaker 1: We sacrifice time, we sacrifice future, we sacrifice kids, quite literally.
+
+323
+00:36:54,300 --> 00:36:57,340
+Speaker 1: Let's say we sacrifice communities, et cetera, et cetera, et cetera.
+
+324
+00:36:57,760 --> 00:37:09,240
+Speaker 1: And we expect, like whether we admit it or not, that as a result of these sacrifices, we will receive this gold, increase of GDP, increase of this, et cetera, et cetera, et cetera.
+
+325
+00:37:09,780 --> 00:37:12,600
+Speaker 1: And the fun thing is that we treat, that we can.
+
+326
+00:37:12,740 --> 00:37:18,520
+Speaker 1: Talk about this and we are doing the things we can talk about what we are doing because we think we are just following the numbers.
+
+327
+00:37:19,000 --> 00:37:19,600
+Speaker 1: That's what I mean.
+
+328
+00:37:20,060 --> 00:37:27,620
+Speaker 1: So but it is a very multi-tier, like we can talk about quite easily right now because obviously you've been working on symbolism for so long.
+
+329
+00:37:27,680 --> 00:37:40,960
+Speaker 1: But, you know, if you try to explain this pattern, even though it's quite visible and it's not really hard to explain that when you are, you are literally bringing sacrifices for the god of comfort, you are literally doing it.
+
+330
+00:37:41,560 --> 00:37:42,640
+Speaker 1: But like.
+
+331
+00:37:42,700 --> 00:37:44,960
+Speaker 1: It looks, but you don't understand that you are doing it.
+
+332
+00:37:45,060 --> 00:37:50,420
+Speaker 1: You think you are doing just what a human economics should do, for example, or what irrational things should do.
+
+333
+00:37:50,640 --> 00:37:51,860
+Speaker 1: And that's that's what I mean.
+
+334
+00:37:51,980 --> 00:37:54,380
+Speaker 1: And that's happening on all different levels.
+
+335
+00:37:54,720 --> 00:37:56,760
+Speaker 1: Basically, I think it's an escapeable thing.
+
+336
+00:37:56,880 --> 00:38:04,840
+Speaker 1: That's what I think is the most humbling to get for many people, because exactly this desire to control this desire for safety.
+
+337
+00:38:04,920 --> 00:38:11,980
+Speaker 1: We wanted to create our own god, like effectively what Leviathan is, what I'm sorry, what even an American Declaration of Independence.
+
+338
+00:38:12,160 --> 00:38:12,820
+Speaker 1: This great.
+
+339
+00:38:12,860 --> 00:38:16,900
+Speaker 1: Creator who endowed with certain inalienable rights is kind of also not there.
+
+340
+00:38:17,180 --> 00:38:17,960
+Speaker 1: He's not present.
+
+341
+00:38:18,020 --> 00:38:19,560
+Speaker 1: OK, he's in doubt and then he's gone.
+
+342
+00:38:19,600 --> 00:38:21,880
+Speaker 1: So it's still kind of we are in control of these things.
+
+343
+00:38:22,420 --> 00:38:26,080
+Speaker 1: But the truth is that these things, you can never be in control of them truly.
+
+344
+00:38:27,080 --> 00:38:28,520
+Speaker 1: And that's the main part.
+
+345
+00:38:28,560 --> 00:38:41,200
+Speaker 1: And that's what I think the bridge of this, that's what I'm trying to achieve and hopeful to work on this discipline exactly to bring to bring the bridge between these two languages in a similar manner that you do.
+
+346
+00:38:41,380 --> 00:38:42,360
+Speaker 1: But in a slightly.
+
+347
+00:38:42,880 --> 00:38:53,220
+Speaker 1: But in the different aspect, because because there is a very uncomfortable truth, I don't know if you noticed it on like, I don't know, have you ever watched like horror movies like recently or something like this?
+
+348
+00:38:53,520 --> 00:38:54,200
+Speaker 0: Not recently.
+
+349
+00:38:54,260 --> 00:38:58,220
+Speaker 0: I watched horror movies when I was younger, but I don't think I don't remember the last horror movie I watched.
+
+350
+00:38:58,260 --> 00:39:06,080
+Speaker 1: OK, it's just that there is a very interesting pattern falling there right now is that effectively the heavens are closed, but the hell is right here.
+
+351
+00:39:06,960 --> 00:39:12,240
+Speaker 1: And that's what I think is the ultimate, like the demons, the supernatural, the evil entities, they're all there.
+
+352
+00:39:12,360 --> 00:39:16,780
+Speaker 1: Like, and there is a conflict of a rational mind with all of the sentences that cannot get it.
+
+353
+00:39:16,860 --> 00:39:21,220
+Speaker 1: Like there is like psychiatrists tries to understand whether it's schizophrenia or not schizophrenia.
+
+354
+00:39:21,840 --> 00:39:25,400
+Speaker 1: But in a way, it is a similar pattern.
+
+355
+00:39:25,460 --> 00:39:28,240
+Speaker 1: What is happening in our understanding of political realities?
+
+356
+00:39:29,080 --> 00:39:37,720
+Speaker 1: Because after we closed the heavens, like as a metaphor and tried to focus on what is imminent, we couldn't stay there.
+
+357
+00:39:38,300 --> 00:39:39,540
+Speaker 1: Like, I mean, if you can.
+
+358
+00:39:40,280 --> 00:39:42,200
+Speaker 1: But we made ourselves open from.
+
+359
+00:39:42,240 --> 00:39:47,680
+Speaker 1: The things below and we cannot escape, but becoming a vessel on an individual and collective levels.
+
+360
+00:39:47,980 --> 00:39:48,680
+Speaker 1: That's what it is.
+
+361
+00:39:49,040 --> 00:39:49,900
+Speaker 0: No, I mean, that's totally right.
+
+362
+00:39:50,180 --> 00:39:54,260
+Speaker 0: I mean, René Guénon talked about this a long time ago in Reign of Quantity.
+
+363
+00:39:54,360 --> 00:39:57,480
+Speaker 0: He talks about he says he calls it fissures in the Great Wall.
+
+364
+00:39:57,620 --> 00:40:08,580
+Speaker 0: You know, he has he says that the from the Enlightenment and the scientific moment, you know, we have this idea that we we close ourselves off from anything, any spiritual influence.
+
+365
+00:40:08,620 --> 00:40:11,480
+Speaker 0: And the truth is that we did to some extent and it worked.
+
+366
+00:40:12,060 --> 00:40:14,160
+Speaker 0: And that's why that's why there are no miracles.
+
+367
+00:40:14,200 --> 00:40:20,140
+Speaker 0: That's why a lot of people, you know, they don't necessarily they can't kind of see they don't understand when they read medieval texts.
+
+368
+00:40:20,180 --> 00:40:25,340
+Speaker 0: They don't even know what it's talking about, because it's like it's it's referring to some other reality that we even don't have access to.
+
+369
+00:40:25,460 --> 00:40:31,840
+Speaker 0: But like you said, the cracks are have been appearing now since at least World War Two, I would say from World War Two on.
+
+370
+00:40:32,300 --> 00:40:35,420
+Speaker 0: And the fissures in the wall are just spreading and spreading.
+
+371
+00:40:35,920 --> 00:40:41,720
+Speaker 0: The I had never thought about the idea of that horror movies are in some ways like one of the manifestations of that where it.
+
+372
+00:40:41,760 --> 00:40:52,280
+Speaker 0: It plays out in the story of the horror movie, which is exactly what you said, which is the story of the horror movie is the rational being against the demons.
+
+373
+00:40:52,780 --> 00:40:54,200
+Speaker 0: How can I believe in these things?
+
+374
+00:40:54,580 --> 00:40:55,520
+Speaker 0: This is impossible.
+
+375
+00:40:55,880 --> 00:40:58,020
+Speaker 0: It's still happening, even though I think it's not possible.
+
+376
+00:40:58,160 --> 00:40:58,920
+Speaker 0: All of these things.
+
+377
+00:40:59,000 --> 00:41:05,000
+Speaker 0: And there's no appeal to God, you know, in the in the heaven is closed.
+
+378
+00:41:05,140 --> 00:41:06,980
+Speaker 1: That's kind of this is the main feeling we have.
+
+379
+00:41:07,260 --> 00:41:10,920
+Speaker 1: And but but it's necessary close because we have all of them.
+
+380
+00:41:11,100 --> 00:41:11,500
+Speaker 1: We forgot.
+
+381
+00:41:11,540 --> 00:41:11,600
+Speaker 1: The.
+
+382
+00:41:11,680 --> 00:41:14,380
+Speaker 1: Most basic political, political, theological truth.
+
+383
+00:41:14,440 --> 00:41:19,780
+Speaker 1: And just to demonstrate, because if you don't mind, like, if you have a little bit of time, I just want to demonstrate a couple images.
+
+384
+00:41:20,060 --> 00:41:22,380
+Speaker 1: Like what I mean, that is the ultimate reality.
+
+385
+00:41:22,580 --> 00:41:32,520
+Speaker 1: Basically, the basic thesis is like whether you like it or not, what actually holds community together is a religion is a covenant and covenant is a religious by nature.
+
+386
+00:41:32,980 --> 00:41:36,740
+Speaker 1: And to show you the images and then the question becomes, what holds the covenant?
+
+387
+00:41:37,200 --> 00:41:38,960
+Speaker 1: And actually, there are a lot of imagery like which.
+
+388
+00:41:39,000 --> 00:41:39,300
+Speaker 1: The author wrote.
+
+389
+00:41:39,360 --> 00:41:42,220
+Speaker 1: I think it was the author's first book, but it's been around for quite a while.
+
+390
+00:41:42,440 --> 00:41:43,500
+Speaker 1: And the author is not the only author.
+
+391
+00:41:43,560 --> 00:41:47,380
+Speaker 1: The author wrote a lot of imagery that I think was quite well in the shows that even though we don't know this, our ancestors did it.
+
+392
+00:41:47,420 --> 00:41:51,200
+Speaker 1: Like here is, for example, a sculpture like over an icon.
+
+393
+00:41:51,580 --> 00:41:51,880
+Speaker 1: Can you see?
+
+394
+00:41:51,920 --> 00:41:52,960
+Speaker 0: Well, yeah.
+
+395
+00:41:53,020 --> 00:41:53,540
+Speaker 0: Yeah, yeah, yeah.
+
+396
+00:41:53,600 --> 00:41:54,240
+Speaker 0: I know that.
+
+397
+00:41:56,260 --> 00:41:58,260
+Speaker 1: But if you notice, it's very interesting idea.
+
+398
+00:41:58,360 --> 00:41:58,940
+Speaker 1: So that's a St.
+
+399
+00:41:59,000 --> 00:41:59,780
+Speaker 1: Nicholas of Mose.
+
+400
+00:41:59,920 --> 00:42:01,900
+Speaker 1: It's like, it's like, it's a sculpt.
+
+401
+00:42:02,080 --> 00:42:03,360
+Speaker 1: Originally sculpture as a result.
+
+402
+00:42:03,760 --> 00:42:04,440
+Speaker 1: And I conversion.
+
+403
+00:42:06,160 --> 00:45:15,480
+Speaker 1: here that it's a city of morais let's let's say so but that's a very visible reflection of what uh the nature of political community is like it's not just about church like in any political community that is there is this religious element and the saint holds like the city the principality holds the city or if you want to go let's say uh basically the derivative from from it would be first an idea holds the city but that i think is very what kind of tried to bring this like to pretend to be scientific and not still going to the crux of it because then the reasonable question was an idea whose idea is holding how it's false etc etc etc whereas like you can see in this imagery that like it's pretty clear that the principality the logos was holding the unity together and once you remove this once once you stop this idea of a city which is you see in the border and it's but it's not holding itself by itself it's effectively still hold by something external and you can see it's an imagery and the ultimate imagery of it i would say is a very interesting idea like you know that uh the image of pantocrator like the is a cry the christ which holds things together well in uh there is a story which i cannot actually show you the image because it was destroyed in world war ii but there was a story in the city of novgorod on the most ancient russian cities and there were artists were painting uh this image on the tallest part of the cathedral uh and no matter how hard they tried to do instead of a blessing gesture uh the hand of the lord was always kind of in a holding position it was like as if it holds things like and uh according to the legend that there was after like four attempts there was a voice from above that so there was a voice from above that said stop doing it i am holding this city like and if you open my hands then exactly the city will disappear like another example is like this image of um from like uskania cathedrals that let's see it's a hand that holds exactly people it's the people it's the hands that hold the people and in a way the trick of modernity was to imagine we don't need this hand that we can create our own fans of causes hand what happened is the result well now we're still being called but first not by this hand by other hands but the hands we can't control we think we control but are in fact controlling us and i think it's uh like very important to start talking about these processes on this level because otherwise as you said in your very opening statement there is no interest in talking about them at all like there is no interest in talking about he said what you said what like what that's happening this flesh isn't happened there this other thing happened flesh is there like yeah i don't
+
+404
+00:45:15,700 --> 00:45:24,000
+Speaker 0: know no i think you're right you know and there there are many other images we could have used the the image oh yeah the the the veil protective veil of the mother god
+
+405
+00:45:24,300 --> 00:45:24,480
+Speaker 1: great
+
+406
+00:45:24,560 --> 00:45:49,700
+Speaker 0: image you know you see that in the western medieval age middle age you see also images of the mother of god with like in her cloak she has all these people kind of like the hand uh you know this idea that we are held together uh you know it makes sense and like you said if we if we don't know what is holding us and what is driving us then it's going to be it's going to be forces that we don't we don't even understand
+
+407
+00:45:49,880 --> 00:46:12,380
+Speaker 1: like it's an example of what you are talking about like that's what you were talking about let's say the mother of god like and exactly you see the multiplicities different multiplicities it's a relatively new russian icon but it's based on all of these different examples different versions of mother of god from different let's say localities there is an image from the mother of god from different let's say localities of a land but it is united with what like let's say covers it and
+
+408
+00:46:13,280 --> 00:46:13,640
+Speaker 0: basically
+
+409
+00:46:14,800 --> 00:47:40,080
+Speaker 1: yeah and i think we like this kind of comes to us as like symbolist or i'll say even orthodox like basically my big discovery in like first so i started let's say studying politics as a just traditional political uh scientist et cetera et cetera and rusby told i eventually found that this is just simply useless in in many ways it's not uh answering the real questions or it's not showing what's happening and then i discovered like basically this more traditional and then symbolic way of understanding the very same processes but then we have bigger days right now which we're in a very interesting position this these two things kind of exist in separate realities we don't really you know connect someone i think and that's why my question the first question was like whether uh you not want to do like where comes this desire not to connect like because we want to separate us from this realities in a way like we want to separate us from this conversation but i think it's inevitable first that it's impossible because we're still living within these communities yeah and secondly if like basically if you don't provide an accurate account of something an accurate account will be provided i don't know like if you don't it's the same the problem of a culture war which you fight so much if you don't you know you're not you're not you're not you're not you're not you're not you're not you're not you're not you're not you're not participating in a culture the culture
+
+410
+00:47:40,160 --> 00:49:27,320
+Speaker 0: will effectively participate in you yeah well that's i mean i think that that's the way to to i think that's the best way to understand it uh is is to how can i say this right it's to help rebuild the real communities that seems to be the only thing we can do and that starts with yourself and it starts with your own surrounding it starts with your own vices and your own sins and uh and then it starts with you know your family uh like i said your parish the things that are around you to me that is in some ways the only way to go because the the problem i mean i'm not saying you shouldn't be involved in the politics of your country when it was covid i was making a lot more noise about politics because it was in my house and in my life and it was my leaders and it was my country and it wasn't like donald trump and so it wasn't a war in the middle east or it wasn't a war in eastern europe it was something that was happening here and so i was far more vocal and not only vocal but organized on the street level right it's like i did go to the protest i did i i also we had our own we reorganized our own network of associations in order to be able to to thrive through the crisis and so i'm not against i'm not against politics i'm just i think i'm wary of the the illusion that getting involved in political discourse especially on the internet that it that it does anything except uh make the go forward you know
+
+411
+00:49:28,040 --> 00:51:54,740
+Speaker 1: you're absolutely correct absolutely agree with you and what i mean by involvement and in terms of basically i like that your answer was about what you can do so immediately put into category of action which is the key element i just put that to this range of advisors i think it's very important to as you know in the genesis like basically one of the main human uh let's say uh power of the power of item is the power to give names and that's what i think is where like what i mean by political activity i don't mean by political activity you know participate what is expected participation of talking about taxes or talking about other things think what i mean when i talk about the building the bridge between these two realities is just naming what the things are happening let's say it's good to be when i think in order to rebuild communities we need to just be clear what community is let's say we don't even talk about that community is a religious phenomenon yeah we still think that political that community any community and political community is such and you can argue that as soon as you end up a community it has a political side to it like sorry a city has a political side to it even a district had like even a community or a village has a political side to it and just to be even at least to be capable of withstanding these different like elements which is coming from the outside you need to understand what you are and for this you need a language and for this you need a way to show to describe to just name these things the way they are because otherwise it's hard to explain let's say what is exactly your what is exactly your position let's say idea of uh inclusion let's say what why are you exactly opposing and we go into these very lengthy details about let's say well that's a one rational argument for it well that's as a philosopher that's a let's say biological argument etc etc whereas you can say well i just don't watch it don't want to worship this idol and i don't think that's what unites me and since it's the idol which is proposed to be put in the center of my community i opposed to it that's what i mean by it like i just mean i think building and this can be done i think ultimately first and like practicing it like truth battle this kind of the same of acting that's what i'm trying to do like mostly in russian but that's what i'm trying to trying to when i talk about the different process i'm trying to underlie like different basic patterns which are happening like why people are doing these irrational things well because because that's what is happening so
+
+412
+00:51:55,080 --> 00:52:38,700
+Speaker 0: i mean i also want to be careful like i really i want to be careful that people don't think that i'm saying that there's no room for political involvement you know because one of the things too is that we also different people play different roles we don't we all kind of have different roles and different strengths and different capacities in in this world and so there i think that my the role that i can play is more in terms of story and in terms of helping people understand the basic structures and helping them understand this question of participation but you know i i think that downstream from that in there will be legislation like there has to be there will be people proposing laws there will be people
+
+413
+00:52:39,300 --> 00:52:39,420
+Speaker 1: uh
+
+414
+00:52:39,840 --> 00:53:00,400
+Speaker 0: you know redefining you know levels of authority and power and understanding what those powers are related to our own you know like uh when i talk about a kind of fractal system of identity and authority that this is something that can have real consequences in the world and and and can reform the way that bonds are are exist
+
+415
+00:53:00,480 --> 00:53:01,880
+Speaker 1: uh oh yeah but
+
+416
+00:53:01,920 --> 00:53:17,220
+Speaker 0: but i but i think that that's the work that has to be done first and while that's happening i'm also not it's like while that's happening i'm also grateful you know for anybody who's able to slow the madness around oh it's like when i watch jordan peterson or oh
+
+417
+00:53:17,440 --> 00:53:17,760
+Speaker 1: yeah
+
+418
+00:53:17,800 --> 00:53:38,780
+Speaker 0: or or uh you know uh even people that that don't maybe like me that much like if i walk james lindsey like just stop like onslaught to stop the communists from coming back i'm like okay that's great like we also need that because you know there's also immediate the immediacy of the problem but i i can't like i myself
+
+419
+00:53:39,820 --> 00:53:45,320
+Speaker 1: oh i can tell you you are doing good no no but i
+
+420
+00:53:45,520 --> 00:53:54,800
+Speaker 0: feel like i'm getting sucked into an into a vortex of you know yeah this like spinning thing that doesn't have doesn't totally yeah no uh
+
+421
+00:53:56,080 --> 00:55:30,100
+Speaker 1: well i i think here i can actually cheer you up or maybe it won't be the cheerful because knowingly or knowingly i think you are involved into these processes and even bigger on the most on the highest level because in a real hierarchy of power and like i don't have time to talk too much about it the ultimate power is a power of a story the power of idea the power is a story centricity so by creating an alternative story so more like reviving the true stories like it is a political action like i don't know that's that's why i mentioned like because when the true stories revived even let's say the revival of some political symbolical thinking as such like the reviving of these images of images of unity surviving from your image of the mountain like you have a political impact like that's what i think is inescapable and we just need to understand what we are in childhood like basically whenever you are touching the um issues of of feelings of foi just yeah because like why issues of meaning you are making a political action and that's why for example there was this original conflict between Christianity and the Roman Empire because even Christians thought that they were not involved in the political activities the Roman Empire thought very well that they were by creating the complete alternative system of meaning, you willingly or not you are participating into it and I think it's a very cool thing to be aware of in a good way on the most basic way so effectively you're just keeping the whole boring part and just going to the crux of it
+
+422
+00:55:31,860 --> 00:55:54,720
+Speaker 0: I agree I would say that there are definitely political implications to the things that I'm talking about and doing but I ultimately let other people work that out in my particular case and also work it out more locally in their own sphere
+
+423
+00:55:55,820 --> 00:57:14,820
+Speaker 1: absolutely no it's just I think that's exactly the trick so what we the kind of real because people really ask what can be done right now and I think it can be done unfortunately kind of skipping the whole thing we've been holding the most important for the last let's say 400 years this whole middle part, the part of the state the part of administrative etc etc it can be done on the one side on the power of communities what you mentioned yourself, family, local elements and at the same time on the highest level which is the power of words the power of ideas the power of meetings and only then there can be some connection involved through this because the middle part right now we cannot even talk about it and I think that's what kind of I mean the most we cannot even talk about what is happening really like you do occasionally like and we can do occasionally but realistically on the most level people don't understand that's what people don't understand and we know they're not there yet to explain that for example the way people treat even those say presidential candidates or political candidates are i do it they do treat them as like oh that's either who will save this process or this side and it's inevitable because we have no other unit we don't have the hands that holds things together so we have we are in an ever we are in an inescapable process of creating them
+
+424
+00:57:15,320 --> 00:57:23,540
+Speaker 0: yeah it's funny it's actually quite it's funny to watch it happen like it's like in my country it's even funnier because hmm
+
+425
+00:57:23,820 --> 00:57:24,080
+Speaker 1: At least
+
+426
+00:57:24,120 --> 00:57:31,960
+Speaker 0: the president can have some kind of like pretension of being a central spoke that kind of holds things together.
+
+427
+00:57:32,040 --> 00:57:49,520
+Speaker 0: But in a prime minister, like in Canada, you know, we treat our prime minister like the president, even though our prime minister is the head of a is an elected seat in the head of a government and is, you know, and could be kicked out of his own party at any time that they vote against him.
+
+428
+00:57:49,880 --> 00:57:58,400
+Speaker 0: But we still treat him like a little king, because it's like we just want, you know, we, like you said, it's just, it's just inevitable.
+
+429
+00:57:58,460 --> 00:58:04,520
+Speaker 0: And if people were more aware of it, then they would do it more reasonably than.
+
+430
+00:58:04,720 --> 00:58:05,300
+Speaker 1: And Schiller.
+
+431
+00:58:05,620 --> 00:58:16,420
+Speaker 1: And I think that's one of the big reasons of where the whole neurotization of the whole political processes is coming from.
+
+432
+00:58:16,900 --> 00:58:19,900
+Speaker 1: Because what people actually, the actual disaster.
+
+433
+00:58:19,940 --> 00:58:27,180
+Speaker 1: The desire of people in there, I will say political figures and other things is way different from what they think the desire is.
+
+434
+00:58:27,240 --> 00:58:32,840
+Speaker 1: So they want the unity, they want a goat to worship, but they say they want, I don't know, free health care.
+
+435
+00:58:33,160 --> 00:58:34,700
+Speaker 1: And it's not the same.
+
+436
+00:58:37,200 --> 00:58:37,900
+Speaker 0: Yeah, that's all right.
+
+437
+00:58:37,960 --> 00:58:41,840
+Speaker 0: And then, and then it's also this, like, how can I say this?
+
+438
+00:58:41,920 --> 00:58:49,080
+Speaker 0: It's, it's also this, this idea that if, like, if the wrong president, let's say the wrong president is.
+
+439
+00:58:49,120 --> 00:58:53,960
+Speaker 0: If the wrong prime minister is elected, if the wrong prime minister is elected, then we're going to live in hell.
+
+440
+00:58:54,020 --> 00:58:56,020
+Speaker 0: Like, it's all going to fall apart.
+
+441
+00:58:56,060 --> 00:59:03,000
+Speaker 0: Like, everything is finished, because everything just depends on this, like, little, this, this, this, this guy.
+
+442
+00:59:03,040 --> 00:59:07,440
+Speaker 0: And, and like I said, if you ask someone, if they believe that they would say, of course, I don't believe that.
+
+443
+00:59:07,860 --> 00:59:11,740
+Speaker 0: But they act, everybody acts as if that's the, that's the case.
+
+444
+00:59:13,340 --> 00:59:19,420
+Speaker 0: You know, and when in fact, like you, like we intimated at the outset, there are real principalities that are moving.
+
+445
+00:59:19,500 --> 00:59:20,480
+Speaker 0: These things along.
+
+446
+00:59:20,580 --> 00:59:27,800
+Speaker 0: And those are, are the, let's say the, the gods that are kind of moving the, the system are invisible to most.
+
+447
+00:59:27,860 --> 00:59:35,860
+Speaker 0: Like, we worship them without totally knowing it, or we worship through these proxies, and we can't see what it is that is being, that is managing us.
+
+448
+00:59:36,260 --> 00:59:37,100
+Speaker 1: Oh, yeah, absolutely.
+
+449
+00:59:37,160 --> 01:00:18,700
+Speaker 1: Like, and well, sometimes they even say it, like, I don't know if you, I mean, I know you're following it, but it's exactly, I think the, it's my favorite of your videos, since when you, for example, take some event and you show, like, the symbolism of this event, which pretends not to be symbolic at all, you can see in Paris Olympics, that was just, sorry, that's principalities are literally there, or you can see on all of these, let's say, environmental meetings, when they almost literally nowadays worship Gaea, like, almost literally, like, like, and sometimes literally, like, and you pretend that it's neutral, it's not religious, but it's like, it's just sync, and that's what I mean, and everybody else kind of have to, but that's what I think.
+
+450
+01:00:19,260 --> 01:00:30,040
+Speaker 1: One of the main reasons people are participating in these games is because they don't know, they don't have to, and they don't have a language not to have to, and that's what I mean, like, you can't just, it's still.
+
+451
+01:00:30,080 --> 01:00:31,340
+Speaker 0: You don't have an alternative.
+
+452
+01:00:31,760 --> 01:00:37,640
+Speaker 0: You don't have something to truly worship that is worthy of their worship, you know, and I think
+
+453
+01:00:37,780 --> 01:00:38,180
+Speaker 1: that's one of
+
+454
+01:00:38,240 --> 01:00:49,820
+Speaker 0: the things that can help, is that if you know what the source of reality is, and you understand the nature, well, you don't understand it, but you direct your attention.
+
+455
+01:00:49,980 --> 01:01:13,640
+Speaker 0: To the, to the highest aspect, you know, to the highest transcendent truth, then, then at least you know, like, how you're orienting yourself, but every, like you said, everybody needs that, and because they, they deny it at the outset, they end up, you know, they end up grasping at all these different principalities that just appear and disappear, and
+
+456
+01:01:15,760 --> 01:01:15,880
+Speaker 1: yeah.
+
+457
+01:01:15,920 --> 01:01:18,260
+Speaker 1: And then you can actually ask the important question.
+
+458
+01:01:18,660 --> 01:01:24,860
+Speaker 1: If we have to be united through the worship of a principality, let's maybe be careful about which one we are worshiping.
+
+459
+01:01:24,960 --> 01:01:26,320
+Speaker 1: Let's choose at least the real one.
+
+460
+01:01:26,480 --> 01:01:28,340
+Speaker 1: Let's not choose the illusionary one.
+
+461
+01:01:29,520 --> 01:01:36,200
+Speaker 0: Yeah, let's not choose a parasite, something that is actually feeding on you in order to, to maintain its existence, you know.
+
+462
+01:01:36,260 --> 01:01:38,500
+Speaker 1: Because the real, because the principalities are real.
+
+463
+01:01:38,580 --> 01:01:48,100
+Speaker 1: For example, like, you can, like, as we mentioned, like, the way we treat so many different things, like progress or, especially progress in economy.
+
+464
+01:01:48,240 --> 01:01:50,220
+Speaker 1: Like, mostly, like, that's kind of the two main things.
+
+465
+01:01:51,320 --> 01:01:56,140
+Speaker 0: Progress is the best one, because it's, what the hell are, what is this progress you're talking about?
+
+466
+01:01:56,700 --> 01:01:59,280
+Speaker 0: No, open progress is what people worship.
+
+467
+01:02:00,260 --> 01:02:01,360
+Speaker 0: There's actually no telos.
+
+468
+01:02:01,400 --> 01:02:03,100
+Speaker 0: It's like, it's, it's something like inclusion.
+
+469
+01:02:03,140 --> 01:02:03,380
+Speaker 0: It's like.
+
+470
+01:02:03,840 --> 01:02:04,780
+Speaker 1: Well, there is telos.
+
+471
+01:02:05,100 --> 01:02:06,920
+Speaker 1: It's exactly the telos of receiving gold.
+
+472
+01:02:07,180 --> 01:02:08,960
+Speaker 1: Like, effectively, it's, sorry, I know.
+
+473
+01:02:09,540 --> 01:02:11,020
+Speaker 1: I mean, in this case, it won't sound crazy.
+
+474
+01:02:11,460 --> 01:02:14,740
+Speaker 1: It's literally not different from kerfagenius worshiping the mower.
+
+475
+01:02:15,320 --> 01:02:17,300
+Speaker 1: Parton is literally exactly the same.
+
+476
+01:02:17,340 --> 01:02:18,000
+Speaker 1: And I actually think.
+
+477
+01:02:18,720 --> 01:02:21,320
+Speaker 1: I wouldn't be surprised if progress and Moloch has one of the same name.
+
+478
+01:02:21,360 --> 01:02:25,220
+Speaker 1: Because you bring your future in a view of your firstborn.
+
+479
+01:02:25,560 --> 01:02:27,600
+Speaker 1: And there are, like, slaves and all of the different things.
+
+480
+01:02:27,940 --> 01:02:32,000
+Speaker 1: And you get the biggest material prosperity ever seen on a planet by that time.
+
+481
+01:02:32,540 --> 01:02:36,140
+Speaker 1: I don't see much difference in the ways that people treat progress.
+
+482
+01:02:36,260 --> 01:02:36,640
+Speaker 1: I'm sorry.
+
+483
+01:02:36,680 --> 01:02:37,480
+Speaker 1: That's interesting.
+
+484
+01:02:38,360 --> 01:02:40,640
+Speaker 1: And they also expect immortality from it, just a little bit.
+
+485
+01:02:40,740 --> 01:02:43,140
+Speaker 1: Like, now they just also expect immortality from progress.
+
+486
+01:02:43,460 --> 01:02:44,620
+Speaker 0: That's an interesting idea.
+
+487
+01:02:44,860 --> 01:02:46,180
+Speaker 0: Even, like, the idea.
+
+488
+01:02:47,680 --> 01:02:49,780
+Speaker 0: The idea of credit.
+
+489
+01:02:49,960 --> 01:02:51,920
+Speaker 0: Like, because I've been trying to understand credit for years.
+
+490
+01:02:52,320 --> 01:02:54,420
+Speaker 0: But I just had an insight when you were talking about it.
+
+491
+01:02:55,460 --> 01:02:59,420
+Speaker 0: That credit is something like sacrificing your children.
+
+492
+01:03:00,400 --> 01:03:01,260
+Speaker 0: Like, it really is.
+
+493
+01:03:01,920 --> 01:03:03,440
+Speaker 0: I can't believe I never thought about that.
+
+494
+01:03:03,480 --> 01:03:09,260
+Speaker 0: Because what you're basically saying is, I am going to sacrifice the future for now.
+
+495
+01:03:10,040 --> 01:03:15,880
+Speaker 0: And so, I'm willing to sacrifice my children's life in order to get what I need.
+
+496
+01:03:16,220 --> 01:03:17,120
+Speaker 0: What I need right now.
+
+497
+01:03:17,440 --> 01:03:17,680
+Speaker 1: Huh.
+
+498
+01:03:19,120 --> 01:03:19,380
+Speaker 0: Yeah.
+
+499
+01:03:20,360 --> 01:03:21,460
+Speaker 0: That's such a great.
+
+500
+01:03:21,500 --> 01:03:23,180
+Speaker 0: That's such a simple insight.
+
+501
+01:03:23,380 --> 01:03:24,200
+Speaker 0: And I never.
+
+502
+01:03:24,800 --> 01:03:26,180
+Speaker 0: How is it that I've never seen that?
+
+503
+01:03:26,920 --> 01:03:28,540
+Speaker 0: You know, I've said it similar to that.
+
+504
+01:03:28,640 --> 01:03:29,940
+Speaker 0: Like, I've talked about the idea of.
+
+505
+01:03:30,720 --> 01:03:35,080
+Speaker 0: But I've never thought of it really as a kind of Moloch sacrifice.
+
+506
+01:03:35,120 --> 01:03:39,020
+Speaker 0: Or, like, the idea of the sacrifice of your children.
+
+507
+01:03:40,500 --> 01:03:42,340
+Speaker 0: Because I've talked about it in terms of abortion.
+
+508
+01:03:42,740 --> 01:03:44,440
+Speaker 0: Because abortion is clearly that, right?
+
+509
+01:03:44,480 --> 01:03:45,460
+Speaker 0: It's like, a woman says.
+
+510
+01:03:45,700 --> 01:03:46,460
+Speaker 0: I have this child in me.
+
+511
+01:03:46,760 --> 01:03:47,520
+Speaker 0: I'm going to kill it.
+
+512
+01:03:47,780 --> 01:03:49,100
+Speaker 0: And then, my life will be better.
+
+513
+01:03:49,620 --> 01:03:53,000
+Speaker 0: It's like, it's basically saying, I want something now.
+
+514
+01:03:53,180 --> 01:03:55,540
+Speaker 0: And this future thing that's going to cause me all this trouble.
+
+515
+01:03:55,920 --> 01:03:57,060
+Speaker 0: You know, I want to.
+
+516
+01:03:58,300 --> 01:03:58,480
+Speaker 0: And.
+
+517
+01:03:58,800 --> 01:03:59,880
+Speaker 0: But credit is different.
+
+518
+01:03:59,980 --> 01:04:01,080
+Speaker 0: But it's something like that.
+
+519
+01:04:01,220 --> 01:04:01,700
+Speaker 0: It's something.
+
+520
+01:04:01,780 --> 01:04:03,000
+Speaker 1: Credit is similar to it.
+
+521
+01:04:03,100 --> 01:04:05,020
+Speaker 1: Like, it's the same pattern.
+
+522
+01:04:05,080 --> 01:04:06,020
+Speaker 1: Just playing out differently.
+
+523
+01:04:06,080 --> 01:04:06,880
+Speaker 1: If you're talking about.
+
+524
+01:04:07,380 --> 01:04:08,760
+Speaker 1: And even, let's not go into the same.
+
+525
+01:04:10,040 --> 01:04:12,840
+Speaker 1: As even on a lighter level than abortions.
+
+526
+01:04:12,880 --> 01:04:14,060
+Speaker 1: The pattern is still the same.
+
+527
+01:04:14,140 --> 01:04:15,320
+Speaker 1: That's why I think Moloch is one of them.
+
+528
+01:04:15,380 --> 01:04:16,740
+Speaker 1: The main bots of this kind of.
+
+529
+01:04:18,540 --> 01:04:19,360
+Speaker 1: At least capitalism.
+
+530
+01:04:19,420 --> 01:04:21,500
+Speaker 1: Or like the capitalist structure.
+
+531
+01:04:21,540 --> 01:04:22,700
+Speaker 1: Because when a person is saying.
+
+532
+01:04:22,740 --> 01:04:25,080
+Speaker 1: Okay, I will sacrifice my family.
+
+533
+01:04:25,280 --> 01:04:27,220
+Speaker 1: Or let's say, nowadays a woman says.
+
+534
+01:04:27,500 --> 01:04:29,900
+Speaker 1: I will sacrifice my family for a career.
+
+535
+01:04:29,940 --> 01:04:32,400
+Speaker 1: And then in 20 years, I will maybe come back to it.
+
+536
+01:04:32,900 --> 01:04:33,160
+Speaker 1: It is.
+
+537
+01:04:34,040 --> 01:04:34,920
+Speaker 1: And the thing is the pattern.
+
+538
+01:04:34,980 --> 01:04:38,260
+Speaker 1: You notice that this thing which is sacrifices given.
+
+539
+01:04:38,760 --> 01:04:40,960
+Speaker 1: It is fulfilling a certain part of a deal.
+
+540
+01:04:41,420 --> 01:04:43,060
+Speaker 1: It is bringing material prosperity.
+
+541
+01:04:43,100 --> 01:04:44,660
+Speaker 1: It's just in the end, it will trick you.
+
+542
+01:04:45,000 --> 01:04:45,760
+Speaker 1: As any demon will.
+
+543
+01:04:45,900 --> 01:04:48,140
+Speaker 1: But in a part, it brings you the prosperity.
+
+544
+01:04:48,460 --> 01:04:50,260
+Speaker 1: Let's say you want more money in your 20s.
+
+545
+01:04:50,440 --> 01:04:51,980
+Speaker 1: You will get more money in your 20s.
+
+546
+01:04:52,100 --> 01:04:53,680
+Speaker 1: In this only sense, I'm sorry.
+
+547
+01:04:54,360 --> 01:04:56,340
+Speaker 1: It brings the same.
+
+548
+01:04:56,840 --> 01:04:57,980
+Speaker 1: It's literally the same.
+
+549
+01:04:58,040 --> 01:05:00,720
+Speaker 1: So you want your money, you will get your money.
+
+550
+01:05:00,760 --> 01:05:02,400
+Speaker 1: Are you dampering your future?
+
+551
+01:05:03,040 --> 01:05:03,300
+Speaker 1: Yes.
+
+552
+01:05:03,440 --> 01:05:05,160
+Speaker 1: But that's the part of a deal.
+
+553
+01:05:07,680 --> 01:05:08,400
+Speaker 0: Yeah, I love it.
+
+554
+01:05:08,740 --> 01:05:09,120
+Speaker 0: I love it.
+
+555
+01:05:09,220 --> 01:05:11,560
+Speaker 0: I'm seeing a lot of things that make sense.
+
+556
+01:05:11,620 --> 01:05:14,500
+Speaker 0: See, I also hadn't thought about the idea.
+
+557
+01:05:14,800 --> 01:05:18,940
+Speaker 0: Of people having children later in life as something like that as well.
+
+558
+01:05:19,200 --> 01:05:26,340
+Speaker 0: It's like I want my youth for myself instead of for others.
+
+559
+01:05:26,420 --> 01:05:29,560
+Speaker 0: Instead of giving my youth to my children.
+
+560
+01:05:29,940 --> 01:05:32,180
+Speaker 0: Because usually that was the normal way to go.
+
+561
+01:05:32,400 --> 01:05:39,160
+Speaker 0: Which is that you want to have kids and your money and your wealth is spent on your kids.
+
+562
+01:05:39,200 --> 01:05:40,300
+Speaker 0: That's like a normal thing.
+
+563
+01:05:40,380 --> 01:05:42,220
+Speaker 0: But now there's this weird thing.
+
+564
+01:05:42,260 --> 01:05:44,180
+Speaker 0: It's super weird.
+
+565
+01:05:44,220 --> 01:05:45,160
+Speaker 0: It's super interesting.
+
+566
+01:05:45,240 --> 01:05:46,800
+Speaker 0: Definitely stuff to think about.
+
+567
+01:05:47,220 --> 01:05:48,840
+Speaker 1: Because exactly we created this world.
+
+568
+01:05:48,880 --> 01:05:58,920
+Speaker 1: Let's say we created the world, let's say, between symbolical and theological reality and let's say, economical, political and sociological reality.
+
+569
+01:05:59,740 --> 01:06:01,720
+Speaker 1: But it is a very modern understanding.
+
+570
+01:06:01,780 --> 01:06:04,860
+Speaker 1: And my article was in a way to show it's just it's very short.
+
+571
+01:06:04,940 --> 01:06:06,080
+Speaker 1: And like there is much more to say.
+
+572
+01:06:06,560 --> 01:06:09,280
+Speaker 1: But it was a conscious effort to kind of separate the six.
+
+573
+01:06:09,960 --> 01:06:21,340
+Speaker 1: But the problem is, is by nature they are inseparable because we all know it's a human nature, according to the fathers that we have like this desire for the immanent, we have this, let's say, horizontal desire.
+
+574
+01:06:21,680 --> 01:06:29,260
+Speaker 1: But we also have this vertical desire and we are inescapable of this pattern, no matter how much we try.
+
+575
+01:06:29,320 --> 01:06:35,080
+Speaker 1: But nowadays we just spend like generations and hundreds of years in this separate state.
+
+576
+01:06:35,160 --> 01:06:38,900
+Speaker 1: So on a very deep level, we have this border and we just don't connect the dots.
+
+577
+01:06:38,980 --> 01:06:43,440
+Speaker 1: But once you connect them, it kind of becomes clear what is happening and why it is happening.
+
+578
+01:06:43,540 --> 01:06:44,400
+Speaker 1: Like the question.
+
+579
+01:06:44,460 --> 01:06:44,840
+Speaker 1: What to do?
+
+580
+01:06:45,120 --> 01:06:46,000
+Speaker 1: You already answered.
+
+581
+01:06:46,100 --> 01:06:47,860
+Speaker 1: But one thing is to understand.
+
+582
+01:06:47,900 --> 01:06:51,160
+Speaker 1: And that's what I think is like, just makes sense.
+
+583
+01:06:51,200 --> 01:06:51,820
+Speaker 0: Yeah, it makes sense.
+
+584
+01:06:51,900 --> 01:06:53,140
+Speaker 0: Listen, I have to.
+
+585
+01:06:53,220 --> 01:06:53,520
+Speaker 1: Yeah, I know.
+
+586
+01:06:54,300 --> 01:06:56,560
+Speaker 0: So sorry, but this is great.
+
+587
+01:06:56,660 --> 01:06:57,360
+Speaker 0: Great conversation.
+
+588
+01:06:57,460 --> 01:06:58,200
+Speaker 0: I really appreciate it.
+
+589
+01:06:58,800 --> 01:07:02,080
+Speaker 1: Well, then thank you for your time.
+
+590
+01:07:02,120 --> 01:07:02,640
+Speaker 1: Thank you for your time.
+
+591
+01:07:02,800 --> 01:07:07,600
+Speaker 1: I hope there will be more conversations between us to come and.
+
