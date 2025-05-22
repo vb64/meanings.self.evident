@@ -267,13 +267,16 @@ def podcast(name):
 
 
 def main():
-    podcast(Course.InSearchOfMeaning)
-    podcast(Course.GnosticThinking)
-    podcast(Course.Mash)
-    podcast(Course.Shelest)
-    podcast(Course.Panchenko)
-    podcast(Course.Dudnik)
-    podcast(Course.Chernov)
+    for i in (
+      Course.InSearchOfMeaning,
+      Course.GnosticThinking,
+      Course.Mash,
+      Course.Shelest,
+      Course.Panchenko,
+      Course.Dudnik,
+      Course.Chernov,
+    ):
+        podcast(i)
 
 
 if __name__ == '__main__':
