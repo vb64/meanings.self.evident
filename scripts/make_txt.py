@@ -3,28 +3,23 @@ from text import Course, Speak, split_to_sentences
 
 TXT_PATH = os.path.join('..', 'txt')
 TXT = {
-  Course.InSearchOfMeaning: {
-    'Season01': [
+
+  Course.InSearchOfMeaning: [
       ("pinker", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
       ("apocalypse", {"Евгений:": Speak.Golub, "Павел:": Speak.Shchelin}),
       ("faust", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
       ("limits", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
       ("snowflakes", {"Евгений Голуб:": Speak.Golub, "Павел Щелин:": Speak.Shchelin}),
-    ],
-  },
+  ],
 
-  Course.Chernov: {
-    '': [
+  Course.Chernov: [
       ("2024_04_23", {"Алексей:": Speak.Chernov, "Павел:": Speak.Shchelin}),
-    ],
-  },
+  ],
 
-  Course.GnosticThinking: {
-    '': [
+  Course.GnosticThinking: [
       ("gnosticism", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
       ("modern", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
-    ],
-  },
+  ],
 }
 
 
@@ -62,31 +57,22 @@ def proc_txt(in_file, out_file, speakers):
     out.close()
 
 
-def in_search_of_meaning():
-    data = TXT[Course.InSearchOfMeaning]
-    for season in data:
-        path = os.path.join(TXT_PATH, Course.InSearchOfMeaning, season)
-        for name, speakers in data[season]:
-            proc_txt(
-              os.path.join(path, name + ".txt"),
-              os.path.join("build", name + ".md"),
-              speakers
-            )
-
-
 def podcast(folder):
     data = TXT[folder]
     path = os.path.join(TXT_PATH, folder)
-    for name, speakers in data['']:
+    out_path = os.path.join("build", folder)
+    os.makedirs(out_path, exist_ok=True)
+
+    for name, speakers in data:
         proc_txt(
           os.path.join(path, name + ".txt"),
-          os.path.join("build", name + ".md"),
+          os.path.join(out_path, name + ".md"),
           speakers
         )
 
 
 def main():
-    in_search_of_meaning()
+    podcast(Course.InSearchOfMeaning)
     podcast(Course.Chernov)
     podcast(Course.GnosticThinking)
 
