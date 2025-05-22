@@ -134,67 +134,67 @@ SRT = {
     ("info_wars", GOLUB_SHCHELIN),
   ],
 
-  Course.InSearchOfMeaning: {
-    'Season01': [
-      ("pinker", GOLUB_SHCHELIN),
-      ("apocalypse", SHCHELIN_GOLUB),
-      ("faust", SHCHELIN_GOLUB),
-      ("identity", SHCHELIN_GOLUB),
-      ("orange", GOLUB_SHCHELIN),
-      ("snowflakes", GOLUB_SHCHELIN),
-      ("limits", GOLUB_SHCHELIN),
-      ("ai", SHCHELIN_GOLUB),
-      ("vr", SHCHELIN_GOLUB),
-      ("mt", SHCHELIN_GOLUB),
-      ("otvety", GOLUB_SHCHELIN),
-      ("final", SHCHELIN_GOLUB),
-    ],
-    'Season02': [
-      ("your-flash-memory-card-with-identity", SHCHELIN_GOLUB),
-      ("placeandtime", SHCHELIN_GOLUB),
-      ("political-identity", GOLUB_SHCHELIN),
-      ("asabiya", SHCHELIN_GOLUB),
-      ("the-crisis-of-identity", SHCHELIN_GOLUB),
-      ("mimetic", SHCHELIN_GOLUB),
-      ("technology-instead-of-faith", GOLUB_SHCHELIN),
-      ("a-leap-of-faith", GOLUB_SHCHELIN),
-      ("identity-conclusion", GOLUB_SHCHELIN),
-      ("identity-qa", SHCHELIN_GOLUB),
-      ("monarchs-and-agenda", SHCHELIN_GOLUB),
-      ("the-joy-of-understanding", GOLUB_SHCHELIN),
-    ],
-    'Season03': [
-      ("republic", SHCHELIN_GOLUB),
-      ("democracy", GOLUB_SHCHELIN),
-      ("imperia", SHCHELIN_GOLUB),
-      ("people", SHCHELIN_GOLUB),
-      ("reforma", SHCHELIN_GOLUB),
-      ("renaissance", SHCHELIN_GOLUB),
-      ("varlaam", SHCHELIN_GOLUB),
-      ("bacon", SHCHELIN_GOLUB),
-      ("mendacium", GOLUB_SHCHELIN),
-      ("enlightenment", SHCHELIN_GOLUB),
-      ("obscurantism", GOLUB_SHCHELIN),
-      ("final3", SHCHELIN_GOLUB),
-    ],
-    'Season04': [
-      ("ontology_of_lies", SHCHELIN_GOLUB),
-      ("freedom-and-quadrobers", SHCHELIN_GOLUB),
-      ("battle_of_the_sexes", GOLUB_SHCHELIN),
-      ("human_vs_humanity", GOLUB_SHCHELIN),
-      ("confession", SHCHELIN_GOLUB),
-      ("muses_of_tradition", GOLUB_SHCHELIN),
-      ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
-      ("the-courage-to-be", SHCHELIN_GOLUB),
-      ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
-      ("lukewarm", SHCHELIN_GOLUB),
-    ],
-    'Other': [
-      ("polit_nemota", SHCHELIN_GOLUB),
-      ("straw_man", GOLUB_SHCHELIN),
-      ("year2024", SHCHELIN_GOLUB),
-    ],
-  },
+  Course.InSearchOfMeaning: [
+
+    # Season01
+    ("pinker", GOLUB_SHCHELIN),
+    ("apocalypse", SHCHELIN_GOLUB),
+    ("faust", SHCHELIN_GOLUB),
+    ("identity", SHCHELIN_GOLUB),
+    ("orange", GOLUB_SHCHELIN),
+    ("snowflakes", GOLUB_SHCHELIN),
+    ("limits", GOLUB_SHCHELIN),
+    ("ai", SHCHELIN_GOLUB),
+    ("vr", SHCHELIN_GOLUB),
+    ("mt", SHCHELIN_GOLUB),
+    ("otvety", GOLUB_SHCHELIN),
+    ("final", SHCHELIN_GOLUB),
+
+    # Season02
+    ("your-flash-memory-card-with-identity", SHCHELIN_GOLUB),
+    ("placeandtime", SHCHELIN_GOLUB),
+    ("political-identity", GOLUB_SHCHELIN),
+    ("asabiya", SHCHELIN_GOLUB),
+    ("the-crisis-of-identity", SHCHELIN_GOLUB),
+    ("mimetic", SHCHELIN_GOLUB),
+    ("technology-instead-of-faith", GOLUB_SHCHELIN),
+    ("a-leap-of-faith", GOLUB_SHCHELIN),
+    ("identity-conclusion", GOLUB_SHCHELIN),
+    ("identity-qa", SHCHELIN_GOLUB),
+    ("monarchs-and-agenda", SHCHELIN_GOLUB),
+    ("the-joy-of-understanding", GOLUB_SHCHELIN),
+
+    # Season03
+    ("republic", SHCHELIN_GOLUB),
+    ("democracy", GOLUB_SHCHELIN),
+    ("imperia", SHCHELIN_GOLUB),
+    ("people", SHCHELIN_GOLUB),
+    ("reforma", SHCHELIN_GOLUB),
+    ("renaissance", SHCHELIN_GOLUB),
+    ("varlaam", SHCHELIN_GOLUB),
+    ("bacon", SHCHELIN_GOLUB),
+    ("mendacium", GOLUB_SHCHELIN),
+    ("enlightenment", SHCHELIN_GOLUB),
+    ("obscurantism", GOLUB_SHCHELIN),
+    ("final3", SHCHELIN_GOLUB),
+
+    # Season04
+    ("ontology_of_lies", SHCHELIN_GOLUB),
+    ("freedom-and-quadrobers", SHCHELIN_GOLUB),
+    ("battle_of_the_sexes", GOLUB_SHCHELIN),
+    ("human_vs_humanity", GOLUB_SHCHELIN),
+    ("confession", SHCHELIN_GOLUB),
+    ("muses_of_tradition", GOLUB_SHCHELIN),
+    ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
+    ("the-courage-to-be", SHCHELIN_GOLUB),
+    ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
+    ("lukewarm", SHCHELIN_GOLUB),
+
+    # Other
+    ("polit_nemota", SHCHELIN_GOLUB),
+    ("straw_man", GOLUB_SHCHELIN),
+    ("year2024", SHCHELIN_GOLUB),
+  ],
 }
 
 def speaker_index(text):
@@ -248,37 +248,35 @@ def whisper(in_file, out_file, speakers):
     out.close()
 
 
-def call_whisper(path, name, speakers):
+def call_whisper(path, out_path, name, speakers):
     whisper(
       os.path.join(path, name + ".srt"),
-      os.path.join("build", name + ".md"),
+      os.path.join(out_path, name + ".md"),
       speakers
     )
-
-
-def in_search_of_meaning():
-    data = SRT[Course.InSearchOfMeaning]
-    for season in data:
-        path = os.path.join(SRT_PATH, Course.InSearchOfMeaning, season)
-        for name, speakers in data[season]:
-            call_whisper(path, name, speakers)
 
 
 def podcast(name):
     data = SRT[name]
     path = os.path.join(SRT_PATH, name)
+    out_path = os.path.join("build", name)
+    os.makedirs(out_path, exist_ok=True)
+
     for name, speakers in data:
-        call_whisper(path, name, speakers)
+        call_whisper(path, out_path, name, speakers)
 
 
 def main():
-    in_search_of_meaning()
-    podcast(Course.GnosticThinking)
-    podcast(Course.Mash)
-    podcast(Course.Shelest)
-    podcast(Course.Panchenko)
-    podcast(Course.Dudnik)
-    podcast(Course.Chernov)
+    for i in (
+      Course.InSearchOfMeaning,
+      Course.GnosticThinking,
+      Course.Mash,
+      Course.Shelest,
+      Course.Panchenko,
+      Course.Dudnik,
+      Course.Chernov,
+    ):
+        podcast(i)
 
 
 if __name__ == '__main__':
