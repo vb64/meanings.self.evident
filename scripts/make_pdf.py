@@ -62,6 +62,7 @@ PODCAST = {
     ("the-courage-to-be.md", True),
     ("dukhovny-fast-food.md", True),
     ("lukewarm.md", True),
+    ("narrative-wars.md", True),
 
     ('title_other.md', False),
     ("polit_nemota.md", True),
