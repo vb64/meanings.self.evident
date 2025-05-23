@@ -9,6 +9,7 @@
 
 - [ ] 49/49 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
 - [ ] 04/09 [Гностическое Мышление](GnosticThinking/README.md). Лекции из совместного проекта с Юрием Романенко.
+- [ ] 00/08 [Videos with English Speaking guests.](English/README.md)
 - [ ] 01/06 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
 - [ ] 00/01 [Mash Room](Mash/README.md). Не выходя из комнаты.
 - [ ] 00/06 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
@@ -17,7 +18,6 @@
 
 Запланировано:
 
-- [ ] 00/08 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 00/03 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/30 [Александр Бобылев и НАРОД.](Bobileff/README.md)

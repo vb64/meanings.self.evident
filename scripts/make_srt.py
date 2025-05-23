@@ -31,7 +31,26 @@ KHAZIN_SHCHELIN_DUDNIK = (Speak.Khazin, Speak.Shchelin, Speak.Dudnik)
 SHCHELIN_CHERNOV = (Speak.Shchelin, Speak.Chernov)
 CHERNOV_SHCHELIN = (Speak.Chernov, Speak.Shchelin)
 
+SHCHELIN_ROHLIN = (Speak.ShchelinEn, Speak.Rohlin)
+ROHLIN_SHCHELIN = (Speak.Rohlin, Speak.ShchelinEn)
+SHCHELIN_KOTAR = (Speak.Kotar, Speak.Shchelin)
+SHCHELIN_PAGEAU = (Speak.ShchelinEn, Speak.Pageau)
+PAGEAU_SHCHELIN = (Speak.Pageau, Speak.ShchelinEn)
+SHCHELIN_HALLJ = (Speak.Hall_J, Speak.ShchelinEn)
+SHCHELIN_HEERSJ = (Speak.ShchelinEn, Speak.Heers_J)
+
 SRT = {
+
+  Course.English: [
+    ('2024_05_04', ROHLIN_SHCHELIN),
+    ('2024_05_31', SHCHELIN_KOTAR),
+    ('2024_06_12', SHCHELIN_ROHLIN),
+    ('2024_06_22', SHCHELIN_PAGEAU),
+    ('2024_09_17', PAGEAU_SHCHELIN),
+    ('2024_10_14', SHCHELIN_KOTAR),
+    ('2025_01_20', SHCHELIN_HALLJ),
+    ('2025_03_21', SHCHELIN_HEERSJ),
+  ],
 
   Course.Mash: [
     ("2025_03_28", SHCHELIN_IZOTOV_ORLOV),
@@ -276,6 +295,7 @@ def main():
       Course.Panchenko,
       Course.Dudnik,
       Course.Chernov,
+      Course.English,
     ):
         podcast(i)
 
