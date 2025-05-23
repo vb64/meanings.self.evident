@@ -73,6 +73,7 @@ SRT = {
     ("2025_03_22", SHCHELIN_DUDNIK),
     ("2025_03_25", KHAZIN_SHCHELIN_DUDNIK),
     ("2025_04_24", SHCHELIN_DUDNIK),
+    ("2025_05_23", SHCHELIN_DUDNIK),
   ],
 
   Course.Shelest: [

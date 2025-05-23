@@ -163,6 +163,7 @@ PODCAST = {
     ('2025_03_22.md', False),
     ('2025_03_25.md', False),
     ('2025_04_24.md', False),
+    ('2025_05_23.md', False),
   ],
 
   Course.Chernov: [
