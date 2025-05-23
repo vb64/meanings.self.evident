@@ -9,6 +9,7 @@ class Course:
     Panchenko = "Panchenko"
     Dudnik = "Dudnik"
     Chernov = "Chernov"
+    English = "English"
 
 
 class Speak:

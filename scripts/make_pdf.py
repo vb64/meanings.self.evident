@@ -175,6 +175,19 @@ PODCAST = {
     ('2024_08_13.md', False),
     ('2025_04_07.md', False),
   ],
+
+  Course.English: [
+    ('title.md', False),
+    ('2024_05_04.md', False),
+    ('2024_05_31.md', False),
+    ('2024_06_12.md', False),
+    ('2024_06_22.md', False),
+    ('2024_09_17.md', False),
+    ('2024_10_14.md', False),
+    ('2025_01_20.md', False),
+    ('2025_03_21.md', False),
+  ],
+
 }
 
 CSS = "h1 {text-align:center;}"
@@ -244,6 +257,11 @@ def main():
       Course.Chernov,
       "Cтенограммы эфиров с А.Черновым. По следам Пеликана.",
       'Чернов.pdf'
+    )
+    podcast(
+      Course.English,
+      "Playlist `Videos with English Speaking guests` at the 'Pavel Shchelin' YouTube channel.",
+      'English.pdf'
     )
 
 
