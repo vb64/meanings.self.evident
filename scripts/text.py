@@ -14,6 +14,7 @@ class Course:
 
 class Speak:
     Shchelin = "П.Щелин"
+    ShchelinEn = "P.Shchelin"
     Golub = "Е.Голуб"
     Romanenko = "Ю.Романенко"
     Izotov = "С.Изотов"
@@ -26,6 +27,11 @@ class Speak:
     Dudnik = "С.Дудник"
     Khazin = "М.Хазин"
     Chernov = "А.Чернов"
+    Rohlin = "R.Rohlin"
+    Kotar = "Н.Котар"
+    Pageau = "J.Pageau"
+    Hall_J = "J.Hall"
+    Heers_J = "J.Heers"
 
 
 def is_complete(sentence):
