@@ -10,6 +10,7 @@ class Course:
     Dudnik = "Dudnik"
     Chernov = "Chernov"
     English = "English"
+    Usa = "Usa"
 
 
 class Speak:
@@ -32,6 +33,7 @@ class Speak:
     Pageau = "J.Pageau"
     Hall_J = "J.Hall"
     Heers_J = "J.Heers"
+    Arestovich = "А.Арестович"
 
 
 def is_complete(sentence):

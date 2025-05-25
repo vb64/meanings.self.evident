@@ -39,7 +39,15 @@ PAGEAU_SHCHELIN = (Speak.Pageau, Speak.ShchelinEn)
 SHCHELIN_HALLJ = (Speak.Hall_J, Speak.ShchelinEn)
 SHCHELIN_HEERSJ = (Speak.ShchelinEn, Speak.Heers_J)
 
+SHCHELIN_ARESTOVICH = (Speak.Shchelin, Speak.Arestovich)
+
 SRT = {
+
+  Course.Usa: [
+    ('2022_01_06', SHCHELIN_ARESTOVICH),
+    ('2022_01_10', ROMANENKO_SHCHELIN),
+    ('2022_01_14', SHCHELIN_ROMANENKO),
+  ],
 
   Course.English: [
     ('2024_05_04', ROHLIN_SHCHELIN),
@@ -297,6 +305,7 @@ def main():
       Course.Dudnik,
       Course.Chernov,
       Course.English,
+      Course.Usa,
     ):
         podcast(i)
 

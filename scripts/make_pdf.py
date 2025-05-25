@@ -189,6 +189,13 @@ PODCAST = {
     ('2025_03_21.md', False),
   ],
 
+  Course.Usa: [
+    ('title.md', False),
+    ('2022_01_06.md', False),
+    ('2022_01_10.md', False),
+    ('2022_01_14.md', False),
+  ],
+
 }
 
 CSS = "h1 {text-align:center;}"
@@ -263,6 +270,11 @@ def main():
       Course.English,
       "Playlist `Videos with English Speaking guests` at the 'Pavel Shchelin' YouTube channel.",
       'English.pdf'
+    )
+    podcast(
+      Course.Usa,
+      "Стенограммы плейлиста 'Архетипы США' YouTube-канала @PavelShchelin.",
+      'Архетипы_США.pdf'
     )
 
 
