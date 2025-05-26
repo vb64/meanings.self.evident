@@ -12,7 +12,7 @@
 - [ ] 00/08 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 01/06 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
-- [ ] 00/01 [Mash Room](Mash/README.md). Не выходя из комнаты.
+- [ ] 00/02 [Mash Room](Mash/README.md). Не выходя из комнаты.
 - [ ] 00/06 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
 - [ ] 00/43 [Эфиры с А.Шелестом](Shelest/README.md).
 - [ ] 00/18 [Эфиры с С.Дудником](Dudnik/README.md).
