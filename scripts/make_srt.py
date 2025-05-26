@@ -12,6 +12,7 @@ ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
 SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
 
 SHCHELIN_IZOTOV_ORLOV = (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)
+ORLOV_SHCHELIN_IZOTOV = (Speak.OrlovSm, Speak.Shchelin, Speak.Izotov)
 
 SHELEST_SHCHELIN = (Speak.Shelest, Speak.Shchelin)
 SHCHELIN_SHELEST = (Speak.Shchelin, Speak.Shelest)
@@ -62,6 +63,7 @@ SRT = {
 
   Course.Mash: [
     ("2025_03_28", SHCHELIN_IZOTOV_ORLOV),
+    ('2025_05_25', ORLOV_SHCHELIN_IZOTOV),
   ],
 
   Course.Chernov: [

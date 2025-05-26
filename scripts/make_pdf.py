@@ -86,6 +86,7 @@ PODCAST = {
   Course.Mash: [
     ('title.md', False),
     ('2025_03_28.md', False),
+    ('2025_05_25.md', False),
   ],
 
   Course.Panchenko: [
