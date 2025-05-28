@@ -42,6 +42,11 @@ SHCHELIN_HEERSJ = (Speak.ShchelinEn, Speak.Heers_J)
 
 SHCHELIN_ARESTOVICH = (Speak.Shchelin, Speak.Arestovich)
 
+SHCHELIN_BOBYLEV = (Speak.Bobileff, Speak.Shchelin)
+SHCHELIN_BOBYLEV_BOGLAEV = (Speak.Shchelin, Speak.Bobileff, Speak.Boglaev)
+BOBYLEV_SHCHELIN_BOGLAEV = (Speak.Boglaev, Speak.Shchelin, Speak.Bobileff)
+SHCHELIN_BOBYLEV_BUROV = (Speak.Shchelin, Speak.Bobileff, Speak.Burov)
+
 SRT = {
 
   Course.Usa: [
@@ -227,6 +232,40 @@ SRT = {
     ("straw_man", GOLUB_SHCHELIN),
     ("year2024", SHCHELIN_GOLUB),
   ],
+
+  Course.Bobileff: [
+    ('2022_09_10', SHCHELIN_BOBYLEV),
+    ('2022_09_12', SHCHELIN_BOBYLEV),
+    ('2023_09_10', SHCHELIN_BOBYLEV_BOGLAEV),
+    ('2023_09_13', SHCHELIN_BOBYLEV_BOGLAEV),
+    ('2023_10_03', BOBYLEV_SHCHELIN_BOGLAEV),
+    ('2023_10_12', BOBYLEV_SHCHELIN_BOGLAEV),
+    ('2023_10_15', SHCHELIN_BOBYLEV),
+    ('2023_10_18', SHCHELIN_BOBYLEV),
+    ('2023_12_01', SHCHELIN_BOBYLEV),
+    ('2023_12_03', SHCHELIN_BOBYLEV_BUROV),
+    ('2024_01_18', SHCHELIN_BOBYLEV),
+    ('2024_01_20', SHCHELIN_BOBYLEV),
+    ('2024_03_25', SHCHELIN_BOBYLEV),
+    ('2024_04_21', SHCHELIN_BOBYLEV),
+    ('2024_04_24', SHCHELIN_BOBYLEV),
+    ('2024_06_06', SHCHELIN_BOBYLEV),
+    ('2024_06_11', SHCHELIN_BOBYLEV),
+    ('2024_07_13', SHCHELIN_BOBYLEV),
+    ('2024_07_15', SHCHELIN_BOBYLEV_BUROV),
+    ('2024_10_05', SHCHELIN_BOBYLEV_BUROV),
+    ('2024_10_12', SHCHELIN_BOBYLEV_BUROV),
+    ('2024_11_20', SHCHELIN_BOBYLEV),
+    ('2024_11_21', SHCHELIN_BOBYLEV),
+    ('2025_01_12', SHCHELIN_BOBYLEV),
+    ('2025_01_14', SHCHELIN_BOBYLEV),
+    ('2025_02_03', SHCHELIN_BOBYLEV),
+    ('2025_03_25', SHCHELIN_BOBYLEV),
+    ('2025_03_26', SHCHELIN_BOBYLEV),
+    ('2025_04_25', SHCHELIN_BOBYLEV),
+    ('2025_04_28', SHCHELIN_BOBYLEV),
+  ],
+
 }
 
 def speaker_index(text):
@@ -300,15 +339,16 @@ def podcast(name):
 
 def main():
     for i in (
-      Course.InSearchOfMeaning,
-      Course.GnosticThinking,
-      Course.Mash,
-      Course.Shelest,
-      Course.Panchenko,
-      Course.Dudnik,
-      Course.Chernov,
-      Course.English,
-      Course.Usa,
+      # Course.InSearchOfMeaning,
+      # Course.GnosticThinking,
+      # Course.Mash,
+      # Course.Shelest,
+      # Course.Panchenko,
+      # Course.Dudnik,
+      # Course.Chernov,
+      # Course.English,
+      # Course.Usa,
+      Course.Bobileff,
     ):
         podcast(i)
 

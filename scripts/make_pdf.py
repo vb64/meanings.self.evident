@@ -191,6 +191,40 @@ PODCAST = {
     ('2025_03_21.md', False),
   ],
 
+  Course.Bobileff: [
+    ('title.md', False),
+    ('2022_09_10.md', False),
+    ('2022_09_12.md', False),
+    ('2023_09_10.md', False),
+    ('2023_09_13.md', False),
+    ('2023_10_03.md', False),
+    ('2023_10_12.md', False),
+    ('2023_10_15.md', False),
+    ('2023_10_18.md', False),
+    ('2023_12_01.md', False),
+    ('2023_12_03.md', False),
+    ('2024_01_18.md', False),
+    ('2024_01_20.md', False),
+    ('2024_03_25.md', False),
+    ('2024_04_21.md', False),
+    ('2024_04_24.md', False),
+    ('2024_06_06.md', False),
+    ('2024_06_11.md', False),
+    ('2024_07_13.md', False),
+    ('2024_07_15.md', False),
+    ('2024_10_05.md', False),
+    ('2024_10_12.md', False),
+    ('2024_11_20.md', False),
+    ('2024_11_21.md', False),
+    ('2025_01_12.md', False),
+    ('2025_01_14.md', False),
+    ('2025_02_03.md', False),
+    ('2025_03_25.md', False),
+    ('2025_03_26.md', False),
+    ('2025_04_25.md', False),
+    ('2025_04_28.md', False),
+  ],
+
   Course.Usa: [
     ('title.md', False),
     ('2022_01_06.md', False),
@@ -277,6 +311,11 @@ def main():
       Course.Usa,
       "Стенограммы плейлиста 'Архетипы США' YouTube-канала @PavelShchelin.",
       'Архетипы_США.pdf'
+    )
+    podcast(
+      Course.Bobileff,
+      "Стенограммы роликов из плейлиста 'Павел Щелин' YouTube канала 'Александр Бобылев и НАРОД'",
+      'Бобылев_и_НАРОД.pdf'
     )
 
 

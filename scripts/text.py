@@ -11,6 +11,7 @@ class Course:
     Chernov = "Chernov"
     English = "English"
     Usa = "Usa"
+    Bobileff = "Bobileff"
 
 
 class Speak:
@@ -34,6 +35,9 @@ class Speak:
     Hall_J = "J.Hall"
     Heers_J = "J.Heers"
     Arestovich = "А.Арестович"
+    Bobileff = "А.Бобылев"
+    Boglaev = "В.Боглаев"
+    Burov = "А.Буров"
 
 
 def is_complete(sentence):
