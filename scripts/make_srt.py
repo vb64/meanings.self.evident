@@ -149,6 +149,7 @@ SRT = {
     ("2025_04_09", SHELEST_SHCHELIN),
     ("2025_04_21", SHCHELIN_SHELEST),
     ("2025_05_12", SHCHELIN_SHELEST),
+    ('2025_05_27', SHCHELIN_SHELEST),
   ],
 
   Course.GnosticThinking: [

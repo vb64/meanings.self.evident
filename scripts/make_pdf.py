@@ -144,6 +144,7 @@ PODCAST = {
     ('2025_04_09.md', False),
     ('2025_04_21.md', False),
     ('2025_05_12.md', False),
+    ('2025_05_27.md', False),
   ],
 
   Course.Dudnik: [
