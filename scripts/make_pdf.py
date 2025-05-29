@@ -232,6 +232,38 @@ PODCAST = {
     ('2022_01_14.md', False),
   ],
 
+  Course.Arestovich: [
+    ('title.md', False),
+    ('2021_12_24.md', False),
+    ('2021_12_29.md', False),
+    ('2022_01_17.md', False),
+    ('2022_02_07.md', False),
+    ('2022_02_09.md', False),
+    ('2022_02_18.md', False),
+    ('2022_04_22.md', False),
+    ('2022_05_31.md', False),
+    ('2022_07_19.md', False),
+    ('2022_08_20.md', False),
+    ('2022_09_19.md', False),
+    ('2022_10_04.md', False),
+    ('2022_12_27.md', False),
+    ('2023_02_12.md', False),
+  ],
+
+  Course.Baumeister: [
+    ('title.md', False),
+    ('2022_04_18.md', False),
+    ('2022_05_17.md', False),
+    ('2025_02_19.md', False),
+  ],
+
+  Course.Chernobaev: [
+    ('title.md', False),
+    ('2024_08_15.md', False),
+    ('2024_09_27.md', False),
+    ('2024_11_22.md', False),
+  ],
+
 }
 
 CSS = "h1 {text-align:center;}"
@@ -314,8 +346,23 @@ def main():
     )
     podcast(
       Course.Bobileff,
-      "Стенограммы роликов из плейлиста 'Павел Щелин' YouTube канала 'Александр Бобылев и НАРОД'",
+      "Стенограммы роликов из плейлиста 'Павел Щелин' YouTube канала 'Александр Бобылев и НАРОД'.",
       'Бобылев_и_НАРОД.pdf'
+    )
+    podcast(
+      Course.Baumeister,
+      "Беседы с Андреем Баумейстером.",
+      'Баумейстер.pdf'
+    )
+    podcast(
+      Course.Arestovich,
+      "Стенограммы роликов из плейлиста 'Беседы с Павлом Щелиным' на YouTube канале 'Alexey Arestovych'",
+      'Арестович.pdf'
+    )
+    podcast(
+      Course.Chernobaev,
+      "Стенограммы роликов из YouTube канала 'Николай Чернобаев'.",
+      'Чернобаев.pdf'
     )
 
 
