@@ -4,9 +4,7 @@ from text import Course, Speak, split_to_sentences, is_complete
 SPEAKER = len("Speaker 0: ")
 SRT_PATH = os.path.join('..', 'srt')
 
-GOLUB_SHCHELIN = (Speak.Golub, Speak.Shchelin)
-SHCHELIN_GOLUB = (Speak.Shchelin, Speak.Golub)
-GOLUB_SHCHELIN_SHEVCHENKO = (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)
+GOLUB = (Speak.Golub, Speak.Shchelin)
 
 ROMANENKO_SHCHELIN = (Speak.Romanenko, Speak.Shchelin)
 SHCHELIN_ROMANENKO = (Speak.Shchelin, Speak.Romanenko)
@@ -160,73 +158,73 @@ SRT = {
     ("enlightenment", SHCHELIN_ROMANENKO),
     ("nationalism", ROMANENKO_SHCHELIN),
 
-    ("marxism", SHCHELIN_GOLUB),
-    ("positivism", SHCHELIN_GOLUB),
-    ("deep_state", SHCHELIN_GOLUB),
-    ("info_wars", GOLUB_SHCHELIN),
+    ("marxism", reversed(GOLUB)),
+    ("positivism", reversed(GOLUB)),
+    ("deep_state", reversed(GOLUB)),
+    ("info_wars", GOLUB),
   ],
 
   Course.InSearchOfMeaning: [
 
     # Season01
-    ("pinker", GOLUB_SHCHELIN),
-    ("apocalypse", SHCHELIN_GOLUB),
-    ("faust", SHCHELIN_GOLUB),
-    ("identity", SHCHELIN_GOLUB),
-    ("orange", GOLUB_SHCHELIN),
-    ("snowflakes", GOLUB_SHCHELIN),
-    ("limits", GOLUB_SHCHELIN),
-    ("ai", SHCHELIN_GOLUB),
-    ("vr", SHCHELIN_GOLUB),
-    ("mt", SHCHELIN_GOLUB),
-    ("otvety", GOLUB_SHCHELIN),
-    ("final", SHCHELIN_GOLUB),
+    ("pinker", GOLUB),
+    ("apocalypse", reversed(GOLUB)),
+    ("faust", reversed(GOLUB)),
+    ("identity", reversed(GOLUB)),
+    ("orange", GOLUB),
+    ("snowflakes", GOLUB),
+    ("limits", GOLUB),
+    ("ai", reversed(GOLUB)),
+    ("vr", reversed(GOLUB)),
+    ("mt", reversed(GOLUB)),
+    ("otvety", GOLUB),
+    ("final", reversed(GOLUB)),
 
     # Season02
-    ("your-flash-memory-card-with-identity", SHCHELIN_GOLUB),
-    ("placeandtime", SHCHELIN_GOLUB),
-    ("political-identity", GOLUB_SHCHELIN),
-    ("asabiya", SHCHELIN_GOLUB),
-    ("the-crisis-of-identity", SHCHELIN_GOLUB),
-    ("mimetic", SHCHELIN_GOLUB),
-    ("technology-instead-of-faith", GOLUB_SHCHELIN),
-    ("a-leap-of-faith", GOLUB_SHCHELIN),
-    ("identity-conclusion", GOLUB_SHCHELIN),
-    ("identity-qa", SHCHELIN_GOLUB),
-    ("monarchs-and-agenda", SHCHELIN_GOLUB),
-    ("the-joy-of-understanding", GOLUB_SHCHELIN),
+    ("your-flash-memory-card-with-identity", reversed(GOLUB)),
+    ("placeandtime", reversed(GOLUB)),
+    ("political-identity", GOLUB),
+    ("asabiya", reversed(GOLUB)),
+    ("the-crisis-of-identity", reversed(GOLUB)),
+    ("mimetic", reversed(GOLUB)),
+    ("technology-instead-of-faith", GOLUB),
+    ("a-leap-of-faith", GOLUB),
+    ("identity-conclusion", GOLUB),
+    ("identity-qa", reversed(GOLUB)),
+    ("monarchs-and-agenda", reversed(GOLUB)),
+    ("the-joy-of-understanding", GOLUB),
 
     # Season03
-    ("republic", SHCHELIN_GOLUB),
-    ("democracy", GOLUB_SHCHELIN),
-    ("imperia", SHCHELIN_GOLUB),
-    ("people", SHCHELIN_GOLUB),
-    ("reforma", SHCHELIN_GOLUB),
-    ("renaissance", SHCHELIN_GOLUB),
-    ("varlaam", SHCHELIN_GOLUB),
-    ("bacon", SHCHELIN_GOLUB),
-    ("mendacium", GOLUB_SHCHELIN),
-    ("enlightenment", SHCHELIN_GOLUB),
-    ("obscurantism", GOLUB_SHCHELIN),
-    ("final3", SHCHELIN_GOLUB),
+    ("republic", reversed(GOLUB)),
+    ("democracy", GOLUB),
+    ("imperia", reversed(GOLUB)),
+    ("people", reversed(GOLUB)),
+    ("reforma", reversed(GOLUB)),
+    ("renaissance", reversed(GOLUB)),
+    ("varlaam", reversed(GOLUB)),
+    ("bacon", reversed(GOLUB)),
+    ("mendacium", GOLUB),
+    ("enlightenment", reversed(GOLUB)),
+    ("obscurantism", GOLUB),
+    ("final3", reversed(GOLUB)),
 
     # Season04
-    ("ontology_of_lies", SHCHELIN_GOLUB),
-    ("freedom-and-quadrobers", SHCHELIN_GOLUB),
-    ("battle_of_the_sexes", GOLUB_SHCHELIN),
-    ("human_vs_humanity", GOLUB_SHCHELIN),
-    ("confession", SHCHELIN_GOLUB),
-    ("muses_of_tradition", GOLUB_SHCHELIN),
-    ("vinaiotvetsvennosti", GOLUB_SHCHELIN),
-    ("the-courage-to-be", SHCHELIN_GOLUB),
-    ("dukhovny-fast-food", GOLUB_SHCHELIN_SHEVCHENKO),
-    ("lukewarm", SHCHELIN_GOLUB),
-    ("narrative-wars", GOLUB_SHCHELIN),
+    ("ontology_of_lies", reversed(GOLUB)),
+    ("freedom-and-quadrobers", reversed(GOLUB)),
+    ("battle_of_the_sexes", GOLUB),
+    ("human_vs_humanity", GOLUB),
+    ("confession", reversed(GOLUB)),
+    ("muses_of_tradition", GOLUB),
+    ("vinaiotvetsvennosti", GOLUB),
+    ("the-courage-to-be", reversed(GOLUB)),
+    ("dukhovny-fast-food", (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)),
+    ("lukewarm", reversed(GOLUB)),
+    ("narrative-wars", GOLUB),
 
     # Other
-    ("polit_nemota", SHCHELIN_GOLUB),
-    ("straw_man", GOLUB_SHCHELIN),
-    ("year2024", SHCHELIN_GOLUB),
+    ("polit_nemota", reversed(GOLUB)),
+    ("straw_man", GOLUB),
+    ("year2024", reversed(GOLUB)),
   ],
 
   Course.Bobileff: [
@@ -330,7 +328,7 @@ def podcast(name):
     os.makedirs(out_path, exist_ok=True)
 
     for name, speakers in data:
-        call_whisper(path, out_path, name, speakers)
+        call_whisper(path, out_path, name, list(speakers))
 
 
 def main():
