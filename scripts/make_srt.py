@@ -335,15 +335,15 @@ def podcast(name):
 
 def main():
     for i in (
-      # Course.InSearchOfMeaning,
-      # Course.GnosticThinking,
-      # Course.Mash,
-      # Course.Shelest,
-      # Course.Panchenko,
-      # Course.Dudnik,
-      # Course.Chernov,
-      # Course.English,
-      # Course.Usa,
+      Course.InSearchOfMeaning,
+      Course.GnosticThinking,
+      Course.Mash,
+      Course.Shelest,
+      Course.Panchenko,
+      Course.Dudnik,
+      Course.Chernov,
+      Course.English,
+      Course.Usa,
       Course.Bobileff,
     ):
         podcast(i)
