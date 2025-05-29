@@ -39,13 +39,9 @@ SHCHELIN_PAGEAU = (Speak.ShchelinEn, Speak.Pageau)
 PAGEAU_SHCHELIN = (Speak.Pageau, Speak.ShchelinEn)
 SHCHELIN_HALLJ = (Speak.Hall_J, Speak.ShchelinEn)
 SHCHELIN_HEERSJ = (Speak.ShchelinEn, Speak.Heers_J)
-
 SHCHELIN_ARESTOVICH = (Speak.Shchelin, Speak.Arestovich)
-
 SHCHELIN_BOBYLEV = (Speak.Bobileff, Speak.Shchelin)
-SHCHELIN_BOBYLEV_BOGLAEV = (Speak.Shchelin, Speak.Bobileff, Speak.Boglaev)
-BOBYLEV_SHCHELIN_BOGLAEV = (Speak.Boglaev, Speak.Shchelin, Speak.Bobileff)
-SHCHELIN_BOBYLEV_BUROV = (Speak.Shchelin, Speak.Bobileff, Speak.Burov)
+BOBYLEV_SHCHELIN = (Speak.Shchelin, Speak.Bobileff)
 
 SRT = {
 
@@ -236,14 +232,15 @@ SRT = {
   Course.Bobileff: [
     ('2022_09_10', SHCHELIN_BOBYLEV),
     ('2022_09_12', SHCHELIN_BOBYLEV),
-    ('2023_09_10', SHCHELIN_BOBYLEV_BOGLAEV),
-    ('2023_09_13', SHCHELIN_BOBYLEV_BOGLAEV),
-    ('2023_10_03', BOBYLEV_SHCHELIN_BOGLAEV),
-    ('2023_10_12', BOBYLEV_SHCHELIN_BOGLAEV),
+    ('2023_09_10', (Speak.Shchelin, Speak.Bobileff, Speak.Boglaev)),
+    ('2023_09_13', BOBYLEV_SHCHELIN),
+    ('2023_10_03', (Speak.Boglaev, Speak.Shchelin, Speak.Bobileff)),
+    ('2023_10_12', (Speak.Bobileff, Speak.Shchelin, Speak.Boglaev)),
     ('2023_10_15', SHCHELIN_BOBYLEV),
     ('2023_10_18', SHCHELIN_BOBYLEV),
     ('2023_12_01', SHCHELIN_BOBYLEV),
-    ('2023_12_03', SHCHELIN_BOBYLEV_BUROV),
+    ('2023_12_03', (Speak.Shchelin, Speak.Bobileff, Speak.Ads)),
+
     ('2024_01_18', SHCHELIN_BOBYLEV),
     ('2024_01_20', SHCHELIN_BOBYLEV),
     ('2024_03_25', SHCHELIN_BOBYLEV),
@@ -252,9 +249,9 @@ SRT = {
     ('2024_06_06', SHCHELIN_BOBYLEV),
     ('2024_06_11', SHCHELIN_BOBYLEV),
     ('2024_07_13', SHCHELIN_BOBYLEV),
-    ('2024_07_15', SHCHELIN_BOBYLEV_BUROV),
-    ('2024_10_05', SHCHELIN_BOBYLEV_BUROV),
-    ('2024_10_12', SHCHELIN_BOBYLEV_BUROV),
+    ('2024_07_15', (Speak.Boglaev, Speak.Shchelin, Speak.Bobileff)),
+    ('2024_10_05', (Speak.Boglaev, Speak.Shchelin, Speak.Bobileff)),
+    ('2024_10_12', (Speak.Boglaev, Speak.Shchelin, Speak.Bobileff)),
     ('2024_11_20', SHCHELIN_BOBYLEV),
     ('2024_11_21', SHCHELIN_BOBYLEV),
     ('2025_01_12', SHCHELIN_BOBYLEV),
