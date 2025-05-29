@@ -11,11 +11,16 @@ class Course:
     Chernov = "Chernov"
     English = "English"
     Usa = "Usa"
+    Bobileff = "Bobileff"
 
 
 class Speak:
     Shchelin = "П.Щелин"
     ShchelinEn = "P.Shchelin"
+
+    Ads = "Реклама"
+    Translator = "Переводчик"
+
     Golub = "Е.Голуб"
     Romanenko = "Ю.Романенко"
     Izotov = "С.Изотов"
@@ -23,7 +28,6 @@ class Speak:
     Shelest = "А.Шелест"
     Bondarenko = "К.Бондаренко"
     Panchenko = "Д.Панченко"
-    Translator = "Переводчик"
     Shevchenko = "И.Шевченко"
     Dudnik = "С.Дудник"
     Khazin = "М.Хазин"
@@ -34,6 +38,9 @@ class Speak:
     Hall_J = "J.Hall"
     Heers_J = "J.Heers"
     Arestovich = "А.Арестович"
+    Bobileff = "А.Бобылев"
+    Boglaev = "В.Боглаев"
+    Burov = "А.Буров"
 
 
 def is_complete(sentence):

@@ -39,8 +39,9 @@ SHCHELIN_PAGEAU = (Speak.ShchelinEn, Speak.Pageau)
 PAGEAU_SHCHELIN = (Speak.Pageau, Speak.ShchelinEn)
 SHCHELIN_HALLJ = (Speak.Hall_J, Speak.ShchelinEn)
 SHCHELIN_HEERSJ = (Speak.ShchelinEn, Speak.Heers_J)
-
 SHCHELIN_ARESTOVICH = (Speak.Shchelin, Speak.Arestovich)
+SHCHELIN_BOBYLEV = (Speak.Bobileff, Speak.Shchelin)
+BOBYLEV_SHCHELIN = (Speak.Shchelin, Speak.Bobileff)
 
 SRT = {
 
@@ -227,6 +228,40 @@ SRT = {
     ("straw_man", GOLUB_SHCHELIN),
     ("year2024", SHCHELIN_GOLUB),
   ],
+
+  Course.Bobileff: [
+    ('2022_09_10', SHCHELIN_BOBYLEV),
+    ('2022_09_12', SHCHELIN_BOBYLEV),
+    ('2023_09_10', (Speak.Shchelin, Speak.Bobileff, Speak.Boglaev)),
+    ('2023_09_13', BOBYLEV_SHCHELIN),
+    ('2023_10_03', (Speak.Boglaev, Speak.Shchelin, Speak.Bobileff)),
+    ('2023_10_12', (Speak.Bobileff, Speak.Shchelin, Speak.Boglaev)),
+    ('2023_10_15', SHCHELIN_BOBYLEV),
+    ('2023_10_18', SHCHELIN_BOBYLEV),
+    ('2023_12_01', SHCHELIN_BOBYLEV),
+    ('2023_12_03', (Speak.Shchelin, Speak.Bobileff, Speak.Ads)),
+    ('2024_01_18', SHCHELIN_BOBYLEV),
+    ('2024_01_20', SHCHELIN_BOBYLEV),
+    ('2024_03_25', SHCHELIN_BOBYLEV),
+    ('2024_04_21', SHCHELIN_BOBYLEV),
+    ('2024_04_24', BOBYLEV_SHCHELIN),
+    ('2024_06_06', SHCHELIN_BOBYLEV),
+    ('2024_06_11', SHCHELIN_BOBYLEV),
+    ('2024_07_13', BOBYLEV_SHCHELIN),
+    ('2024_07_15', SHCHELIN_BOBYLEV),
+    ('2024_10_05', (Speak.Burov, Speak.Shchelin, Speak.Bobileff)),
+    ('2024_10_12', (Speak.Bobileff, Speak.Burov, Speak.Shchelin)),
+    ('2024_11_20', BOBYLEV_SHCHELIN),
+    ('2024_11_21', BOBYLEV_SHCHELIN),
+    ('2025_01_12', SHCHELIN_BOBYLEV),
+    ('2025_01_14', BOBYLEV_SHCHELIN),
+    ('2025_02_03', BOBYLEV_SHCHELIN),
+    ('2025_03_25', SHCHELIN_BOBYLEV),
+    ('2025_03_26', BOBYLEV_SHCHELIN),
+    ('2025_04_25', SHCHELIN_BOBYLEV),
+    ('2025_04_28', SHCHELIN_BOBYLEV),
+  ],
+
 }
 
 def speaker_index(text):
@@ -309,6 +344,7 @@ def main():
       Course.Chernov,
       Course.English,
       Course.Usa,
+      Course.Bobileff,
     ):
         podcast(i)
 
