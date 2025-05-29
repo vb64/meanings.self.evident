@@ -12,6 +12,14 @@ class Course:
     English = "English"
     Usa = "Usa"
     Bobileff = "Bobileff"
+    Arestovich = "Arestovich"
+    Baumeister = "Baumeister"
+    Chernobaev = "Chernobaev"
+    Khimich = "Khimich"
+    Mnenie = "Mnenie"
+    PolitWorld = "PolitWorld"
+    Singles = "Singles"
+    Uralov = "Uralov"
 
 
 class Speak:
@@ -35,6 +43,15 @@ class Speak:
     Boglaev = "В.Боглаев"
     Burov = "А.Буров"
     Kotar = "Н.Котар"
+    Baumeister = "А.Баумейстер"
+    Chernobaev = "Н.Чернобаев"
+    Khimich = "Р.Химич"
+    Askerhanov = "К.Аскерханов"
+    Nadolinsky = "А.Надолинский"
+    Belkovsky = "С.Белковский"
+    Kusa = "И.Куса"
+    Svetov = "М.Светов"
+    Klizma = "Клизма"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
