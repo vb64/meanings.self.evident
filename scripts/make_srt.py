@@ -13,6 +13,10 @@ CHERNOV = (Speak.Chernov, Speak.Shchelin)
 BOBYLEV = (Speak.Bobileff, Speak.Shchelin)
 ARESTOVICH = (Speak.Arestovich, Speak.Shchelin)
 KOTAR = (Speak.Kotar, Speak.Shchelin)
+BAUMEISTER = (Speak.Baumeister, Speak.Shchelin)
+CHERNOBAEV = (Speak.Chernobaev, Speak.Shchelin)
+KHIMICH = (Speak.Khimich, Speak.Shchelin)
+ASKERHANOV = (Speak.Askerhanov, Speak.Shchelin)
 
 ROHLIN = (Speak.Rohlin, Speak.ShchelinEn)
 PAGEAU = (Speak.Pageau, Speak.ShchelinEn)
@@ -20,6 +24,35 @@ HALLJ = (Speak.Hall_J, Speak.ShchelinEn)
 HEERSJ = (Speak.Heers_J, Speak.ShchelinEn)
 
 SRT = {
+
+  Course.Arestovich: [
+    ('2021_12_24', ARESTOVICH),
+    ('2021_12_29', ARESTOVICH),
+    #('2022_01_17', ARESTOVICH),
+    ('2022_02_07', reversed(ARESTOVICH)),
+    ('2022_02_09', reversed(ARESTOVICH)),
+    ('2022_02_18', reversed(ARESTOVICH)),
+    ('2022_04_22', reversed(ARESTOVICH)),
+    ('2022_05_31', reversed(ARESTOVICH)),
+    ('2022_07_19', reversed(ARESTOVICH)),
+    ('2022_08_20', (Speak.Datsuk, Speak.Romanenko, Speak.Arestovich, Speak.Shchelin)),  # Feldman
+    ('2022_09_19', reversed(ARESTOVICH)),
+    ('2022_10_04', reversed(ARESTOVICH)),
+    ('2022_12_27', reversed(ARESTOVICH)),
+    ('2023_02_12', ARESTOVICH),
+  ],
+
+  Course.Baumeister: [
+    ('2022_04_18', BAUMEISTER),
+    ('2022_05_17', BAUMEISTER),
+    ('2025_02_19', (Speak.Baumeister, Speak.Shchelin, Speak.Golub)),
+  ],
+
+  Course.Chernobaev: [
+    ('2024_08_15', (Speak.Chernobaev, Speak.Shchelin, Speak.Ads)),
+    ('2024_09_27', reversed(CHERNOBAEV)),
+    ('2024_11_22', reversed(CHERNOBAEV)),
+  ],
 
   Course.Usa: [
     ('2022_01_06', reversed(ARESTOVICH)),
@@ -238,6 +271,48 @@ SRT = {
     ('2025_04_28', BOBYLEV),
   ],
 
+  Course.Khimich: [
+    ('2022_11_25.md', KHIMICH),
+    ('2022_12_11.md', KHIMICH),
+    ('2023_01_31.md', KHIMICH),
+    ('2024_03_20.md', KHIMICH),
+  ],
+
+  Course.Mnenie: [
+    ('2025_01_16.md', ASKERHANOV),
+    ('2025_02_10.md', ASKERHANOV),
+    ('2025_03_09.md', ASKERHANOV),
+    ('2025_03_24.md', ASKERHANOV),
+    ('2025_05_02.md', ASKERHANOV),
+    ('2025_05_16.md', ASKERHANOV),
+  ],
+
+  Course.PolitWorld: [
+    ('2023_04_25.md', (Speak.Itskovich, Speak.Shchelin)),
+    ('2023_11_03.md', (Speak.Safronov, Speak.Shchelin)),
+    ('2023_11_30.md', (Speak.Leybin, Speak.Shchelin)),
+    ('2023_12_13.md', (Speak.Gromov, Speak.Shchelin)),
+  ],
+
+  Course.Singles: [
+    ('2014_05_08.md', (Speak.Shchelin, )),
+    ('2021_12_28.md', ROMANENKO),
+    ('2022_03_04.md', (Speak.Romanenko, Speak.Shchelin)),
+    ('2022_04_04.md', (Speak.Belkovsky, Speak.Shchelin)),
+    ('2022_04_08.md', (Speak.Kusa, Speak.Shchelin)),
+    ('2022_06_13.md', (Speak.Burov, Speak.Shchelin)),
+    ('2022_08_27.md', (Speak.Svetov, Speak.Shchelin)),
+    ('2025_05_08.md', (Speak.Klizma, Speak.Shchelin)),
+  ],
+
+  Course.Uralov: [
+    ('2024_12_25.md', (Speak.Ads, Speak.Shchelin)),
+    ('2025_01_29.md', (Speak.Ads, Speak.Shchelin)),
+    ('2025_03_06.md', (Speak.Ads, Speak.Shchelin)),
+    ('2025_04_03.md', (Speak.Ads, Speak.Shchelin)),
+    ('2025_05_15.md', (Speak.Ads, Speak.Shchelin)),
+  ],
+
 }
 
 def speaker_index(text):
@@ -321,6 +396,14 @@ def main():
       Course.English,
       Course.Usa,
       Course.Bobileff,
+      Course.Arestovich,
+      Course.Baumeister,
+      Course.Chernobaev,
+      # Course.Khimich,
+      # Course.Mnenie,
+      # Course.PolitWorld,
+      # Course.Singles,
+      # Course.Uralov,
     ):
         podcast(i)
 

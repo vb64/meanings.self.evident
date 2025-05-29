@@ -52,6 +52,12 @@ class Speak:
     Kusa = "И.Куса"
     Svetov = "М.Светов"
     Klizma = "Клизма"
+    Datsuk = "С.Дацюк"
+    Feldman = "Н.Фельдман"
+    Itskovich = "Д.Ицкович"
+    Safronov = "К.Сафронов"
+    Leybin = "В.Лейбин"
+    Gromov = "А.Громов"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
