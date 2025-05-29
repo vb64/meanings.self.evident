@@ -48,8 +48,8 @@ SRT = {
 
   Course.Chernobaev: [
     ('2024_08_15', (Speak.Chernobaev, Speak.Shchelin, Speak.Ads)),
-    ('2024_09_27', CHERNOBAEV),
-    ('2024_11_22', CHERNOBAEV),
+    ('2024_09_27', reversed(CHERNOBAEV)),
+    ('2024_11_22', reversed(CHERNOBAEV)),
   ],
 
   Course.Usa: [
