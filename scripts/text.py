@@ -58,6 +58,9 @@ class Speak:
     Safronov = "К.Сафронов"
     Leybin = "В.Лейбин"
     Gromov = "А.Громов"
+    Uralov = "С.Уралов"
+    Chadaev = "А.Чадаев"
+    Kniazev = "И.Князев"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
