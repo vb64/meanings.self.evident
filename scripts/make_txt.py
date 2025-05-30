@@ -19,6 +19,7 @@ TXT = {
   Course.GnosticThinking: [
       ("gnosticism", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
       ("modern", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
+      ("deep_state", {"Е.Голуб:": Speak.Golub, "П.Щелин:": Speak.Shchelin}),
   ],
 }
 
