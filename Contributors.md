@@ -19,6 +19,10 @@ Ingvar [@Ingvarr_J](https://t.me/Ingvarr_J)
 
 - Эфиры с Алексеем Черновым. [Квантовые парадоксы православия.](/content/Chernov/2024_04_23.md).
 
+Anna Gorbunova [@Bunkini](https://t.me/Bunkini)
+
+- Гностическое Мышление. [Глава VIII. Рождение духа Deep State](/content/GnosticThinking/deep_state.md).
+
 ["Хвиля"](https://hvylya.net)
 
 - Гностическое Мышление. [Гностицизм как признак Запада](/content/GnosticThinking/gnosticism.md)
