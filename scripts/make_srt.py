@@ -28,7 +28,7 @@ SRT = {
   Course.Arestovich: [
     ('2021_12_24', ARESTOVICH),
     ('2021_12_29', ARESTOVICH),
-    #('2022_01_17', ARESTOVICH),
+    ('2022_01_17', ARESTOVICH),
     ('2022_02_07', reversed(ARESTOVICH)),
     ('2022_02_09', reversed(ARESTOVICH)),
     ('2022_02_18', reversed(ARESTOVICH)),

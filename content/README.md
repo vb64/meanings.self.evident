@@ -12,19 +12,19 @@
 - [ ] 00/08 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 01/06 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
+- [ ] 00/03 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/02 [Mash Room](Mash/README.md). Не выходя из комнаты.
+- [ ] 00/14 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
 - [ ] 00/06 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
+- [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/44 [Эфиры с А.Шелестом](Shelest/README.md).
 - [ ] 00/18 [Эфиры с С.Дудником](Dudnik/README.md).
+- [ ] 00/30 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 
 Запланировано:
 
-- [ ] 00/03 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
-- [ ] 00/30 [Александр Бобылев и НАРОД.](Bobileff/README.md)
-- [ ] 00/14 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
 - [ ] 00/06 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
-- [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
 - [ ] 00/08 [Отдельные беседы.](Singles/README.md)
 - [ ] 00/05 [Эфиры с Чадаевым и Ураловым.](Uralov/README.md) "Чистота Понимания".
