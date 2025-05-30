@@ -4,6 +4,7 @@ from text import Course, Speak, split_to_sentences, is_complete
 SPEAKER = len("Speaker 0: ")
 SRT_PATH = os.path.join('..', 'srt')
 
+SHCHELIN = (Speak.Shchelin, )
 GOLUB = (Speak.Golub, Speak.Shchelin)
 ROMANENKO = (Speak.Romanenko, Speak.Shchelin)
 SHELEST = (Speak.Shelest, Speak.Shchelin)
@@ -288,10 +289,10 @@ SRT = {
   ],
 
   Course.PolitWorld: [
-    ('2023_04_25', (Speak.Itskovich, Speak.Shchelin)),
-    ('2023_11_03', (Speak.Safronov, Speak.Shchelin)),
-    ('2023_11_30', (Speak.Leybin, Speak.Shchelin)),
-    ('2023_12_13', (Speak.Gromov, Speak.Shchelin)),
+    ('2023_04_25', SHCHELIN),
+    ('2023_11_03', SHCHELIN),
+    ('2023_11_30', (Speak.Shchelin, Speak.Leybin)),
+    ('2023_12_13', SHCHELIN),
   ],
 
   Course.Singles: [
@@ -386,22 +387,22 @@ def podcast(name):
 
 def main():
     for i in (
-      # Course.InSearchOfMeaning,
-      # Course.GnosticThinking,
-      # Course.Mash,
-      # Course.Shelest,
-      # Course.Panchenko,
-      # Course.Dudnik,
-      # Course.Chernov,
-      # Course.English,
-      # Course.Usa,
-      # Course.Bobileff,
-      # Course.Arestovich,
-      # Course.Baumeister,
-      # Course.Chernobaev,
+      Course.InSearchOfMeaning,
+      Course.GnosticThinking,
+      Course.Mash,
+      Course.Shelest,
+      Course.Panchenko,
+      Course.Dudnik,
+      Course.Chernov,
+      Course.English,
+      Course.Usa,
+      Course.Bobileff,
+      Course.Arestovich,
+      Course.Baumeister,
+      Course.Chernobaev,
       Course.Khimich,
       Course.Mnenie,
-      # Course.PolitWorld,
+      Course.PolitWorld,
       # Course.Singles,
       # Course.Uralov,
     ):
