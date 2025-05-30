@@ -26,6 +26,7 @@ class Speak:
     Shchelin = "П.Щелин"
     Ads = "Реклама"
     Translator = "Переводчик"
+    Guest = "Слушатель"
 
     Golub = "Е.Голуб"
     Romanenko = "Ю.Романенко"

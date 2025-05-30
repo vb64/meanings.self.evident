@@ -4,6 +4,7 @@ from text import Course, Speak, split_to_sentences, is_complete
 SPEAKER = len("Speaker 0: ")
 SRT_PATH = os.path.join('..', 'srt')
 
+SHCHELIN = (Speak.Shchelin, )
 GOLUB = (Speak.Golub, Speak.Shchelin)
 ROMANENKO = (Speak.Romanenko, Speak.Shchelin)
 SHELEST = (Speak.Shelest, Speak.Shchelin)
@@ -272,45 +273,45 @@ SRT = {
   ],
 
   Course.Khimich: [
-    ('2022_11_25.md', KHIMICH),
-    ('2022_12_11.md', KHIMICH),
-    ('2023_01_31.md', KHIMICH),
-    ('2024_03_20.md', KHIMICH),
+    ('2022_11_25', KHIMICH),
+    ('2022_12_11', KHIMICH),
+    ('2023_01_31', reversed(KHIMICH)),
+    ('2024_03_20', KHIMICH),
   ],
 
   Course.Mnenie: [
-    ('2025_01_16.md', ASKERHANOV),
-    ('2025_02_10.md', ASKERHANOV),
-    ('2025_03_09.md', ASKERHANOV),
-    ('2025_03_24.md', ASKERHANOV),
-    ('2025_05_02.md', ASKERHANOV),
-    ('2025_05_16.md', ASKERHANOV),
+    ('2025_01_16', ASKERHANOV),
+    ('2025_02_10', reversed(ASKERHANOV)),
+    ('2025_03_09', reversed(ASKERHANOV)),
+    ('2025_03_24', (Speak.Shchelin, Speak.Askerhanov, Speak.Nadolinsky)),
+    ('2025_05_02', (Speak.Askerhanov, Speak.Shchelin, Speak.Guest)),
+    ('2025_05_16', ASKERHANOV),
   ],
 
   Course.PolitWorld: [
-    ('2023_04_25.md', (Speak.Itskovich, Speak.Shchelin)),
-    ('2023_11_03.md', (Speak.Safronov, Speak.Shchelin)),
-    ('2023_11_30.md', (Speak.Leybin, Speak.Shchelin)),
-    ('2023_12_13.md', (Speak.Gromov, Speak.Shchelin)),
+    ('2023_04_25', SHCHELIN),
+    ('2023_11_03', SHCHELIN),
+    ('2023_11_30', (Speak.Shchelin, Speak.Leybin)),
+    ('2023_12_13', SHCHELIN),
   ],
 
   Course.Singles: [
-    ('2014_05_08.md', (Speak.Shchelin, )),
-    ('2021_12_28.md', ROMANENKO),
-    ('2022_03_04.md', (Speak.Romanenko, Speak.Shchelin)),
-    ('2022_04_04.md', (Speak.Belkovsky, Speak.Shchelin)),
-    ('2022_04_08.md', (Speak.Kusa, Speak.Shchelin)),
-    ('2022_06_13.md', (Speak.Burov, Speak.Shchelin)),
-    ('2022_08_27.md', (Speak.Svetov, Speak.Shchelin)),
-    ('2025_05_08.md', (Speak.Klizma, Speak.Shchelin)),
+    ('2014_05_08', (Speak.Shchelin, )),
+    ('2021_12_28', ROMANENKO),
+    ('2022_03_04', (Speak.Romanenko, Speak.Shchelin)),
+    ('2022_04_04', (Speak.Belkovsky, Speak.Shchelin)),
+    ('2022_04_08', (Speak.Kusa, Speak.Shchelin)),
+    ('2022_06_13', (Speak.Burov, Speak.Shchelin)),
+    ('2022_08_27', (Speak.Svetov, Speak.Shchelin)),
+    ('2025_05_08', (Speak.Klizma, Speak.Shchelin)),
   ],
 
   Course.Uralov: [
-    ('2024_12_25.md', (Speak.Ads, Speak.Shchelin)),
-    ('2025_01_29.md', (Speak.Ads, Speak.Shchelin)),
-    ('2025_03_06.md', (Speak.Ads, Speak.Shchelin)),
-    ('2025_04_03.md', (Speak.Ads, Speak.Shchelin)),
-    ('2025_05_15.md', (Speak.Ads, Speak.Shchelin)),
+    ('2024_12_25', (Speak.Ads, Speak.Shchelin)),
+    ('2025_01_29', (Speak.Ads, Speak.Shchelin)),
+    ('2025_03_06', (Speak.Ads, Speak.Shchelin)),
+    ('2025_04_03', (Speak.Ads, Speak.Shchelin)),
+    ('2025_05_15', (Speak.Ads, Speak.Shchelin)),
   ],
 
 }
@@ -399,9 +400,9 @@ def main():
       Course.Arestovich,
       Course.Baumeister,
       Course.Chernobaev,
-      # Course.Khimich,
-      # Course.Mnenie,
-      # Course.PolitWorld,
+      Course.Khimich,
+      Course.Mnenie,
+      Course.PolitWorld,
       # Course.Singles,
       # Course.Uralov,
     ):
