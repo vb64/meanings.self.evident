@@ -84,6 +84,7 @@ SRT = {
     ("2024_05_22", reversed(CHERNOV)),
     ("2024_08_13", reversed(CHERNOV)),
     ("2025_04_07", reversed(CHERNOV)),
+    ('2025_05_30', reversed(CHERNOV)),
   ],
 
   Course.Panchenko: [
