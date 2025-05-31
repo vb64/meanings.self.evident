@@ -11,7 +11,7 @@
 - [ ] 05/09 [Гностическое Мышление](GnosticThinking/README.md). Лекции из совместного проекта с Юрием Романенко.
 - [ ] 00/08 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
-- [ ] 01/06 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
+- [ ] 01/07 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
 - [ ] 00/03 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/02 [Mash Room](Mash/README.md). Не выходя из комнаты.
 - [ ] 00/15 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
