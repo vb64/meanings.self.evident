@@ -177,6 +177,7 @@ PODCAST = {
     ('2024_05_22.md', False),
     ('2024_08_13.md', False),
     ('2025_04_07.md', False),
+    ('2025_05_30.md', False),
   ],
 
   Course.English: [
