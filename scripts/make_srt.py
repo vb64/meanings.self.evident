@@ -123,7 +123,7 @@ def main():
       Course.Khimich,
       Course.Mnenie,
       Course.PolitWorld,
-      # Course.Singles,
+      Course.Singles,
       Course.Uralov,
     ):
         podcast(i)

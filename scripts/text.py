@@ -279,14 +279,14 @@ COURSE_POLITWORLD = [
   ('2023_12_13', False, SHCHELIN),
 ]
 COURSE_SINGLES = [
-  ('2014_05_08', False, (Speak.Shchelin, )),
-  ('2021_12_28', False, ROMANENKO),
-  ('2022_03_04', False, (Speak.Romanenko, Speak.Shchelin)),
+  ('2014_05_08', False, (Speak.Shchelin, Speak.Guest)),
+  ('2021_12_28', False, reversed(ROMANENKO)),
+  #('2022_03_04', False, (Speak.Romanenko, Speak.Shchelin)),
   ('2022_04_04', False, (Speak.Belkovsky, Speak.Shchelin)),
   ('2022_04_08', False, (Speak.Kusa, Speak.Shchelin)),
-  ('2022_06_13', False, (Speak.Burov, Speak.Shchelin)),
-  ('2022_08_27', False, (Speak.Svetov, Speak.Shchelin)),
-  ('2025_05_08', False, (Speak.Klizma, Speak.Shchelin)),
+  #('2022_06_13', False, (Speak.Burov, Speak.Shchelin)),
+  #('2022_08_27', False, (Speak.Svetov, Speak.Shchelin)),
+  #('2025_05_08', False, (Speak.Klizma, Speak.Shchelin)),
 ]
 COURSE_URALOV = [
   ('2024_12_25', False, (Speak.Uralov, Speak.Shchelin, Speak.Kniazev, Speak.Chadaev)),
