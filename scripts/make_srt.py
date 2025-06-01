@@ -124,7 +124,7 @@ def main():
       Course.Mnenie,
       Course.PolitWorld,
       # Course.Singles,
-      # Course.Uralov,
+      Course.Uralov,
     ):
         podcast(i)
 

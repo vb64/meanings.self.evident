@@ -289,11 +289,11 @@ COURSE_SINGLES = [
   ('2025_05_08', False, (Speak.Klizma, Speak.Shchelin)),
 ]
 COURSE_URALOV = [
-  ('2024_12_25', False, (Speak.Ads, Speak.Shchelin)),
-  ('2025_01_29', False, (Speak.Ads, Speak.Shchelin)),
-  ('2025_03_06', False, (Speak.Ads, Speak.Shchelin)),
-  ('2025_04_03', False, (Speak.Ads, Speak.Shchelin)),
-  ('2025_05_15', False, (Speak.Ads, Speak.Shchelin)),
+  ('2024_12_25', False, (Speak.Uralov, Speak.Shchelin, Speak.Kniazev, Speak.Chadaev)),
+  ('2025_01_29', False, (Speak.Uralov, Speak.Shchelin, Speak.Kniazev, Speak.Chadaev)),
+  ('2025_03_06', False, (Speak.Shchelin, Speak.Kniazev, Speak.Uralov, Speak.Chadaev)),
+  ('2025_04_03', False, (Speak.Kniazev, Speak.Shchelin, Speak.Uralov, Speak.Chadaev)),
+  ('2025_05_15', False, (Speak.Uralov, Speak.Kniazev, Speak.Shchelin, Speak.Chadaev)),
 ]
 
 GOLUB_SEASON_01 = [
