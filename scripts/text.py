@@ -130,6 +130,7 @@ COURSE_ENGLISH = [
   ('2024_10_14', False, KOTAR),
   ('2025_01_20', False, HALLJ),
   ('2025_03_21', False, reversed(HEERSJ)),
+  ('2025_06_02', False, HALLJ),
 ]
 COURSE_MASH = [
     ("2025_03_28", False, (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)),
