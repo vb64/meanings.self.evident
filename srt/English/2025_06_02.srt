@@ -1,0 +1,2080 @@
+1
+00:00:02,620 --> 00:00:34,440
+Speaker 1: well hello everyone today i am privileged to welcome uh i guess you've already seen on our channel jordan hall uh so there won't be too long of an introduction i just would mention that our last conversation i think provided a really important insight for many of you and that's why i decided to continue our calls and schedules, apart from my personal pleasure, which is always a huge element of these endeavors.
+
+2
+00:00:35,980 --> 00:00:39,140
+Speaker 1: And so, to do something short, very happy to see you, Jordan.
+
+3
+00:00:40,160 --> 00:00:40,820
+Speaker 1: Welcome on the channel.
+
+4
+00:00:41,800 --> 00:00:42,320
+Speaker 0: Yeah, thank you.
+
+5
+00:00:42,820 --> 00:00:50,660
+Speaker 0: We had a really nice conversation last time, and I got to discover afterwards that you have deployed AI to make me speak Russian, which was fun.
+
+6
+00:00:51,040 --> 00:00:52,420
+Speaker 0: Fun to hear myself speaking Russian.
+
+7
+00:00:53,420 --> 00:00:55,100
+Speaker 1: Yeah, we had to do it.
+
+8
+00:00:55,260 --> 00:00:56,960
+Speaker 1: And that's part of the point.
+
+9
+00:01:00,900 --> 00:01:14,480
+Speaker 1: It's not the easiest of endeavors, but building this type of bridges, I think, is important because there is so much deep thought beyond the news headlines happening in English language, which is inaccessible to Russian audience.
+
+10
+00:01:16,340 --> 00:01:43,720
+Speaker 1: vice versa like almost none of the russian speaking conversations are really translated well into english and like just going completely on the radar so these conversations are like a small contribution contributions to provide more volume to provide more volume general substantial let's put it this way uh not debates but conversations on the key crucial topics and speak of crucial topics.
+
+11
+00:01:43,960 --> 00:01:50,440
+Speaker 1: So today we are going to speak a little on a first glance about a little bit more mundane problems.
+
+12
+00:01:50,760 --> 00:01:55,000
+Speaker 1: It will jump from the post you've written recently and I will ask you to summarize.
+
+13
+00:01:55,360 --> 00:02:04,280
+Speaker 1: But we will talk about politics, about the relationship between different elements of political, how it's organized right now and why this conversation is important.
+
+14
+00:02:04,840 --> 00:02:07,620
+Speaker 1: So without further ado, please go on.
+
+15
+00:02:07,660 --> 00:02:09,680
+Speaker 1: Well,
+
+16
+00:02:10,139 --> 00:02:36,340
+Speaker 0: maybe as just a bit of background, particularly for those who are coming from the Russian civilization, I am an example of something that is a big part of the Western tradition, but has been largely extinguished for the past 50 or 80 years, which is I am not a credentialed expert in anything.
+
+17
+00:02:37,400 --> 00:02:43,460
+Speaker 0: Instead, what I did is I made my own way in entrepreneurship, specifically in technology.
+
+18
+00:02:44,820 --> 00:02:46,080
+Speaker 0: And this afforded me two things.
+
+19
+00:02:46,400 --> 00:02:47,160
+Speaker 0: Well, three things, really.
+
+20
+00:02:48,020 --> 00:02:58,520
+Speaker 0: It afforded me a certain practice and training in using the intellect to engage with physical reality in a highly competitive environment, which is not the same thing as how the academy works.
+
+21
+00:02:59,800 --> 00:03:05,020
+Speaker 0: It afforded me the opportunity then to use the rest of my life to do whatever I thought was the best thing to do.
+
+22
+00:03:05,540 --> 00:03:08,580
+Speaker 0: instead of being governed by the exigencies of making money.
+
+23
+00:03:09,580 --> 00:03:24,320
+Speaker 0: And it afforded me the access, the ability to access a wide variety of different people with either inside information or deep expertise or profound capacities, which I have taken significant advantage of.
+
+24
+00:03:26,940 --> 00:04:07,360
+Speaker 0: One consequence is that, and this... very very specifically was highlighted in 2016 is that on occasion when an event occurs that is very surprising to a large number of people or perhaps even more than surprising the word would be confounding um a number of people who i know will ask me what is my perspective on what has happened and on occasion if that happens enough i get tired of repeating myself so i write it down And so this began a series of essays that I wrote back in 2017, endeavoring to make sense of the Trump election, which in the West was quite confounding to a very large number of people.
+
+25
+00:04:09,460 --> 00:04:14,680
+Speaker 0: And that became a very popular set of essays describing a certain way of thinking about things.
+
+26
+00:04:15,580 --> 00:04:21,600
+Speaker 0: And I haven't written these in quite some time, but recently, like in just about a week or two ago.
+
+27
+00:04:22,480 --> 00:04:26,920
+Speaker 0: a similar problem began to emerge in terms of this, what is going on with the Trump tariffs?
+
+28
+00:04:27,720 --> 00:04:32,600
+Speaker 0: And so I just sat down and just briefly sketched out a couple of ways of thinking about it.
+
+29
+00:04:34,860 --> 00:04:45,880
+Speaker 0: And so the idea here is first at a meta level, the methodology is differential analysis by means of a variety of frames.
+
+30
+00:04:46,580 --> 00:04:50,400
+Speaker 0: So you'll hear, I'll make a proposition of a way of looking at things.
+
+31
+00:04:51,220 --> 00:05:01,240
+Speaker 0: And I'm not going to try to defend the way of looking at things as being the way reality is, but rather that it is a reasonably plausible way that reality is.
+
+32
+00:05:01,640 --> 00:05:04,020
+Speaker 0: And if you look through that lens, two things will happen.
+
+33
+00:05:04,500 --> 00:05:10,440
+Speaker 0: One is you'll be seeing reality the way that people who are operating by means of that lens see reality, which is very helpful.
+
+34
+00:05:11,260 --> 00:05:25,700
+Speaker 0: and second you'll add that perspective to your portfolio and then as you look through a variety of these lenses you'll have a higher dimensional perspective on what's happening and you'll be looking through the eyes of people perhaps that you don't uh agree with which can always be very helpful
+
+35
+00:05:26,480 --> 00:07:19,400
+Speaker 1: i just want to add to this point why it's important and it's something i try to show like it's because it's not much about preaching this logically but like showing how it works people nowadays surprisingly to me uh even kind of who are supposed to do what you're describing by trade by profession kind of avoid like and run if you want to say it from this duty in a sense it's uh let's say a wrong way of viewing the world that's why we are not going to discuss it from its own perspective we're just gonna label it and then pretend it's not functioning which i always respond that's it's precisely then necessary for you to understand how this world view works or how this again worldview is a very soft term for this metric so it's more like a meta view so because no matter what you think about this meta version of reality it's important that people will act from their meta versions of reality so if you want to understand why somebody is doing something you need to understand what kind of world one is living in and you can absolutely sincere disagree with the world they live in or you can consider well it's madness it will lead to their own destruction which is totally fine with me but you can but nevertheless accept that they will act based upon it so you're not building this false expectations and then are constantly surprised how it's possible to happen it was not supposed to have it's self-evident that should not happen it's happening nevertheless and that's what i think you're talking about It just, again, you absolutely right mentioned, I think in the Western culture, it was Trump election definitely became this like revolutionary moment from this perspective, because it was the type of event which shouldn't have happened because it shouldn't have happened.
+
+36
+00:07:20,220 --> 00:07:21,160
+Speaker 1: Yes, exactly.
+
+37
+00:07:22,060 --> 00:07:30,580
+Speaker 0: And just to add to the ones that I will articulate in a moment, I'm explicitly avoiding two things.
+
+38
+00:07:30,780 --> 00:07:34,300
+Speaker 0: One, I'm avoiding frames that are already common currency, because what's the point of that?
+
+39
+00:07:34,360 --> 00:07:35,120
+Speaker 0: Everybody already has them.
+
+40
+00:07:35,980 --> 00:07:45,600
+Speaker 0: And the second is I'm avoiding, in this particular case, any effort to try to model Trump's mind for two reasons.
+
+41
+00:07:45,900 --> 00:07:50,680
+Speaker 0: Again, this seems to be a favorite habit of people who typically are wrong.
+
+42
+00:07:51,640 --> 00:07:52,460
+Speaker 0: It's an interesting filter.
+
+43
+00:07:53,000 --> 00:08:00,640
+Speaker 0: And second, I've never seen anybody do it well, so it may not be a useful way of trying to do things.
+
+44
+00:08:00,840 --> 00:08:02,640
+Speaker 0: Okay, so here's some of the frames.
+
+45
+00:08:02,820 --> 00:08:10,140
+Speaker 0: So one frame is... One of the things that is happening in the world that is very important is the collapse of neoliberalism.
+
+46
+00:08:14,120 --> 00:08:21,700
+Speaker 1: Can you just quickly explore and so we certainly understand the same thing and the neoliberalism and the audience understands on it.
+
+47
+00:08:21,780 --> 00:08:23,660
+Speaker 1: So what do you put into neoliberalism?
+
+48
+00:08:25,440 --> 00:08:26,840
+Speaker 0: Well, it's actually a two-step process.
+
+49
+00:08:26,900 --> 00:08:28,880
+Speaker 0: So the first step is liberalism.
+
+50
+00:08:29,280 --> 00:08:35,840
+Speaker 0: So I understand neoliberalism as merely the logical consequence of liberalism.
+
+51
+00:08:36,039 --> 00:08:38,400
+Speaker 0: It's sort of the final form or the fully bloated form.
+
+52
+00:08:39,500 --> 00:08:45,580
+Speaker 0: And liberalism is a little bit difficult, but let's see if I can say it succinctly and accurately.
+
+53
+00:08:46,780 --> 00:09:06,840
+Speaker 0: Liberalism is an effort to address the problem of the loss of faith in the West by means of producing a secular religion, that could enable coordination between groups of people that were perhaps operating under different religious worldviews.
+
+54
+00:09:07,680 --> 00:09:07,860
+Speaker 0: Okay.
+
+55
+00:09:08,860 --> 00:09:09,260
+Speaker 0: Go on.
+
+56
+00:09:09,980 --> 00:09:16,660
+Speaker 0: And we can go into more detail about why I modeled that as having a natural trajectory, but for the moment, that's that.
+
+57
+00:09:17,760 --> 00:09:18,120
+Speaker 1: Yeah.
+
+58
+00:09:18,160 --> 00:09:19,360
+Speaker 1: Let's just clarify it.
+
+59
+00:09:19,660 --> 00:09:21,220
+Speaker 1: And why it's so-so.
+
+60
+00:09:21,740 --> 00:09:21,960
+Speaker 1: Yeah.
+
+61
+00:09:22,000 --> 00:09:22,240
+Speaker 1: Thank you.
+
+62
+00:09:22,280 --> 00:09:22,400
+Speaker 1: Okay.
+
+63
+00:09:22,440 --> 00:09:22,480
+Speaker 1: uh
+
+64
+00:09:23,740 --> 00:10:02,780
+Speaker 0: the second is the uh collapse of the american hegemony and i mean largely here notice that these two things are not exactly the same the american hegemony is has been put to the service of neoliberalism to a very great extent but it is not the same thing and what i mean is both at the military level that the United States is no longer actually able to have fully asymmetric power projection and either will be hubristically getting itself involved into conflicts that it can't win or will be noticing that it needs to not engage in conflicts that it can't win, which is going to be a big difference in the nature of reality.
+
+65
+00:10:04,720 --> 00:10:05,280
+Speaker 0: Huh, interesting.
+
+66
+00:10:05,340 --> 00:10:06,080
+Speaker 0: I've forgotten the third.
+
+67
+00:10:06,120 --> 00:10:06,800
+Speaker 0: Do you remember what it was?
+
+68
+00:10:08,660 --> 00:10:08,900
+Speaker 1: One sec.
+
+69
+00:10:11,280 --> 00:10:12,720
+Speaker 1: I think, yeah.
+
+70
+00:10:12,780 --> 00:10:16,440
+Speaker 1: I think... uh you mentioned that civilizations are unstable
+
+71
+00:10:18,260 --> 00:10:27,240
+Speaker 0: oh that's well that's a different that's a different post but we can do that too yeah um so let me get to the get to the last one on um oh the fourth industrial revolution
+
+72
+00:10:27,820 --> 00:10:28,140
+Speaker 1: so the
+
+73
+00:10:30,000 --> 00:11:33,500
+Speaker 0: next one is that um industrial revolutions seem to be a real thing and that when we're moving through an industrial revolution it tends to have what's known as an s curve so there's a period of time where it's just beginning to happen then it becomes mature then it becomes the reality that we just live in and then it becomes uh senescent it becomes something old and so we're nearing the end of the last industrial revolution and nearing very much in the acceleration phase of the next industrial revolution and what that means is that a very large a fraction of our underlying um it's the kind of classic marx distinction the the infrastructure matters a lot and a lot of the infrastructure is in fact going to be replaced so as an example many people in in the left on the west have been projecting a mental model of the idea of the united states re-onshoring industry as being one of taking uh sweatshop machine shop factories from China and trying to place them in the United States.
+
+74
+00:11:34,140 --> 00:11:35,740
+Speaker 0: And of course, they look at that and say, that's absurd.
+
+75
+00:11:35,800 --> 00:11:37,520
+Speaker 0: Americans aren't going to work at $2 an hour.
+
+76
+00:11:38,420 --> 00:11:40,980
+Speaker 0: But the point is that that's meta absurd, because that's not the idea.
+
+77
+00:11:41,220 --> 00:11:54,160
+Speaker 0: The idea is replacing that entire category of industry with a completely new category of industry, which might be all robots, or it might be synthetic biology using fungi to synthetically produce sock-like objects.
+
+78
+00:11:54,200 --> 00:11:58,360
+Speaker 0: We're talking about a whole new category of industry that's completely different in how it operates.
+
+79
+00:12:00,500 --> 00:12:02,360
+Speaker 0: And this, by the way, has two very big implications.
+
+80
+00:12:03,960 --> 00:12:11,940
+Speaker 0: One implication is that the power structures that have been sitting on top of the third industrial revolution are going to be destabilized.
+
+81
+00:12:12,820 --> 00:12:27,300
+Speaker 0: And the other implication is a lot of our intuitions on how things, how energy flows and resources operate and how the flows of economy work are themselves going to be disrupted because the new industrial approaches operate in a different fashion.
+
+82
+00:12:27,920 --> 00:12:34,320
+Speaker 1: I would add to this even more basic category is disrupted, the category of value.
+
+83
+00:12:35,040 --> 00:12:39,640
+Speaker 1: Because any technological system provides its own hierarchy of value.
+
+84
+00:12:40,000 --> 00:12:44,840
+Speaker 1: And I'm speaking now purely about material and the skills level of value.
+
+85
+00:12:45,380 --> 00:12:47,920
+Speaker 1: And you are talking about basically a complete shift.
+
+86
+00:12:48,440 --> 00:12:58,300
+Speaker 1: in this whole value hierarchy and other subsequent hierarchy it produces, like hierarchy in education, hierarchy in social capital, hierarchy in migration.
+
+87
+00:12:58,340 --> 00:12:59,920
+Speaker 1: It's strengthening your point.
+
+88
+00:13:01,100 --> 00:13:01,620
+Speaker 0: Yeah, wonderful.
+
+89
+00:13:01,740 --> 00:13:06,220
+Speaker 0: Yeah, so let's bridge to the last one and then we can go to the previous post because these start to all go together.
+
+90
+00:13:06,280 --> 00:13:12,200
+Speaker 0: So the last one is a special case of the fourth industrial revolution is AI.
+
+91
+00:13:13,180 --> 00:13:30,080
+Speaker 0: And so one of the lenses that you can look through is to say, What's really happening, let's say, or a way of making sense of what's happening that is very important, is that a sizable number of global elites have identified the race to AI dominance as the only thing that matters.
+
+92
+00:13:31,160 --> 00:13:41,580
+Speaker 0: And so they, who are quite powerful and getting more powerful by the day, are looking at all of the other pieces on the board, let's use a chess metaphor, as tactical.
+
+93
+00:13:42,020 --> 00:13:45,900
+Speaker 0: I can sacrifice a lot of pawns if I ultimately am able to get the checkmate.
+
+94
+00:13:46,640 --> 00:13:55,860
+Speaker 0: And the thesis is, by the way, that this is a checkmate, that whoever achieves AI supremacy has such an asymmetric advantage over everybody else that it's a singleton.
+
+95
+00:13:55,960 --> 00:13:57,640
+Speaker 0: It's a one-time win.
+
+96
+00:13:58,860 --> 00:14:07,040
+Speaker 0: Now, again, you may not agree with that as an assessment, but as a model of what some number of powerful people are doing, I would assure you that it's useful.
+
+97
+00:14:07,500 --> 00:14:08,600
+Speaker 1: Oh, I absolutely agree.
+
+98
+00:14:08,920 --> 00:14:10,140
+Speaker 1: I agree that that's the world too.
+
+99
+00:14:11,800 --> 00:14:20,100
+Speaker 1: which I think became prominent, especially in the last three years, I would put, maybe slightly earlier, but really skyrocketed in the last three years.
+
+100
+00:14:20,760 --> 00:14:25,440
+Speaker 1: And I've seen basically Xi talking about it, Putin talked about importance of AI.
+
+101
+00:14:26,300 --> 00:14:27,720
+Speaker 1: In America, people talk about it.
+
+102
+00:14:27,780 --> 00:14:31,240
+Speaker 1: So it's not some intellectuals in a small room.
+
+103
+00:14:31,360 --> 00:14:32,620
+Speaker 1: It's become a point of power.
+
+104
+00:14:34,060 --> 00:14:38,520
+Speaker 1: I was kind of nodding in a sense, not disagreeing with that's how they see it.
+
+105
+00:14:40,120 --> 00:15:17,040
+Speaker 1: disagree with the fact that it's a single thing like that's i think where i disagree i think i it's a part of ecology and a part of infrastructure but without understanding the let's say unity which can function in the ei environment and by unity i mean social unity political unity geographical unities even ai won't be this magical trump card sorry for play uh which many politicians think it is but that's my assessment as i agree with you in terms of picturing the understanding yes that's very clear now becoming key focus
+
+106
+00:15:17,120 --> 00:15:35,140
+Speaker 0: absolutely okay so then and then then moving on to the the other other post the one that i just articulated i actually wrote up as an essay the one that i'm about to give you some a summary of is i actually wrote as only a tweet but the basic idea is this um First, neoliberalism is imploding.
+
+107
+00:15:36,540 --> 00:15:48,940
+Speaker 0: Second, this will produce for a period of time the effect of the resurgence of what I in that tweet called civilization states, and I believe in your sphere this is a very common term.
+
+108
+00:15:50,320 --> 00:16:08,320
+Speaker 0: Then I make my third point, which is, and surprisingly, my thesis is, is that civilizations writ large, are themselves also A, unstable, and B, at the end of their lifetime, which will then lead to the emergence of what I was calling nations without states.
+
+109
+00:16:09,420 --> 00:16:09,560
+Speaker 0: Yes.
+
+110
+00:16:10,220 --> 00:16:18,260
+Speaker 0: This is a very complex proposition, but this is the proposition I put out there, and then you and I had a little bit of a correspondence on it.
+
+111
+00:16:19,120 --> 00:18:40,240
+Speaker 1: Yes, so I just want to start from here, and thanks for guest... no thanks but absolutely necessary context to understand what we are going to talk about right now because i want to clarify it with you uh what exactly do you mean by nation without states because um like cards like cartons are open i think the very concept of nation is very particular and not a universal concept which is conditioned on a very particular period of intellectual and social exactly value hierarchy within the european context of the let's say early starting from early 18th century and by no means is universal to humans or you would say different regions or different civilizations and we can go into it but i can bring quite a lot of examples that many fundamental assessments about nations which kind of became the foundation of nation type thinking are simply not working together like uh and not supported historically and it took a lot of let's say cutting to at least move reality at least a little bit towards the assumptions of the nation theory and when it comes to civilization as well like why do you think like what exactly do you mean by it's imploding and why do you think it's civilization which imploding and not uh nation nation not nations are imploding or not modernity are imploding because i think where we can more or less agree uh is that that political social governmental system produced by modernity per se are imploding and kind of all of the things you mentioned are just different sides of the similar problem like neoliberalism you can you can see neoliberalism as the pinnacle of modernity political so you can see american hegemony as a pinnacle of exactly this kind of modernistic because more modernistic geopolitical thought and it like there is a lot of writing in american sort of the last 50 years which was exactly like happy about like yeah finally we reach this pinnacle we will stay on this pinnacle forever not working ai revolution underlies not our just whole new technological revolution underlies the basic assumptions of modernity as Like industrial capitalism projects started in the 16th century.
+
+112
+00:18:40,700 --> 00:18:55,020
+Speaker 1: And we can remember some famous Max Weber, he's like, you know, Protestant ethics and the spirit of capitalism and then industrial revolutions of Netherlands and Britain and then later this model replicating itself and how it's this model per se is imploding right now.
+
+113
+00:18:55,080 --> 00:18:59,580
+Speaker 1: So all these things I think we're in agreement on that basic structure is imploding.
+
+114
+00:18:59,980 --> 00:19:03,680
+Speaker 1: But where we differ is like what has a chance of coming out of it.
+
+115
+00:19:04,000 --> 00:19:05,420
+Speaker 1: And that's why I want to.
+
+116
+00:19:06,300 --> 00:19:08,240
+Speaker 1: kind of direct our conversation towards this point.
+
+117
+00:19:09,180 --> 00:19:09,360
+Speaker 0: Great.
+
+118
+00:19:09,700 --> 00:19:20,020
+Speaker 0: So what I'll do is, I love having conversations with you because it's very rare that I can actually have a truly intellectual conversation, but we're going to have a truly intellectual conversation here.
+
+119
+00:19:22,160 --> 00:19:33,020
+Speaker 0: So on this hand, I want to talk about, I'll say that there's, from my point of view, a very deep distinction between what I'll be calling nation and civilization.
+
+120
+00:19:34,280 --> 00:19:45,260
+Speaker 0: And then I will say that all the various things that are variants on civilization, of which modernity, neoliberalism, and empire, all are variations of civilization.
+
+121
+00:19:45,580 --> 00:19:47,380
+Speaker 0: So the most basic distinction is just these two.
+
+122
+00:19:48,680 --> 00:19:56,200
+Speaker 0: So when I say nation, I actually mean two different things that are made quite compatible.
+
+123
+00:19:57,700 --> 00:20:04,100
+Speaker 0: Nation is on the one hand, something like family, or kin, or lineage.
+
+124
+00:20:04,940 --> 00:20:12,680
+Speaker 0: which is to say that it is a group that is held together on the basis of deep kinship and relationality.
+
+125
+00:20:15,460 --> 00:20:16,780
+Speaker 0: This is maybe the physical side.
+
+126
+00:20:17,520 --> 00:20:21,980
+Speaker 0: And then the other way of saying it is that it is a group that shares a common spirit.
+
+127
+00:20:24,540 --> 00:20:25,340
+Speaker 0: The spiritual side.
+
+128
+00:20:27,800 --> 00:20:43,300
+Speaker 0: And then when I say civilization, what I mean, and here we could maybe even just say Babylon, is a group that are brought together on the basis of a combination of coercion and incentive.
+
+129
+00:20:46,280 --> 00:20:59,560
+Speaker 0: And there's a visual image that I have is that I have something like sand and snow, where if I have a bunch of sand and let's say I wet it, I can squeeze it into something like a ball.
+
+130
+00:21:00,240 --> 00:21:02,480
+Speaker 0: but it is still at the end of the day an aggregate.
+
+131
+00:21:02,780 --> 00:21:07,280
+Speaker 0: And if and when the water dries out, the sand falls again back to dust.
+
+132
+00:21:07,520 --> 00:21:08,580
+Speaker 0: This is a civilization.
+
+133
+00:21:10,400 --> 00:21:17,260
+Speaker 0: If I have snow, when I squeeze it, the heat melts the snow into water, but the water freezes back into ice.
+
+134
+00:21:17,920 --> 00:21:20,960
+Speaker 0: And so now it has a crystalline matrix that holds it together.
+
+135
+00:21:21,460 --> 00:21:24,340
+Speaker 0: Of course, it can melt, but it will not fall back again into snow.
+
+136
+00:21:24,440 --> 00:21:26,300
+Speaker 0: It is now a block of a different quality.
+
+137
+00:21:27,880 --> 00:21:38,420
+Speaker 0: And so... I can go on at length about this nature of civilization, but what I would just say is something like examples of empire, of which neoliberalism is one.
+
+138
+00:21:39,820 --> 00:21:41,000
+Speaker 0: Rome was an empire.
+
+139
+00:21:41,720 --> 00:21:43,580
+Speaker 0: Obviously, the Chinese empires are empires.
+
+140
+00:21:43,620 --> 00:21:49,360
+Speaker 0: And what you see with empire is that empire takes nation as its feedstock.
+
+141
+00:21:50,520 --> 00:21:53,800
+Speaker 0: Empire takes nations, and it does two things to them.
+
+142
+00:21:54,820 --> 00:21:56,360
+Speaker 0: It decontextualizes them.
+
+143
+00:21:57,140 --> 00:22:11,980
+Speaker 0: So it breaks apart their qualities of relationality and brings persons into individuals and then relates individuals by means of the body of the institutional forms of the civilization.
+
+144
+00:22:13,220 --> 00:22:23,700
+Speaker 0: And a simple example that we're all familiar with in the body of neoliberalism is you no longer go to your family's house to have a meal.
+
+145
+00:22:24,520 --> 00:22:25,600
+Speaker 0: You go to a restaurant.
+
+146
+00:22:25,980 --> 00:22:32,740
+Speaker 0: where there's a bunch of people that are serving food to each other, entirely mediated by the body of money and to a lesser extent by law.
+
+147
+00:22:34,060 --> 00:22:40,240
+Speaker 0: And so the layer that connects people is always intermediated by the body of the civilization.
+
+148
+00:22:40,320 --> 00:22:43,800
+Speaker 0: That's what holds the people together as a kind of group.
+
+149
+00:22:45,240 --> 00:22:54,980
+Speaker 0: Whereas, of course, if you go to your family's house for Easter dinner, the bond that holds you together is shared deep relationships of intimacy.
+
+150
+00:22:55,660 --> 00:22:59,180
+Speaker 0: and a shared common spirit, which in this case would be Christ.
+
+151
+00:22:59,960 --> 00:23:00,400
+Speaker 0: It's Easter.
+
+152
+00:23:00,840 --> 00:23:03,140
+Speaker 0: It could also just be family if you're secular.
+
+153
+00:23:05,900 --> 00:23:06,980
+Speaker 0: And so we can iterate.
+
+154
+00:23:07,440 --> 00:23:11,800
+Speaker 0: We can zoom in on a given empire or a given other form of civilization.
+
+155
+00:23:12,120 --> 00:23:13,200
+Speaker 0: From my point of view, these are the same.
+
+156
+00:23:15,800 --> 00:23:22,340
+Speaker 0: And so we can deconstruct how modernity is a particular advanced form of empire.
+
+157
+00:23:22,380 --> 00:23:38,700
+Speaker 0: of civilization and neoliberalism we can speak to why it is that when neoliberalism breaks that i'm proposing that civilization states are more stable and we'll see them rise but then why i would see that they will also find themselves to be destabilized this is a two-step process not one step
+
+158
+00:23:39,980 --> 00:23:58,640
+Speaker 1: okay uh let's stop here for a moment if you don't mind like with this to distinguish because i think it's kind of here where the main disagreement would be like or with no disagreement, but just let me a little bit challenge this by first one observation.
+
+159
+00:23:58,740 --> 00:24:06,260
+Speaker 1: I think the key point you brought in talking about nation is the point of common spirit.
+
+160
+00:24:07,560 --> 00:24:19,180
+Speaker 1: And what I see is like that any type of unity doesn't matter whether you call it nation or doesn't matter you call it family.
+
+161
+00:24:19,680 --> 00:24:25,500
+Speaker 1: or whether you call it civilization, or a cult, or anything else, is maintained by a common spirit.
+
+162
+00:24:26,080 --> 00:24:37,020
+Speaker 1: Like even coercion and incentives, they don't function without the context of common spirit or common ethical system.
+
+163
+00:24:37,180 --> 00:24:41,180
+Speaker 1: You can basically... Easy way to understand spirit is a relationship.
+
+164
+00:24:41,500 --> 00:24:41,800
+Speaker 1: Exactly.
+
+165
+00:24:41,920 --> 00:24:51,040
+Speaker 1: So I really like you brought the idea of relationship, because effectively a relationship... You can say the quality of relationship between us is the spirit between us.
+
+166
+00:24:51,600 --> 00:24:55,540
+Speaker 1: Like it won't be too far stretch, let's say, to just use it linguistically.
+
+167
+00:24:56,460 --> 00:25:03,240
+Speaker 1: So for any unity to keep itself for any period of time, you need a spirit.
+
+168
+00:25:03,600 --> 00:25:04,880
+Speaker 1: Like you need a common spirit.
+
+169
+00:25:05,440 --> 00:25:13,200
+Speaker 1: Like any historian of civilizations would say that even coercion and incentive without the common meta-interpretational scheme don't function.
+
+170
+00:25:13,660 --> 00:26:16,060
+Speaker 1: like they can function very short period of time but you cannot build neither civilization nor empire based upon it like uh it always has to be some form of sometimes it's common idea uh sometimes it can be very let's say personalistic idea let's you can see like say empire of alexander like really like big empire like but kind of clearly united by the spirit of alexander with the death of alexander collapses into let's say bigger pieces that's why i think like which kind of most civilizational approaches and studies it doesn't matter whether it's russian or pretty like point beyond the nalewski kind of hunting and details matter but the general understanding the leaning towards is like a big religious um unity uh blocks of unity and ethicals or at least ethical system which is derivative from this let's say block of unity Where I personally think neoliberalism was different was a different form of empire.
+
+171
+00:26:16,580 --> 00:26:20,240
+Speaker 1: And that's why I like your explanation in the beginning.
+
+172
+00:26:20,320 --> 00:26:29,560
+Speaker 1: It was an attempt to create an empire without direct appeal to the transcendent, which was very interesting.
+
+173
+00:26:31,260 --> 00:26:32,920
+Speaker 1: long experiment of 400 years.
+
+174
+00:26:33,020 --> 00:26:38,240
+Speaker 1: Ultimately, I think it's failing precisely because it cannot address this empty throne and its heart.
+
+175
+00:26:38,800 --> 00:26:40,840
+Speaker 1: So what's exactly the spirit we are worshipping?
+
+176
+00:26:41,260 --> 00:26:42,360
+Speaker 1: I can name it, for example.
+
+177
+00:26:42,440 --> 00:26:45,160
+Speaker 1: You can name it, but you cannot call it officially.
+
+178
+00:26:45,220 --> 00:26:55,960
+Speaker 1: You cannot put it in its proper place in your system of global governance, and as a result, you're losing this legitimacy and losing this authority, and it starts collapsing countries.
+
+179
+00:26:56,800 --> 00:26:59,020
+Speaker 1: In my opinion, it was the biggest weakness of neoliberalism.
+
+180
+00:27:01,140 --> 00:27:58,500
+Speaker 1: where i so where that's kind of thing so far we might be in agreement where i disagree is that empire or civilization is necessary babylon i think that's very important distinguish what i mean is like atomization in my opinion and my experience of studying empires like for example austro-hungarian empire or russian empire actually provide great sphere of diversities for what you call nations so i would prefer to call them peoples which i think is important distinguishing like like when we talk about it and surprisingly it's precisely only after a nation-state project which came into these regions you started to have the gigantic atomization and horrible, horrible massacres and blood conflicts on a scale unimagined under empires.
+
+181
+00:27:59,420 --> 00:28:12,800
+Speaker 1: For example, if you look at the ethnolinguistic map of the Austro-Hungarian Empire, you will see that there were Czechs living next to Germans, Borders living next to Czechs, Slovak-Hungarians, Croatians, etc.
+
+182
+00:28:13,060 --> 00:28:16,160
+Speaker 1: These are, in fact, my lineage.
+
+183
+00:28:17,440 --> 00:28:19,020
+Speaker 1: Yes, what you call lineage.
+
+184
+00:28:19,340 --> 00:28:21,920
+Speaker 0: No, no, no, my personal, my personal lineage.
+
+185
+00:28:22,080 --> 00:28:22,860
+Speaker 1: Oh, personal, sorry.
+
+186
+00:28:22,900 --> 00:28:23,800
+Speaker 0: From that era.
+
+187
+00:28:24,520 --> 00:28:24,940
+Speaker 1: Great, yeah.
+
+188
+00:28:25,040 --> 00:28:40,780
+Speaker 1: So you can see, it's precisely in the imperial context, these differences, there was a meta system of interpretation, which allowed their coexistence with each other without needing to pure itself from everybody who is not.
+
+189
+00:28:41,180 --> 00:30:12,700
+Speaker 1: directly part of my blood relationship and that's the key foundational role of imperial authority of imperial monarchies if you want it it's an integral system of interpretation which allows smaller system of uh kinships to flourish there are two dangers here which you're absolutely right any empire can become too tyrannical and that's what you call about like let's say if if it starts valuing itself for its own self it's one important element to understand that no empire worth its salt historically exists for its own sake it exists either to serve this common ideal or let's say a common spirit in your context it can be orthodox ideal it can be muslim idea it can be chinese this heaven idea but point being it's serving this ideal and secondly it's not serving itself per se it's serving it for example you can call it greater good but for for a purpose which is not within the empire percent like it is also very tricky relationship where comes the danger and historically most often the danger coming it is but it's kind of the danger of any unity of you could say think about as a family unity processor the danger is like when hierarchy or or unity starts serving itself and not this telos the unity is embodying or representing Like, basically, it's, let's say, empire for empire's sake or kinship for kinship's sake or family for family's sake.
+
+190
+00:30:13,080 --> 00:30:33,780
+Speaker 1: If, let's say, two people in a family or, like, bigger people in a family are not united together in order to embody, let's say, the Christ in front of, like, Easter Orthodoxy, so, like, fine, this language, to embody something bigger than themselves, then it starts falling apart.
+
+191
+00:30:34,540 --> 00:30:34,700
+Speaker 1: One.
+
+192
+00:30:35,240 --> 00:31:06,100
+Speaker 1: element of the swallowing apart is that every part becomes self-referential so it tries to break the unity and focus the unity on your own self or the authority structure becomes tyrannical and tries to suppress any diversity without uh you can call it unnecessary suppression because there is such as a necessary suppression your name is oppressive my name is oppressive like like any identity is oppressive in itself So there is a healthy, let's say, oppression, if you want to put it this way.
+
+193
+00:31:06,420 --> 00:31:10,880
+Speaker 1: But there is an unhealthy oppression when it's become self-referential and for its own sake.
+
+194
+00:31:11,220 --> 00:31:12,840
+Speaker 1: And yes, any hierarchy has a danger.
+
+195
+00:31:13,000 --> 00:31:24,880
+Speaker 1: The problem where I see it, like, if you completely abandon this higher calling for this or meta-referential structure, what I call empire.
+
+196
+00:31:25,040 --> 00:31:27,940
+Speaker 1: So just to clarify, what I call empire is not Babylon.
+
+197
+00:31:28,420 --> 00:31:34,760
+Speaker 1: What I call empire is any form of... worshipping the common spirit, ultimately.
+
+198
+00:31:35,540 --> 00:31:36,740
+Speaker 1: That's actually for my difference.
+
+199
+00:31:36,800 --> 00:31:44,920
+Speaker 1: So I think that any big historical, let's say, process or group or political group or cultural group has this element.
+
+200
+00:31:45,060 --> 00:32:29,360
+Speaker 1: It either moves towards integration, and then through process of integration, it creates, through a common spirit, it can integrate different elements which are not... stimuli per se but they are similar in most important and this most important thing is precisely this common spirit uh or it kind of disappears or becomes part of other things because alternatively you have constantly the problem of violence which we will talk about it later but i'm talking a little bit too much but right now i'm curious to see to hear whether i managed to at least express my difference to this hypothesis you posed i
+
+201
+00:32:29,700 --> 00:32:56,340
+Speaker 0: i i think so i think so let me um i won't repeat back to you what i'll do is i'll resp i respond with what has come to me as a consequence so my hope and expectation is that we will actually cultivate deeper insight and right now i'm feeling like i've achieved a deeper level of insight as a result of what you're presenting so what i'm seeing is i think that's a three kinds of spirit
+
+202
+00:32:57,340 --> 00:32:58,980
+Speaker 1: okay so that's a good start yeah
+
+203
+00:32:59,500 --> 00:33:00,360
+Speaker 0: Three kinds of spirit.
+
+204
+00:33:01,440 --> 00:33:02,540
+Speaker 0: The first two are trouble.
+
+205
+00:33:03,840 --> 00:33:11,320
+Speaker 0: The first is in fact a proper spirit of a nation as assigned by the Lord after Babel.
+
+206
+00:33:13,260 --> 00:33:14,620
+Speaker 0: And notice that these are particular.
+
+207
+00:33:16,240 --> 00:33:24,520
+Speaker 0: So if I, who am not a member of your people, let's say, but in English would be translated nations, by the way, if you read the Bible in English.
+
+208
+00:33:25,140 --> 00:33:27,260
+Speaker 0: it is the nations that's where it's my connection
+
+209
+00:33:27,460 --> 00:33:32,140
+Speaker 1: in russians they're called languages like like that's even more interesting this is
+
+210
+00:33:32,460 --> 00:33:57,380
+Speaker 0: not a bad way of doing it that's not a bad way of doing it at all um so this is the very similar idea right but when you say mother tongue is maybe even better than language you and i are both speaking english it is not your mother's tongue it is my mother's tongue but it's not my mother's mother's mother's tongue interesting so if i participate in the spirit of your but it is not mine, then that's trouble.
+
+211
+00:33:57,860 --> 00:33:58,060
+Speaker 0: Okay?
+
+212
+00:33:58,820 --> 00:34:02,820
+Speaker 0: Now, what we see is we see some of the spirits seem to have a taste for that.
+
+213
+00:34:04,460 --> 00:34:16,679
+Speaker 0: Some of the spirits, not only do they seek to have their people worship them rather than worship God, they also seek to have more people brought under them than was apportioned to them properly.
+
+214
+00:34:17,760 --> 00:34:17,880
+Speaker 0: Okay?
+
+215
+00:34:19,159 --> 00:34:19,320
+Speaker 1: Sorry.
+
+216
+00:34:20,380 --> 00:34:22,739
+Speaker 1: I think even here you have two distinguishes.
+
+217
+00:34:24,280 --> 00:34:30,120
+Speaker 1: So some spirits have a tendency to bring other spirits to worship them.
+
+218
+00:34:30,460 --> 00:34:32,520
+Speaker 1: Like the second point you're talking about.
+
+219
+00:34:33,440 --> 00:34:37,219
+Speaker 1: And some have the idea of worshiping them instead of God.
+
+220
+00:34:37,860 --> 00:34:42,159
+Speaker 1: Like basically it's that idea of nation for nation's sake, leaving God's aside.
+
+221
+00:34:42,820 --> 00:34:44,659
+Speaker 1: You can put it this way, but it's two different process.
+
+222
+00:34:44,960 --> 00:34:46,520
+Speaker 1: Not all of them want to bring others.
+
+223
+00:34:46,800 --> 00:34:49,360
+Speaker 1: Some of them are pretty content with just worship me instead of a God.
+
+224
+00:34:49,679 --> 00:34:53,460
+Speaker 1: Like just to be clear, it's usually smaller nations.
+
+225
+00:34:53,760 --> 00:34:54,340
+Speaker 1: Just go on.
+
+226
+00:34:55,300 --> 00:34:55,699
+Speaker 0: Very nice.
+
+227
+00:34:55,760 --> 00:35:07,640
+Speaker 0: And so we see, for example, the continuous tendency of Baal to bring the people of Israel under his worship, which is wrong for both reasons, right?
+
+228
+00:35:07,880 --> 00:35:13,940
+Speaker 0: Not only is he pulling people from Israel from worshiping God, in this particular case, I'm sure he's also competing with Ashtaroth and everybody else, right?
+
+229
+00:35:13,980 --> 00:35:16,760
+Speaker 0: So it's this kind of mismatch.
+
+230
+00:35:17,860 --> 00:35:44,900
+Speaker 0: The second, and the second may be the... the first but there's a particular set so i'm thinking specifically of mammon there's a particular spirits that maybe never even properly had languages people's nations but have as their basic characteristic this vast breadth of of ways of getting people to worship them we've seen Moloch, right?
+
+231
+00:35:44,940 --> 00:35:51,200
+Speaker 0: But maybe Moloch is, you know, Moloch was in fact properly a particular spirit, but maybe he was actually always of this kind of mammon.
+
+232
+00:35:51,260 --> 00:35:52,380
+Speaker 0: This isn't, I'm not quite sure.
+
+233
+00:35:52,940 --> 00:35:58,180
+Speaker 0: These feel like they were never apportioned to people, but they still nonetheless have brought people to worship them.
+
+234
+00:35:59,060 --> 00:36:04,200
+Speaker 1: I think the two most, if you're using, comment, I love that you're using it.
+
+235
+00:36:04,260 --> 00:36:05,680
+Speaker 1: Like it's, I always feel.
+
+236
+00:36:06,260 --> 00:36:29,800
+Speaker 1: a little bit uncomfortable when i talk with people in this because but with you it sounds absolutely great about these names just calling them by what they are like i think the two most uh this uh why the breast is exactly mammoth and the second is basically uh the sexual righteousness prostitution and fem like dark femininity if you want to put it yeah
+
+237
+00:36:29,860 --> 00:36:30,780
+Speaker 0: yeah yeah very nice so
+
+238
+00:36:31,080 --> 00:36:36,360
+Speaker 1: like if you can see more one wing more dark masculinity Hebel being more dark femininity.
+
+239
+00:36:36,440 --> 00:36:40,500
+Speaker 1: There is even an element of this kind of parallel between them, but gauntlets.
+
+240
+00:36:41,120 --> 00:36:49,660
+Speaker 0: Yeah, so we see, for example, you might say that we see Mars shows up here, but he is also Ares.
+
+241
+00:36:49,720 --> 00:36:55,140
+Speaker 0: He has different names and different nations, and it's almost like you can see these characters running orthogonal.
+
+242
+00:36:55,580 --> 00:36:59,260
+Speaker 0: So you have the vertical nations and the horizontal dominations.
+
+243
+00:36:59,320 --> 00:37:00,120
+Speaker 0: Maybe we'll call them that.
+
+244
+00:37:00,660 --> 00:37:02,780
+Speaker 0: Dominions, probably is even a proper name.
+
+245
+00:37:04,040 --> 00:37:05,320
+Speaker 0: And then you have the third, right?
+
+246
+00:37:05,360 --> 00:37:13,680
+Speaker 0: And the third are proper spirits that on the one hand do not seek to bring under them that which is not properly under them.
+
+247
+00:37:14,280 --> 00:37:21,040
+Speaker 0: And on the other hand, always seek to be brought in their proper hierarchical relationship under the triune God.
+
+248
+00:37:22,800 --> 00:37:28,480
+Speaker 0: I think that formulation, which gets away from the kind of the more vernacular that I was forced to use earlier.
+
+249
+00:37:28,520 --> 00:37:29,480
+Speaker 1: And I think it's more clear.
+
+250
+00:37:30,120 --> 00:40:00,960
+Speaker 1: Yeah, we can always translate it into vernacular term, let's stay here so far because it might be easier i think here what i want yes reframing my whole a little bit convoluted explanation what i guess coming to the nature what i wanted to say is uh even proper spirits are in hierarchy i think that's my biggest comment and where we disagree because you i don't know if you read it but there is this famous christian text one of the earliest and most difficult actually philosophical Christianity works about the heavenly hierarchy by Dionysius of Areopagus and yeah if you haven't read it okay good but just otherwise would have recommend and I think without going too much into details it's one important conclusion is like there is an improper hierarchy and there is a proper hierarchy what I let's say feel the big problem with even idea of the right particularities, right particularities, not you particular, but with the thought that sometimes I have even with good people this feeling that if we avoid playing hierarchical game at all, somehow in order to defend ourselves from improper hierarchy, it will save us, which for me and here you can call it my lineage my particularity or my historic example which for me i don't think it works i think that the only antidote for improper hierarchy is a proper hierarchy and not the absence of hierarchy per se and i think that's what kind of was the nature of my biggest tension uh my biggest comment which i was trying to convey the problem is like it's hard to keep a proper hierarchy first even if it's incredibly hard even to understand what a proper hierarchy is because there is this internal tension to just be misled let's say but by by other non-proper spirits but there is even a bigger problem and that's what i think is absolutely crucial to highlight and to be honest with as any traditionalist or conservative which i am and i have to admit that often it's the second element we tend to avoid that even what started as a proper hierarchy has an intrinsic, eternal, internal, eternal and internal danger of becoming an improper hierarchy the second it becomes self-referential.
+
+251
+00:40:01,000 --> 00:40:10,380
+Speaker 1: And the second it forgets that it's not for its own sake because ultimately to be a proper hierarchy you need to have the highest point of hierarchy to be the highest, the god.
+
+252
+00:40:11,040 --> 00:40:14,040
+Speaker 1: And yes, there is this internal challenge here.
+
+253
+00:40:14,140 --> 00:40:18,380
+Speaker 1: I would rather frame it that the bigger you become, even if you are a proper hierarchy.
+
+254
+00:40:18,500 --> 00:40:19,920
+Speaker 1: And there is actually an interesting tendency.
+
+255
+00:40:20,020 --> 00:40:22,760
+Speaker 1: Like if you are in a proper hierarchy, you will also grow.
+
+256
+00:40:23,500 --> 00:40:26,740
+Speaker 1: And that's why the kingdom of Israel, when it wasn't proper hierarchy, it grew.
+
+257
+00:40:27,200 --> 00:40:28,840
+Speaker 1: Like it didn't stay small.
+
+258
+00:40:29,060 --> 00:40:29,380
+Speaker 1: It grew.
+
+259
+00:40:29,840 --> 00:40:36,320
+Speaker 1: So you can grow improperly and you can through improper hierarchy and you can grow through proper hierarchy.
+
+260
+00:40:38,040 --> 00:40:39,820
+Speaker 1: The hierarchy itself presumes growth.
+
+261
+00:40:40,580 --> 00:40:48,500
+Speaker 1: Somehow, when you start arranging things in a certain order, this doubling effect you've been talking about in our previous conversation starts taking place.
+
+262
+00:40:48,960 --> 00:40:50,260
+Speaker 1: And one question is simple.
+
+263
+00:40:50,320 --> 00:40:52,500
+Speaker 1: If you're in a proper hierarchy, okay, it's clear where you end up.
+
+264
+00:40:52,880 --> 00:40:55,840
+Speaker 1: But there is even a trickier story, and Israel's story shows this.
+
+265
+00:40:56,380 --> 00:41:09,000
+Speaker 1: Even if you start as a proper hierarchy, if you don't meet up the challenge of becoming big, but keeping the proper hierarchy, you will collapse under your own because you start worshipping not the right spirit or start worshipping the spirits improperly.
+
+266
+00:41:10,360 --> 00:41:12,480
+Speaker 0: Yes, I think this is all very, very correct.
+
+267
+00:41:13,540 --> 00:41:16,980
+Speaker 0: And you can notice a variety of different diagnoses.
+
+268
+00:41:18,320 --> 00:41:27,580
+Speaker 0: A simple diagnosis would be the degree to which you say, no, this is mine, as opposed to, no, this is God's, and right now God has placed it under my stewardship.
+
+269
+00:41:29,140 --> 00:41:31,740
+Speaker 0: And if God chooses to place it elsewhere, that's where it should be.
+
+270
+00:41:32,580 --> 00:41:34,360
+Speaker 0: Very simple, like you notice that tension.
+
+271
+00:41:34,740 --> 00:41:36,420
+Speaker 0: But I think this is all actually quite right.
+
+272
+00:41:36,580 --> 00:41:54,440
+Speaker 0: So a way of saying it is something like, there has been a profound power of improper hierarchy under the name of neoliberalism, which is a version of the kind of construct that the adversary produces.
+
+273
+00:41:56,120 --> 00:41:58,660
+Speaker 0: That is in the process of imploding as it always will.
+
+274
+00:41:58,700 --> 00:41:59,340
+Speaker 0: This is important.
+
+275
+00:41:59,880 --> 00:42:01,880
+Speaker 0: improper hierarchy will always collapse.
+
+276
+00:42:04,880 --> 00:42:10,260
+Speaker 0: As that happens, we will see a number of things occur.
+
+277
+00:42:12,860 --> 00:42:17,080
+Speaker 0: One, we will begin to see the aliveness.
+
+278
+00:42:17,560 --> 00:42:24,240
+Speaker 0: The aliveness of proper hierarchy is beautiful because it's like the light that cannot be put out by the darkness.
+
+279
+00:42:24,940 --> 00:42:41,880
+Speaker 0: And so when the darkness finally begins to break you will see these points of light and you'll begin to see them again and and life will begin to reorient towards that more uh correctly and so you'll begin to see them brighter so we will see that by the way this is my my proposition
+
+280
+00:42:42,340 --> 00:42:42,460
+Speaker 1: yes
+
+281
+00:42:43,560 --> 00:42:52,180
+Speaker 0: the second is more complicated um the second has to do with the distinction the challenge between the kingdom of heaven and the kingdom of this world
+
+282
+00:42:52,420 --> 00:42:52,500
+Speaker 1: um
+
+283
+00:42:54,800 --> 00:43:02,460
+Speaker 0: and the and the embodiment of how people are able to be in relationship in communion.
+
+284
+00:43:03,600 --> 00:43:04,260
+Speaker 0: This is very tough.
+
+285
+00:43:04,300 --> 00:43:08,420
+Speaker 0: Let me see if I can even step into that.
+
+286
+00:43:09,420 --> 00:43:09,960
+Speaker 0: So let's see.
+
+287
+00:43:11,580 --> 00:43:12,040
+Speaker 0: I will do this.
+
+288
+00:43:12,080 --> 00:43:14,640
+Speaker 0: I will be very, very banal to begin.
+
+289
+00:43:15,920 --> 00:43:21,000
+Speaker 0: So we have conditions of orality.
+
+290
+00:43:22,660 --> 00:43:26,680
+Speaker 0: We have conditions of walking speed.
+
+291
+00:43:27,900 --> 00:43:28,560
+Speaker 0: Just think about this.
+
+292
+00:43:28,620 --> 00:43:30,260
+Speaker 0: Just use communication as the basis.
+
+293
+00:43:30,980 --> 00:43:33,140
+Speaker 0: Communion and communication are close.
+
+294
+00:43:37,180 --> 00:43:53,300
+Speaker 0: When you and I are afforded a possibility of being in relationship only by means either that I walk to where you are or you walk to where I am or some third person walks to where you are and then carries your message to me.
+
+295
+00:43:55,400 --> 00:43:59,700
+Speaker 0: produces an affordance of a certain possibility of embodiment.
+
+296
+00:43:59,960 --> 00:44:00,860
+Speaker 0: This is very important.
+
+297
+00:44:02,540 --> 00:44:15,740
+Speaker 0: The qualities of our relationship and the kinds of communication that we in fact have available to us produce a certain moment of embodiment under both improper and proper hierarchies.
+
+298
+00:44:19,380 --> 00:44:24,600
+Speaker 0: Now, interestingly, this phase How does this work?
+
+299
+00:44:25,180 --> 00:44:28,680
+Speaker 0: So this stage, this stage of orality, when I say orality, I mean also by foot.
+
+300
+00:44:28,860 --> 00:44:30,520
+Speaker 0: There's for me connected right now.
+
+301
+00:44:32,580 --> 00:44:36,740
+Speaker 0: We'll tend to be also very genetic kin.
+
+302
+00:44:38,100 --> 00:44:38,160
+Speaker 0: Yes.
+
+303
+00:44:38,240 --> 00:44:41,880
+Speaker 0: You'll tend obviously to live near the people who you were born with for lots of reasons.
+
+304
+00:44:42,000 --> 00:44:43,060
+Speaker 1: Yeah.
+
+305
+00:44:43,240 --> 00:44:48,240
+Speaker 0: And so then this is why, and you will have your language will be shared because they're all, in fact, your mother's tongue.
+
+306
+00:44:48,380 --> 00:44:50,660
+Speaker 0: You learn them from your mother who learned them for her mother.
+
+307
+00:44:52,760 --> 00:44:58,960
+Speaker 0: So this has the difficulty of self-referentiality, which we, of course, have seen, like crazy.
+
+308
+00:45:00,200 --> 00:45:03,000
+Speaker 0: It has less difficulty of tyranny.
+
+309
+00:45:03,300 --> 00:45:03,600
+Speaker 0: let's say.
+
+310
+00:45:03,800 --> 00:45:08,480
+Speaker 0: And by tyranny, what I mean is grabbing people who do not belong under a spirit and bringing them under that spirit.
+
+311
+00:45:09,040 --> 00:45:09,940
+Speaker 0: It does, but much less.
+
+312
+00:45:10,140 --> 00:45:16,940
+Speaker 0: We have just the classic example, like we go to the people next to us, we capture some of them, and we ingest them into us as slaves.
+
+313
+00:45:17,320 --> 00:45:19,040
+Speaker 0: That's what that looks like at that level.
+
+314
+00:45:19,480 --> 00:45:22,480
+Speaker 1: And by the way, it kills the men and keeps the women and children, yes.
+
+315
+00:45:22,880 --> 00:45:24,120
+Speaker 1: Classic story.
+
+316
+00:45:24,160 --> 00:45:25,800
+Speaker 0: This appears to be interesting, right?
+
+317
+00:45:25,840 --> 00:45:29,060
+Speaker 0: It just seems to be very, very endemic of that stage.
+
+318
+00:45:29,560 --> 00:45:31,700
+Speaker 0: But it has these problems and these possibilities.
+
+319
+00:45:32,420 --> 00:45:32,600
+Speaker 0: Okay.
+
+320
+00:45:33,400 --> 00:45:34,160
+Speaker 0: Then I can write it down.
+
+321
+00:45:34,960 --> 00:45:37,220
+Speaker 0: Now we move and I can write something down.
+
+322
+00:45:37,300 --> 00:45:41,660
+Speaker 0: So now no longer am I mediated by the same technique.
+
+323
+00:45:41,980 --> 00:45:44,160
+Speaker 0: Maybe I also have horses, some more distance.
+
+324
+00:45:44,560 --> 00:45:47,060
+Speaker 0: Notice how this changes the possibilities of embodiment.
+
+325
+00:45:47,520 --> 00:45:49,940
+Speaker 0: It increases certain scope, certain capacities.
+
+326
+00:45:50,440 --> 00:45:54,100
+Speaker 0: Now perhaps I also have a ledger so I can keep relationships of debt.
+
+327
+00:45:54,640 --> 00:45:56,140
+Speaker 0: So now I don't have to kill all the men.
+
+328
+00:45:56,560 --> 00:45:59,380
+Speaker 0: and capture the women, I could just put everybody in debt.
+
+329
+00:46:00,300 --> 00:46:04,500
+Speaker 0: And they are now, their will is subordinated to my will in a way that is much more subtle.
+
+330
+00:46:04,860 --> 00:46:07,860
+Speaker 0: By the way, the perfection of this neoliberalism is not lost on me.
+
+331
+00:46:10,560 --> 00:46:14,900
+Speaker 0: So there's subtlety, there's speed, there's distance.
+
+332
+00:46:15,720 --> 00:46:24,920
+Speaker 0: And the point that I think I'm getting to is that, and that I'd like to sort of have us spend some time on is, Funny.
+
+333
+00:46:25,220 --> 00:46:28,440
+Speaker 0: If you think back to what I was mentioning at the beginning, we're in a portal.
+
+334
+00:46:28,880 --> 00:46:30,060
+Speaker 0: We're in a transition.
+
+335
+00:46:30,820 --> 00:46:47,980
+Speaker 0: We're moving from the moment where the defining characteristic of the material conditions of communication, of our relationality, were defined by television, the printing press, and airplanes and cars.
+
+336
+00:46:49,280 --> 00:46:51,940
+Speaker 0: There was kind of the envelope that governed our possibilities.
+
+337
+00:46:51,980 --> 00:46:54,160
+Speaker 1: I think we would just call combustion.
+
+338
+00:46:54,480 --> 00:46:55,460
+Speaker 1: Combustion, yes.
+
+339
+00:46:56,840 --> 00:46:57,980
+Speaker 0: And boats as well, yeah.
+
+340
+00:46:58,340 --> 00:47:00,260
+Speaker 0: To this new one, which we are now.
+
+341
+00:47:01,260 --> 00:47:15,780
+Speaker 0: This is a different possibility where the primary, or not the primary, but a powerful possibility for our relationality is by the new governance of this digital meta-medium.
+
+342
+00:47:16,140 --> 00:47:17,820
+Speaker 0: And I want to make sure we hold that.
+
+343
+00:47:17,980 --> 00:47:18,720
+Speaker 0: Meta-medium.
+
+344
+00:47:19,360 --> 00:47:19,580
+Speaker 1: Okay.
+
+345
+00:47:20,600 --> 00:47:28,300
+Speaker 0: Because prior to the digital, all media were bound to their form.
+
+346
+00:47:29,220 --> 00:47:32,500
+Speaker 0: And this produced a lot of their signature characteristics.
+
+347
+00:47:34,900 --> 00:47:42,960
+Speaker 0: So broadcast television, analog broadcast television, is television and it's broadcast.
+
+348
+00:47:44,440 --> 00:47:45,480
+Speaker 0: And these both matter.
+
+349
+00:47:47,320 --> 00:47:53,400
+Speaker 0: Broadcastness is centralized and asymmetric by necessity.
+
+350
+00:47:53,720 --> 00:47:55,180
+Speaker 0: It's impossible to do it otherwise.
+
+351
+00:47:56,120 --> 00:47:59,500
+Speaker 0: Television is audiovisual and fantastic.
+
+352
+00:47:59,940 --> 00:48:00,740
+Speaker 0: It's a phantasm.
+
+353
+00:48:00,800 --> 00:48:01,400
+Speaker 0: It's an illusion.
+
+354
+00:48:01,620 --> 00:48:02,040
+Speaker 0: It's a dream.
+
+355
+00:48:04,000 --> 00:48:05,720
+Speaker 0: This is not the same as analog text.
+
+356
+00:48:07,080 --> 00:48:08,460
+Speaker 0: A book is a different kind of thing.
+
+357
+00:48:10,080 --> 00:48:11,380
+Speaker 0: Newspaper is a different kind of thing.
+
+358
+00:48:12,060 --> 00:48:14,360
+Speaker 0: Digital is anything.
+
+359
+00:48:16,100 --> 00:48:21,060
+Speaker 0: Right now, we're happening to do something like audiovisual symmetric digital.
+
+360
+00:48:22,380 --> 00:48:25,920
+Speaker 0: For those who watch this, it's audiovisual asymmetric digital.
+
+361
+00:48:25,960 --> 00:48:33,500
+Speaker 0: But if I wrote it down, it would be text asymmetric digital, unless we were talking to each other.
+
+362
+00:48:33,540 --> 00:48:34,200
+Speaker 0: You see how that works?
+
+363
+00:48:34,840 --> 00:48:38,440
+Speaker 0: Digital is the ultimate of all possible media.
+
+364
+00:48:39,260 --> 00:48:45,420
+Speaker 0: It contains all of the possibility of media within it, but under the constraint, the very specific constraint of digitization.
+
+365
+00:48:46,500 --> 00:49:04,140
+Speaker 0: So when we analyze this form, this will give us some insight into what is the new possibilities, risks of how proper and improper communion, what was the word we were using earlier?
+
+366
+00:49:04,800 --> 00:49:05,340
+Speaker 1: Absolutely.
+
+367
+00:49:07,220 --> 00:49:10,800
+Speaker 1: Let me throw one thought here, like, while you were talking about digital.
+
+368
+00:49:11,780 --> 00:49:21,540
+Speaker 1: I think you can, like, the biggest danger, and it's biggest boon you can put it this way, it's the same thing.
+
+369
+00:49:22,520 --> 00:49:35,020
+Speaker 1: And the problem is that digital, you can call it, it's the most natural environmental for this spirit.
+
+370
+00:49:35,540 --> 00:50:05,440
+Speaker 1: we've been talking about to exist to communicate and to commune people with and i can even reframe it into like digital is what uh spirits makes out of it that's what i mean like no matter what we do like precisely in the matter form of our conversation the spirit of this conversation will stay the same like you've been talking about let's say Sorry.
+
+371
+00:50:06,100 --> 00:50:06,300
+Speaker 1: Okay.
+
+372
+00:50:07,220 --> 00:50:07,660
+Speaker 1: Not too far.
+
+373
+00:50:08,680 --> 00:50:08,960
+Speaker 0: No, good.
+
+374
+00:50:09,040 --> 00:50:09,360
+Speaker 0: Keep going.
+
+375
+00:50:09,420 --> 00:50:09,560
+Speaker 0: Yes.
+
+376
+00:50:10,620 --> 00:50:14,400
+Speaker 1: So just on a simple level, we've been talking about Mammon and Cybill.
+
+377
+00:50:15,080 --> 00:50:26,020
+Speaker 1: Well, Instagram, no matter whether you put it in video, text, form, photo, AI, adapted photo, translated, the spirit of the communication stays the same.
+
+378
+00:50:27,060 --> 00:51:25,200
+Speaker 1: And why I mean it's dangerous because... truth be told one of the biggest prices of modernity and conscious effort of modernity and neoliberalism in particular it's precisely make it made us very defenseless against this sort of spiritual struggle and it's very i think the biggest danger of the current moment like of a collapse of one improper hierarchy and is that it's not just there will be some shining lights of new proper hierarchies and just in case it will be very unpleasant moment when this light can point to shine like and that's people are not prepared for it but i think the most inherent danger in this moment precisely because of this meta quality of new environment is to create the improper hierarchy it's like you know this improper hierarchy didn't work well because it was too constrained It was still constrained by many things we considered important.
+
+379
+00:51:25,900 --> 00:51:27,200
+Speaker 1: Let's unconstrained it.
+
+380
+00:51:27,740 --> 00:51:33,880
+Speaker 1: And here, actually, this whole AI thing you talked about, that's what I find truly complicated.
+
+381
+00:51:33,960 --> 00:51:44,160
+Speaker 1: Because, yes, ultimately, because even though I personally, but we already defined what I mean by empire.
+
+382
+00:51:44,220 --> 00:51:48,260
+Speaker 1: So generally, I think empire as a proper hierarchy can be a really good thing.
+
+383
+00:51:48,360 --> 00:51:49,200
+Speaker 1: And that's why I think.
+
+384
+00:51:49,560 --> 00:53:19,540
+Speaker 1: in a proper empire the heart of a proper empire is a common sacred language vernacular languages can be very different but within the heart of every empire single is the same sacred language and the sacred it represents for example you can say for orthodox it's like church so for russian it's church slavonic for let's say catholics it was latin and for chinese it's chinese but that's exactly for hinduism it would be sanskrit but sacred languages the role of sacred languages it's in a proper empire but what if in a new digital environment amidst of all chaos of the collapsing of biggest let's say old 400 year old idol we've been worshiping and sacrificing for generations the pain of its collapse will be tremendous and the technical capabilities to create new meta idol are enormous and something tells me there will be a lot of interplay here i just would not call it imperial to me it's not about it's kind of to me it's like to me it's more basically i wouldn't call world government an empire let me put it this way like i think that's kind of the biggest to me it's like there are four levels not three so to me there is this level of what you call what you call nation so good particularities then there is the level of nation states like what what is traditionally understood as nation states then there is a level of empire what civilization And then there is a super high level.
+
+385
+00:53:19,700 --> 00:53:21,100
+Speaker 1: There is a fourth hidden level.
+
+386
+00:53:21,760 --> 00:53:31,620
+Speaker 1: But I find out that historically, actually, empire and first and third level, actually, most part of the history worked in a pretty good relationship with each other.
+
+387
+00:53:32,020 --> 00:53:39,280
+Speaker 1: Like empire doesn't need to, like historically, like even let's say, again, I brought historical examples from Europe, but even before.
+
+388
+00:53:39,600 --> 00:53:40,980
+Speaker 1: like great level of diversity.
+
+389
+00:53:41,160 --> 00:53:51,360
+Speaker 1: The challenge of nation-state is precisely the exception of nation-state which doesn't like diversity at all, because it precisely defines its political legitimacy through very strong particularities.
+
+390
+00:53:51,400 --> 00:53:58,360
+Speaker 1: That's why you suddenly have problems about which languages people use, how people use these languages, unification processes, even within all societies.
+
+391
+00:53:58,460 --> 00:53:59,240
+Speaker 1: For example, France.
+
+392
+00:53:59,340 --> 00:54:00,120
+Speaker 1: You can take France.
+
+393
+00:54:00,560 --> 00:54:12,840
+Speaker 1: Like before French moved into like the nation-state model in the 19th century, lots of different regional dialects without There was a common meta-narrative which allowed people to communicate, but it was very different.
+
+394
+00:54:13,360 --> 00:54:20,820
+Speaker 1: French state came, nationalist state came, gigantic unifications, provinces divided into small municipalities, not organic, very artificial.
+
+395
+00:54:21,260 --> 00:55:17,440
+Speaker 1: That's why I noticed this nation-state in a traditional understanding, at least within political theory, is actually an enemy of small particularities and equally the smaller of... let's say i would call them organic more organic hierarchies because any empire worth of salt ultimately ends up also being relational usually they are formed through marriages through let's say dynastic marriages and then through different systems of integration but it's not what we're talking about i think the key problem is the question of this force level and i think that ultimately we again have a choice ultimately sold choice so again from apocalypse we know kind of more or less how it's end but Either all of these civilizations, like the proper organized empires, the sacralities, through one process or another, understood that and embrace one God, like Jesus Christ in that sense, let's say as a Christian.
+
+396
+00:55:17,880 --> 00:55:23,580
+Speaker 1: So they understand that there is an integral hierarchy behind their integral hierarchy.
+
+397
+00:55:23,780 --> 00:55:29,360
+Speaker 1: And yes, technically for Christian civilization seems easier and it seems more unfair for non-Christian civilization.
+
+398
+00:55:30,380 --> 00:56:26,000
+Speaker 1: simply the single point of attention in either it will be the true single point of attention or alternatively it will be a simulacrum of this point of attention and this simulacrum is what i think partially is represented in apocalypses by antichrist like how we will integrate empire and and the argument will always be the same argument the key argument will be about peace and security like the key argument to bring this improv even either to distort a proper hierarchy or to bring a proper hierarchy together will always be what you call coercion and incentive well yeah like peace and security ultimately false i would just qualify that it's false peace and security it's not that peace and security are bad per se but it's false peace and false security when you have to sacrifice to them the most important that's the problem
+
+399
+00:56:26,720 --> 00:56:32,240
+Speaker 0: yes Let me make a list of things on the left-hand side and things on the right-hand side.
+
+400
+00:56:33,340 --> 00:56:36,160
+Speaker 0: So on the left-hand side, you have persons.
+
+401
+00:56:36,560 --> 00:56:38,220
+Speaker 0: On the right-hand side, you have individuals.
+
+402
+00:56:39,260 --> 00:56:42,580
+Speaker 0: On the left-hand side, you have communities in communion.
+
+403
+00:56:43,440 --> 00:56:45,320
+Speaker 0: On the right-hand side, you have societies.
+
+404
+00:56:47,460 --> 00:56:51,060
+Speaker 0: I think I've been able to articulate five or six of these, and I think in each case we see it.
+
+405
+00:56:51,480 --> 00:56:53,420
+Speaker 0: And of course, the point is you sacrifice.
+
+406
+00:56:53,820 --> 00:56:55,640
+Speaker 0: Oh, on the left-hand side, you have life.
+
+407
+00:56:56,160 --> 00:56:57,720
+Speaker 0: On the right-hand side, you have survival.
+
+408
+00:56:58,600 --> 00:57:04,100
+Speaker 0: So sacrifice life to achieve survival, which means you don't become alive, you become undead.
+
+409
+00:57:04,960 --> 00:57:06,360
+Speaker 0: You're a zombie or a vampire.
+
+410
+00:57:06,980 --> 00:57:09,560
+Speaker 0: So these are the separations that occur.
+
+411
+00:57:10,360 --> 00:57:11,820
+Speaker 0: And this is what is on offer.
+
+412
+00:57:12,360 --> 00:57:14,120
+Speaker 0: You're offered life or you're offered survival.
+
+413
+00:57:14,720 --> 00:57:20,680
+Speaker 0: You're offered the opportunity to be a proper person in relationship with a trinity of persons.
+
+414
+00:57:21,340 --> 00:57:25,540
+Speaker 0: or you have the offer to be an individual under what is in fact an individual.
+
+415
+00:57:25,600 --> 00:57:28,760
+Speaker 0: So I would put this as a new heuristic.
+
+416
+00:57:30,340 --> 00:57:39,120
+Speaker 0: The thing that will be offered that is not the triune God, we'll have to be very precise on that, will actually also be a singleton.
+
+417
+00:57:39,800 --> 00:57:41,100
+Speaker 0: It will be single.
+
+418
+00:57:42,280 --> 00:57:46,140
+Speaker 0: Singleness will be one of the signs of the Antichrist.
+
+419
+00:57:48,140 --> 00:57:58,440
+Speaker 0: Because it is only truly under that which is intrinsically unity and multiplicity simultaneously that any proper hierarchical subordination makes any sense at all.
+
+420
+00:57:58,940 --> 00:57:59,420
+Speaker 1: Absolutely.
+
+421
+00:58:00,300 --> 00:58:01,800
+Speaker 1: And that's kind of what we've been talking about.
+
+422
+00:58:02,700 --> 00:58:04,400
+Speaker 1: Any proper hierarchy is about it.
+
+423
+00:58:04,800 --> 00:58:17,260
+Speaker 1: Because the trick, not the trick, I think the key purpose of any proper hierarchy, and that's kind of the problem it tries to answer, is the problem like... Correct me if I'm wrong.
+
+424
+00:58:18,240 --> 00:58:20,180
+Speaker 1: I'm curious to see what you say.
+
+425
+00:58:21,040 --> 00:58:29,840
+Speaker 1: But it's an attempt to keep movement because life is movement and there is an intrinsic connection between movement and life.
+
+426
+00:58:30,460 --> 00:58:34,040
+Speaker 1: But also there is an intrinsic connection between movement and death.
+
+427
+00:58:34,200 --> 00:58:35,780
+Speaker 1: There is movement and there is entropy.
+
+428
+00:58:36,760 --> 00:58:45,320
+Speaker 1: And I think that any proper hierarchy really tries through integration towards something which is true and life.
+
+429
+00:58:46,060 --> 00:59:12,600
+Speaker 1: and then yeah you can we can disagree and you can be in mistake what it is but i would say most of their proper hierarchies at least try to go to this direction they're trying to keep this movement element but to limit at least the entropy element and that's what exactly this dynamic between unity and multiplicity but there is movement within us And it keeps us alive.
+
+430
+00:59:12,740 --> 00:59:15,000
+Speaker 1: But there is always us as a unity.
+
+431
+00:59:15,440 --> 00:59:18,400
+Speaker 1: And this unity prevents us from the movement which breaks us apart.
+
+432
+00:59:19,160 --> 00:59:21,720
+Speaker 1: And that's what I think is kind of dense.
+
+433
+00:59:22,060 --> 00:59:23,700
+Speaker 1: And obviously there are two ways of destroying it.
+
+434
+00:59:24,320 --> 00:59:26,680
+Speaker 1: One way of destroying it is to kill all the movement inside.
+
+435
+00:59:27,240 --> 00:59:30,960
+Speaker 1: And that's what you would call this tyrannical oppressive element nature.
+
+436
+00:59:31,960 --> 00:59:35,800
+Speaker 1: And there is the danger of just, okay, there is no unity and we just separate and fall apart.
+
+437
+00:59:36,460 --> 00:59:38,660
+Speaker 1: And to destroy hierarchy per se.
+
+438
+00:59:40,460 --> 01:01:37,260
+Speaker 1: historically that this exactly this self-repeating process which is keep on keep on keep on happening the only true element which that's why i think trinitarian partners like absolute even from to say political scientists or politics or any any type of unity that understands because it's precisely the kind of what was shown to us actually we didn't came up with it we couldn't invent it like we couldn't really understand it that there is a possibility for movement because there is a constant movement of love within the trinity and uh there is still keeping this individuality element like not individuality but personality like it's exactly in english it's personality so yeah that's that's the tricky part and yeah i think without understanding it we will fall into one or two traps and that just but i think why i'm still hammering down an empire point i just want to exactly here again repeat this idea that it's almost it's unescapable choice of hierarchies i guess that's what i mean uh and especially i think now with this meter mediums and media technologies there can be a short point but then it will start reappearing even quicker because there is an inherent element of uh yeah you can call it power involved any hierarchy and that and that's i think the most scary part any hierarchy even bad hierarchy has a lot more power than non-hierarchy and you can't escape this challenge i think i think there is inherent danger when we're talking about nations for the sake of nations per se or like let's say mothers mother tongues etc as i as i already said it's that we are really trying to sometimes avoid the questions of a proper hierarchy it's like trying to stop the movement let's say i'm stopping the movement on my mother's stripe I'm staying in my tribe and nothing else exists beside my tribe.
+
+439
+01:01:37,620 --> 01:01:38,980
+Speaker 1: Problem is, it exists.
+
+440
+01:01:39,940 --> 01:01:45,300
+Speaker 1: And you will have to face the world outside of your tribe.
+
+441
+01:01:46,380 --> 01:01:46,800
+Speaker 0: Yes, yes.
+
+442
+01:01:47,660 --> 01:01:48,260
+Speaker 0: This is very nice.
+
+443
+01:01:48,580 --> 01:01:49,320
+Speaker 0: So I agree.
+
+444
+01:01:49,420 --> 01:01:50,660
+Speaker 0: I do not disagree at all.
+
+445
+01:01:51,180 --> 01:01:54,180
+Speaker 0: The distinction is between proper hierarchy and improper hierarchy.
+
+446
+01:01:55,740 --> 01:01:57,660
+Speaker 0: And you can see it, as you said, just at the level of family.
+
+447
+01:01:58,100 --> 01:02:00,220
+Speaker 0: So I have cousins.
+
+448
+01:02:01,040 --> 01:02:01,840
+Speaker 0: It is simply reality.
+
+449
+01:02:02,300 --> 01:02:03,860
+Speaker 0: I have second cousins and I have third cousins.
+
+450
+01:02:03,920 --> 01:02:04,980
+Speaker 0: It is simply what it is.
+
+451
+01:02:05,480 --> 01:02:10,960
+Speaker 0: And there are moments where not only do I have to be in relationship with them, but actually the opposite is true.
+
+452
+01:02:11,620 --> 01:02:14,560
+Speaker 0: It is optimal for me to be able to be in relationship with them.
+
+453
+01:02:14,620 --> 01:02:16,160
+Speaker 0: It is at the best if I can.
+
+454
+01:02:16,960 --> 01:02:20,640
+Speaker 0: So the question is, how do we cultivate the proper relationality?
+
+455
+01:02:22,620 --> 01:02:23,640
+Speaker 1: You gave the answer already.
+
+456
+01:02:24,900 --> 01:02:25,440
+Speaker 1: How we do it.
+
+457
+01:02:26,820 --> 01:02:27,980
+Speaker 1: So worshipping is a common thing.
+
+458
+01:02:28,160 --> 01:02:29,740
+Speaker 1: That's the only true answer.
+
+459
+01:02:30,620 --> 01:02:37,100
+Speaker 1: Any kind of this relationality can function precisely only through a common ethical sacred framework.
+
+460
+01:02:37,540 --> 01:02:39,080
+Speaker 1: I think it's an escapable part of it.
+
+461
+01:02:40,440 --> 01:02:40,620
+Speaker 1: Yes.
+
+462
+01:02:41,240 --> 01:02:42,340
+Speaker 0: And I find this.
+
+463
+01:02:42,680 --> 01:02:57,340
+Speaker 0: So the church is the embodiment whereby diversity of lineage can be brought into a whole integration that is more beautiful and contains no tyranny.
+
+464
+01:02:58,020 --> 01:02:59,660
+Speaker 0: That's not how the church always shows up.
+
+465
+01:03:00,900 --> 01:03:04,060
+Speaker 0: Or if you'd like, I can say capital C and lowercase c, but you get the distinction.
+
+466
+01:03:04,740 --> 01:03:07,040
+Speaker 0: And maybe we could do the same thing with empire.
+
+467
+01:03:07,340 --> 01:03:12,460
+Speaker 0: I have not had in my mind an experience of the word empire that is not mapped to tyranny.
+
+468
+01:03:13,720 --> 01:03:15,300
+Speaker 0: My world model does not have that.
+
+469
+01:03:15,380 --> 01:03:30,580
+Speaker 0: But if you describe an empire and say there is an empire that is a proper hierarchy, where the higher is a higher and it integrates the lower in a way that is... orienting all to the highest and is never using tyranny to do so
+
+470
+01:03:31,480 --> 01:04:23,440
+Speaker 1: then again as an ideal model i think it well i'm glad we agree on it like here comes the problem what you described is i think how an empire should be and ultimately yes there is a problem that i am absolutely certain it will never happen in history like i think this type of empire you are talking about is an effect of heavenly jerusalem like what you are talking about so i'm i'm i understand that it won't happen to a proper extent there will always be sometimes more tyranny than necessary or sometimes more disintegration as you would like and the price of piling always comes like there is the wages of sin is death so if you're doing too much if an empire you are losing the sacred point and you're using too much tyranny on element there will blood will be spilled like so history is a very violent teacher like you always kind of play pay is a blood price
+
+471
+01:04:25,000 --> 01:04:51,400
+Speaker 0: one second i just realized something so part of this may also just be literally the fact that i'm from the west and you're from east because i have no problem with this image in the context of king okay i can i can imagine a wide variety of kings who are good kings and by that what i mean is they are fundamentally Their sovereignty is A, fully derivative from Christ, and B, is oriented towards the wholeness of the body.
+
+472
+01:04:52,540 --> 01:04:58,900
+Speaker 0: And so they are there to protect and maintain the integrity of the wholeness and have no particular self-referentiality.
+
+473
+01:04:59,980 --> 01:05:02,400
+Speaker 0: I have many images of these kinds of kings.
+
+474
+01:05:02,880 --> 01:05:07,380
+Speaker 0: This does not cause me any sense of discomfort to imagine this as being a possibility.
+
+475
+01:05:08,440 --> 01:05:10,120
+Speaker 0: Of course, I have many images of bad kings, too.
+
+476
+01:05:10,160 --> 01:05:11,180
+Speaker 0: That's not them.
+
+477
+01:05:11,880 --> 01:05:14,960
+Speaker 0: Not vaguely naive, but the point is that conceptually both work for me.
+
+478
+01:05:15,500 --> 01:05:21,560
+Speaker 0: So I have always just, whenever I've imagined empire, I've imagined empire as being something that is doing too much.
+
+479
+01:05:21,620 --> 01:05:26,340
+Speaker 0: You know, Caesar, the Roman Empire, the Babylonian Empire, the Chinese Empires.
+
+480
+01:05:26,440 --> 01:05:28,300
+Speaker 0: I see these empires that are that.
+
+481
+01:05:28,380 --> 01:05:38,900
+Speaker 0: But if I can imagine one that is just a king of kings, like a king that acts like a king and has more kings underneath, of course, this is a beautiful possibility.
+
+482
+01:05:38,960 --> 01:05:39,340
+Speaker 1: Okay, good.
+
+483
+01:05:40,840 --> 01:06:12,540
+Speaker 1: I'm glad by the end we're kind of coming to it because just to miss when I say about when I speak about empire is something positive it's exactly about the king of kings model like it's not the one tyrannical it's not a Nabuchadnezzar oppressive everybody worships this idol please so to an extent it has internal element like yes here comes a problem like not every culture not every civilization like by the act of worshiping this idol like we have to believe that their intentions can also be good.
+
+484
+01:06:12,600 --> 01:06:14,360
+Speaker 1: In a sense, they might believe that it's a true god.
+
+485
+01:06:14,960 --> 01:06:17,620
+Speaker 1: And then you can see this problem and pattern emerges.
+
+486
+01:06:17,720 --> 01:06:24,320
+Speaker 1: And again, historical process, if you want to call it, it's the process of figuring it out through pain.
+
+487
+01:06:24,520 --> 01:06:25,280
+Speaker 1: Let me put it this way.
+
+488
+01:06:25,340 --> 01:06:28,560
+Speaker 1: Because if you are worshipping improper idols, sooner or later it will betray you.
+
+489
+01:06:29,760 --> 01:06:37,520
+Speaker 1: There is a very easy way to understand how you are worshipping something proper or something improper, sometimes in the short run, but historically in the long run.
+
+490
+01:06:37,840 --> 01:06:44,000
+Speaker 1: If you're worshipping something proper, if you're uniting your multiplicities against something proper, you will get more life.
+
+491
+01:06:44,960 --> 01:06:48,340
+Speaker 1: If you're worshipping something improper, you will get more death.
+
+492
+01:06:51,800 --> 01:06:58,420
+Speaker 1: And any improper worship or any improper goal is a goal which devours you by you getting closer to it.
+
+493
+01:06:58,580 --> 01:08:44,819
+Speaker 1: And you can think about alcohol, drugs, but also like... anything so you're moving towards them you're getting something but in the end it devours you so it's it's any kind of bad spirit about it but yeah when i mean speak by empire is just like this level of integration higher and just you know when suddenly kings let's say small kings realize that there is something bigger which unites that can unite them integrally and let's say then they move into this bigger stage and when you're speaking about roman empire it is it is interesting historically would just not right now it would be interesting to speak even like how you see it and how you understand because there is only this mixture of proper improper and there is like again in the west yes there is an element of his historiographical prediction which i would say is way more negative to him because it's the opposition is empire versus democracy which again in my opinion if you read authentic greeks and roman sources you get way different image from both like it's very important exercise to have but maybe it's a topic for another time i think we really managed by then to us to pinpoint like really important uh nails into this into this wall of conversation and maybe open a way for some to start thinking about it because i think it is a key problem i think it's precisely because we are entering this moment when this one improper hierarchy will fall even though as we are front around us i would still say majority of people uh think somehow it will go on like i feel very sorry for them and like i emotionally can understand that because like i don't want it to collapse because like then it's terrifying what will come after it and it will be pretty terrifying but there is no way for it it is collapsing The real problem is what comes after collapse.
+
+494
+01:08:45,180 --> 01:08:45,899
+Speaker 1: And that's what I think.
+
+495
+01:08:47,180 --> 01:08:50,479
+Speaker 0: So let's just, maybe if you don't mind, maybe to finish on just that last piece.
+
+496
+01:08:50,560 --> 01:08:55,819
+Speaker 0: So there is, one can be in three states now.
+
+497
+01:08:56,819 --> 01:09:03,500
+Speaker 0: One state is a state of denial, where you try to avoid thinking about the fact that it's going to be collapsing.
+
+498
+01:09:04,979 --> 01:09:14,500
+Speaker 0: The second state is the state of addiction, where you're trying to move from one collapsing improper hierarchy to another improper hierarchy.
+
+499
+01:09:15,040 --> 01:09:18,920
+Speaker 0: In this case, typically up towards the AI overlord, something like that.
+
+500
+01:09:20,819 --> 01:09:24,000
+Speaker 0: The third is healing.
+
+501
+01:09:24,979 --> 01:09:33,960
+Speaker 0: The third is where you are allowing the collapse to reawaken your connection to the proper hierarchy, which will be a lot of work because you probably aren't there right now.
+
+502
+01:09:34,680 --> 01:09:38,819
+Speaker 0: You may have to do both in your body, your relationships, and in your soul.
+
+503
+01:09:39,420 --> 01:09:56,480
+Speaker 0: a shift to bring yourself closer to the center of your proper place and of course in this case very critically to bring yourself under the king the true king uh who will then help you bring you to your proper place so step by step and then the then the good things can begin to happen
+
+504
+01:09:57,520 --> 01:11:02,780
+Speaker 1: it's wonderful i just want kind of to add not the first stage but it's kind of very intermediate position it's like you don't want the first two options but you don't really understand that the third option exists it's just from my experience there is a lot of people who are also stuck a little bit into this moment and that's why i think conversations exactly like this are important even they can be banal for people for people who already let's say moved to the third stage it's needed sometimes a little bit important to keep in mind that that we spent 400 years in a very particular linguistic model of language it really limited even the possibilities of proper like of many proper hierarchies we just don't see them imaginable or many improper hierarchies we see as self-evident and the only way around it so I would say there is this force category of people who are not truly in denial or like subconsciously they already accepted it but they simply lost there is a force category of seeking and lost and seeking something like this And in the sense that we all are.
+
+505
+01:11:04,920 --> 01:11:09,820
+Speaker 0: And agents of the first three will be trying to figure out how to track people from the fourth.
+
+506
+01:11:09,860 --> 01:11:10,840
+Speaker 0: Absolutely, yes.
+
+507
+01:11:11,240 --> 01:11:14,860
+Speaker 1: And that, I think, is the struggle which is happening right now, ultimately.
+
+508
+01:11:15,680 --> 01:11:16,120
+Speaker 0: Very nice.
+
+509
+01:11:16,520 --> 01:11:17,240
+Speaker 0: Okay, good.
+
+510
+01:11:18,640 --> 01:11:21,260
+Speaker 1: Well, as always, gigantic pleasure to speak with you.
+
+511
+01:11:21,700 --> 01:11:22,980
+Speaker 1: Hope more to come.
+
+512
+01:11:23,080 --> 01:11:25,660
+Speaker 1: I think there is many points I would want to discuss with you further.
+
+513
+01:11:25,720 --> 01:11:27,180
+Speaker 1: But so far, thank you very much.
+
+514
+01:11:27,460 --> 01:11:28,400
+Speaker 1: Thank you very much for your time.
+
+515
+01:11:29,240 --> 01:11:29,580
+Speaker 0: Wonderful.
+
+516
+01:11:29,860 --> 01:11:33,620
+Speaker 0: Yes, I always look forward to seeing your messages, your name shown in my email box.
+
+517
+01:11:34,900 --> 01:11:36,420
+Speaker 1: Well, beware of your design.
+
+518
+01:11:38,240 --> 01:11:38,480
+Speaker 0: All right.
+
+519
+01:11:38,580 --> 01:11:38,980
+Speaker 0: Goodbye.
+
+520
+01:11:39,040 --> 01:11:40,160
+Speaker 0: Goodbye.
+
