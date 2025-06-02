@@ -10,3 +10,4 @@ Playlist [Videos with English Speaking guests](https://www.youtube.com/playlist?
 - Традиция и Человек. Беседа с Николаем Котаром @NicholasKotarauthor. Oct 14, 2024
 - Metacrisis. Interview with Jordan Hall @JordanGreenhall. Jan 20, 2025
 - On Fasts and Feasts. Conversation with John Heers @heavythingslightly. March 21, 2025
+- Civilization as Liturgy. Interview with Jordan Hall @JordanGreenhall. Jun 02, 2025
