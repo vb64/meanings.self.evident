@@ -222,7 +222,10 @@ COURSE_SHELEST = [
   ("2025_04_21", False, reversed(SHELEST)),
   ("2025_05_12", False, reversed(SHELEST)),
   ('2025_05_27', False, reversed(SHELEST)),
-  ("2025_06_02", False, (Speak.Bondarenko, Speak.Shchelin, Speak.Shelest)),
+  ("2025_06_02", False, (
+    Speak.Shelest, Speak.Bondarenko, Speak.Shchelin,
+    Speak.Bondarenko, Speak.Shelest, Speak.Shchelin,
+  )),
 ]
 BOBYLEV = (Speak.Bobileff, Speak.Shchelin)
 COURSE_BOBYLEV = [
