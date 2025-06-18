@@ -24,4 +24,4 @@
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
 - [ ] 00/06 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
-- [ ] 00/08 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/09 [Отдельные беседы.](Singles/README.md)
