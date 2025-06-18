@@ -59,6 +59,7 @@ class Speak:
     Uralov = "С.Уралов"
     Chadaev = "А.Чадаев"
     Kniazev = "И.Князев"
+    Sobolev = "Н.Соболев"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
@@ -292,6 +293,7 @@ COURSE_SINGLES = [
   ('2022_06_13', False, (Speak.Shchelin, Speak.Burov)),
   ('2022_08_27', False, (Speak.Svetov, Speak.Shchelin)),
   ('2025_05_08', False, (Speak.Shchelin, Speak.Klizma)),
+  ('2025_06_18', False, (Speak.Shchelin, Speak.Sobolev)),
 ]
 COURSE_URALOV = [
   ('2024_12_25', False, (Speak.Uralov, Speak.Shchelin, Speak.Kniazev, Speak.Chadaev)),
