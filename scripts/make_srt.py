@@ -126,6 +126,7 @@ def main():
       Course.PolitWorld,
       Course.Singles,
       Course.Uralov,
+      Course.Sobolev,
     ):
         podcast(i)
 
