@@ -7,7 +7,7 @@ from text import (
   COURSE_ARESTOVICH, COURSE_BAUMEISTER, COURSE_CHERNOBAEV, COURSE_GNOSTIC, COURSE_USA,
   COURSE_ENGLISH, COURSE_MASH, COURSE_CHERNOV, COURSE_PANCHENKO, COURSE_DUDNIK,
   COURSE_SHELEST, COURSE_BOBYLEV, COURSE_KHIMICH, COURSE_ASKERHANOV, COURSE_POLITWORLD,
-  COURSE_SINGLES, COURSE_URALOV,
+  COURSE_SINGLES, COURSE_URALOV, COURSE_SOBOLEV,
 )
 
 def for_pdf(data):
@@ -42,6 +42,7 @@ PODCAST = {
   Course.Mnenie: (TITLE + for_pdf(COURSE_ASKERHANOV)),
   Course.PolitWorld: (TITLE + for_pdf(COURSE_POLITWORLD)),
   Course.Singles: (TITLE + for_pdf(COURSE_SINGLES)),
+  Course.Sobolev: (TITLE + for_pdf(COURSE_SOBOLEV)),
   Course.Uralov: (TITLE + for_pdf(COURSE_URALOV)),
 }
 
@@ -167,6 +168,11 @@ def main():
       Course.Uralov,
       "Эфиры с Чадаевым и Ураловым 'Чистота Понимания'.",
       'Чистота_Понимания.pdf'
+    )
+    podcast(
+      Course.Sobolev,
+      "Эфиры на YouTube канале SOBOLEV.",
+      'Николай Соболев.pdf'
     )
 
 
