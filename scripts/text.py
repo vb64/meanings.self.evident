@@ -307,6 +307,7 @@ COURSE_URALOV = [
   ('2025_03_06', False, (Speak.Shchelin, Speak.Kniazev, Speak.Uralov, Speak.Chadaev)),
   ('2025_04_03', False, (Speak.Kniazev, Speak.Shchelin, Speak.Uralov, Speak.Chadaev)),
   ('2025_05_15', False, (Speak.Uralov, Speak.Kniazev, Speak.Shchelin, Speak.Chadaev)),
+  ('2025_06_19', False, (Speak.Uralov, Speak.Kniazev, Speak.Shchelin, Speak.Chadaev)),
 ]
 
 GOLUB_SEASON_01 = [
