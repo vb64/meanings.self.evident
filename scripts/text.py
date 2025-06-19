@@ -287,6 +287,7 @@ COURSE_POLITWORLD = [
 ]
 SOBOLEV = (Speak.Shchelin, Speak.Sobolev)
 COURSE_SOBOLEV = [
+  ('2025_01_31', False, SOBOLEV),
   ('2025_06_18', False, SOBOLEV),
 ]
 COURSE_SINGLES = [
