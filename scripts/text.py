@@ -18,8 +18,9 @@ class Course:
     Khimich = "Khimich"
     Mnenie = "Mnenie"
     PolitWorld = "PolitWorld"
-    Singles = "Singles"
+    Sobolev = 'Sobolev'
     Uralov = "Uralov"
+    Singles = "Singles"
 
 
 class Speak:
@@ -284,6 +285,10 @@ COURSE_POLITWORLD = [
   ('2023_11_30', False, (Speak.Shchelin, Speak.Leybin)),
   ('2023_12_13', False, SHCHELIN),
 ]
+SOBOLEV = (Speak.Shchelin, Speak.Sobolev)
+COURSE_SOBOLEV = [
+  ('2025_06_18', False, SOBOLEV),
+]
 COURSE_SINGLES = [
   ('2014_05_08', False, (Speak.Shchelin, Speak.Guest)),
   ('2021_12_28', False, reversed(ROMANENKO)),
@@ -293,7 +298,6 @@ COURSE_SINGLES = [
   ('2022_06_13', False, (Speak.Shchelin, Speak.Burov)),
   ('2022_08_27', False, (Speak.Svetov, Speak.Shchelin)),
   ('2025_05_08', False, (Speak.Shchelin, Speak.Klizma)),
-  ('2025_06_18', False, (Speak.Shchelin, Speak.Sobolev)),
 ]
 COURSE_URALOV = [
   ('2024_12_25', False, (Speak.Uralov, Speak.Shchelin, Speak.Kniazev, Speak.Chadaev)),
