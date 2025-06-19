@@ -228,6 +228,7 @@ COURSE_SHELEST = [
     Speak.Shelest, Speak.Bondarenko, Speak.Shchelin,
     Speak.Bondarenko, Speak.Shelest, Speak.Shchelin,
   )),
+  ("2025_06_18", False, SHELEST),
 ]
 BOBYLEV = (Speak.Bobileff, Speak.Shchelin)
 COURSE_BOBYLEV = [
