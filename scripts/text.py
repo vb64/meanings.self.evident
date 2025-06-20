@@ -367,6 +367,7 @@ GOLUB_SEASON_04 = [
   ("dukhovny-fast-food", True, (Speak.Golub, Speak.Shevchenko, Speak.Shchelin)),
   ("lukewarm", True, reversed(GOLUB)),
   ("narrative-wars", True, GOLUB),
+  ("eschatological-optimism", True, GOLUB),
 ]
 GOLUB_OTHER = [
   ("polit_nemota", True, reversed(GOLUB)),
