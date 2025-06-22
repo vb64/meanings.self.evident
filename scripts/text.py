@@ -278,6 +278,7 @@ COURSE_ASKERHANOV = [
   ('2025_03_24', False, (Speak.Shchelin, Speak.Askerhanov, Speak.Nadolinsky)),
   ('2025_05_02', False, (Speak.Askerhanov, Speak.Shchelin, Speak.Guest)),
   ('2025_05_16', False, ASKERHANOV),
+  ('2025_06_22', False, ASKERHANOV),
 ]
 SHCHELIN = (Speak.Shchelin, )
 COURSE_POLITWORLD = [
