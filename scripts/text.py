@@ -177,6 +177,7 @@ COURSE_DUDNIK = [
   ("2025_03_25", False, (Speak.Khazin, Speak.Shchelin, Speak.Dudnik)),
   ("2025_04_24", False, reversed(DUDNIK)),
   ("2025_05_23", False, reversed(DUDNIK)),
+  ("2025_06_24", False, reversed(DUDNIK)),
 ]
 SHELEST = (Speak.Shelest, Speak.Shchelin)
 COURSE_SHELEST = [
