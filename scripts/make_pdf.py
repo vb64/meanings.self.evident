@@ -78,6 +78,15 @@ def podcast(name, title, pdf_name):
     pdf.save(os.path.join('build', pdf_name))
 
 
+def single(folder, file_name):
+    section = make_section(file_name + '.md', False, os.path.join(CONTENT, folder))
+    section.toc = False
+    pdf = MarkdownPdf()
+    pdf.meta["author"] = AUTHOR
+    pdf.add_section(section)
+    pdf.save(os.path.join('build', file_name + '.pdf'))
+
+
 def main():
     podcast(
       Course.InSearchOfMeaning,
@@ -174,6 +183,7 @@ def main():
       "Эфиры на YouTube канале SOBOLEV.",
       'Николай Соболев.pdf'
     )
+    single(Course.Shelest, "2025_07_14")
 
 
 if __name__ == '__main__':
