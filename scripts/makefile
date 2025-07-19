@@ -22,6 +22,9 @@ txt:
 pdf:
 	$(PYTHON) make_pdf.py
 
+pdf1:
+	$(PYTHON) make_pdf.py single
+
 setup: setup_python setup_pip
 
 setup_pip:

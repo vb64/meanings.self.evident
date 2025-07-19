@@ -1,3 +1,4 @@
+import sys
 import os
 from markdown_pdf import Section, MarkdownPdf
 
@@ -78,16 +79,20 @@ def podcast(name, title, pdf_name):
     pdf.save(os.path.join('build', pdf_name))
 
 
-def single(folder, file_name):
-    section = make_section(file_name + '.md', False, os.path.join(CONTENT, folder))
+def single():
+    section = make_section('single.md', False, 'build')
     section.toc = False
     pdf = MarkdownPdf()
     pdf.meta["author"] = AUTHOR
     pdf.add_section(section)
-    pdf.save(os.path.join('build', file_name + '.pdf'))
+    pdf.save(os.path.join('build', 'single.pdf'))
 
 
-def main():
+def main(argv):
+    if (len(argv) > 1) and (argv[1] == 'single'):
+        single()
+        return
+
     podcast(
       Course.InSearchOfMeaning,
       "Стенограммы подкаста «В поисках смысла» Евгения Голуба и Павла Щелина.",
@@ -183,8 +188,7 @@ def main():
       "Эфиры на YouTube канале SOBOLEV.",
       'Николай Соболев.pdf'
     )
-    single(Course.Shelest, "2025_07_14")
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)
