@@ -22,7 +22,7 @@
 - [ ] 00/19 [Эфиры с С.Дудником](Dudnik/README.md).
 - [ ] 00/30 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
-- [ ] 00/07 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
+- [ ] 00/08 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/02 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
 - [ ] 00/10 [Отдельные беседы.](Singles/README.md)
