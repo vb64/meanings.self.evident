@@ -266,6 +266,7 @@ COURSE_BOBYLEV = [
   ('2025_03_26', False, reversed(BOBYLEV)),
   ('2025_04_25', False, BOBYLEV),
   ('2025_04_28', False, BOBYLEV),
+  ('2025_07_25', False, (Speak.Shchelin, Speak.Bobileff, Speak.Bobileff)),
 ]
 KHIMICH = (Speak.Khimich, Speak.Shchelin)
 COURSE_KHIMICH = [
