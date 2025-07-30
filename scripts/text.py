@@ -73,7 +73,7 @@ class Speak:
     Polina = "П.Климова"
     Lopatin = "В.Лопатин"
 
-OTHER = (Speak.Polina, Speak.Lopatin)
+OTHER = (Speak.Lopatin, Speak.Polina)
 COURSE_OTHER = [
   ('2025_07_30', False, OTHER),
 ]
