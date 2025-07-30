@@ -21,7 +21,7 @@ class Course:
     Sobolev = 'Sobolev'
     Uralov = "Uralov"
     Singles = "Singles"
-
+    Other = "other"
 
 class Speak:
     Shchelin = "П.Щелин"
@@ -70,7 +70,13 @@ class Speak:
     Hall_J = "J.Hall"
     Heers_J = "J.Heers"
 
+    Polina = "П.Климова"
+    Lopatin = "В.Лопатин"
 
+OTHER = (Speak.Polina, Speak.Lopatin)
+COURSE_OTHER = [
+  ('2025_07_30', False, OTHER),
+]
 ARESTOVICH = (Speak.Arestovich, Speak.Shchelin)
 COURSE_ARESTOVICH = [
   ('2021_12_24', False, ARESTOVICH),

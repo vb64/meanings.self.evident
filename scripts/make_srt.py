@@ -5,7 +5,7 @@ from text import (
   COURSE_ARESTOVICH, COURSE_BAUMEISTER, COURSE_CHERNOBAEV, COURSE_GNOSTIC, COURSE_USA,
   COURSE_ENGLISH, COURSE_MASH, COURSE_CHERNOV, COURSE_PANCHENKO, COURSE_DUDNIK,
   COURSE_SHELEST, COURSE_BOBYLEV, COURSE_KHIMICH, COURSE_ASKERHANOV, COURSE_POLITWORLD,
-  COURSE_SINGLES, COURSE_URALOV, COURSE_SOBOLEV,
+  COURSE_SINGLES, COURSE_URALOV, COURSE_SOBOLEV, COURSE_OTHER,
 )
 
 def for_md(data):
@@ -35,6 +35,8 @@ SRT = {
   Course.InSearchOfMeaning: for_md(
     GOLUB_SEASON_01 + GOLUB_SEASON_02 + GOLUB_SEASON_03 + GOLUB_SEASON_04 + GOLUB_OTHER
   ),
+
+  Course.Other: for_md(COURSE_OTHER),
 }
 
 def speaker_index(text):
@@ -108,25 +110,7 @@ def podcast(name):
 
 def main():
     for i in (
-      Course.InSearchOfMeaning,
-      Course.GnosticThinking,
-      Course.Mash,
-      Course.Shelest,
-      Course.Panchenko,
-      Course.Dudnik,
-      Course.Chernov,
-      Course.English,
-      Course.Usa,
-      Course.Bobileff,
-      Course.Arestovich,
-      Course.Baumeister,
-      Course.Chernobaev,
-      Course.Khimich,
-      Course.Mnenie,
-      Course.PolitWorld,
-      Course.Singles,
-      Course.Uralov,
-      Course.Sobolev,
+      Course.Other,
     ):
         podcast(i)
 
