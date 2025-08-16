@@ -20,7 +20,7 @@
 - [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/48 [Эфиры с А.Шелестом](Shelest/README.md).
 - [ ] 00/20 [Эфиры с С.Дудником](Dudnik/README.md).
-- [ ] 00/32 [Александр Бобылев и НАРОД.](Bobileff/README.md)
+- [ ] 00/34 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
 - [ ] 00/08 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/02 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
