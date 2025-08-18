@@ -15,12 +15,12 @@
 - [ ] 00/04 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/02 [Mash Room](Mash/README.md). Не выходя из комнаты.
 - [ ] 00/15 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
-- [ ] 00/06 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
+- [ ] 00/07 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
 - [ ] 00/07 [Эфиры с Чадаевым и Ураловым.](Uralov/README.md) "Чистота Понимания".
 - [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/48 [Эфиры с А.Шелестом](Shelest/README.md).
 - [ ] 00/20 [Эфиры с С.Дудником](Dudnik/README.md).
-- [ ] 00/32 [Александр Бобылев и НАРОД.](Bobileff/README.md)
+- [ ] 00/34 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
 - [ ] 00/08 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/02 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
