@@ -158,6 +158,7 @@ COURSE_PANCHENKO = [
   ("2025_02_24", False, (Speak.Shchelin, Speak.Translator, Speak.Panchenko)),
   ("2025_04_06", False, reversed(PANCHENKO)),
   ("2025_05_16", False, reversed(PANCHENKO)),
+  ("2025_08_16", False, reversed(PANCHENKO)),
 ]
 DUDNIK = (Speak.Dudnik, Speak.Shchelin)
 COURSE_DUDNIK = [
@@ -270,6 +271,8 @@ COURSE_BOBYLEV = [
   ('2025_04_28', False, BOBYLEV),
   ('2025_07_25', False, (Speak.Shchelin, Speak.Bobileff, Speak.Bobileff)),
   ('2025_07_27', False, (Speak.Shchelin, Speak.Bobileff, Speak.Bobileff)),
+  ('2025_08_12', False, BOBYLEV),
+  ('2025_08_14', False, BOBYLEV),
 ]
 KHIMICH = (Speak.Khimich, Speak.Shchelin)
 COURSE_KHIMICH = [
