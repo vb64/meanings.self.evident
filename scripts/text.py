@@ -333,8 +333,8 @@ COURSE_URALOV = [
     Speak.Kniazev, Speak.Chadaev, Speak.Shchelin, Speak.Uralov,
   )),
   ('2025_08_21', False, (
-    Speak.Uralov, Speak.Shchelin, Speak.Chadaev, Speak.Kniazev,
-    Speak.Kniazev, Speak.Chadaev, Speak.Shchelin, Speak.Uralov,
+    Speak.Chadaev, Speak.Shchelin, Speak.Uralov,
+    Speak.Chadaev, Speak.Shchelin, Speak.Uralov, Speak.Kniazev,
   )),
 ]
 
