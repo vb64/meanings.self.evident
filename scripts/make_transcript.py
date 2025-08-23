@@ -1,6 +1,7 @@
 import os
-from text import Course, Speak
+from text import Course, Speak, split_to_sentences
 
+SPEAKER_MARK = "SPK_"
 TXT_PATH = os.path.join('..', 'txt')
 TXT = {
   Course.Mnenie: [
@@ -9,8 +10,26 @@ TXT = {
 }
 
 
-def proc_txt(in_file, out_file, _speakers):
-    print(in_file, '->', out_file)
+def proc_line(out, line, speakers):
+    if SPEAKER_MARK in line:
+        index = int(line.split(SPEAKER_MARK)[1]) - 1
+        out.write('\n')
+        out.write("**{}:**\n".format(speakers[index]))
+        return
+
+    for sentence in split_to_sentences(line):
+        out.write(sentence)
+        out.write('\n')
+
+
+def proc_txt(in_file, out_file, speakers):
+    print(in_file)
+    lines = open(in_file, "rt", encoding="utf-8").readlines()
+    out = open(out_file, "wt", encoding="utf-8")
+    for line in lines:
+        proc_line(out, line.strip(), speakers)
+
+    out.close()
 
 
 def podcast(folder):
