@@ -19,6 +19,9 @@ srt:
 txt:
 	$(PYTHON) make_txt.py
 
+trans:
+	$(PYTHON) make_transcript.py
+
 pdf:
 	$(PYTHON) make_pdf.py
 
