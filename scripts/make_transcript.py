@@ -10,24 +10,28 @@ TXT = {
 }
 
 
-def proc_line(out, line, speakers):
+def proc_line(speaker_index, out, line, speakers):
     if SPEAKER_MARK in line:
         index = int(line.split(SPEAKER_MARK)[1]) - 1
-        out.write('\n')
-        out.write("**{}:**\n".format(speakers[index]))
-        return
+        if speaker_index != index:
+            out.write('\n')
+            out.write("**{}:**\n".format(speakers[index]))
+        return index
 
     for sentence in split_to_sentences(line):
         out.write(sentence)
         out.write('\n')
+
+    return speaker_index
 
 
 def proc_txt(in_file, out_file, speakers):
     print(in_file)
     lines = open(in_file, "rt", encoding="utf-8").readlines()
     out = open(out_file, "wt", encoding="utf-8")
+    speaker_index = -1
     for line in lines:
-        proc_line(out, line.strip(), speakers)
+        speaker_index = proc_line(speaker_index, out, line.strip(), speakers)
 
     out.close()
 
