@@ -7,6 +7,9 @@ TXT = {
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
   ],
+  Course.Uralov: [
+      ("2025_08_21", (Speak.Kniazev, Speak.Uralov, Speak.Shchelin, Speak.Chadaev)),
+  ],
 }
 
 
@@ -52,6 +55,7 @@ def podcast(folder):
 
 def main():
     podcast(Course.Mnenie)
+    podcast(Course.Uralov)
 
 
 if __name__ == '__main__':
