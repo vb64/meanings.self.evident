@@ -72,10 +72,11 @@ class Speak:
 
     Polina = "П.Климова"
     Lopatin = "В.Лопатин"
+    OUglanova = "О.Угланова"
 
-OTHER = (Speak.Lopatin, Speak.Polina)
 COURSE_OTHER = [
-  ('2025_07_30', False, OTHER),
+  ('2025_07_30', False, (Speak.Lopatin, Speak.Polina)),
+  ('2025_08_31', False, (Speak.OUglanova, Speak.Polina)),
 ]
 ARESTOVICH = (Speak.Arestovich, Speak.Shchelin)
 COURSE_ARESTOVICH = [
