@@ -76,7 +76,7 @@ class Speak:
 
 COURSE_OTHER = [
   ('2025_07_30', False, (Speak.Lopatin, Speak.Polina)),
-  ('2025_08_31', False, (Speak.OUglanova, Speak.Polina)),
+  ('2025_08_31', False, (Speak.Polina, Speak.OUglanova)),
 ]
 ARESTOVICH = (Speak.Arestovich, Speak.Shchelin)
 COURSE_ARESTOVICH = [
