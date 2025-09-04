@@ -21,15 +21,32 @@ TXT = {
       ("modern", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
       ("deep_state", {"Е.Голуб:": Speak.Golub, "П.Щелин:": Speak.Shchelin}),
   ],
+
+  Course.Singles: [
+      ("2025_09_04", {"SPK_1": Speak.VKunev, "SPK_2": Speak.Shchelin}),
+  ],
 }
+
+
+def speaker_line_rest(line, speaker):
+    pos = 0
+    if line.startswith(speaker):
+        pos = len(speaker)
+    elif speaker in line:  # 00:00:02 SPK_1
+        pos = len(line)
+
+    return pos
 
 
 def proc_line(out, line, speakers):
     for speaker in speakers:
-        if line.startswith(speaker):
+        pos = speaker_line_rest(line, speaker)
+        if pos:
             out.write('\n')
             out.write("**{}:**\n".format(speakers[speaker]))
-            line = line[len(speaker):]
+            line = line[pos:]
+            if not line.strip():
+                return
             break
 
     line = line.strip()
@@ -76,6 +93,7 @@ def main():
     podcast(Course.InSearchOfMeaning)
     podcast(Course.Chernov)
     podcast(Course.GnosticThinking)
+    podcast(Course.Singles)
 
 
 if __name__ == '__main__':
