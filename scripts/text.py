@@ -64,6 +64,7 @@ class Speak:
     DSmirnov = "Д.Смирнов"
     IPankin = "И.Панкин"
     RSafarov = "Р.Сафаров"
+    VKunev = "В.Кунев"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"

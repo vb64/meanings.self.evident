@@ -21,6 +21,10 @@ TXT = {
       ("modern", {"Романенко:": Speak.Romanenko, "Щелин:": Speak.Shchelin}),
       ("deep_state", {"Е.Голуб:": Speak.Golub, "П.Щелин:": Speak.Shchelin}),
   ],
+
+  Course.Singles: [
+      ("2025_09_04", {"SPK_1:": Speak.VKunev, "SPK_2:": Speak.Shchelin}),
+  ],
 }
 
 
