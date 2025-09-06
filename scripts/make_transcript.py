@@ -19,6 +19,7 @@ TXT = {
   Course.Singles: [
       ("2025_09_04", (Speak.VKunev, Speak.Shchelin)),
       ("2025_09_06", (Speak.Golub, Speak.Shchelin, Speak.AKim)),
+      ("evstafiev_2025_09_06", (Speak.DEvstafiev, Speak.Shchelin)),
   ],
 }
 
