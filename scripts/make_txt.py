@@ -24,6 +24,7 @@ TXT = {
 
   Course.Singles: [
       ("2025_09_04", {"SPK_1": Speak.VKunev, "SPK_2": Speak.Shchelin}),
+      ("2025_09_06", {"Евгений Голуб": Speak.Golub, "Павел Щелин": Speak.Shchelin, "Алиса": Speak.AKim}),
   ],
 
   Course.Dudnik: [
