@@ -13,6 +13,13 @@ TXT = {
   Course.Shelest: [
       ("2025_08_25", (Speak.Shelest, Speak.Shchelin)),
   ],
+  Course.Dudnik: [
+      ("2025_09_04", (Speak.Dudnik, Speak.Shchelin)),
+  ],
+  Course.Singles: [
+      ("2025_09_04", (Speak.VKunev, Speak.Shchelin)),
+      ("2025_09_06", (Speak.Golub, Speak.Shchelin, Speak.AKim)),
+  ],
 }
 
 
@@ -60,6 +67,8 @@ def main():
     podcast(Course.Mnenie)
     podcast(Course.Uralov)
     podcast(Course.Shelest)
+    podcast(Course.Dudnik)
+    podcast(Course.Singles)
 
 
 if __name__ == '__main__':
