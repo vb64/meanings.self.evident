@@ -22,13 +22,6 @@ TXT = {
       ("deep_state", {"Е.Голуб:": Speak.Golub, "П.Щелин:": Speak.Shchelin}),
   ],
 
-  Course.Singles: [
-      ("2025_09_04", {"SPK_1": Speak.VKunev, "SPK_2": Speak.Shchelin}),
-  ],
-
-  Course.Dudnik: [
-      ("2025_09_04", {"SPK_1": Speak.Dudnik, "SPK_2": Speak.Shchelin}),
-  ],
 }
 
 
@@ -97,8 +90,6 @@ def main():
     podcast(Course.InSearchOfMeaning)
     podcast(Course.Chernov)
     podcast(Course.GnosticThinking)
-    podcast(Course.Singles)
-    podcast(Course.Dudnik)
 
 
 if __name__ == '__main__':
