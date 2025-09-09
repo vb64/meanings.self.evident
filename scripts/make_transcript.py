@@ -21,6 +21,7 @@ TXT = {
       ("2025_09_04", (Speak.VKunev, Speak.Shchelin)),
       ("2025_09_06", (Speak.Golub, Speak.AKim, Speak.Shchelin)),
       ("2025_09_07", (Speak.DEvstafiev, Speak.Shchelin)),
+      ("2025_09_09", (Speak.VFedosova, Speak.Shchelin)),
   ],
 }
 
