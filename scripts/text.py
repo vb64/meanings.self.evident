@@ -67,6 +67,7 @@ class Speak:
     VKunev = "В.Кунев"
     AKim = "А.Ким"
     DEvstafiev = "Д.Евстафьев"
+    VFedosova = "В.Федосова"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
