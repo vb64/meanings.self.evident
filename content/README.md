@@ -18,11 +18,11 @@
 - [ ] 00/07 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
 - [ ] 00/08 [Эфиры с Чадаевым и Ураловым.](Uralov/README.md) "Чистота Понимания".
 - [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
-- [ ] 00/49 [Эфиры с А.Шелестом](Shelest/README.md).
+- [ ] 00/50 [Эфиры с А.Шелестом](Shelest/README.md).
 - [ ] 00/21 [Эфиры с С.Дудником](Dudnik/README.md).
 - [ ] 00/34 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
 - [ ] 00/09 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/02 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
-- [ ] 00/14 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/13 [Отдельные беседы.](Singles/README.md)

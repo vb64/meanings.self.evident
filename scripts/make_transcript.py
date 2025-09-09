@@ -1,7 +1,7 @@
 import os
 from text import Course, Speak, split_to_sentences
 
-SPEAKER_MARK = "SPK_"
+TS_LEN = len("00:00:00 ")
 TXT_PATH = os.path.join('..', 'txt')
 TXT = {
   Course.Mnenie: [
@@ -12,6 +12,7 @@ TXT = {
   ],
   Course.Shelest: [
       ("2025_08_25", (Speak.Shelest, Speak.Shchelin)),
+      ("2025_09_08", (Speak.Shelest, Speak.Shchelin)),
   ],
   Course.Dudnik: [
       ("2025_09_04", (Speak.Dudnik, Speak.Shchelin)),
@@ -24,9 +25,36 @@ TXT = {
 }
 
 
-def proc_line(speaker_index, out, line, speakers):
-    if SPEAKER_MARK in line:
-        index = int(line.split(SPEAKER_MARK)[1]) - 1
+# 00:00:22 Павел Щелин
+def is_timestamp(line):
+    items = line.split()
+    if len(items) < 1:
+        return False
+
+    items = items[0].split(':')
+    if len(items) != 3:
+        return False
+
+    return True
+
+
+def get_speaker_index(line, text_speakers):
+    if not is_timestamp(line):
+        return None
+
+    speaker = line[TS_LEN:]
+    if speaker in text_speakers:
+        return text_speakers[speaker]
+
+    index = len(text_speakers)
+    text_speakers[speaker] = index
+
+    return index
+
+
+def proc_line(speaker_index, out, line, speakers, text_speakers):
+    index = get_speaker_index(line, text_speakers)
+    if index is not None:
         if speaker_index != index:
             out.write('\n')
             out.write("**{}:**\n".format(speakers[index]))
@@ -44,8 +72,9 @@ def proc_txt(in_file, out_file, speakers):
     lines = open(in_file, "rt", encoding="utf-8").readlines()
     out = open(out_file, "wt", encoding="utf-8")
     speaker_index = -1
+    text_speakers = {}
     for line in lines:
-        speaker_index = proc_line(speaker_index, out, line.strip(), speakers)
+        speaker_index = proc_line(speaker_index, out, line.strip(), speakers, text_speakers)
 
     out.close()
 
