@@ -115,7 +115,7 @@ def single():
     )
 
 
-def main():
+def main(argv):
     if (len(argv) > 1) and (argv[1] == 'single'):
         single()
         return
