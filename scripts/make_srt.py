@@ -1,3 +1,4 @@
+import sys
 import os
 from text import (
   Course, split_to_sentences, is_complete,
@@ -106,7 +107,19 @@ def podcast(name):
         call_whisper(path, out_path, name, list(speakers))
 
 
-def main():
+def single():
+    whisper(
+      os.path.join('build', 'single.srt'),
+      os.path.join('build', 'single.md'),
+      ("Спикер1", "Спикер2")
+    )
+
+
+def main(argv):
+    if (len(argv) > 1) and (argv[1] == 'single'):
+        single()
+        return
+
     for i in (
       Course.InSearchOfMeaning,
       Course.GnosticThinking,
@@ -132,4 +145,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)

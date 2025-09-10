@@ -16,6 +16,9 @@ docx:
 srt:
 	$(PYTHON) make_srt.py
 
+single:
+	$(PYTHON) make_srt.py single
+
 txt:
 	$(PYTHON) make_txt.py
 
