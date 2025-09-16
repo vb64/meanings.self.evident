@@ -13,6 +13,7 @@ TXT = {
   Course.Shelest: [
       ("2025_08_25", (Speak.Shelest, Speak.Shchelin)),
       ("2025_09_08", (Speak.Shelest, Speak.Shchelin)),
+      ("2025_09_16", (Speak.Shelest, Speak.Shchelin)),
   ],
   Course.Dudnik: [
       ("2025_09_04", (Speak.Dudnik, Speak.Shchelin)),
