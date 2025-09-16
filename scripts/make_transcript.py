@@ -22,6 +22,7 @@ TXT = {
       ("2025_09_06", (Speak.Golub, Speak.AKim, Speak.Shchelin)),
       ("2025_09_07", (Speak.DEvstafiev, Speak.Shchelin)),
       ("2025_09_09", (Speak.VFedosova, Speak.Shchelin)),
+      ("2025_09_16", (Speak.VFedosova, Speak.Shchelin, Speak.VFedosova, Speak.Ads)),
   ],
 }
 
@@ -58,7 +59,17 @@ def proc_line(speaker_index, out, line, speakers, text_speakers):
     if index is not None:
         if speaker_index != index:
             out.write('\n')
-            out.write("**{}:**\n".format(speakers[index]))
+            try:
+                out.write("**{}:**\n".format(speakers[index]))
+            except IndexError:
+                err = "{}\nindex {}\nspeakers {}\ntext_speakers {}".format(
+                  line,
+                  index,
+                  speakers,
+                  text_speakers
+                )
+                raise IndexError(err)
+
         return index
 
     for sentence in split_to_sentences(line):
