@@ -398,6 +398,9 @@ GOLUB_SEASON_04 = [
   ("narrative-wars", True, GOLUB),
   ("eschatological-optimism", True, GOLUB),
 ]
+GOLUB_SEASON_05 = [
+  ("veritnelzyaproverit", True, GOLUB),
+]
 GOLUB_OTHER = [
   ("polit_nemota", True, reversed(GOLUB)),
   ("straw_man", True, GOLUB),
