@@ -4,6 +4,9 @@ from text import Course, Speak, split_to_sentences
 TS_LEN = len("00:00:00 ")
 TXT_PATH = os.path.join('..', 'txt')
 TXT = {
+  Course.InSearchOfMeaning: [
+      ("veritnelzyaproverit", (Speak.Golub, Speak.Shchelin)),
+  ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
   ],
@@ -114,6 +117,7 @@ def main():
     podcast(Course.Shelest)
     podcast(Course.Dudnik)
     podcast(Course.Singles)
+    podcast(Course.InSearchOfMeaning)
 
 
 if __name__ == '__main__':
