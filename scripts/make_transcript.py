@@ -10,6 +10,7 @@ TXT = {
   ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
+      ("2025_09_30", (Speak.Askerhanov, Speak.Shchelin)),
   ],
   Course.Uralov: [
       ("2025_08_21", (Speak.Kniazev, Speak.Uralov, Speak.Shchelin, Speak.Chadaev)),
