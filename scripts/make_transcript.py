@@ -6,6 +6,7 @@ TXT_PATH = os.path.join('..', 'txt')
 TXT = {
   Course.InSearchOfMeaning: [
       ("veritnelzyaproverit", (Speak.Golub, Speak.Shchelin)),
+      ("osedlat-cherta", (Speak.Golub, Speak.Shchelin, Speak.AKim)),
   ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
