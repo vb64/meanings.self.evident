@@ -7,7 +7,6 @@ TXT = {
   Course.InSearchOfMeaning: [
       ("veritnelzyaproverit", (Speak.Golub, Speak.Shchelin)),
       ("osedlat-cherta", (Speak.Golub, Speak.Shchelin, Speak.AKim)),
-      ("otvety_4_10_25", (Speak.Golub, Speak.Shchelin)),
   ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
@@ -32,6 +31,7 @@ TXT = {
       ("2025_09_07", (Speak.DEvstafiev, Speak.Shchelin)),
       ("2025_09_09", (Speak.VFedosova, Speak.Shchelin)),
       ("2025_09_16", (Speak.VFedosova, Speak.Shchelin, Speak.VFedosova, Speak.Ads)),
+      ("2025_10_04", (Speak.Golub, Speak.Shchelin)),
   ],
 }
 
