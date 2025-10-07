@@ -7,7 +7,7 @@
 
 Отредактированные человеком выпуски с исправленными ошибками машинного перевода отмечены галочкой в списке выпусков.
 
-- [ ] 53/53 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
+- [ ] 53/54 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
 - [ ] 05/09 [Гностическое Мышление](GnosticThinking/README.md). Лекции из совместного проекта с Юрием Романенко.
 - [ ] 00/09 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
@@ -25,4 +25,4 @@
 - [ ] 00/10 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/02 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
-- [ ] 00/16 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/15 [Отдельные беседы.](Singles/README.md)
