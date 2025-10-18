@@ -8,6 +8,7 @@ TXT = {
       ("veritnelzyaproverit", (Speak.Golub, Speak.Shchelin)),
       ("osedlat-cherta", (Speak.Golub, Speak.Shchelin, Speak.AKim)),
       ("2025_10_04", (Speak.Golub, Speak.Shchelin)),
+      ("silicon-overlords", (Speak.Golub, Speak.Golub, Speak.Shchelin, Speak.Shchelin, Speak.Golub)),
   ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
@@ -50,33 +51,38 @@ def is_timestamp(line):
     return True
 
 
-def get_speaker_index(line, text_speakers):
+def get_speaker_index(line, text_speakers, real_speakers, speakers):
     if not is_timestamp(line):
         return None
 
     speaker = line[TS_LEN:]
     if speaker in text_speakers:
-        return text_speakers[speaker]
+        real_speaker = speakers[text_speakers[speaker]]
+    else:
+        index = len(text_speakers)
+        text_speakers[speaker] = index
+        real_speaker = speakers[index]
 
-    index = len(text_speakers)
-    text_speakers[speaker] = index
+    if real_speaker not in real_speakers:
+        real_speakers.append(real_speaker)
 
-    return index
+    return real_speakers.index(real_speaker)
 
 
-def proc_line(speaker_index, out, line, speakers, text_speakers):
-    index = get_speaker_index(line, text_speakers)
+def proc_line(speaker_index, out, line, speakers, text_speakers, real_speakers):
+    index = get_speaker_index(line, text_speakers, real_speakers, speakers)
     if index is not None:
         if speaker_index != index:
             out.write('\n')
             try:
-                out.write("**{}:**\n".format(speakers[index]))
+                out.write("**{}:**\n".format(real_speakers[index]))
             except IndexError:
-                err = "{}\nindex {}\nspeakers {}\ntext_speakers {}".format(
+                err = "{}\nindex {}\nspeakers {}\ntext_speakers {}\nreal_speakers {}".format(
                   line,
                   index,
                   speakers,
-                  text_speakers
+                  text_speakers,
+                  real_speakers
                 )
                 raise IndexError(err)
 
@@ -95,8 +101,9 @@ def proc_txt(in_file, out_file, speakers):
     out = open(out_file, "wt", encoding="utf-8")
     speaker_index = -1
     text_speakers = {}
+    real_speakers = []
     for line in lines:
-        speaker_index = proc_line(speaker_index, out, line.strip(), speakers, text_speakers)
+        speaker_index = proc_line(speaker_index, out, line.strip(), speakers, text_speakers, real_speakers)
 
     out.close()
 
