@@ -8,6 +8,7 @@ TXT = {
       ("veritnelzyaproverit", (Speak.Golub, Speak.Shchelin)),
       ("osedlat-cherta", (Speak.Golub, Speak.Shchelin, Speak.AKim)),
       ("2025_10_04", (Speak.Golub, Speak.Shchelin)),
+      ("silicon-overlords", (Speak.Golub, Speak.Golub, Speak.Shchelin, Speak.Shchelin, Speak.Golub)),
   ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
