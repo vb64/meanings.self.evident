@@ -399,7 +399,7 @@ GOLUB_SEASON_04 = [
   ("eschatological-optimism", True, GOLUB),
 ]
 GOLUB_SEASON_05 = [
-  ("veritnelzyaproverit", True, GOLUB),
+  ("silicon-overlords", True, reversed(GOLUB)),
 ]
 GOLUB_OTHER = [
   ("polit_nemota", True, reversed(GOLUB)),
