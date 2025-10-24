@@ -28,6 +28,7 @@ TXT = {
   Course.Dudnik: [
       ("2025_09_04", (Speak.Dudnik, Speak.Shchelin)),
       ("2025_09_19", (Speak.Dudnik, Speak.Shchelin, Speak.Shchelin)),
+      ("2025_10_24", (Speak.Dudnik, Speak.Shchelin)),
   ],
   Course.Singles: [
       ("2025_09_04", (Speak.VKunev, Speak.Shchelin)),
