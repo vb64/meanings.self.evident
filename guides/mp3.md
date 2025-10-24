@@ -2,7 +2,7 @@
 
 Задача. У вас на компьютере под управлением Windows 11 есть видеофайл `video.mp4`. Требуется извлечь из этого файла звук и сохранить его в файл `audio.mp3`.
 
-[Скачать архивный файл](https://drive.google.com/file/d/12bcdhKBfRiqU67Vc-AuY-79sDErbIxBC/view?usp=drive_link) с программой FFmpeg и распаковать ее в папку с видеофайлом `video.mp4`.
+[Скачать архивный файл](https://drive.google.com/file/d/12bcdhKBfRiqU67Vc-AuY-79sDErbIxBC/view?usp=drive_link), извлечь из него `ffmpeg.exe` и переместить его в папку с видеофайлом `video.mp4`.
 
 _Также можно скачать самую последнюю версию с [официальной страницы проекта FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/tag/latest)._
 
