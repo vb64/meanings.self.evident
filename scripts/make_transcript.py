@@ -9,6 +9,8 @@ TXT = {
       ("osedlat-cherta", (Speak.Golub, Speak.Shchelin, Speak.AKim)),
       ("2025_10_04", (Speak.Golub, Speak.Shchelin)),
       ("silicon-overlords", (Speak.Golub, Speak.Golub, Speak.Shchelin, Speak.Shchelin, Speak.Golub)),
+      ("the-existential-pub", (Speak.Golub, Speak.Shchelin, Speak.SGrigorishin)),
+      ("the-ontological-hangover", (Speak.Golub, Speak.Shchelin)),
   ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
