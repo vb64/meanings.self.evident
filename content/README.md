@@ -25,4 +25,4 @@
 - [ ] 00/10 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/03 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
-- [ ] 00/16 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/17 [Отдельные беседы.](Singles/README.md)
