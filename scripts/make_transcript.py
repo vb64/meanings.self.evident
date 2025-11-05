@@ -12,6 +12,9 @@ TXT = {
       ("the-existential-pub", (Speak.Golub, Speak.Shchelin, Speak.SGrigorishin)),
       ("the-ontological-hangover", (Speak.Golub, Speak.Shchelin)),
   ],
+  Course.Mash: [
+      ("2025_11_03", (Speak.Izotov, Speak.OrlovSm, Speak.Shchelin)),
+  ],
   Course.Mnenie: [
       ("2025_08_23", (Speak.Askerhanov, Speak.Shchelin)),
       ("2025_09_30", (Speak.Askerhanov, Speak.Shchelin)),
@@ -139,6 +142,7 @@ def main():
     podcast(Course.Singles)
     podcast(Course.InSearchOfMeaning)
     podcast(Course.Sobolev)
+    podcast(Course.Mash)
 
 
 if __name__ == '__main__':
