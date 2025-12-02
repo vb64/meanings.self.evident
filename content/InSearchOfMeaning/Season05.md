@@ -2,6 +2,6 @@
 
 - [x] [Верить нельзя проверить](veritnelzyaproverit.md) 19 сентября 2025
 - [x] [Оседлать чёрта](osedlat-cherta.md) 26 сентября 2025
-- [ ] [Силиконовые феодалы](silicon-overlords.md) 17 октября 2025
+- [x] [Силиконовые феодалы](silicon-overlords.md) 17 октября 2025
 - [x] [Экзистенциальная пивная](the-existential-pub.md) 01 ноября 2025
 - [x] [Онтологическое похмелье](the-ontological-hangover.md) 01 ноября 2025
