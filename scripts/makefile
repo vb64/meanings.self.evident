@@ -10,6 +10,8 @@ PIP = $(PYTHON) -m pip install
 
 all:
 
+md:
+	$(PYTHON) make_md.py
 docx:
 	$(PYTHON) to_docx.py
 
