@@ -24,6 +24,7 @@ TXT = {
       ("2025_09_19", (Speak.Kniazev, Speak.Chadaev, Speak.Uralov, Speak.Shchelin)),
       ("2025_10_09", (Speak.Kniazev, Speak.Chadaev, Speak.Uralov, Speak.Shchelin)),
       ("2025_10_30", (Speak.Kniazev, Speak.Chadaev, Speak.Uralov, Speak.Shchelin)),
+      ("2025_12_04", (Speak.Kniazev, Speak.Uralov, Speak.Shchelin, Speak.Chadaev)),
   ],
   Course.Shelest: [
       ("2025_08_25", (Speak.Shelest, Speak.Shchelin)),
