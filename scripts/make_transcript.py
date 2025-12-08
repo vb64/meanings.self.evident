@@ -48,7 +48,6 @@ TXT = {
       ("2025_10_21", (Speak.RSafarov, Speak.Shchelin)),
       ("2025_11_04", (Speak.Shchelin, Speak.SIvanov)),
       ("2025_11_26", (Speak.RSafarov, Speak.Shchelin)),
-      ("2025_12_07", (Speak.PAndreev, Speak.Shchelin)),
   ],
   Course.Sobolev: [
       ("2025_10_19", (Speak.Sobolev, Speak.Shchelin)),
