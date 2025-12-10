@@ -23,6 +23,10 @@ Anna Gorbunova [@Bunkini](https://t.me/Bunkini)
 
 - Гностическое Мышление. [Глава VIII. Рождение духа Deep State](/content/GnosticThinking/deep_state.md).
 
+Владимир (пожелал остаться анонимным)
+
+- Гностическое Мышление. [Лекция 4. Великие иллюзии Просвещения](/content/GnosticThinking/enlightenment.md).
+
 ["Хвиля"](https://hvylya.net)
 
 - Гностическое Мышление. [Гностицизм как признак Запада](/content/GnosticThinking/gnosticism.md)
