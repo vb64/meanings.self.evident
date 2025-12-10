@@ -6,6 +6,9 @@ MDATA = {
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
   ],
+  Course.Panchenko: [
+      ("2025_12_04_1", (Speak.Panchenko, Speak.Shchelin)),
+      ("2025_12_04_2", (Speak.Panchenko, Speak.MShevchenko, Speak.Shchelin)),
   Course.Singles: [
       ("2025_12_07", (Speak.Shchelin, Speak.PAndreev)),
   ],
@@ -38,6 +41,7 @@ def podcast(folder):
 
 def main():
     podcast(Course.Shelest)
+    podcast(Course.Panchenko)
     podcast(Course.Singles)
 
 
