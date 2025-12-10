@@ -7,15 +7,15 @@
 
 Отредактированные человеком выпуски с исправленными ошибками машинного перевода отмечены галочкой в списке выпусков.
 
-- [ ] 56/57 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
 - [ ] 06/09 [Гностическое Мышление](GnosticThinking/README.md). Лекции из совместного проекта с Юрием Романенко.
+- [ ] 57/57 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
 - [ ] 00/09 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 01/07 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
 - [ ] 00/04 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/03 [Mash Room](Mash/README.md). Не выходя из комнаты.
 - [ ] 00/15 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
-- [ ] 00/07 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
+- [ ] 00/08 Эфиры на канале [ПАНЧЕНКО](Panchenko/README.md).
 - [ ] 00/12 [Эфиры с Чадаевым и Ураловым.](Uralov/README.md) "Чистота Понимания".
 - [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/54 [Эфиры с А.Шелестом](Shelest/README.md).
@@ -25,4 +25,4 @@
 - [ ] 00/10 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/03 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
-- [ ] 00/19 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/20 [Отдельные беседы.](Singles/README.md)
