@@ -11,6 +11,7 @@ MDATA = {
       ("2025_12_04_2", (Speak.Panchenko, Speak.MShevchenko, Speak.Shchelin)),
   Course.Singles: [
       ("2025_12_07", (Speak.Shchelin, Speak.PAndreev)),
+      ("2025_12_13", (Speak.Shchelin, Speak.ATkachev)),
   ],
 }
 
