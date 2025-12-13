@@ -73,6 +73,7 @@ class Speak:
     Latynina = "Ю.Латынина"
     MShevchenko = "М.Шевченко"
     PAndreev = "П.Андреев"
+    ATkachev = "А.Ткачев"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
