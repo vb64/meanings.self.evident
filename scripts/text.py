@@ -74,6 +74,8 @@ class Speak:
     MShevchenko = "М.Шевченко"
     PAndreev = "П.Андреев"
     ATkachev = "А.Ткачев"
+    POstrovsky = "П.Островский"
+    PUvarova = "П.Уварова"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
