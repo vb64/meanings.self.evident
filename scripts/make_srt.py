@@ -6,7 +6,7 @@ from text import (
   COURSE_ARESTOVICH, COURSE_BAUMEISTER, COURSE_CHERNOBAEV, COURSE_GNOSTIC, COURSE_USA,
   COURSE_ENGLISH, COURSE_MASH, COURSE_CHERNOV, COURSE_PANCHENKO, COURSE_DUDNIK,
   COURSE_SHELEST, COURSE_BOBYLEV, COURSE_KHIMICH, COURSE_ASKERHANOV, COURSE_POLITWORLD,
-  COURSE_SINGLES, COURSE_URALOV, COURSE_SOBOLEV,
+  COURSE_SINGLES, COURSE_URALOV, COURSE_SOBOLEV, COURSE_SAFAROV,
 )
 
 def for_md(data):
@@ -31,6 +31,7 @@ SRT = {
   Course.Mnenie: for_md(COURSE_ASKERHANOV),
   Course.PolitWorld: for_md(COURSE_POLITWORLD),
   Course.Singles: for_md(COURSE_SINGLES),
+  Course.Safarov: for_md(COURSE_SAFAROV),
   Course.Uralov: for_md(COURSE_URALOV),
   Course.Sobolev: for_md(COURSE_SOBOLEV),
   Course.InSearchOfMeaning: for_md(
@@ -140,6 +141,7 @@ def main(argv):
       Course.Singles,
       Course.Uralov,
       Course.Sobolev,
+      Course.Safarov,
     ):
         podcast(i)
 

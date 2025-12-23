@@ -21,6 +21,7 @@ class Course:
     Sobolev = 'Sobolev'
     Uralov = "Uralov"
     Singles = "Singles"
+    Safarov = "Safarov"
 
 
 class Speak:
@@ -328,8 +329,10 @@ COURSE_SINGLES = [
   ('2025_05_08', False, (Speak.Shchelin, Speak.Klizma)),
   ('2025_06_30', False, (Speak.Shchelin, Speak.DSmirnov)),
   ('2025_07_22', False, (Speak.Shchelin, Speak.IPankin)),
-  ('2025_08_19', False, (Speak.Shchelin, Speak.RSafarov)),
   ('2025_11_23', False, (Speak.Shchelin, Speak.Latynina)),
+]
+COURSE_SAFAROV = [
+  ('2025_08_19', False, (Speak.Shchelin, Speak.RSafarov)),
 ]
 COURSE_URALOV = [
   ('2024_12_25', False, (Speak.Uralov, Speak.Shchelin, Speak.Kniazev, Speak.Chadaev)),
