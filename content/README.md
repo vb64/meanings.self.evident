@@ -20,9 +20,10 @@
 - [ ] 00/03 [Беседы с Николаем Чернобаевым.](Chernobaev/README.md)
 - [ ] 00/55 [Эфиры с А.Шелестом](Shelest/README.md).
 - [ ] 00/25 [Эфиры с С.Дудником](Dudnik/README.md).
+- [ ] 00/04 [Геополитбюро. Руслан Сафаров.](Safarov/README.md).
 - [ ] 00/34 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
 - [ ] 00/10 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
 - [ ] 00/03 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
-- [ ] 00/22 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/19 [Отдельные беседы.](Singles/README.md)
