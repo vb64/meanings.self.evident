@@ -31,3 +31,8 @@ Anna Gorbunova [@Bunkini](https://t.me/Bunkini)
 
 - Гностическое Мышление. [Гностицизм как признак Запада](/content/GnosticThinking/gnosticism.md)
 - Гностическое Мышление. [16 век - Рубикон Модерна](/content/GnosticThinking/modern.md)
+
+Demian [@ravedor](https://t.me/ravedor)
+
+- Гностическое Мышление. [Национализм и либерализм](/content/GnosticThinking/nationalism.md)
+- Гностическое Мышление. [Марксизм](/content/GnosticThinking/marxism.md)

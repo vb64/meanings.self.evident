@@ -23,6 +23,7 @@
 [Anna Gorbunova](https://t.me/Bunkini),
 Владимир (пожелал остаться анонимным),
 ["Хвиля"](https://hvylya.net)
+[Demian](https://t.me/ravedor)
 
 Преобразование аудио записи в текст (транскрибирование) с разделением по собеседникам (диаризация) выполнено с помощью бесплатной программы с открытым кодом [whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization).
 Спасибо [автору](https://github.com/MahmoudAshraf97) этой программы за его труд.
