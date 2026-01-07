@@ -22,6 +22,7 @@ MDATA = {
   ],
   Course.Safarov: [
       ("2025_12_23", (Speak.Shchelin, Speak.RSafarov)),
+      ("2026_01_06", (Speak.Shchelin, Speak.RSafarov)),
   ],
 }
 
