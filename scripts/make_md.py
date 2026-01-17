@@ -24,6 +24,9 @@ MDATA = {
       ("2025_12_23", (Speak.Shchelin, Speak.RSafarov)),
       ("2026_01_06", (Speak.Shchelin, Speak.RSafarov)),
   ],
+  Course.Uralov: [
+      ("2026_01_15", (Speak.Kniazev, Speak.Chadaev, Speak.Shchelin, Speak.Shchelin, Speak.Chadaev, Speak.Uralov)),
+  ],
 }
 
 
@@ -57,6 +60,7 @@ def main():
     podcast(Course.Singles)
     podcast(Course.Dudnik)
     podcast(Course.Safarov)
+    podcast(Course.Uralov)
 
 
 if __name__ == '__main__':
