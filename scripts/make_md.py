@@ -4,10 +4,10 @@ from text import Course, Speak
 MD_PATH = os.path.join('..', 'md')
 MDATA = {
   Course.InSearchOfMeaning: [
-      ("2026_01_03", (Speak.Golub, Speak.Shchelin)),
-      ("2026_01_05", (Speak.Golub, Speak.Shchelin)),
-      ("2026_01_07", (Speak.Golub, Speak.Shchelin)),
-      ("2026_01_09", (Speak.Golub, Speak.Shchelin)),
+      ("2026_01_03", (Speak.Shchelin, Speak.Golub)),
+      ("2026_01_05", (Speak.Shchelin, Speak.Golub)),
+      ("2026_01_07", (Speak.Golub, Speak.Shchelin, Speak.Golub)),
+      ("2026_01_09", (Speak.Shchelin, Speak.Golub)),
   ],
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
