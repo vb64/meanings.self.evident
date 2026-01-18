@@ -3,6 +3,12 @@ from text import Course, Speak
 
 MD_PATH = os.path.join('..', 'md')
 MDATA = {
+  Course.InSearchOfMeaning: [
+      ("2026_01_03", (Speak.Shchelin, Speak.Golub)),
+      ("2026_01_05", (Speak.Shchelin, Speak.Golub)),
+      ("2026_01_07", (Speak.Golub, Speak.Shchelin, Speak.Golub)),
+      ("2026_01_09", (Speak.Shchelin, Speak.Golub)),
+  ],
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
       ("2025_12_22", (Speak.Shchelin, Speak.Shelest)),
@@ -65,6 +71,7 @@ def main():
     podcast(Course.Safarov)
     podcast(Course.Uralov)
     podcast(Course.Tkachev)
+    podcast(Course.InSearchOfMeaning)
 
 
 if __name__ == '__main__':
