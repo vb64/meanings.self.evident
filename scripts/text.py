@@ -22,6 +22,7 @@ class Course:
     Uralov = "Uralov"
     Singles = "Singles"
     Safarov = "Safarov"
+    Tkachev = "Tkachev"
 
 
 class Speak:
