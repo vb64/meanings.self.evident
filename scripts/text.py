@@ -412,12 +412,22 @@ GOLUB_SEASON_04 = [
   ("eschatological-optimism", True, GOLUB),
 ]
 GOLUB_SEASON_05 = [
+  ("veritnelzyaproverit", True, reversed(GOLUB)),
+  ("osedlat-cherta", True, reversed(GOLUB)),
   ("silicon-overlords", True, reversed(GOLUB)),
+  ("the-existential-pub", True, reversed(GOLUB)),
+  ("the-ontological-hangover", True, reversed(GOLUB)),
+  ("end-of-willpower", True, reversed(GOLUB)),
 ]
 GOLUB_OTHER = [
   ("polit_nemota", True, reversed(GOLUB)),
   ("straw_man", True, GOLUB),
   ("year2024", True, reversed(GOLUB)),
+  ("2025_10_04", True, GOLUB),
+  ("2026_01_03", True, GOLUB),
+  ("2026_01_05", True, GOLUB),
+  ("2026_01_07", True, GOLUB),
+  ("2026_01_09", True, GOLUB),
 ]
 
 
