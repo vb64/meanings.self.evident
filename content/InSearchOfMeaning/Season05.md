@@ -5,4 +5,4 @@
 - [x] [Силиконовые феодалы](silicon-overlords.md) 17 октября 2025
 - [x] [Экзистенциальная пивная](the-existential-pub.md) 01 ноября 2025
 - [x] [Онтологическое похмелье](the-ontological-hangover.md) 01 ноября 2025
-- [ ] [Атрофия воли](end-of-willpower.md) 26 января 2026
+- [x] [Атрофия воли](end-of-willpower.md) 26 января 2026
