@@ -8,6 +8,7 @@ MDATA = {
       ("2026_01_05", (Speak.Shchelin, Speak.Golub)),
       ("2026_01_07", (Speak.Golub, Speak.Shchelin, Speak.Golub)),
       ("2026_01_09", (Speak.Shchelin, Speak.Golub)),
+      ("end-of-willpower", (Speak.Shchelin, Speak.Golub)),
   ],
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
