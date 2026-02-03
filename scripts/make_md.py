@@ -34,6 +34,7 @@ MDATA = {
   Course.Safarov: [
       ("2025_12_23", (Speak.Shchelin, Speak.RSafarov)),
       ("2026_01_06", (Speak.Shchelin, Speak.RSafarov)),
+      ("2026_02_03", (Speak.Shchelin, Speak.RSafarov)),
   ],
   Course.Uralov: [
       ("2026_01_15", (Speak.Kniazev, Speak.Chadaev, Speak.Shchelin, Speak.Shchelin, Speak.Chadaev, Speak.Uralov)),
