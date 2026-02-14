@@ -45,6 +45,7 @@ MDATA = {
       ("2025_12_13", (Speak.Shchelin, Speak.ATkachev)),
       ("2026_01_04", (Speak.ATkachev, Speak.Shchelin)),
       ("2026_01_17", (Speak.ATkachev, Speak.Shchelin)),
+      ("2026_02_14", (Speak.ATkachev, Speak.Shchelin)),
   ],
 }
 
