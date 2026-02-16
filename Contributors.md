@@ -36,3 +36,4 @@ Demian [@ravedor](https://t.me/ravedor)
 
 - Гностическое Мышление. [Национализм и либерализм](/content/GnosticThinking/nationalism.md)
 - Гностическое Мышление. [Марксизм](/content/GnosticThinking/marxism.md)
+- Гностическое Мышление. [Рабство и Свобода. Прелюдия к циклу Информационные Войны](/content/GnosticThinking/info_wars.md)
