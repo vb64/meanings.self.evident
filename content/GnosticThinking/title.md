@@ -1,7 +1,6 @@
 # Cтенограммы цикла «Гностическое Мышление»
 
-Исходным материалом являются аудиозаписи в формате `mp3` на сайте [pCloud](https://www.pcloud.com),
-созданные из роликов плейлиста ["Гностическое Мышление (архив)"](https://www.youtube.com/playlist?list=PLnh6fYWK6YskikmdruzzfPtp0n-_doFcx) на [ютуб-канале П.Щелина](https://www.youtube.com/@PavelShchelin).
+Исходным материалом являются ролики плейлиста ["Гностическое Мышление (архив)"](https://www.youtube.com/playlist?list=PLnh6fYWK6YskikmdruzzfPtp0n-_doFcx) на [ютуб-канале П.Щелина](https://www.youtube.com/@PavelShchelin).
 
 Лекции из совместного проекта с Юрием Романенко, что автор посчитал ценными для хранения, вне зависимости от "белого шума" проходящих событий.
 
