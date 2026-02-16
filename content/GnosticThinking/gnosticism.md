@@ -2,7 +2,7 @@
 
 13 ноября 2021 [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZDnJdZtpKTfSRtD7frH2TWs0bjCpyqQKVy) 46:41
 
-[Первая Лекция](https://hvylya.net/interview/244247-korni-utopii-zelenogo-perehoda-gnosticizm-kak-prizrak-zapadnogo-proekta) из серии "Гностическое Мышление" помогает понять откуда растут корни столь популярный идей "Зеленого Перехода".
+Первая лекция из серии "Гностическое Мышление" помогает понять откуда растут корни столь популярный идей "Зеленого Перехода".
 
 **Ю.Романенко:**
 Мы продолжаем наши беседы.
