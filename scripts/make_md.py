@@ -26,13 +26,10 @@ MDATA = {
   ],
   Course.Singles: [
       ("2025_12_07", (Speak.Shchelin, Speak.PAndreev)),
-      ("2025_12_14", (Speak.Shchelin, Speak.POstrovsky, Speak.PUvarova)),
-      ("2026_01_19", (Speak.PUvarova, Speak.POstrovsky, Speak.Shchelin)),
       ("2026_01_25", (Speak.Shchelin, Speak.Latynina)),
       ("2026_01_27", (Speak.Shchelin, Speak.NArutunov)),
       ("2026_02_01", (Speak.Shchelin, Speak.DEvstafiev)),
       ("2026_02_10", (Speak.Shchelin, Speak.AIvanchenko)),
-      ("2026_02_16", (Speak.Shchelin, Speak.POstrovsky, Speak.PUvarova)),
   ],
   Course.Safarov: [
       ("2025_12_23", (Speak.Shchelin, Speak.RSafarov)),
@@ -47,6 +44,11 @@ MDATA = {
       ("2026_01_04", (Speak.ATkachev, Speak.Shchelin)),
       ("2026_01_17", (Speak.ATkachev, Speak.Shchelin)),
       ("2026_02_14", (Speak.ATkachev, Speak.Shchelin)),
+  ],
+  Course.Sputnik: [
+      ("2025_12_14", (Speak.Shchelin, Speak.POstrovsky, Speak.PUvarova)),
+      ("2026_01_19", (Speak.PUvarova, Speak.POstrovsky, Speak.Shchelin)),
+      ("2026_02_16", (Speak.Shchelin, Speak.POstrovsky, Speak.PUvarova)),
   ],
 }
 
@@ -84,6 +86,7 @@ def main():
     podcast(Course.Uralov)
     podcast(Course.Tkachev)
     podcast(Course.InSearchOfMeaning)
+    podcast(Course.Sputnik)
 
 
 if __name__ == '__main__':
