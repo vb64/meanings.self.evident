@@ -57,11 +57,12 @@ def hook(text):
 
 
 def make_section(file_name, is_hook, folder):
-    text = open(os.path.join(folder, file_name), encoding="utf8").read()
+    file_path = os.path.join(folder, file_name)
+    text = open(file_path, encoding="utf8").read()
     if is_hook:
         text = hook(text)
 
-    return Section(text, root=folder)
+    return Section(text, root=os.path.dirname(file_path))
 
 
 def podcast(name, title, pdf_name):
