@@ -4,11 +4,11 @@ from text import Course, Speak
 MD_PATH = os.path.join('..', 'md')
 MDATA = {
   Course.InSearchOfMeaning: [
-      ("2026_01_03", (Speak.Shchelin, Speak.Golub)),
-      ("2026_01_05", (Speak.Shchelin, Speak.Golub)),
-      ("2026_01_07", (Speak.Golub, Speak.Shchelin, Speak.Golub)),
-      ("2026_01_09", (Speak.Shchelin, Speak.Golub)),
-      ("end-of-willpower", (Speak.Shchelin, Speak.Golub)),
+      ("Singles/2026_01_03", (Speak.Shchelin, Speak.Golub)),
+      ("Singles/2026_01_05", (Speak.Shchelin, Speak.Golub)),
+      ("Singles/2026_01_07", (Speak.Golub, Speak.Shchelin, Speak.Golub)),
+      ("Singles/2026_01_09", (Speak.Shchelin, Speak.Golub)),
+      ("Season05/end-of-willpower", (Speak.Shchelin, Speak.Golub)),
   ],
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
@@ -61,6 +61,8 @@ def proc_md(in_file, out_file, speakers):
     for i, speaker in enumerate(speakers):
         body = body.replace("SPK_{}:".format(i), "{}:".format(speaker))
 
+    out_path = os.path.dirname(out_file)
+    os.makedirs(out_path, exist_ok=True)
     with open(out_file, "wt", encoding="utf-8") as out:
         out.write(body)
 
@@ -69,7 +71,6 @@ def podcast(folder):
     data = MDATA[folder]
     path = os.path.join(MD_PATH, folder)
     out_path = os.path.join("build", folder)
-    os.makedirs(out_path, exist_ok=True)
 
     for name, speakers in data:
         proc_md(
