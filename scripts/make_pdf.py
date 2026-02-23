@@ -20,12 +20,12 @@ TITLE = [('title.md', False)]
 PODCAST = {
   Course.InSearchOfMeaning: (
     TITLE + 
-    [('title_01.md', False)] + for_pdf(GOLUB_SEASON_01) + 
-    [('title_02.md', False)] + for_pdf(GOLUB_SEASON_02) + 
-    [('title_03.md', False)] + for_pdf(GOLUB_SEASON_03) + 
-    [('title_04.md', False)] + for_pdf(GOLUB_SEASON_04) + 
-    [('title_05.md', False)] + for_pdf(GOLUB_SEASON_05) + 
-    [('title_other.md', False)] + for_pdf(GOLUB_OTHER)
+    [('Season01/title.md', False)] + for_pdf(GOLUB_SEASON_01) + 
+    [('Season02/title.md', False)] + for_pdf(GOLUB_SEASON_02) + 
+    [('Season03/title.md', False)] + for_pdf(GOLUB_SEASON_03) + 
+    [('Season04/title.md', False)] + for_pdf(GOLUB_SEASON_04) + 
+    [('Season05/title.md', False)] + for_pdf(GOLUB_SEASON_05) + 
+    [('Singles/title.md', False)] + for_pdf(GOLUB_OTHER)
   ),
 
   Course.GnosticThinking: (TITLE + for_pdf(COURSE_GNOSTIC)),
