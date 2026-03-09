@@ -11,7 +11,7 @@ MDATA = {
       ("Season05/end-of-willpower", (Speak.Shchelin, Speak.Golub)),
       ("Season06/what-is-freedom", (Speak.Shchelin, Speak.Golub)),
       ("Season06/the-only-questtion", (Speak.Golub, Speak.Shchelin)),
-      ("Season06/memory", (Speak.Golub, Speak.Shchelin)),
+      ("Season06/memory", (Speak.Shchelin, Speak.Golub)),
   ],
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
