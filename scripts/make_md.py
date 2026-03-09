@@ -13,6 +13,17 @@ MDATA = {
       ("Season06/the-only-questtion", (Speak.Golub, Speak.Shchelin)),
       ("Season06/memory", (Speak.Shchelin, Speak.Golub)),
   ],
+  Course.NamingTheSelfEvident: [
+      ("2026_02_27", (Speak.ShchelinEn, Speak.Hall_J)),
+      ("2026_02_28", (Speak.ShchelinEn, Speak.Hall_J)),
+      ("2026_03_01", (Speak.ShchelinEn, Speak.Hall_J)),
+      ("2026_03_02", (Speak.ShchelinEn, Speak.Hall_J)),
+      ("2026_03_03", (Speak.ShchelinEn, Speak.Hall_J)),
+      ("2026_03_04", (Speak.ShchelinEn, Speak.Hall_J)),
+      ("2026_03_05", (Speak.ShchelinEn, Speak.Hall_J)),
+      ("2026_03_06", (Speak.ShchelinEn, Speak.Heers_J)),
+      ("2026_03_09", (Speak.ShchelinEn, Speak.Pageau)),
+  ],
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
       ("2025_12_22", (Speak.Shchelin, Speak.Shelest)),
@@ -94,6 +105,7 @@ def main():
     podcast(Course.Tkachev)
     podcast(Course.InSearchOfMeaning)
     podcast(Course.Sputnik)
+    podcast(Course.NamingTheSelfEvident)
 
 
 if __name__ == '__main__':
