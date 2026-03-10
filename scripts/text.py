@@ -4,6 +4,7 @@ SENTENCE_END = ".!?"
 class Course:
     InSearchOfMeaning = "InSearchOfMeaning"
     GnosticThinking = "GnosticThinking"
+    NamingTheSelfEvident = "NamingTheSelfEvident"
     Mash = "Mash"
     Shelest = "Shelest"
     Panchenko = "Panchenko"
