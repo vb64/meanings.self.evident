@@ -1,0 +1,3920 @@
+1
+00:00:04,020 --> 00:00:17,720
+SPK_0: We begin in the beginning with a pointing to the fact that we find ourselves completely immersed in something that is, as you say, self-evident and yet also perfectly invisible.
+
+2
+00:00:18,620 --> 00:00:20,700
+SPK_0: And so we begin trying to tease this apart.
+
+3
+00:00:20,880 --> 00:00:28,300
+SPK_0: And you point to a primordial move, which is that the world is broken.
+
+4
+00:00:28,920 --> 00:00:46,360
+SPK_0: And I should say, by the way, and you point out that the logical consequence of the primordial move is, in fact, to simply exit matter, but that the world we live in has a second piece, maybe a response to the gospel, by the way, but certainly a second piece, which is, and you can fix it.
+
+5
+00:00:46,660 --> 00:00:48,360
+SPK_0: And you can fix it.
+
+6
+00:00:49,000 --> 00:00:51,320
+SPK_0: And in fact, you must fix it.
+
+7
+00:00:51,880 --> 00:00:56,440
+SPK_0: So we spend some time circling around the nature of that, trying to flesh it out and get a feel for it.
+
+8
+00:00:56,720 --> 00:00:58,280
+SPK_0: And as I know, since I have...
+
+9
+00:00:58,300 --> 00:01:04,140
+SPK_0: have access to the producer, now we're going to be talking about the name that we brought up a few times, Reason.
+
+10
+00:01:04,640 --> 00:01:14,440
+SPK_1: Yeah, and it is, like, if anything, it is beautiful in itself and inescapable that already in the first episode, you really wanted to jump straight into Reason.
+
+11
+00:01:14,680 --> 00:01:17,420
+SPK_1: Because they are almost inseparable.
+
+12
+00:01:17,660 --> 00:01:22,920
+SPK_1: And I want to be clear, in truth, every topic we're going to talk about is inseparable from each other.
+
+13
+00:01:23,080 --> 00:01:24,680
+SPK_1: Like, you can start at any moment.
+
+14
+00:01:25,080 --> 00:01:27,680
+SPK_1: Now, there is an underlying story into it.
+
+15
+00:01:27,680 --> 00:01:30,300
+SPK_1: But also, like, is it any good story?
+
+16
+00:01:30,380 --> 00:01:31,580
+SPK_1: Or, like, big story?
+
+17
+00:01:31,700 --> 00:01:34,120
+SPK_1: Every part of the story references each other's story.
+
+18
+00:01:34,560 --> 00:01:38,140
+SPK_1: And the story of Reason is an intrinsic Gnostic story.
+
+19
+00:01:38,280 --> 00:01:40,260
+SPK_1: And the way we understand Reason.
+
+20
+00:01:40,400 --> 00:01:43,480
+SPK_1: And the way it connects with everything else around us.
+
+21
+00:01:44,020 --> 00:01:51,880
+SPK_1: And the most simple way to just point it out is, again, we're going to talk a little bit about here, about religious...
+
+22
+00:01:51,880 --> 00:01:57,020
+SPK_1: I'm going to use a lot of religious language here, like, even more than maybe in the previous, let's say, episode.
+
+23
+00:01:57,100 --> 00:01:57,320
+SPK_1: Yeah.
+
+24
+00:01:57,680 --> 00:01:59,020
+SPK_1: More in the follow, because salvation.
+
+25
+00:02:00,280 --> 00:02:05,700
+SPK_1: But straight up front, I want to ask you guys not to be afraid.
+
+26
+00:02:08,100 --> 00:02:10,240
+SPK_1: Because, truth be told, you don't have any other choice.
+
+27
+00:02:10,680 --> 00:02:13,300
+SPK_1: The tricky part is, like, willingly or not willingly.
+
+28
+00:02:13,580 --> 00:02:17,040
+SPK_1: And that's actually one thing I wanted to bring up in the previous episode as well.
+
+29
+00:02:17,280 --> 00:02:25,420
+SPK_1: The trick about Gnosticism, this pattern of thinking, is that you don't have to know any of the things we are talking about.
+
+30
+00:02:25,560 --> 00:02:27,120
+SPK_1: And to experience it.
+
+31
+00:02:27,680 --> 00:02:28,100
+SPK_1: And live it.
+
+32
+00:02:28,180 --> 00:02:30,320
+SPK_1: And even to an extent, be true to it.
+
+33
+00:02:30,420 --> 00:02:31,200
+SPK_1: That's the thing.
+
+34
+00:02:31,360 --> 00:02:34,740
+SPK_1: You can say you don't see Reason as a salvation.
+
+35
+00:02:35,340 --> 00:02:39,780
+SPK_1: But I can bet a lot of money you practice it as a salvation.
+
+36
+00:02:40,160 --> 00:02:42,720
+SPK_1: And that's why I don't want you not to be afraid.
+
+37
+00:02:42,840 --> 00:02:44,700
+SPK_1: So, in fact, I'm not teaching you...
+
+38
+00:02:44,700 --> 00:02:45,640
+SPK_1: We are not teaching you anything.
+
+39
+00:02:46,020 --> 00:02:53,000
+SPK_1: We are just talking about and more like naming things you do, like, or I do, willingly or unwillingly.
+
+40
+00:02:53,160 --> 00:02:54,700
+SPK_1: Different cases can be the case.
+
+41
+00:02:54,860 --> 00:02:56,260
+SPK_1: And naming is the first step.
+
+42
+00:02:56,420 --> 00:02:57,160
+SPK_1: That's one thing.
+
+43
+00:02:57,160 --> 00:02:57,720
+SPK_1: I think it's important.
+
+44
+00:02:57,900 --> 00:03:01,880
+SPK_1: Like, it's important to name something, because then you can actually look at it.
+
+45
+00:03:01,960 --> 00:03:05,680
+SPK_1: Like, it's hard to look at something without you truly know that you are looking at it.
+
+46
+00:03:05,820 --> 00:03:08,620
+SPK_1: And it is the trick we play all the time.
+
+47
+00:03:08,740 --> 00:03:11,600
+SPK_1: We play it with the world is broken self-evident statement.
+
+48
+00:03:11,860 --> 00:03:14,720
+SPK_1: Like, you don't need to see it religious to believe in it.
+
+49
+00:03:14,840 --> 00:03:19,360
+SPK_1: Like, you can take people from a street who, like, really want to protect, for example, environment.
+
+50
+00:03:19,620 --> 00:03:26,340
+SPK_1: And to tell them, you know, that you are, that it's a Gnostic thought, which just connects to the most fundamental assumptions about reality.
+
+51
+00:03:26,420 --> 00:03:27,020
+SPK_1: And they will...
+
+52
+00:03:27,160 --> 00:03:29,080
+SPK_1: Like, well, crazy guys, okay, fine.
+
+53
+00:03:29,720 --> 00:03:33,180
+SPK_1: Go to Mormons, whatever it is, like, in American context.
+
+54
+00:03:34,720 --> 00:03:39,100
+SPK_1: But it doesn't change the fact that they do believe it, that they feel it, and they experience it.
+
+55
+00:03:39,380 --> 00:03:43,260
+SPK_1: And that's kind of all of the stories we're going to talk about, including reason.
+
+56
+00:03:43,640 --> 00:03:52,540
+SPK_1: Reason as salvation is maybe the most close to our world experience story nowadays.
+
+57
+00:03:52,980 --> 00:03:55,320
+SPK_1: For many different causes we're going to talk about.
+
+58
+00:03:55,500 --> 00:03:56,720
+SPK_1: But definitely.
+
+59
+00:03:57,440 --> 00:04:05,240
+SPK_1: It is one of the foundations of civilization, even not in a Gnostic way, but like the common people use this word.
+
+60
+00:04:05,320 --> 00:04:07,280
+SPK_1: Like, we use this most of the time.
+
+61
+00:04:07,520 --> 00:04:18,440
+SPK_1: And it comes from a very simple and on the surface good idea that there is a way for us to see world as it is.
+
+62
+00:04:18,820 --> 00:04:22,780
+SPK_1: To see the world the way the world is like.
+
+63
+00:04:23,020 --> 00:04:27,140
+SPK_1: And the way to do this is what we call...
+
+64
+00:04:27,160 --> 00:04:38,980
+SPK_1: So, through this certain principles, methods, practices, laws, we can arrive to this clear state.
+
+65
+00:04:39,600 --> 00:04:41,000
+SPK_1: Like, a really good state.
+
+66
+00:04:41,100 --> 00:04:44,240
+SPK_1: And from this clear good state make right decisions.
+
+67
+00:04:44,740 --> 00:04:44,940
+SPK_0: Yeah.
+
+68
+00:04:45,460 --> 00:04:46,320
+SPK_1: Very simple.
+
+69
+00:04:46,440 --> 00:04:47,960
+SPK_1: Like, why not?
+
+70
+00:04:48,260 --> 00:04:48,780
+SPK_1: Like, that's the thing.
+
+71
+00:04:48,800 --> 00:04:50,660
+SPK_1: Even by me pronouncing it, like, I'm kind of...
+
+72
+00:04:50,660 --> 00:04:52,920
+SPK_1: Yeah, like, what's wrong with it?
+
+73
+00:04:53,000 --> 00:04:54,800
+SPK_1: Like, there are a couple of wrong things.
+
+74
+00:04:54,880 --> 00:04:56,140
+SPK_1: But I really want maybe to...
+
+75
+00:04:56,140 --> 00:04:57,020
+SPK_1: First...
+
+76
+00:04:57,160 --> 00:05:00,240
+SPK_1: Just play with this self-evidence of this vibe.
+
+77
+00:05:00,460 --> 00:05:02,680
+SPK_1: Like, if you want to call it this way.
+
+78
+00:05:02,780 --> 00:05:04,400
+SPK_1: If I throw a ball to you right now.
+
+79
+00:05:04,600 --> 00:05:05,120
+SPK_1: Like...
+
+80
+00:05:05,860 --> 00:05:09,920
+SPK_0: So, the first thing I noticed is that you struggled, actually, earlier.
+
+81
+00:05:10,020 --> 00:05:11,020
+SPK_0: You said reason.
+
+82
+00:05:11,220 --> 00:05:12,100
+SPK_0: Good reasons.
+
+83
+00:05:12,380 --> 00:05:13,860
+SPK_0: And then you shifted to causes.
+
+84
+00:05:14,340 --> 00:05:16,660
+SPK_0: And already we find ourselves in the trick.
+
+85
+00:05:17,800 --> 00:05:19,880
+SPK_0: Because reason isn't the problem.
+
+86
+00:05:20,780 --> 00:05:21,300
+SPK_0: Yeah.
+
+87
+00:05:21,400 --> 00:05:23,280
+SPK_0: It is the usurpation of reason.
+
+88
+00:05:23,780 --> 00:05:27,000
+SPK_0: Reason usurping a position that reason neither should aspire.
+
+89
+00:05:27,160 --> 00:05:28,960
+SPK_0: Nor can properly fill.
+
+90
+00:05:29,240 --> 00:05:31,700
+SPK_0: And this again, I'll harken back.
+
+91
+00:05:31,840 --> 00:05:32,880
+SPK_0: I will assume that...
+
+92
+00:05:32,880 --> 00:05:33,120
+SPK_0: Perfect.
+
+93
+00:05:33,460 --> 00:05:34,780
+SPK_0: One can go back to episode one.
+
+94
+00:05:34,880 --> 00:05:36,500
+SPK_1: We can go back to any episode at any moment.
+
+95
+00:05:37,100 --> 00:05:39,120
+SPK_0: You can, in fact, clean your house.
+
+96
+00:05:39,480 --> 00:05:42,940
+SPK_0: It is, in fact, actually the case that you can observe reality.
+
+97
+00:05:43,300 --> 00:05:45,740
+SPK_0: And you can notice certain things that are conserved.
+
+98
+00:05:45,740 --> 00:05:47,140
+SPK_0: Certain things that aren't.
+
+99
+00:05:47,240 --> 00:05:48,880
+SPK_0: Certain things that lead to other things.
+
+100
+00:05:48,960 --> 00:05:52,200
+SPK_1: Let's say, if I pick up this cup and drop it, it will break.
+
+101
+00:05:52,380 --> 00:05:52,660
+SPK_0: Yes.
+
+102
+00:05:52,660 --> 00:05:53,800
+SPK_0: And you can say that.
+
+103
+00:05:53,800 --> 00:05:54,860
+SPK_0: And I can say, yes, you were right.
+
+104
+00:05:55,100 --> 00:05:55,500
+SPK_0: Right?
+
+105
+00:05:55,620 --> 00:05:57,140
+SPK_0: And then we can actually make a better choice.
+
+106
+00:05:57,160 --> 00:05:59,660
+SPK_0: If we desire to keep the cup in one piece.
+
+107
+00:05:59,880 --> 00:06:00,240
+SPK_0: Okay.
+
+108
+00:06:00,280 --> 00:06:02,060
+SPK_0: So this is all, in fact, it's funny.
+
+109
+00:06:02,160 --> 00:06:03,860
+SPK_0: Now I'm noticing the challenge you had a moment ago.
+
+110
+00:06:03,960 --> 00:06:05,180
+SPK_0: This is extremely banal.
+
+111
+00:06:05,400 --> 00:06:07,060
+SPK_0: What you're saying is massively banal.
+
+112
+00:06:07,160 --> 00:06:08,860
+SPK_0: And that's probably a really good pointer.
+
+113
+00:06:09,000 --> 00:06:14,320
+SPK_0: Because we know that we're dealing with something where we may actually feel like a pushback.
+
+114
+00:06:15,080 --> 00:06:17,340
+SPK_0: Not to want to get into the ordinary and the banal.
+
+115
+00:06:17,360 --> 00:06:17,900
+SPK_0: It's almost boring.
+
+116
+00:06:18,040 --> 00:06:18,960
+SPK_0: Why am I talking about it?
+
+117
+00:06:19,000 --> 00:06:19,140
+SPK_0: Okay.
+
+118
+00:06:19,500 --> 00:06:23,960
+SPK_0: Because there's something really profound that is just a little bit further down the road.
+
+119
+00:06:24,540 --> 00:06:24,900
+SPK_0: Ah.
+
+120
+00:06:25,120 --> 00:06:25,480
+SPK_0: Okay.
+
+121
+00:06:25,680 --> 00:06:25,860
+SPK_0: Yeah.
+
+122
+00:06:26,120 --> 00:06:26,480
+SPK_0: Oh.
+
+123
+00:06:27,160 --> 00:06:28,800
+SPK_0: I will point, I will jump to it.
+
+124
+00:06:28,860 --> 00:06:29,940
+SPK_0: I will jump to it.
+
+125
+00:06:30,040 --> 00:06:30,600
+SPK_1: That's a good point.
+
+126
+00:06:30,860 --> 00:06:32,460
+SPK_0: Because I use the word usurpation.
+
+127
+00:06:32,640 --> 00:06:32,840
+SPK_1: Yeah.
+
+128
+00:06:32,960 --> 00:06:35,980
+SPK_0: Well, that implies that there's, in fact, something that is being usurped.
+
+129
+00:06:36,140 --> 00:06:36,340
+SPK_1: Something.
+
+130
+00:06:36,520 --> 00:06:37,460
+SPK_1: What is it something?
+
+131
+00:06:38,640 --> 00:06:41,940
+SPK_0: And I'll throw, I'll throw something out and then we'll start to play with it, which is
+
+132
+00:06:41,940 --> 00:06:45,220
+SPK_0: something like, no, what I'll do is this.
+
+133
+00:06:45,360 --> 00:06:48,760
+SPK_0: I'll use something I've done in the past and to leg myself into it.
+
+134
+00:06:49,460 --> 00:06:53,520
+SPK_0: We've talked about the distinction that I've made between community and society.
+
+135
+00:06:54,360 --> 00:06:56,900
+SPK_0: And with this hidden thing behind community.
+
+136
+00:06:57,160 --> 00:06:57,640
+SPK_0: It's called communion.
+
+137
+00:06:58,780 --> 00:07:00,100
+SPK_0: That's what's being usurped.
+
+138
+00:07:00,920 --> 00:07:10,540
+SPK_0: So reason endeavors to A believe that it can and B to accomplish the impossible task of
+
+139
+00:07:10,540 --> 00:07:15,820
+SPK_0: achieving communion on the basis of the technique and the faculty of reason alone.
+
+140
+00:07:17,520 --> 00:07:18,540
+SPK_1: You said it perfectly.
+
+141
+00:07:18,680 --> 00:07:23,500
+SPK_1: I will try to maybe simplify it if anything or like, yeah, not even simplify, but to
+
+142
+00:07:23,500 --> 00:07:26,400
+SPK_1: use slightly different language and let's see whether it connects.
+
+143
+00:07:27,160 --> 00:07:32,880
+SPK_1: So, yeah, what the problem of reason is that it's basic assumption, unfortunately, about
+
+144
+00:07:32,880 --> 00:07:35,360
+SPK_1: itself is in fact false.
+
+145
+00:07:36,060 --> 00:07:44,460
+SPK_1: And you notice, I already said that reason claims it can achieve the world, the view of the
+
+146
+00:07:44,460 --> 00:07:46,000
+SPK_1: world as it is.
+
+147
+00:07:46,740 --> 00:07:52,200
+SPK_1: Well, the tricky part and the part of achievement more than reason tells itself, which
+
+148
+00:07:52,200 --> 00:07:57,080
+SPK_1: just becomes really erroneous is that in fact, there is no such thing as world as it is.
+
+149
+00:07:57,080 --> 00:07:59,540
+SPK_1: There is no such thing as world as a given.
+
+150
+00:07:59,740 --> 00:08:02,140
+SPK_1: It's always world given to whom.
+
+151
+00:08:02,940 --> 00:08:03,240
+SPK_0: Yeah.
+
+152
+00:08:03,760 --> 00:08:10,880
+SPK_1: So, but this very claim undermines the basic foundation of this rationale of this rationality
+
+153
+00:08:10,880 --> 00:08:11,460
+SPK_1: of their patient.
+
+154
+00:08:11,640 --> 00:08:13,020
+SPK_1: But that's what it has to do.
+
+155
+00:08:13,580 --> 00:08:20,520
+SPK_1: In order to achieve the perfect clause of causality and necessity, it has to naturally
+
+156
+00:08:21,200 --> 00:08:23,520
+SPK_1: separate two things from it.
+
+157
+00:08:23,700 --> 00:08:24,820
+SPK_1: Let's say world.
+
+158
+00:08:24,900 --> 00:08:26,440
+SPK_1: And some people have reason to it.
+
+159
+00:08:26,480 --> 00:08:27,060
+SPK_1: I'll say, I'm just not sure.
+
+160
+00:08:27,080 --> 00:08:27,940
+SPK_1: I'm not interested in it.
+
+161
+00:08:28,000 --> 00:08:28,380
+SPK_1: Well, sorry.
+
+162
+00:08:28,440 --> 00:08:29,560
+SPK_1: It's the most interesting questions.
+
+163
+00:08:29,740 --> 00:08:35,680
+SPK_1: One is question is actually of subject or like who is seeing the world, who is the world
+
+164
+00:08:35,680 --> 00:08:37,400
+SPK_1: is giving to, who is telling the story.
+
+165
+00:08:37,520 --> 00:08:43,560
+SPK_1: Because for human, it's not that important and glass can break if it's dropped from a
+
+166
+00:08:44,600 --> 00:08:45,080
+SPK_1: height.
+
+167
+00:08:45,200 --> 00:08:49,920
+SPK_1: It's important that my glass, that I can drop the glass that if somebody, so it's always
+
+168
+00:08:49,920 --> 00:08:53,840
+SPK_1: embodied experience of something which is important to us.
+
+169
+00:08:54,000 --> 00:08:54,180
+SPK_0: Yeah.
+
+170
+00:08:54,240 --> 00:08:56,980
+SPK_0: McGilchrist is actually very specifically articulated this.
+
+171
+00:08:56,980 --> 00:09:04,540
+SPK_0: As the obsession with how and a complete elision of why as we lose, we have the ability
+
+172
+00:09:04,540 --> 00:09:07,920
+SPK_0: to achieve an arbitrarily large number of purposes and we have no meaning.
+
+173
+00:09:08,280 --> 00:09:08,720
+SPK_1: Absolutely.
+
+174
+00:09:08,880 --> 00:09:13,960
+SPK_1: And I would even push forward because to me, it's not even why it is, why it is for
+
+175
+00:09:13,960 --> 00:09:14,200
+SPK_1: good.
+
+176
+00:09:14,200 --> 00:09:18,180
+SPK_1: So it's natural necessarily is forgotten and more than science and it's whole talk.
+
+177
+00:09:18,220 --> 00:09:22,160
+SPK_1: This is a famous talk about Howard of four classical reason, which has dropped to and
+
+178
+00:09:22,160 --> 00:09:26,160
+SPK_1: pretend it's fine, but it is sort of been told, I think what is more important than
+
+179
+00:09:26,160 --> 00:09:26,400
+SPK_1: a rare.
+
+180
+00:09:27,180 --> 00:09:29,160
+SPK_1: It's that it's who is forgotten.
+
+181
+00:09:29,620 --> 00:09:33,820
+SPK_1: And that's, but that's a necessary claim of reason because it's a selling point.
+
+182
+00:09:34,000 --> 00:09:36,600
+SPK_1: Like it's like, it's what it prides itself upon that.
+
+183
+00:09:36,700 --> 00:09:43,040
+SPK_1: It doesn't matter who the glass will always drop, will always regardless, regardless
+
+184
+00:09:44,140 --> 00:09:44,780
+SPK_1: of it.
+
+185
+00:09:45,460 --> 00:09:48,940
+SPK_1: Well, on the one hand, and here's comes the second point.
+
+186
+00:09:49,000 --> 00:09:51,760
+SPK_1: So the one thing you need to take is who out of the question.
+
+187
+00:09:51,940 --> 00:09:56,960
+SPK_1: The problem is that the reason itself later proved through Darwinism, Freudianism.
+
+188
+00:09:56,980 --> 00:10:00,000
+SPK_1: It is modern cognitive science, quantum mechanics.
+
+189
+00:10:00,580 --> 00:10:05,820
+SPK_1: Not really like you can't really take the who out of the picture.
+
+190
+00:10:06,000 --> 00:10:08,960
+SPK_1: And that's to me, like, again, that's not my strong suit.
+
+191
+00:10:09,020 --> 00:10:15,060
+SPK_1: Maybe you will play more like how it works like right now and how it's simultaneously
+
+192
+00:10:15,060 --> 00:10:15,640
+SPK_1: work.
+
+193
+00:10:15,760 --> 00:10:20,580
+SPK_1: But because again, I do understand that like the law of gravity is, but also it is on a
+
+194
+00:10:20,580 --> 00:10:24,860
+SPK_1: certain level and then there are different levels where it might not be, and it's not
+
+195
+00:10:24,860 --> 00:10:26,840
+SPK_1: just about again, impartial.
+
+196
+00:10:26,840 --> 00:10:28,880
+SPK_1: So there is always who in a picture.
+
+197
+00:10:29,060 --> 00:10:32,680
+SPK_1: And the second part is the second, which we necessarily need to drop.
+
+198
+00:10:32,800 --> 00:10:35,260
+SPK_1: If we do the reason part, we need to drop miracle.
+
+199
+00:10:35,960 --> 00:10:37,800
+SPK_1: We need to drop anything.
+
+200
+00:10:38,360 --> 00:10:40,780
+SPK_1: But what, what does it mean to drop miracle?
+
+201
+00:10:40,840 --> 00:10:43,120
+SPK_1: Like here a little bit of moment of theology.
+
+202
+00:10:43,340 --> 00:10:49,540
+SPK_1: You need to break, you need to drop away God's freedom that God can perform miracles.
+
+203
+00:10:49,760 --> 00:10:50,020
+SPK_1: Yeah.
+
+204
+00:10:50,120 --> 00:10:50,260
+SPK_0: Yeah.
+
+205
+00:10:50,600 --> 00:10:51,040
+SPK_0: Yeah.
+
+206
+00:10:51,040 --> 00:10:55,500
+SPK_0: We had this weird, uh, turn of phrase and we had to talk about the notion of laws of
+
+207
+00:10:55,500 --> 00:10:55,860
+SPK_0: nature.
+
+208
+00:10:56,840 --> 00:11:00,380
+SPK_0: We had to elide the notion of law giver, which is such an interesting move.
+
+209
+00:11:00,680 --> 00:11:03,900
+SPK_1: Not creator, but or law giver, law giver.
+
+210
+00:11:04,000 --> 00:11:04,120
+SPK_0: Yeah.
+
+211
+00:11:04,580 --> 00:11:06,900
+SPK_0: Law makes no sense without law giver.
+
+212
+00:11:06,980 --> 00:11:12,160
+SPK_0: The word law means nothing without law of whom again, and again, there is a subject
+
+213
+00:11:12,160 --> 00:11:15,000
+SPK_1: which is, we pretend to laws of nature.
+
+214
+00:11:15,680 --> 00:11:19,220
+SPK_1: Like the nature becomes necessary personified embodied.
+
+215
+00:11:19,480 --> 00:11:20,640
+SPK_1: Like it has to become it.
+
+216
+00:11:20,640 --> 00:11:21,280
+SPK_1: That's why it's.
+
+217
+00:11:21,280 --> 00:11:21,580
+SPK_1: Yeah.
+
+218
+00:11:22,380 --> 00:11:23,060
+SPK_0: Oh, nice.
+
+219
+00:11:23,180 --> 00:11:23,400
+SPK_0: Yeah.
+
+220
+00:11:23,500 --> 00:11:26,220
+SPK_0: And this then becomes a particular form of idol.
+
+221
+00:11:26,220 --> 00:11:26,320
+SPK_0: Absolutely.
+
+222
+00:11:26,320 --> 00:11:26,520
+SPK_0: Right.
+
+223
+00:11:27,040 --> 00:11:27,880
+SPK_0: So let's see.
+
+224
+00:11:27,940 --> 00:11:34,140
+SPK_0: So, so we can walk down the direction of sort of in the, how do we become captured by this?
+
+225
+00:11:34,220 --> 00:11:35,480
+SPK_0: And we can talk about that.
+
+226
+00:11:35,520 --> 00:11:39,000
+SPK_0: There's lots of different examples of how we do it and why we talked about, you mentioned
+
+227
+00:11:39,000 --> 00:11:41,940
+SPK_0: previously plague, religious wars.
+
+228
+00:11:42,560 --> 00:11:42,960
+SPK_0: Yeah.
+
+229
+00:11:43,080 --> 00:11:47,900
+SPK_1: But that's more like, you know, it's not like it's environment in which it's easier, like,
+
+230
+00:11:47,940 --> 00:11:49,080
+SPK_1: but you're absolutely right.
+
+231
+00:11:49,200 --> 00:11:54,180
+SPK_1: Going straight into predictability, like, because what reason promises us is predictability
+
+232
+00:11:54,180 --> 00:11:54,860
+SPK_1: of an outcome.
+
+233
+00:11:55,060 --> 00:11:55,460
+SPK_1: Right.
+
+234
+00:11:55,460 --> 00:12:01,220
+SPK_1: Which is like the limiting of uncertainty, like, and it makes sense again, like it can,
+
+235
+00:12:01,220 --> 00:12:05,760
+SPK_1: I can limit a lot of my uncertainty and the more I know, let's say I, the more, I guess
+
+236
+00:12:05,760 --> 00:12:08,780
+SPK_1: I can limit uncertainty except the most important uncertainty.
+
+237
+00:12:10,140 --> 00:12:14,600
+SPK_0: So I, so I want to, have you ever seen, it's funny, actually, if you've ever been to a
+
+238
+00:12:14,600 --> 00:12:22,360
+SPK_0: science museum where they have a tornado machine, not the one with tornado machine, unfortunately.
+
+239
+00:12:22,460 --> 00:12:22,860
+SPK_1: Okay.
+
+240
+00:12:22,860 --> 00:12:24,000
+SPK_0: Let me explain what it looks like.
+
+241
+00:12:24,000 --> 00:12:25,380
+SPK_0: Cause the seeing of it's very important.
+
+242
+00:12:25,520 --> 00:12:26,680
+SPK_0: You can do the same thing.
+
+243
+00:12:26,760 --> 00:12:31,340
+SPK_0: Have you ever been a kid in the bathtub watching the water go down and the vortex forms?
+
+244
+00:12:31,500 --> 00:12:31,640
+SPK_0: Yes.
+
+245
+00:12:31,660 --> 00:12:31,920
+SPK_0: Okay.
+
+246
+00:12:32,280 --> 00:12:37,080
+SPK_0: So the tornado machine is a fog chamber, little, little, just enough so you can see
+
+247
+00:12:37,080 --> 00:12:38,540
+SPK_0: fog and then a fan.
+
+248
+00:12:39,320 --> 00:12:43,400
+SPK_0: And if left relatively still, it forms a tornado and you can see the tornado.
+
+249
+00:12:43,620 --> 00:12:44,420
+SPK_0: Very nice.
+
+250
+00:12:44,560 --> 00:12:44,900
+SPK_0: Okay.
+
+251
+00:12:45,960 --> 00:12:47,080
+SPK_0: Now here's what you notice.
+
+252
+00:12:47,880 --> 00:12:52,160
+SPK_0: If you move your hand through the tornado, the tornado completely goes away.
+
+253
+00:12:52,240 --> 00:12:52,740
+SPK_0: Mm-hmm.
+
+254
+00:12:54,000 --> 00:12:58,860
+SPK_0: And then if it, if peace settles for a while, the, the, the tornado will reappear.
+
+255
+00:12:58,880 --> 00:13:00,460
+SPK_0: Again, child, it's the vortex.
+
+256
+00:13:00,700 --> 00:13:04,020
+SPK_0: If you put your hand over the drain, the vortex goes away, it reestablishes.
+
+257
+00:13:04,040 --> 00:13:04,340
+SPK_0: Okay.
+
+258
+00:13:05,160 --> 00:13:06,820
+SPK_0: I've, all of this is to give an image.
+
+259
+00:13:07,900 --> 00:13:12,120
+SPK_0: This is the experience, the way that I've been imagining the experience of my loss of
+
+260
+00:13:12,120 --> 00:13:12,460
+SPK_0: faith.
+
+261
+00:13:13,460 --> 00:13:17,640
+SPK_0: So for me, the experience of faith is that tornado, right?
+
+262
+00:13:17,680 --> 00:13:23,260
+SPK_0: There's something going on that has a body, a spirit and an invisible force that holds,
+
+263
+00:13:23,260 --> 00:13:27,140
+SPK_0: holds me together with God, peace, these faith.
+
+264
+00:13:27,540 --> 00:13:28,020
+SPK_0: Okay.
+
+265
+00:13:28,440 --> 00:13:33,880
+SPK_0: When I encounter something in life, a degree of suffering, that is more than I can endure.
+
+266
+00:13:34,540 --> 00:13:39,520
+SPK_0: Then I lose faith, meaning the hand has gone through the vortex and the vortex is disrupted.
+
+267
+00:13:40,240 --> 00:13:44,500
+SPK_0: And what I've noticed, and I don't think this is necessarily obligatory, but it certainly
+
+268
+00:13:44,500 --> 00:13:51,540
+SPK_0: happens to me is that reason tries to step in and tries to recapitulate faith using reason.
+
+269
+00:13:51,680 --> 00:13:51,920
+SPK_0: Okay.
+
+270
+00:13:51,920 --> 00:13:53,960
+SPK_0: In my case, this has recently become theology.
+
+271
+00:13:54,500 --> 00:13:58,460
+SPK_0: It begins to tell a story to try to explain this is a, what do they call it?
+
+272
+00:13:58,660 --> 00:13:59,120
+SPK_0: Theogeny?
+
+273
+00:13:59,240 --> 00:14:00,220
+SPK_1: The problem of you?
+
+274
+00:14:00,280 --> 00:14:00,700
+SPK_0: No.
+
+275
+00:14:00,780 --> 00:14:01,240
+SPK_0: Theogeny.
+
+276
+00:14:01,260 --> 00:14:01,960
+SPK_0: The problem of evil.
+
+277
+00:14:02,060 --> 00:14:02,840
+SPK_1: Ah, no.
+
+278
+00:14:03,400 --> 00:14:03,860
+SPK_1: Theodicy.
+
+279
+00:14:04,180 --> 00:14:04,640
+SPK_0: Theodicy.
+
+280
+00:14:04,820 --> 00:14:05,060
+SPK_0: Yeah.
+
+281
+00:14:05,080 --> 00:14:05,420
+SPK_0: Theodicy.
+
+282
+00:14:06,520 --> 00:14:07,440
+SPK_0: So theodicy.
+
+283
+00:14:07,560 --> 00:14:07,680
+SPK_0: Yeah.
+
+284
+00:14:07,700 --> 00:14:08,060
+SPK_0: Theodicy.
+
+285
+00:14:08,360 --> 00:14:11,720
+SPK_0: So reason encountering suffering.
+
+286
+00:14:13,160 --> 00:14:18,200
+SPK_0: Faith does not encounter suffering in this way, but when faith has been hit hard enough
+
+287
+00:14:18,200 --> 00:14:21,780
+SPK_0: by suffering that your particular quality of faith cannot stand.
+
+288
+00:14:21,780 --> 00:14:26,040
+SPK_0: It goes away in some important fashion, experientially, let's say.
+
+289
+00:14:26,520 --> 00:14:31,400
+SPK_0: Reason steps in and says, I am the one that can make things predictable.
+
+290
+00:14:31,520 --> 00:14:33,220
+SPK_0: I can control, I can create safety.
+
+291
+00:14:33,760 --> 00:14:34,280
+SPK_1: Right?
+
+292
+00:14:34,300 --> 00:14:35,120
+SPK_1: Safety is important.
+
+293
+00:14:35,400 --> 00:14:37,520
+SPK_0: And so I will reproduce this.
+
+294
+00:14:37,720 --> 00:14:39,500
+SPK_0: And so now imagine this object is so funny.
+
+295
+00:14:39,580 --> 00:14:43,940
+SPK_0: So think about the problem of why we invented temperature.
+
+296
+00:14:44,960 --> 00:14:49,420
+SPK_0: We invented temperature because there's a point where you cannot ever possibly measure
+
+297
+00:14:49,980 --> 00:14:51,760
+SPK_0: the momentum vector of every single object.
+
+298
+00:14:51,760 --> 00:14:53,540
+SPK_0: Every single particle in a volume of air.
+
+299
+00:14:54,260 --> 00:14:54,620
+SPK_1: Okay.
+
+300
+00:14:54,680 --> 00:14:55,000
+SPK_1: Okay.
+
+301
+00:14:55,220 --> 00:14:55,580
+SPK_1: No.
+
+302
+00:14:55,780 --> 00:14:56,540
+SPK_0: This is what happens.
+
+303
+00:14:56,620 --> 00:15:03,120
+SPK_0: So you say, okay, I'm going to imagine that molecules of air in a cube are like little
+
+304
+00:15:03,120 --> 00:15:03,980
+SPK_0: tiny billiard balls.
+
+305
+00:15:04,300 --> 00:15:04,660
+SPK_0: Okay.
+
+306
+00:15:04,740 --> 00:15:08,080
+SPK_0: And so I'm going to say, oh, I can see the position of each one and its momentum
+
+307
+00:15:08,080 --> 00:15:08,300
+SPK_0: vector.
+
+308
+00:15:08,460 --> 00:15:10,100
+SPK_0: So I can predict the future state.
+
+309
+00:15:10,280 --> 00:15:15,360
+SPK_0: Now, what we discover is this creates a combinatorial explosion that goes to infinity, by the way.
+
+310
+00:15:15,540 --> 00:15:20,540
+SPK_0: So I can't possibly deal with it, but I can step outside of it and I can notice if there's
+
+311
+00:15:20,540 --> 00:15:21,520
+SPK_0: a temperature and a pressure.
+
+312
+00:15:21,520 --> 00:15:22,740
+SPK_0: And so I can measure it.
+
+313
+00:15:22,800 --> 00:15:29,600
+SPK_0: The reason why I bring that up is reason trying to reconstitute these molecules of air and
+
+314
+00:15:29,600 --> 00:15:34,760
+SPK_0: recreate the vortex is trying to do something that's impossible.
+
+315
+00:15:35,280 --> 00:15:37,020
+SPK_0: It cannot possibly do it.
+
+316
+00:15:37,080 --> 00:15:40,560
+SPK_0: I use language that reason has produced to explain that reason can't do it.
+
+317
+00:15:40,840 --> 00:15:42,000
+SPK_1: Well, it's always tricky.
+
+318
+00:15:42,180 --> 00:15:44,000
+SPK_0: But this is the experience, right?
+
+319
+00:15:44,020 --> 00:15:48,040
+SPK_0: So this is what I wanted to bring is this is the, there's a thing that reason, and this
+
+320
+00:15:48,040 --> 00:15:49,620
+SPK_0: is why the usurpation is so tricky.
+
+321
+00:15:49,680 --> 00:15:50,180
+SPK_1: Is it truly?
+
+322
+00:15:50,180 --> 00:15:52,140
+SPK_0: Faith belongs in the throne.
+
+323
+00:15:53,300 --> 00:15:58,600
+SPK_0: Faith belongs in the throne because faith by its nature is also humility, as we've talked
+
+324
+00:15:58,600 --> 00:15:58,880
+SPK_0: about.
+
+325
+00:15:59,060 --> 00:15:59,760
+SPK_0: And these are the same.
+
+326
+00:15:59,780 --> 00:16:01,280
+SPK_0: These are very closely tied together.
+
+327
+00:16:03,820 --> 00:16:05,160
+SPK_0: Reason lacks humility.
+
+328
+00:16:05,880 --> 00:16:06,360
+SPK_0: Okay.
+
+329
+00:16:06,360 --> 00:16:06,840
+SPK_0: Okay.
+
+330
+00:16:06,860 --> 00:16:07,260
+SPK_0: Keep going.
+
+331
+00:16:07,460 --> 00:16:14,600
+SPK_1: No, just straight from this point, the reason lacks humility in a way that its own foundation
+
+332
+00:16:15,180 --> 00:16:19,720
+SPK_1: and it's shown in its very foundation because the foundation of reason is not reasonable.
+
+333
+00:16:21,160 --> 00:16:21,640
+SPK_0: True.
+
+334
+00:16:22,040 --> 00:16:24,040
+SPK_1: Yeah, I think that's maybe the most shining example.
+
+335
+00:16:24,060 --> 00:16:29,200
+SPK_1: What people mean, like the classic example, which I borrow from Peugeot, like the very
+
+336
+00:16:29,200 --> 00:16:35,420
+SPK_1: fact, the belief that you can know something for science is not a scientific belief.
+
+337
+00:16:35,720 --> 00:16:41,380
+SPK_1: The belief that what you observe is what you observe is not a scientific belief, right?
+
+338
+00:16:41,460 --> 00:16:47,140
+SPK_1: So there are pre-scientific, not a scientific, non-scientific, actually, maybe you will
+
+339
+00:16:47,140 --> 00:16:49,060
+SPK_1: find the most accurate way to say it.
+
+340
+00:16:49,060 --> 00:16:53,540
+SPK_1: But there are assumptions underlying severe ideas and you can know something through reason,
+
+341
+00:16:53,660 --> 00:16:55,460
+SPK_1: which are not in itself reason.
+
+342
+00:16:55,660 --> 00:16:55,960
+SPK_1: Right.
+
+343
+00:16:56,360 --> 00:16:58,760
+SPK_1: But reason pretends that they don't exist.
+
+344
+00:16:59,140 --> 00:17:02,560
+SPK_1: It rests upon them, but pretends that they're not there.
+
+345
+00:17:02,780 --> 00:17:08,320
+SPK_1: And that's, yeah, it is, you can say, the arrogance of reason, which ironically, the
+
+346
+00:17:08,320 --> 00:17:14,260
+SPK_1: other side of reasons and the other side of our Gnostic self actually keeps attacking
+
+347
+00:17:14,260 --> 00:17:16,560
+SPK_1: at this will, which will come into play later.
+
+348
+00:17:16,700 --> 00:17:17,000
+SPK_0: Very nice.
+
+349
+00:17:17,100 --> 00:17:17,320
+SPK_0: Yeah.
+
+350
+00:17:17,320 --> 00:17:17,460
+SPK_0: Yeah.
+
+351
+00:17:17,640 --> 00:17:22,860
+SPK_0: So I'll also put another character in the story, which is the manager or modern versions,
+
+352
+00:17:22,880 --> 00:17:23,800
+SPK_0: the technocrat.
+
+353
+00:17:25,740 --> 00:17:31,760
+SPK_0: And I want to do this because some people might then do the thing that happened during
+
+354
+00:17:31,760 --> 00:17:33,160
+SPK_0: the period of the romantics.
+
+355
+00:17:33,620 --> 00:17:39,100
+SPK_0: They might create this simulation of the alternative, which is just the mirror image of the same.
+
+356
+00:17:39,200 --> 00:17:41,860
+SPK_0: And so the romantic is the mirror image of the technocrat.
+
+357
+00:17:42,020 --> 00:17:44,400
+SPK_0: There's no real difference at the end of the day, fundamentally.
+
+358
+00:17:45,580 --> 00:17:46,980
+SPK_0: Because I don't want to say.
+
+359
+00:17:47,320 --> 00:17:47,680
+SPK_0: There's no reason.
+
+360
+00:17:48,400 --> 00:17:51,580
+SPK_0: What I want to say is no reason usurping the throne of faith.
+
+361
+00:17:52,460 --> 00:17:53,780
+SPK_0: Reason has a role to play.
+
+362
+00:17:54,120 --> 00:17:55,480
+SPK_0: This is master and the emissary.
+
+363
+00:17:55,540 --> 00:17:56,020
+SPK_0: It's very simple.
+
+364
+00:17:56,340 --> 00:17:57,340
+SPK_0: It is an emissary.
+
+365
+00:17:57,360 --> 00:17:58,040
+SPK_0: It's not a master.
+
+366
+00:17:58,140 --> 00:18:01,480
+SPK_0: It has a role to play, but it has this very interesting problem.
+
+367
+00:18:01,620 --> 00:18:03,200
+SPK_0: And part of it actually has to do with speed.
+
+368
+00:18:04,200 --> 00:18:09,120
+SPK_0: The reason is much faster, but it can jump in and it kind of can't help but jump in.
+
+369
+00:18:09,500 --> 00:18:16,360
+SPK_0: If you can't move, if you yourself cannot discipline reason well and allow wholeness to move with
+
+370
+00:18:16,360 --> 00:18:16,560
+SPK_0: it.
+
+371
+00:18:17,620 --> 00:18:23,220
+SPK_1: That's the best part, is your patient heresy taking part and representing it to be an alcoholic.
+
+372
+00:18:23,580 --> 00:18:25,120
+SPK_1: The title of the epitaph is salvation.
+
+373
+00:18:25,420 --> 00:18:26,780
+SPK_1: So far, I haven't brought up the salvation.
+
+374
+00:18:27,020 --> 00:18:29,780
+SPK_1: People say, okay, so all interesting, but what's about the salvation?
+
+375
+00:18:30,060 --> 00:18:31,500
+SPK_1: Well, it's pretty simple example.
+
+376
+00:18:31,740 --> 00:18:37,280
+SPK_1: You have the knowledge, okay, achieved through reason how to create a better world.
+
+377
+00:18:37,680 --> 00:18:38,840
+SPK_1: It is a salvation.
+
+378
+00:18:38,980 --> 00:18:40,500
+SPK_1: That's the salvation the reason offers.
+
+379
+00:18:40,740 --> 00:18:42,180
+SPK_1: It's a salvation from uncertainty.
+
+380
+00:18:42,540 --> 00:18:44,420
+SPK_1: It's a salvation from cold.
+
+381
+00:18:44,620 --> 00:18:46,680
+SPK_1: Salvation from leaking roof.
+
+382
+00:18:47,320 --> 00:18:47,600
+SPK_1: Salvation.
+
+383
+00:18:47,640 --> 00:18:49,980
+SPK_1: And the gap goes on and so forth.
+
+384
+00:18:50,080 --> 00:18:53,000
+SPK_1: Ultimately, salvation from lack of energy.
+
+385
+00:18:53,300 --> 00:18:57,580
+SPK_1: Like we, like phantasts can often dream, let's say, perpetual engine.
+
+386
+00:18:57,920 --> 00:19:02,360
+SPK_1: Great example of this idea of salvation through science.
+
+387
+00:19:03,300 --> 00:19:04,240
+SPK_1: And it is salvation.
+
+388
+00:19:04,340 --> 00:19:07,600
+SPK_1: You can say it's not the salvation of your soul, but at least reason tries to heavily
+
+389
+00:19:07,600 --> 00:19:11,100
+SPK_1: offer you salvation for your body, which is actually very interesting.
+
+390
+00:19:11,200 --> 00:19:12,040
+SPK_1: Haven't thought about it.
+
+391
+00:19:12,340 --> 00:19:14,680
+SPK_1: But yeah, that's, I think it's a very interesting part.
+
+392
+00:19:14,900 --> 00:19:17,300
+SPK_1: Because again, we're as a unity of body.
+
+393
+00:19:17,300 --> 00:19:19,640
+SPK_1: And soul, spirit.
+
+394
+00:19:20,000 --> 00:19:23,200
+SPK_1: But the reason kind of tries to offer you salvation for your part.
+
+395
+00:19:23,340 --> 00:19:25,380
+SPK_1: Maybe not for the whole, but at least for your part.
+
+396
+00:19:25,760 --> 00:19:26,920
+SPK_1: What's so bad about it?
+
+397
+00:19:27,700 --> 00:19:28,180
+SPK_0: Okay.
+
+398
+00:19:28,460 --> 00:19:33,840
+SPK_0: So the way my attention began to go into this question of, okay, why do we find ourselves
+
+399
+00:19:33,840 --> 00:19:34,720
+SPK_0: so troubled?
+
+400
+00:19:35,240 --> 00:19:36,680
+SPK_0: Why is this happening?
+
+401
+00:19:37,260 --> 00:19:40,420
+SPK_0: And I discovered this, there's two answers and they fit together.
+
+402
+00:19:40,660 --> 00:19:44,600
+SPK_0: One answer is something like, we're almost diagnosing.
+
+403
+00:19:45,640 --> 00:19:46,800
+SPK_0: Nobody can see it.
+
+404
+00:19:46,800 --> 00:19:51,140
+SPK_0: But in this place we're in, for reasons that I don't understand at all, there are Christmas,
+
+405
+00:19:51,340 --> 00:19:55,060
+SPK_0: those little balls, probably made of glass, strewn about in the darkness.
+
+406
+00:19:55,720 --> 00:19:56,940
+SPK_0: This is the world we are in.
+
+407
+00:19:57,480 --> 00:20:02,280
+SPK_0: So we're saying, hey, there are, there are pitfalls to the world that we are in.
+
+408
+00:20:02,520 --> 00:20:04,780
+SPK_0: One of the pitfalls is this thing that reason does.
+
+409
+00:20:05,240 --> 00:20:10,040
+SPK_0: You will find yourself usurping faith with reason, as I described it.
+
+410
+00:20:10,120 --> 00:20:11,040
+SPK_0: I'm aware of the problem.
+
+411
+00:20:11,100 --> 00:20:12,380
+SPK_0: I've run into it several times.
+
+412
+00:20:12,520 --> 00:20:12,920
+SPK_0: Okay.
+
+413
+00:20:13,320 --> 00:20:15,240
+SPK_0: And two, Satan.
+
+414
+00:20:16,180 --> 00:20:16,780
+SPK_0: They're infuriating.
+
+415
+00:20:16,780 --> 00:20:21,560
+SPK_0: In fact, our, our principalities that are leaning in this direction, and we're sort
+
+416
+00:20:21,560 --> 00:20:24,400
+SPK_0: of doing a, here's how they will work upon you.
+
+417
+00:20:24,440 --> 00:20:25,700
+SPK_0: So we have to be aware of both.
+
+418
+00:20:26,740 --> 00:20:30,220
+SPK_0: If you are not, it's funny because now we have to be very careful.
+
+419
+00:20:30,460 --> 00:20:34,640
+SPK_0: You will find yourself, whether you are aware or not, you will find yourself falling into
+
+420
+00:20:34,640 --> 00:20:35,500
+SPK_0: these sorts of things.
+
+421
+00:20:36,960 --> 00:20:41,980
+SPK_0: And you will probably therefore find yourself subjected to the working of adversarial spiritual
+
+422
+00:20:41,980 --> 00:20:43,500
+SPK_0: forces as a consequence.
+
+423
+00:20:43,720 --> 00:20:46,760
+SPK_0: So we, we can begin to see, okay, here's how these things come about.
+
+424
+00:20:46,760 --> 00:20:46,860
+SPK_0: Here's how these things come up.
+
+425
+00:20:47,020 --> 00:20:47,800
+SPK_0: A moment occurs.
+
+426
+00:20:48,300 --> 00:20:49,500
+SPK_0: Faith is shaken.
+
+427
+00:20:49,800 --> 00:20:54,900
+SPK_0: Probably every time I'm wondering at large scale and small scale communion is broken.
+
+428
+00:20:55,300 --> 00:20:56,420
+SPK_0: Something has happened.
+
+429
+00:20:56,580 --> 00:20:57,840
+SPK_0: A wedge has been opened.
+
+430
+00:20:58,160 --> 00:21:02,560
+SPK_0: It is a very common thing to then try to fill that hole with reason.
+
+431
+00:21:02,680 --> 00:21:04,180
+SPK_0: In this case, we'll talk about reason.
+
+432
+00:21:04,480 --> 00:21:05,920
+SPK_0: Later, we'll talk about other things.
+
+433
+00:21:06,480 --> 00:21:08,060
+SPK_0: And that begins a spiral.
+
+434
+00:21:08,180 --> 00:21:12,820
+SPK_0: It takes advantage of things and begins to pull us in.
+
+435
+00:21:12,880 --> 00:21:15,540
+SPK_1: And you brought very important element, which I didn't think about you.
+
+436
+00:21:15,600 --> 00:21:16,300
+SPK_1: It's very important.
+
+437
+00:21:16,760 --> 00:21:17,700
+SPK_1: It is a quality of speed.
+
+438
+00:21:17,880 --> 00:21:23,300
+SPK_1: It is important quality, which brought into play like the quality of speed, which, uh,
+
+439
+00:21:23,460 --> 00:21:24,680
+SPK_1: and predictability.
+
+440
+00:21:25,200 --> 00:21:30,300
+SPK_1: That's one very important part, which reason sells like, that's why the whole experiment
+
+441
+00:21:30,300 --> 00:21:32,740
+SPK_1: idea was the point of its predictability.
+
+442
+00:21:32,840 --> 00:21:34,640
+SPK_1: Like that's how I arrived to my conclusions.
+
+443
+00:21:34,800 --> 00:21:36,780
+SPK_1: I predict my predictions came true.
+
+444
+00:21:36,880 --> 00:21:37,860
+SPK_1: I repeated a hundred times.
+
+445
+00:21:38,060 --> 00:21:38,860
+SPK_1: It is true.
+
+446
+00:21:39,180 --> 00:21:39,620
+SPK_0: Yes.
+
+447
+00:21:40,180 --> 00:21:40,620
+SPK_0: Yes.
+
+448
+00:21:41,820 --> 00:21:46,220
+SPK_0: This, by the way, if you, if you are familiar with the notion of the fast talker, it means
+
+449
+00:21:46,220 --> 00:21:50,480
+SPK_0: kind of like somebody who's a liar or a flimflam man, he's a fast talker.
+
+450
+00:21:50,540 --> 00:21:51,320
+SPK_0: It's interesting.
+
+451
+00:21:51,440 --> 00:21:56,580
+SPK_0: This isn't just a real thing because when you speak at a certain rate, what's happening
+
+452
+00:21:56,580 --> 00:22:01,780
+SPK_0: is, is that you're overwhelming somebody's ability to fully understand and you're jamming
+
+453
+00:22:01,780 --> 00:22:02,880
+SPK_0: their system with something.
+
+454
+00:22:03,020 --> 00:22:10,180
+SPK_0: It's a style of confidence, man, a flimflam man, a silver tongued, there's lots of words
+
+455
+00:22:10,180 --> 00:22:14,120
+SPK_0: that we had to describe what happens here and how it works, but one of the things the
+
+456
+00:22:14,120 --> 00:22:15,080
+SPK_0: confidence man does.
+
+457
+00:22:15,080 --> 00:22:18,340
+SPK_0: The confidence man gives you real wins.
+
+458
+00:22:18,580 --> 00:22:25,840
+SPK_0: You win, you win, you win, you win, then he pulls and he has to bring you into a certain
+
+459
+00:22:25,840 --> 00:22:32,020
+SPK_0: quality of what I'll call simulated faith or motivated, somewhat sneaky trust.
+
+460
+00:22:32,200 --> 00:22:32,760
+SPK_1: Sneaky trust.
+
+461
+00:22:32,960 --> 00:22:34,580
+SPK_1: I like sneaky trust a lot.
+
+462
+00:22:34,700 --> 00:22:35,500
+SPK_1: That's fascinating.
+
+463
+00:22:35,800 --> 00:22:42,680
+SPK_1: It's fascinating about part about reason and that context, again, what it promises in its
+
+464
+00:22:42,680 --> 00:22:43,200
+SPK_1: beginning.
+
+465
+00:22:43,440 --> 00:22:44,940
+SPK_1: Even people of reason.
+
+466
+00:22:45,080 --> 00:22:47,940
+SPK_1: I know they can't achieve, like that's the tricky part.
+
+467
+00:22:48,180 --> 00:22:52,720
+SPK_1: And again, when I talk about reason and salvation, there are lots of historical examples when
+
+468
+00:22:52,720 --> 00:22:56,760
+SPK_1: it was not even meant metaphorically, literally, you know, famous case of French revolution
+
+469
+00:22:56,760 --> 00:23:01,080
+SPK_1: when they put the goddess of reason in the altar of Notre Dame, right?
+
+470
+00:23:01,480 --> 00:23:03,800
+SPK_1: So that comes almost another different problem.
+
+471
+00:23:03,920 --> 00:23:10,240
+SPK_1: Coming back to the first episode that we start treating its promise precisely in a scatological
+
+472
+00:23:11,160 --> 00:23:13,880
+SPK_1: language of creating kingdom of heaven.
+
+473
+00:23:13,880 --> 00:23:20,660
+SPK_1: It's not just we use reason to some betterment, it's not I'm just using my reason to clean
+
+474
+00:23:20,660 --> 00:23:26,660
+SPK_1: my house, which is good, just to be clear, but I'm using it precisely to achieve something
+
+475
+00:23:26,660 --> 00:23:32,240
+SPK_1: which is lies beyond even the realm of, as you said, it goes into faith, but also on
+
+476
+00:23:32,240 --> 00:23:37,320
+SPK_1: a practical level, it simply goes to the matters which it, again, in its beginning
+
+477
+00:23:37,320 --> 00:23:39,240
+SPK_1: prides itself to be free of.
+
+478
+00:23:39,480 --> 00:23:39,740
+SPK_1: Yes.
+
+479
+00:23:40,260 --> 00:23:41,500
+SPK_1: That's the trickiest part.
+
+480
+00:23:41,780 --> 00:23:43,860
+SPK_1: Like, it's one thing if we... because it's a matter of faith.
+
+481
+00:23:43,860 --> 00:23:48,980
+SPK_1: But the tricky part, as we discover later, actually confined reason, reason focused
+
+482
+00:23:48,980 --> 00:23:51,260
+SPK_1: on itself is not interesting to any party.
+
+483
+00:23:51,420 --> 00:23:52,540
+SPK_1: Nobody needs it.
+
+484
+00:23:52,700 --> 00:23:59,160
+SPK_1: And that's, that is, if anything, you know, like how in the last 50 years, there was a
+
+485
+00:23:59,820 --> 00:24:04,360
+SPK_1: big drop, at least, at least that's the story I've been told by several people, maybe you'd
+
+486
+00:24:04,360 --> 00:24:09,380
+SPK_1: disprove it, but actually, it became much harder to receive grants for fundamental studies,
+
+487
+00:24:09,540 --> 00:24:12,140
+SPK_1: for studies without practical application.
+
+488
+00:24:12,340 --> 00:24:12,840
+SPK_1: Uh-huh.
+
+489
+00:24:13,860 --> 00:24:18,060
+SPK_1: Which don't promise immediate, like, interest return or stuff like this.
+
+490
+00:24:18,120 --> 00:24:18,300
+SPK_1: Uh-huh.
+
+491
+00:24:18,300 --> 00:24:19,720
+SPK_1: It became much harder to do it.
+
+492
+00:24:19,880 --> 00:24:24,600
+SPK_1: And that kind of hints to this thing, like, our interest and reason, our interest is
+
+493
+00:24:24,600 --> 00:24:25,220
+SPK_1: with interest.
+
+494
+00:24:25,600 --> 00:24:26,000
+SPK_1: Right.
+
+495
+00:24:26,000 --> 00:24:32,520
+SPK_1: So, like, we are ready to, like, as long as you do this trick, we are tolerating you.
+
+496
+00:24:32,760 --> 00:24:33,020
+SPK_0: Yes.
+
+497
+00:24:33,420 --> 00:24:36,560
+SPK_0: Let's play, let's play, let's play some more, because you just said something quite interesting.
+
+498
+00:24:36,680 --> 00:24:37,400
+SPK_0: With interest.
+
+499
+00:24:38,260 --> 00:24:41,220
+SPK_0: So there's a, an arc of degeneracy.
+
+500
+00:24:41,620 --> 00:24:43,540
+SPK_0: It seems to always show up.
+
+501
+00:24:44,260 --> 00:24:51,780
+SPK_0: Uh, liberals, and I mean this in the classic sense, the three, I suppose, that are still
+
+502
+00:24:51,780 --> 00:25:00,900
+SPK_0: around, uh, react with a certain alarm at the degree to which academics can't get grants
+
+503
+00:25:00,900 --> 00:25:06,160
+SPK_0: unless what they're doing is obviously, even shamelessly, bullshit.
+
+504
+00:25:07,100 --> 00:25:07,580
+SPK_0: Okay.
+
+505
+00:25:07,580 --> 00:25:11,740
+SPK_0: Now, today, if you look at academic grants, the only way to get an academic grant is,
+
+506
+00:25:11,780 --> 00:25:13,840
+SPK_0: has to be obviously, shamelessly, bullshit.
+
+507
+00:25:13,860 --> 00:25:14,320
+SPK_0: Okay.
+
+508
+00:25:15,220 --> 00:25:19,960
+SPK_0: And so, liberals look at that with, and recoil with horror and want to return us to a golden
+
+509
+00:25:19,960 --> 00:25:24,100
+SPK_0: age when you couldn't get a grant unless it was utilitarian, yeah?
+
+510
+00:25:24,680 --> 00:25:29,060
+SPK_0: Which is to say, the second step, the new step was to say, hey, fundamental science
+
+511
+00:25:29,060 --> 00:25:32,260
+SPK_0: couldn't get grants unless, because it was replaced with technocracy.
+
+512
+00:25:32,800 --> 00:25:37,280
+SPK_0: And what I say is, and guess what, the, that's actually just a step on the slide to bullshit.
+
+513
+00:25:37,720 --> 00:25:41,480
+SPK_0: The same thing happens with interest in the financial sense.
+
+514
+00:25:41,860 --> 00:25:42,280
+SPK_0: Right?
+
+515
+00:25:42,400 --> 00:25:42,600
+SPK_0: Yeah.
+
+516
+00:25:43,940 --> 00:25:45,180
+SPK_0: What does usury mean?
+
+517
+00:25:45,640 --> 00:25:47,880
+SPK_0: Usury does not mean 20% interest.
+
+518
+00:25:48,320 --> 00:25:53,460
+SPK_0: Usury means any percent interest because it is in fact a very, very slippery slope.
+
+519
+00:25:53,840 --> 00:25:58,700
+SPK_0: You will find yourself degenerating into a world of pure bullshit in the financial
+
+520
+00:25:58,700 --> 00:26:00,340
+SPK_0: realm in just the same way.
+
+521
+00:26:00,580 --> 00:26:04,300
+SPK_0: You think that you can stop the slide right in the middle point and take advantage of
+
+522
+00:26:04,300 --> 00:26:04,560
+SPK_0: something.
+
+523
+00:26:04,640 --> 00:26:05,400
+SPK_0: And this is the point.
+
+524
+00:26:05,460 --> 00:26:07,560
+SPK_0: This is the, the, the temptation.
+
+525
+00:26:07,800 --> 00:26:08,100
+SPK_0: Yeah.
+
+526
+00:26:08,160 --> 00:26:08,500
+SPK_0: Right?
+
+527
+00:26:08,560 --> 00:26:13,060
+SPK_0: The devil loves to give you a temptation that says, hey, just take one bite from the apple.
+
+528
+00:26:14,480 --> 00:26:15,240
+SPK_0: Just take one.
+
+529
+00:26:15,720 --> 00:26:16,520
+SPK_0: It'll be delicious.
+
+530
+00:26:16,720 --> 00:26:19,660
+SPK_0: And by the way, you'll get some really cool superpowers that you aspire to.
+
+531
+00:26:20,120 --> 00:26:21,480
+SPK_0: Don't worry about what happens next.
+
+532
+00:26:22,620 --> 00:26:25,400
+SPK_0: So we'll, I think we're going to see this over and over and over again.
+
+533
+00:26:25,600 --> 00:26:25,960
+SPK_1: Yeah.
+
+534
+00:26:26,060 --> 00:26:29,220
+SPK_1: And just again, back to the reason that is effectively what has happened.
+
+535
+00:26:29,300 --> 00:26:35,760
+SPK_1: So, and it is almost segueing into the fourth point of the whole or the fifth, seventh point
+
+536
+00:26:35,760 --> 00:26:40,080
+SPK_1: of will, but I will bring it already here because the tragedy of classical liberal,
+
+537
+00:26:40,200 --> 00:26:40,920
+SPK_1: if you want to call it.
+
+538
+00:26:40,920 --> 00:26:42,700
+SPK_1: It was a tragedy of the reason for the reason.
+
+539
+00:26:43,060 --> 00:26:46,200
+SPK_1: The mistake is that it's thought it is a master.
+
+540
+00:26:46,440 --> 00:26:49,980
+SPK_1: Like it pretended to be a master while it was only tolerated.
+
+541
+00:26:50,340 --> 00:26:56,380
+SPK_1: You don't have a, the freedom, the reason promised and it itself doesn't have this freedom.
+
+542
+00:26:56,700 --> 00:27:00,080
+SPK_1: It's not the question whether you can be free from the spirit.
+
+543
+00:27:00,420 --> 00:27:04,480
+SPK_1: You can only be free from a particular spirit and slave to the other spirit.
+
+544
+00:27:04,880 --> 00:27:10,960
+SPK_1: And that's what it means in your story of like, why do I need to do it?
+
+545
+00:27:10,980 --> 00:27:11,120
+SPK_1: Well.
+
+546
+00:27:11,120 --> 00:27:11,980
+SPK_0: Very nice.
+
+547
+00:27:12,620 --> 00:27:13,360
+SPK_0: Very nice.
+
+548
+00:27:13,420 --> 00:27:17,420
+SPK_0: This is the, uh, the slave revolt, slave slaves.
+
+549
+00:27:18,240 --> 00:27:19,280
+SPK_0: Don't become free.
+
+550
+00:27:19,400 --> 00:27:20,760
+SPK_0: I'll tell you become free.
+
+551
+00:27:20,840 --> 00:27:22,640
+SPK_0: What I say is throw down your master.
+
+552
+00:27:23,420 --> 00:27:27,760
+SPK_0: What's actually happening is I'm really saying exchange your master for me as a temptations
+
+553
+00:27:27,760 --> 00:27:33,400
+SPK_1: of Christ in the desert, like three temptations, the first temptation, the temptation of effectively
+
+554
+00:27:33,400 --> 00:27:34,360
+SPK_1: power over matter.
+
+555
+00:27:35,080 --> 00:27:39,180
+SPK_1: And that's kind of, I think this line, which we've been hinting at, and I think we need
+
+556
+00:27:39,180 --> 00:27:39,960
+SPK_1: to start going already.
+
+557
+00:27:40,120 --> 00:27:40,680
+SPK_1: Like why?
+
+558
+00:27:40,680 --> 00:27:43,160
+SPK_1: Why is, what is the true appeal of the reason?
+
+559
+00:27:43,240 --> 00:27:46,780
+SPK_1: Because it's never for the reason sakes and the true appeal of the reason is power.
+
+560
+00:27:47,480 --> 00:27:50,980
+SPK_1: That's what really matters in the reason story.
+
+561
+00:27:51,300 --> 00:27:54,840
+SPK_1: Like for philosophers, it's one can even say an honest mistake.
+
+562
+00:27:55,100 --> 00:27:59,840
+SPK_1: I can see, let's say Aristotle's writing and Nicomachean ethics.
+
+563
+00:28:00,040 --> 00:28:02,880
+SPK_1: Like I take my reason, I use my reason.
+
+564
+00:28:02,940 --> 00:28:08,460
+SPK_1: I arrive to the objectively true conclusions.
+
+565
+00:28:08,940 --> 00:28:09,660
+SPK_1: Objectively true.
+
+566
+00:28:09,660 --> 00:28:11,480
+SPK_1: Even objectively true ethical conclusions.
+
+567
+00:28:11,600 --> 00:28:12,300
+SPK_1: I will give credit.
+
+568
+00:28:12,380 --> 00:28:12,640
+SPK_1: It's you.
+
+569
+00:28:13,320 --> 00:28:19,820
+SPK_1: What this guy is missing is like, it's all well and good, but as any sinner knows, and
+
+570
+00:28:19,820 --> 00:28:24,300
+SPK_1: as anyone who tried to persuade his child in anything, like it's actually very fun
+
+571
+00:28:24,300 --> 00:28:25,460
+SPK_1: to observe children in this way.
+
+572
+00:28:25,560 --> 00:28:27,400
+SPK_1: You can be right a hundred percent of the time.
+
+573
+00:28:27,520 --> 00:28:31,040
+SPK_1: Your conclusion can be right and good a hundred percent of the time.
+
+574
+00:28:31,320 --> 00:28:37,720
+SPK_1: It doesn't matter, like it doesn't matter when there is no love, trust, faith between
+
+575
+00:28:37,720 --> 00:28:38,540
+SPK_1: you and your child.
+
+576
+00:28:38,980 --> 00:28:39,640
+SPK_1: Well, it doesn't matter.
+
+577
+00:28:39,660 --> 00:28:42,780
+SPK_1: This right conclusion will just, yeah, it is right.
+
+578
+00:28:42,940 --> 00:28:43,260
+SPK_1: Cool.
+
+579
+00:28:43,660 --> 00:28:45,540
+SPK_1: But it's not the whole story.
+
+580
+00:28:45,860 --> 00:28:51,960
+SPK_1: And that's what reason left, but it kind of always been, I guess, not nice feeling
+
+581
+00:28:51,960 --> 00:28:53,540
+SPK_1: if you are in this realm.
+
+582
+00:28:53,720 --> 00:28:58,060
+SPK_1: And that's why you are making this reference to the first episode deal.
+
+583
+00:28:58,580 --> 00:29:02,960
+SPK_1: And this is a hidden deal between reason and power, which I really want us to jump, jump
+
+584
+00:29:02,960 --> 00:29:03,260
+SPK_1: already.
+
+585
+00:29:03,320 --> 00:29:06,280
+SPK_1: But let's play around this before we, before the act of jumping.
+
+586
+00:29:06,380 --> 00:29:08,300
+SPK_1: Do you see, do you see what I'm talking about?
+
+587
+00:29:08,300 --> 00:29:08,620
+SPK_0: Absolutely.
+
+588
+00:29:09,080 --> 00:29:15,900
+SPK_0: Um, yeah, what I, maybe what I want to just kind of bring, bring forward is this notion
+
+589
+00:29:15,900 --> 00:29:20,940
+SPK_0: of, of, um, apartness or separateness and wholeness.
+
+590
+00:29:20,960 --> 00:29:21,220
+SPK_1: Yes.
+
+591
+00:29:21,620 --> 00:29:25,700
+SPK_0: Um, and we see this in the contemporary language very easily, right?
+
+592
+00:29:25,740 --> 00:29:29,960
+SPK_0: The problem of, and the analytic, and I'm going to make a, uh, a distinction.
+
+593
+00:29:30,820 --> 00:29:36,740
+SPK_0: The opposite of the analytic is not the synthetic and the synthetic is in fact, the, the error
+
+594
+00:29:36,740 --> 00:29:37,340
+SPK_0: of reason.
+
+595
+00:29:37,340 --> 00:29:39,440
+SPK_0: It is an endeavoring to believe that it can actually do something.
+
+596
+00:29:39,500 --> 00:29:39,820
+SPK_0: It can't.
+
+597
+00:29:39,820 --> 00:29:40,280
+SPK_1: It's a chimera.
+
+598
+00:29:40,380 --> 00:29:41,360
+SPK_1: Synthetic is a chimera.
+
+599
+00:29:41,380 --> 00:29:41,740
+SPK_1: Chimera.
+
+600
+00:29:41,840 --> 00:29:42,040
+SPK_0: Yeah.
+
+601
+00:29:42,140 --> 00:29:47,920
+SPK_0: So something like wholeness or integral wholeness integrity, something that is in fact just
+
+602
+00:29:47,920 --> 00:29:49,940
+SPK_0: actually whole, right?
+
+603
+00:29:50,120 --> 00:29:52,720
+SPK_0: Pre prior to the analytic.
+
+604
+00:29:53,260 --> 00:29:55,960
+SPK_0: And again, now we start to see how things stack up.
+
+605
+00:29:56,280 --> 00:30:04,500
+SPK_0: There is something about a, a quality of being that is sitting in founded in wholeness that
+
+606
+00:30:04,500 --> 00:30:07,040
+SPK_0: has a, and I can't help it.
+
+607
+00:30:07,340 --> 00:30:09,180
+SPK_0: I have, again, me go, Chris kind of sitting up here.
+
+608
+00:30:11,560 --> 00:30:13,980
+SPK_1: So what, what does he say?
+
+609
+00:30:14,200 --> 00:30:18,740
+SPK_0: Um, well, he just, he just talks about the fact that you have a whole mind and your whole
+
+610
+00:30:18,740 --> 00:30:20,900
+SPK_0: mind is a whole brain, let's say for the moment.
+
+611
+00:30:21,180 --> 00:30:26,140
+SPK_0: And there's a right and there's a left and the left does the analytic piece for the most
+
+612
+00:30:26,140 --> 00:30:26,340
+SPK_0: part.
+
+613
+00:30:26,540 --> 00:30:29,600
+SPK_0: And the right does the wholeness piece for the most part.
+
+614
+00:30:30,120 --> 00:30:35,020
+SPK_0: And that the right is more in the position of let's say master or meaning.
+
+615
+00:30:35,640 --> 00:30:36,040
+SPK_0: Why?
+
+616
+00:30:36,040 --> 00:30:36,580
+SPK_0: Who?
+
+617
+00:30:37,540 --> 00:30:39,320
+SPK_0: All these questions come in this direction.
+
+618
+00:30:39,920 --> 00:30:44,960
+SPK_0: Um, and there's this reciprocal closure of becoming more and more, I mean, he's the word
+
+619
+00:30:44,960 --> 00:30:52,140
+SPK_0: specifically addicted to the methodologies and the ways of being and doing that are characterized
+
+620
+00:30:52,140 --> 00:30:52,940
+SPK_0: by the left.
+
+621
+00:30:53,060 --> 00:30:56,620
+SPK_0: And this has to do with this notion of the leverage of the objective.
+
+622
+00:30:56,860 --> 00:30:58,420
+SPK_0: So now we're going to take two terms.
+
+623
+00:30:58,480 --> 00:30:59,180
+SPK_0: We have speed.
+
+624
+00:30:59,420 --> 00:31:01,600
+SPK_0: We also have leverage or scope.
+
+625
+00:31:02,380 --> 00:31:06,020
+SPK_0: We can, by means of the left, by means of reason.
+
+626
+00:31:06,040 --> 00:31:06,880
+SPK_0: By means of the analytic.
+
+627
+00:31:07,200 --> 00:31:16,460
+SPK_0: We can build a world that is vaster than our whole mind can properly relate to any contemporary
+
+628
+00:31:16,460 --> 00:31:20,840
+SPK_0: human being cannot help but notice the reality of what I just said.
+
+629
+00:31:21,000 --> 00:31:22,240
+SPK_1: I will be famous.
+
+630
+00:31:22,740 --> 00:31:28,580
+SPK_1: My favorite example effectively is the way I treat this machine is like a pagan tribe
+
+631
+00:31:28,580 --> 00:31:31,020
+SPK_1: member would treat a penicillin or something.
+
+632
+00:31:31,080 --> 00:31:32,080
+SPK_1: It's some magical box.
+
+633
+00:31:32,160 --> 00:31:34,000
+SPK_1: I don't really know what is firing in it.
+
+634
+00:31:34,040 --> 00:31:35,720
+SPK_1: But somehow it produces.
+
+635
+00:31:35,780 --> 00:31:36,020
+SPK_1: Yeah.
+
+636
+00:31:37,220 --> 00:31:42,000
+SPK_1: Gigantic results in my experience with this is magical experience.
+
+637
+00:31:42,320 --> 00:31:44,360
+SPK_1: That's actually like very interesting.
+
+638
+00:31:44,460 --> 00:31:49,580
+SPK_1: Very few people on this planet actually understand what is happening inside of this book.
+
+639
+00:31:49,720 --> 00:31:50,840
+SPK_0: Very few people.
+
+640
+00:31:50,900 --> 00:31:51,100
+SPK_0: Yeah.
+
+641
+00:31:51,960 --> 00:31:58,440
+SPK_0: Um, and it becomes a fetish in the sense that as you begin to treat with its magic, you
+
+642
+00:31:58,440 --> 00:32:02,560
+SPK_0: begin to create a life that is dependent upon that magic.
+
+643
+00:32:02,660 --> 00:32:05,100
+SPK_0: And I think that movement is important for us to highlight.
+
+644
+00:32:05,200 --> 00:32:05,520
+SPK_0: Yeah.
+
+645
+00:32:06,020 --> 00:32:08,800
+SPK_0: There is this notion where there is an asymmetric utility.
+
+646
+00:32:09,200 --> 00:32:09,560
+SPK_0: Yes.
+
+647
+00:32:09,800 --> 00:32:13,160
+SPK_0: I, by means of reason, I can solve a problem.
+
+648
+00:32:13,560 --> 00:32:17,940
+SPK_0: Uh, we can go all the way back to agriculture by the way, maybe even further, but certainly
+
+649
+00:32:17,940 --> 00:32:24,060
+SPK_0: to agriculture, but we don't have an understanding of all the consequences of the actions that
+
+650
+00:32:24,060 --> 00:32:24,480
+SPK_0: we take.
+
+651
+00:32:24,880 --> 00:32:29,940
+SPK_0: We put ourselves in a world that we are not able to enter into whole relationship with.
+
+652
+00:32:30,220 --> 00:32:33,660
+SPK_0: We're not able to navigate the full reality that we are living.
+
+653
+00:32:33,720 --> 00:32:33,880
+SPK_0: Yeah.
+
+654
+00:32:33,880 --> 00:32:34,080
+SPK_0: Yeah.
+
+655
+00:32:36,020 --> 00:32:37,860
+SPK_1: And that is, is to take us out of the picture.
+
+656
+00:32:38,240 --> 00:32:38,680
+SPK_0: Yeah.
+
+657
+00:32:39,540 --> 00:32:42,420
+SPK_0: And necessity, as you say, both promise and necessity.
+
+658
+00:32:42,540 --> 00:32:43,640
+SPK_1: Promise and necessity.
+
+659
+00:32:44,020 --> 00:32:49,000
+SPK_1: What I mean, like there's two literature things, which famous comes into play.
+
+660
+00:32:49,080 --> 00:32:53,100
+SPK_1: So one is, uh, from Lord of the Rings, like when, when you've been talking about, remember
+
+661
+00:32:53,100 --> 00:32:58,880
+SPK_1: the dialogue between Gandalf and Saruman about white and rainbow and basically Saruman doing
+
+662
+00:32:58,880 --> 00:33:04,520
+SPK_1: the analytical thinking, claiming like, look what I can split the white color into all
+
+663
+00:33:04,520 --> 00:33:05,660
+SPK_1: of this different parts.
+
+664
+00:33:05,660 --> 00:33:07,560
+SPK_1: It'd be any color in any moment.
+
+665
+00:33:07,660 --> 00:33:12,480
+SPK_1: So like he's doing this very clear analytical job, the, which can Gandalf makes a very pointed
+
+666
+00:33:12,480 --> 00:33:14,940
+SPK_1: point observations that, okay, but it's not white anymore.
+
+667
+00:33:16,100 --> 00:33:18,520
+SPK_1: In act of doing it, you're breaking the wholeness.
+
+668
+00:33:18,540 --> 00:33:21,900
+SPK_0: So you can understand parts of wholeness and you can't put it back together and you
+
+669
+00:33:21,900 --> 00:33:26,140
+SPK_1: can put it back together, but you know, but there is no wholeness anymore.
+
+670
+00:33:26,280 --> 00:33:27,000
+SPK_1: So that's the thing.
+
+671
+00:33:27,500 --> 00:33:33,080
+SPK_1: And even in the charitable reading, if it's just the pure analytical, if it's pure mindwork,
+
+672
+00:33:33,680 --> 00:33:34,560
+SPK_1: distending parts.
+
+673
+00:33:34,560 --> 00:33:40,780
+SPK_1: Understanding some of parts does not equal understanding color wholeness, but that's
+
+674
+00:33:40,780 --> 00:33:41,200
+SPK_1: what we do.
+
+675
+00:33:41,260 --> 00:33:42,640
+SPK_1: Like, so that's what we're doing.
+
+676
+00:33:42,760 --> 00:33:43,100
+SPK_0: Yeah.
+
+677
+00:33:43,280 --> 00:33:46,920
+SPK_0: And I get, we're about to jump across the threshold here, but we can just put a pin
+
+678
+00:33:46,920 --> 00:33:51,360
+SPK_0: in it because it also creates this very interesting problem of what we mean by the word understanding.
+
+679
+00:33:51,600 --> 00:33:52,040
+SPK_0: Yeah.
+
+680
+00:33:52,100 --> 00:33:53,400
+SPK_1: Because it's not even about understanding.
+
+681
+00:33:53,600 --> 00:33:57,700
+SPK_1: I would say it's about control more to me than it is about understanding because understanding
+
+682
+00:33:57,700 --> 00:34:04,520
+SPK_1: precisely is like, think, think a smile of a child, beautiful piece of art, enjoying a
+
+683
+00:34:04,560 --> 00:34:08,340
+SPK_1: chair as a whole without dissecting it.
+
+684
+00:34:08,420 --> 00:34:08,620
+SPK_1: Okay.
+
+685
+00:34:08,640 --> 00:34:09,660
+SPK_1: So that's a hundred percent.
+
+686
+00:34:09,700 --> 00:34:10,160
+SPK_1: Who is this?
+
+687
+00:34:10,280 --> 00:34:11,240
+SPK_1: This is how it was.
+
+688
+00:34:11,360 --> 00:34:12,740
+SPK_0: Oh, neat.
+
+689
+00:34:12,940 --> 00:34:13,120
+SPK_0: Yeah.
+
+690
+00:34:13,200 --> 00:34:18,820
+SPK_0: What came to my mind was just then is that it removes you from a Trinitarian to a dualist.
+
+691
+00:34:19,920 --> 00:34:24,800
+SPK_0: Just hold, let, let that settle for a bit because Aristotle fell into that, right?
+
+692
+00:34:24,860 --> 00:34:26,660
+SPK_0: He created do a binary logic.
+
+693
+00:34:27,080 --> 00:34:32,560
+SPK_0: It moves you from a Trinitarian logos to a binary logic.
+
+694
+00:34:32,840 --> 00:34:33,580
+SPK_1: Mm-hmm.
+
+695
+00:34:34,320 --> 00:34:34,740
+SPK_0: Yeah.
+
+696
+00:34:35,040 --> 00:34:39,980
+SPK_0: I'm going to let that one settle for a little bit so that it's very, very significant because
+
+697
+00:34:39,980 --> 00:34:44,120
+SPK_0: it moves you from a notion, for example, of pure relationality, right?
+
+698
+00:34:44,160 --> 00:34:49,060
+SPK_0: With all the qualities and nuance thereof, which by the way, requires a certain posture
+
+699
+00:34:49,060 --> 00:34:49,560
+SPK_0: and disposition.
+
+700
+00:34:50,040 --> 00:34:54,500
+SPK_0: And we had talked about the, the quality of agency that is intrinsic to the patient.
+
+701
+00:34:55,200 --> 00:34:58,720
+SPK_0: It makes you able to be a patient and to be patient.
+
+702
+00:34:59,100 --> 00:35:01,640
+SPK_0: Now I'm seeing a teacher, a mother with a child.
+
+703
+00:35:01,780 --> 00:35:02,020
+SPK_0: Yeah.
+
+704
+00:35:03,580 --> 00:35:06,140
+SPK_0: And to be an agent with a child, very bad.
+
+705
+00:35:06,280 --> 00:35:10,800
+SPK_0: As you say, you can do all you, you're pushing, you're pushing, but you're not actually entering
+
+706
+00:35:10,800 --> 00:35:11,380
+SPK_0: into relationship.
+
+707
+00:35:11,820 --> 00:35:13,100
+SPK_0: You're not entering into communion.
+
+708
+00:35:15,060 --> 00:35:17,120
+SPK_1: And again, it can work from both sides.
+
+709
+00:35:17,160 --> 00:35:22,580
+SPK_1: And actually then the tricky games start playing immediately between the two, like cheating
+
+710
+00:35:22,580 --> 00:35:27,020
+SPK_1: games, like anybody who knows, like when there is a lack of communion, the cheating comes
+
+711
+00:35:27,020 --> 00:35:27,580
+SPK_1: into play.
+
+712
+00:35:27,780 --> 00:35:28,140
+SPK_1: Intrinsically.
+
+713
+00:35:28,260 --> 00:35:28,600
+SPK_0: Yeah.
+
+714
+00:35:28,600 --> 00:35:29,520
+SPK_0: And unavoidably.
+
+715
+00:35:29,540 --> 00:35:31,160
+SPK_0: And this goes your path to degeneration.
+
+716
+00:35:31,660 --> 00:35:32,100
+SPK_1: Yeah.
+
+717
+00:35:32,100 --> 00:35:36,800
+SPK_1: And then it becomes about how we cheat and again, we talk about it more, but actually,
+
+718
+00:35:36,920 --> 00:35:37,620
+SPK_1: yeah, I see.
+
+719
+00:35:37,700 --> 00:35:40,840
+SPK_1: I want to come back to this whole Trinitarian versus duality.
+
+720
+00:35:40,880 --> 00:35:41,180
+SPK_1: Yes.
+
+721
+00:35:41,260 --> 00:35:48,100
+SPK_1: So basically we become incapable of experiencing and embracing the paradox, which is actually
+
+722
+00:35:48,100 --> 00:35:51,340
+SPK_1: the underlying truth of our experience with the world.
+
+723
+00:35:51,640 --> 00:35:56,820
+SPK_1: Any truth, capital T truth, actually, the only way to express it is through paradox,
+
+724
+00:35:57,620 --> 00:35:58,880
+SPK_1: but not through reason.
+
+725
+00:35:59,520 --> 00:36:02,080
+SPK_1: You can say paradox is a part of it.
+
+726
+00:36:02,100 --> 00:36:04,480
+SPK_1: Part of reason, but not definitely in a Gnostic and modern sense.
+
+727
+00:36:04,780 --> 00:36:04,980
+SPK_1: Right.
+
+728
+00:36:05,060 --> 00:36:05,820
+SPK_0: Right, right, right.
+
+729
+00:36:06,240 --> 00:36:09,700
+SPK_0: The image that I was seeing earlier, when you were talking about the necessity and the
+
+730
+00:36:09,700 --> 00:36:15,520
+SPK_0: desire of reason to exit who in the picture, I literally was seeing a picture like a painting
+
+731
+00:36:15,520 --> 00:36:21,400
+SPK_0: and then the, the artist painting himself out of the picture and you can see that it's
+
+732
+00:36:21,400 --> 00:36:22,360
+SPK_0: kind of like the wrong color.
+
+733
+00:36:22,420 --> 00:36:26,440
+SPK_0: You can kind of the scene with the pic where he was painted out of the picture and then
+
+734
+00:36:26,880 --> 00:36:30,820
+SPK_0: painting himself back into the picture as something that was never really there.
+
+735
+00:36:30,940 --> 00:36:31,360
+SPK_0: Right.
+
+736
+00:36:32,100 --> 00:36:35,400
+SPK_0: And the thing that really stands is, is that reason does this weird move where he tries
+
+737
+00:36:35,400 --> 00:36:38,860
+SPK_0: to remove himself from the picture so as to achieve perfect objectivity.
+
+738
+00:36:39,140 --> 00:36:44,780
+SPK_0: And then by necessity has to re-inject himself back into the picture as a forced simulation
+
+739
+00:36:44,780 --> 00:36:46,260
+SPK_0: of an actual person.
+
+740
+00:36:46,420 --> 00:36:46,940
+SPK_1: Absolutely.
+
+741
+00:36:47,360 --> 00:36:52,040
+SPK_1: And it also creates a whole set of temptation in this process because this whole thing that
+
+742
+00:36:52,040 --> 00:36:57,740
+SPK_1: you're talking about artists, and I immediately think about icon, like, because what is interesting
+
+743
+00:36:57,740 --> 00:36:58,100
+SPK_1: part?
+
+744
+00:36:59,060 --> 00:36:59,580
+SPK_1: The.
+
+745
+00:37:00,740 --> 00:37:01,780
+SPK_1: Like traditionally.
+
+746
+00:37:01,780 --> 00:37:07,200
+SPK_1: And like, in fact, it's still, it's still like doctrinally, like an icon, you don't
+
+747
+00:37:07,200 --> 00:37:11,940
+SPK_1: sign the icon, but the author is there, like, and that's the trick.
+
+748
+00:37:12,000 --> 00:37:18,220
+SPK_1: So the reason is kind of doing exact to me opposite, it wants to keep its signature,
+
+749
+00:37:18,300 --> 00:37:22,300
+SPK_1: but remove, but, but pretend it's not there, which is absolutely false.
+
+750
+00:37:22,360 --> 00:37:24,240
+SPK_1: Remove your signature and be there.
+
+751
+00:37:25,040 --> 00:37:26,920
+SPK_1: You see how it's completely opposite?
+
+752
+00:37:28,200 --> 00:37:28,680
+SPK_0: Absolutely.
+
+753
+00:37:28,940 --> 00:37:29,280
+SPK_0: Yeah.
+
+754
+00:37:30,080 --> 00:37:30,560
+SPK_1: So.
+
+755
+00:37:30,560 --> 00:37:34,660
+SPK_1: So like, you actually want to be home and it is like, it's classical art examples of
+
+756
+00:37:34,660 --> 00:37:39,820
+SPK_1: famous, how modernity start is like the whole Peter of Michelangelo with his name being
+
+757
+00:37:39,820 --> 00:37:41,620
+SPK_1: chiseled over her, over her chest.
+
+758
+00:37:41,920 --> 00:37:47,880
+SPK_1: It's one of the best images of like houses, more than, so it's my art, which is like
+
+759
+00:37:47,880 --> 00:37:48,740
+SPK_1: objectively beautiful.
+
+760
+00:37:48,980 --> 00:37:53,540
+SPK_1: And we're talking about here art, not reason, but it's that case heavily related.
+
+761
+00:37:53,640 --> 00:37:54,720
+SPK_1: It's my discovery.
+
+762
+00:37:54,840 --> 00:37:55,980
+SPK_1: It's not just any discovery.
+
+763
+00:37:56,120 --> 00:37:56,920
+SPK_1: It's my discovery.
+
+764
+00:37:57,020 --> 00:37:58,620
+SPK_1: It's Newton's law.
+
+765
+00:37:58,720 --> 00:37:59,060
+SPK_1: Yeah.
+
+766
+00:37:59,120 --> 00:37:59,400
+SPK_1: Yeah.
+
+767
+00:38:00,560 --> 00:38:00,960
+SPK_1: It's a form's law.
+
+768
+00:38:01,120 --> 00:38:04,560
+SPK_0: Well, it's because it's because what you said, the world is broken, but the real problem
+
+769
+00:38:04,560 --> 00:38:06,300
+SPK_0: is the heart is broken, right?
+
+770
+00:38:06,340 --> 00:38:11,900
+SPK_0: The feeling of aloneness, the feeling of separateness and the fear of death, right?
+
+771
+00:38:11,960 --> 00:38:17,760
+SPK_0: All of these are endeavored to be resolved by virtue of something like the alchemical,
+
+772
+00:38:17,980 --> 00:38:18,580
+SPK_0: right?
+
+773
+00:38:18,660 --> 00:38:20,780
+SPK_0: The alchemical elixir of immortality.
+
+774
+00:38:21,000 --> 00:38:25,580
+SPK_0: We try to achieve immortality by virtue of attaching ourselves or writing our signature
+
+775
+00:38:25,580 --> 00:38:26,580
+SPK_0: on the law.
+
+776
+00:38:26,780 --> 00:38:28,880
+SPK_1: Reason actually doesn't know what is doing.
+
+777
+00:38:29,000 --> 00:38:30,540
+SPK_1: I will bring you a very recent example.
+
+778
+00:38:30,560 --> 00:38:33,380
+SPK_1: I just read a book about anxious generation.
+
+779
+00:38:33,720 --> 00:38:34,660
+SPK_1: So this one.
+
+780
+00:38:35,020 --> 00:38:37,760
+SPK_1: So reason did something.
+
+781
+00:38:37,860 --> 00:38:41,440
+SPK_1: So created the technology of social networks, let it out into the world.
+
+782
+00:38:42,920 --> 00:38:47,280
+SPK_1: But anybody who will accuse these people who did it, that they hadn't.
+
+783
+00:38:47,320 --> 00:38:53,020
+SPK_1: And in this site that created whole new set of problems for a whole generation, which
+
+784
+00:38:53,020 --> 00:38:57,800
+SPK_1: leads in some cases to biological changes, like maybe extinction, by the way, we don't
+
+785
+00:38:57,800 --> 00:38:57,980
+SPK_0: know.
+
+786
+00:38:58,500 --> 00:38:59,300
+SPK_0: We don't know.
+
+787
+00:39:00,560 --> 00:39:00,940
+SPK_1: We don't know the consequences.
+
+788
+00:39:01,840 --> 00:39:08,160
+SPK_1: If I were to stay on the side of a true reason, I would have called you responsible for all
+
+789
+00:39:08,160 --> 00:39:11,140
+SPK_1: of the set of consequences which followed through you.
+
+790
+00:39:11,260 --> 00:39:13,580
+SPK_1: But if I legitimately tried to do it, anybody would lie.
+
+791
+00:39:13,600 --> 00:39:13,940
+SPK_1: You're crazy.
+
+792
+00:39:14,000 --> 00:39:14,700
+SPK_1: I didn't know it.
+
+793
+00:39:14,700 --> 00:39:16,620
+SPK_1: I just, I don't know, created this.
+
+794
+00:39:18,100 --> 00:39:18,920
+SPK_1: You see how it is?
+
+795
+00:39:20,880 --> 00:39:22,480
+SPK_1: So like, so you don't know.
+
+796
+00:39:22,700 --> 00:39:27,100
+SPK_1: So you, you say, you know, but you don't, you actually don't know what you're doing.
+
+797
+00:39:27,440 --> 00:39:27,800
+SPK_0: Yes.
+
+798
+00:39:28,120 --> 00:39:29,780
+SPK_0: This is goes back to the confidence map.
+
+799
+00:39:30,560 --> 00:39:33,880
+SPK_1: You yourself admit that the realm of known is this and the realm of unknown is that,
+
+800
+00:39:33,940 --> 00:39:38,200
+SPK_1: but you, through the causality, you actually, anytime you're making change here, you are
+
+801
+00:39:38,200 --> 00:39:39,140
+SPK_1: making change here.
+
+802
+00:39:39,300 --> 00:39:41,700
+SPK_1: Are you taking responsibility for this change or not?
+
+803
+00:39:41,800 --> 00:39:43,060
+SPK_1: And the reason says no.
+
+804
+00:39:43,740 --> 00:39:46,660
+SPK_0: My friend John Verveke has taught me these distinctions.
+
+805
+00:39:47,400 --> 00:39:50,120
+SPK_0: I'll use salience and relevance.
+
+806
+00:39:50,780 --> 00:39:59,480
+SPK_0: And so we have the conundrum that we are, our attention is able to perceive salience
+
+807
+00:39:59,480 --> 00:40:00,340
+SPK_0: in a particular way.
+
+808
+00:40:00,560 --> 00:40:03,760
+SPK_0: But we're trying to always achieve its relevance.
+
+809
+00:40:04,240 --> 00:40:07,100
+SPK_0: So relevance is connectedness to lived wholeness.
+
+810
+00:40:08,020 --> 00:40:08,540
+SPK_1: Okay.
+
+811
+00:40:08,900 --> 00:40:12,520
+SPK_0: Relevance is a sort of the integrated reality that we're actually interacting with.
+
+812
+00:40:13,560 --> 00:40:19,040
+SPK_0: Salience is the things that we can notice that we're noticing and that orient our attention.
+
+813
+00:40:19,360 --> 00:40:23,860
+SPK_0: And so we have this, we have perception, we have attention, we have orientation, then
+
+814
+00:40:23,860 --> 00:40:24,420
+SPK_0: we have action.
+
+815
+00:40:24,500 --> 00:40:27,840
+SPK_0: And then we have the reality of the actual consequences of our actions.
+
+816
+00:40:28,060 --> 00:40:30,140
+SPK_0: And that is just the nature of the beast.
+
+817
+00:40:30,560 --> 00:40:31,740
+SPK_0: And this is how we were operating.
+
+818
+00:40:32,120 --> 00:40:36,740
+SPK_0: And what happens is then we get to this gap between the salience and the relevance.
+
+819
+00:40:37,340 --> 00:40:41,380
+SPK_0: Now as humans, we take advantage of this gap all the time, and we should be very aware
+
+820
+00:40:41,380 --> 00:40:41,680
+SPK_0: of that.
+
+821
+00:40:41,800 --> 00:40:48,780
+SPK_0: Part of the problem is in fact, humans are simultaneously intrinsically a group and intrinsically
+
+822
+00:40:48,780 --> 00:40:49,240
+SPK_0: individuals.
+
+823
+00:40:49,700 --> 00:40:53,540
+SPK_0: And there's a real dynamic of how we play with each other nicely in that space.
+
+824
+00:40:54,120 --> 00:40:55,680
+SPK_0: This is where the lie comes from.
+
+825
+00:40:55,940 --> 00:40:59,660
+SPK_0: A lie that is obviously a lie is utterly useless.
+
+826
+00:41:00,200 --> 00:41:05,700
+SPK_0: That a lie needs to be hyper salient and perfectly irrelevant, meaning it distracts
+
+827
+00:41:05,700 --> 00:41:09,820
+SPK_0: you from the thing that is the most meaningful and orients you to something that is absolutely
+
+828
+00:41:09,820 --> 00:41:12,960
+SPK_0: adverse to your interests and ultimately in the interest of your adversary.
+
+829
+00:41:13,400 --> 00:41:14,460
+SPK_0: And that is a good lie.
+
+830
+00:41:14,840 --> 00:41:17,600
+SPK_0: By the way, if you want to be a good liar, I just told you how, don't do that.
+
+831
+00:41:19,980 --> 00:41:21,460
+SPK_0: So we should be aware of that, right?
+
+832
+00:41:21,500 --> 00:41:23,000
+SPK_0: That's part of something in this world.
+
+833
+00:41:23,040 --> 00:41:28,120
+SPK_0: We've talked about it in terms of there's a cognitively, it is bullshit is a very easy
+
+834
+00:41:28,120 --> 00:41:29,040
+SPK_0: thing to fall into.
+
+835
+00:41:29,660 --> 00:41:33,080
+SPK_0: And it's a very powerful tool for those who wish to use it.
+
+836
+00:41:33,320 --> 00:41:35,560
+SPK_0: And this speaks again to the gap of reason.
+
+837
+00:41:36,340 --> 00:41:38,060
+SPK_1: It is exactly the same gap of reason.
+
+838
+00:41:38,220 --> 00:41:42,380
+SPK_1: And another way of this gap is like, and it is, it connects with another story.
+
+839
+00:41:42,460 --> 00:41:47,720
+SPK_1: The second story I wanted to bring is a Plato's story of this whole, I always keep forgetting
+
+840
+00:41:47,720 --> 00:41:51,800
+SPK_1: the name of the dialect, but there is a story when basically an Egyptian God of wisdom taught
+
+841
+00:41:51,800 --> 00:41:59,360
+SPK_1: is complaining about the invention of writing because, and his argument is interesting,
+
+842
+00:41:59,660 --> 00:42:02,460
+SPK_1: because now you don't remember the songs.
+
+843
+00:42:02,600 --> 00:42:08,000
+SPK_1: Now you're writing it down and it is inherent part of what any reason is doing.
+
+844
+00:42:08,200 --> 00:42:13,820
+SPK_1: Like any rational act, the way we are presented with it, like here is the tricky part.
+
+845
+00:42:13,960 --> 00:42:18,860
+SPK_1: In fact, there is a way to move forward in what you would call reason without losing
+
+846
+00:42:18,860 --> 00:42:21,860
+SPK_1: the capacity to remember songs.
+
+847
+00:42:23,000 --> 00:42:25,140
+SPK_1: But it doesn't come from reason.
+
+848
+00:42:25,400 --> 00:42:28,860
+SPK_0: So now we're simultaneously invoking Prometheus.
+
+849
+00:42:29,480 --> 00:42:29,640
+SPK_0: Yeah.
+
+850
+00:42:29,660 --> 00:42:29,760
+SPK_0: Yes.
+
+851
+00:42:29,840 --> 00:42:30,760
+SPK_0: And the garments of skin.
+
+852
+00:42:30,920 --> 00:42:31,400
+SPK_1: Yes.
+
+853
+00:42:31,820 --> 00:42:32,380
+SPK_1: Yeah.
+
+854
+00:42:32,900 --> 00:42:33,460
+SPK_0: Yeah.
+
+855
+00:42:35,460 --> 00:42:36,580
+SPK_0: Ah, okay.
+
+856
+00:42:37,040 --> 00:42:37,600
+SPK_0: Nice.
+
+857
+00:42:37,660 --> 00:42:38,760
+SPK_0: So this gets very rich.
+
+858
+00:42:38,980 --> 00:42:47,520
+SPK_0: So we can say that there's something like the journey of humanity and the problem of
+
+859
+00:42:47,520 --> 00:42:52,860
+SPK_0: our power is that we will always fall into this Gnostic heresy.
+
+860
+00:42:53,420 --> 00:42:54,980
+SPK_1: Well, we'll always be tempted.
+
+861
+00:42:55,700 --> 00:42:56,260
+SPK_0: Tempted.
+
+862
+00:42:56,260 --> 00:42:56,420
+SPK_0: Right.
+
+863
+00:42:56,420 --> 00:42:57,320
+SPK_1: To fall into her.
+
+864
+00:42:58,040 --> 00:42:59,420
+SPK_0: And so far.
+
+865
+00:42:59,420 --> 00:42:59,960
+SPK_0: Yeah.
+
+866
+00:43:00,100 --> 00:43:00,500
+SPK_0: We do.
+
+867
+00:43:01,860 --> 00:43:03,520
+SPK_1: But we are an optimist.
+
+868
+00:43:04,020 --> 00:43:04,480
+SPK_0: Right.
+
+869
+00:43:04,600 --> 00:43:05,240
+SPK_0: Well, there is the gospel.
+
+870
+00:43:05,300 --> 00:43:05,540
+SPK_0: Yes.
+
+871
+00:43:05,640 --> 00:43:06,220
+SPK_0: So we have.
+
+872
+00:43:06,260 --> 00:43:10,940
+SPK_0: And with the incarnation of Christ, we have been provisioned a real possibility.
+
+873
+00:43:11,680 --> 00:43:14,700
+SPK_0: A profound and often times lived way.
+
+874
+00:43:14,860 --> 00:43:15,220
+SPK_0: Yeah.
+
+875
+00:43:15,520 --> 00:43:18,400
+SPK_0: But we can say, okay, in the Greek, we have Prometheus.
+
+876
+00:43:18,920 --> 00:43:21,780
+SPK_0: In the Hebrew, we have the garments of skin.
+
+877
+00:43:23,140 --> 00:43:24,920
+SPK_0: Which is to say technology.
+
+878
+00:43:25,740 --> 00:43:29,400
+SPK_0: Now we're being very precise because the sister or the right hand of God.
+
+879
+00:43:29,400 --> 00:43:29,780
+SPK_0: Yes.
+
+880
+00:43:29,780 --> 00:43:29,980
+SPK_0: Is technology.
+
+881
+00:43:30,380 --> 00:43:30,600
+SPK_0: Yes.
+
+882
+00:43:30,600 --> 00:43:31,160
+SPK_0: I suppose.
+
+883
+00:43:31,440 --> 00:43:33,080
+SPK_1: Which is this part of the third topic.
+
+884
+00:43:33,860 --> 00:43:34,500
+SPK_0: We'll get there.
+
+885
+00:43:35,200 --> 00:43:39,700
+SPK_0: And there's an all of the stories we've been telling all of the pitfalls, all of the traps,
+
+886
+00:43:40,260 --> 00:43:46,180
+SPK_0: all of the reciprocal closures, all the characteristics of bullshit are contained in that problematic.
+
+887
+00:43:46,400 --> 00:43:47,280
+SPK_0: We cannot escape that.
+
+888
+00:43:47,320 --> 00:43:47,740
+SPK_0: By the way.
+
+889
+00:43:47,840 --> 00:43:48,720
+SPK_1: We cannot escape.
+
+890
+00:43:48,960 --> 00:43:49,720
+SPK_0: We cannot escape.
+
+891
+00:43:49,840 --> 00:43:50,480
+SPK_0: That is our nature.
+
+892
+00:43:50,520 --> 00:43:51,880
+SPK_0: That is what we are responsible for.
+
+893
+00:43:52,460 --> 00:43:54,220
+SPK_0: We are in fact stewards of the garden.
+
+894
+00:43:54,560 --> 00:43:55,700
+SPK_0: There's no other way around it.
+
+895
+00:43:55,740 --> 00:43:56,320
+SPK_0: We are not animals.
+
+896
+00:43:57,600 --> 00:43:58,760
+SPK_1: Or we're conscious.
+
+897
+00:43:58,760 --> 00:44:00,160
+SPK_1: To those who don't like it.
+
+898
+00:44:00,220 --> 00:44:01,020
+SPK_0: To those who don't like that language.
+
+899
+00:44:01,180 --> 00:44:01,760
+SPK_0: We are conscious.
+
+900
+00:44:01,980 --> 00:44:04,520
+SPK_0: And we have this really amazing capacity.
+
+901
+00:44:04,700 --> 00:44:05,120
+SPK_0: Let's put it that way.
+
+902
+00:44:05,180 --> 00:44:05,620
+SPK_0: It's valorized.
+
+903
+00:44:05,760 --> 00:44:09,820
+SPK_0: We have this really amazing capacity to actually identify principles.
+
+904
+00:44:10,620 --> 00:44:19,880
+SPK_0: We can take the flux of indifferent experience and we can abstract true things that give us profound power over reality.
+
+905
+00:44:19,880 --> 00:44:23,560
+SPK_1: And the challenge is to do it without destroying ourselves.
+
+906
+00:44:24,720 --> 00:44:27,180
+SPK_1: Which is in every mythos, it has this element.
+
+907
+00:44:27,320 --> 00:44:27,560
+SPK_1: Nice.
+
+908
+00:44:27,560 --> 00:44:31,540
+SPK_1: Because remember that the Pandora's box is a part of Promethean myth.
+
+909
+00:44:31,800 --> 00:44:34,840
+SPK_1: Like you let out the fire, but you also let out the box.
+
+910
+00:44:34,960 --> 00:44:36,540
+SPK_1: But the box is also open.
+
+911
+00:44:37,100 --> 00:44:39,540
+SPK_1: Like you're improving your capacities.
+
+912
+00:44:39,960 --> 00:44:40,920
+SPK_1: Let's say writing.
+
+913
+00:44:41,040 --> 00:44:43,580
+SPK_1: Writing is making a certain thing.
+
+914
+00:44:44,220 --> 00:44:45,620
+SPK_1: But you're losing your memory.
+
+915
+00:44:47,040 --> 00:44:48,540
+SPK_1: We will dive into it.
+
+916
+00:44:48,580 --> 00:44:49,820
+SPK_1: We will mention AI one day.
+
+917
+00:44:49,900 --> 00:44:52,360
+SPK_1: But just to point out, it's also the same story of AI.
+
+918
+00:44:52,580 --> 00:44:53,040
+SPK_1: It's the same.
+
+919
+00:44:53,060 --> 00:44:53,720
+SPK_1: Any story.
+
+920
+00:44:53,820 --> 00:44:54,040
+SPK_1: Yeah.
+
+921
+00:44:54,060 --> 00:44:54,780
+SPK_1: It comes into it.
+
+922
+00:44:54,780 --> 00:44:57,440
+SPK_0: Well, what I was just playing with made me laugh.
+
+923
+00:44:58,280 --> 00:45:01,720
+SPK_1: Sorry for interrupting, but just to finish, because I really want to tie it here.
+
+924
+00:45:01,820 --> 00:45:05,640
+SPK_1: And here in this part, again, the speed comes into play.
+
+925
+00:45:05,960 --> 00:45:14,940
+SPK_1: Because let's imagine how long it would take for us to keep learning to write while keeping the capacity to remember the Odyssey by heart.
+
+926
+00:45:15,120 --> 00:45:15,380
+SPK_1: Yeah.
+
+927
+00:45:15,840 --> 00:45:16,620
+SPK_1: Much longer.
+
+928
+00:45:16,780 --> 00:45:20,520
+SPK_1: Like, I don't know, my next generation before we reach some critical mess of it.
+
+929
+00:45:20,820 --> 00:45:21,800
+SPK_1: We don't want to wait.
+
+930
+00:45:22,080 --> 00:45:22,440
+SPK_0: All right.
+
+931
+00:45:22,440 --> 00:45:23,760
+SPK_0: So I'll put this here just to put it up.
+
+932
+00:45:23,760 --> 00:45:26,220
+SPK_0: So we have a name of this conversation.
+
+933
+00:45:26,540 --> 00:45:27,160
+SPK_0: Right.
+
+934
+00:45:27,220 --> 00:45:28,120
+SPK_0: Gnostic civilization.
+
+935
+00:45:28,700 --> 00:45:29,480
+SPK_0: All right.
+
+936
+00:45:29,520 --> 00:45:31,240
+SPK_0: I'm going to put the sequel.
+
+937
+00:45:31,420 --> 00:45:32,000
+SPK_0: Okay.
+
+938
+00:45:32,680 --> 00:45:35,180
+SPK_0: Gnostic civilization colon end game.
+
+939
+00:45:35,280 --> 00:45:36,120
+SPK_0: End game.
+
+940
+00:45:36,400 --> 00:45:37,020
+SPK_0: Because.
+
+941
+00:45:37,140 --> 00:45:37,820
+SPK_0: Makes perfect sense.
+
+942
+00:45:38,100 --> 00:45:45,860
+SPK_0: The curve that is implicit in the image that you're describing, Virilio actually called it, right?
+
+943
+00:45:45,880 --> 00:45:46,100
+SPK_0: Yes.
+
+944
+00:45:46,100 --> 00:45:46,480
+SPK_0: Speed.
+
+945
+00:45:47,260 --> 00:45:47,880
+SPK_1: Dromology.
+
+946
+00:45:47,980 --> 00:45:48,520
+SPK_1: Yes, absolutely.
+
+947
+00:45:48,580 --> 00:45:50,500
+SPK_0: We have Kurzweil's curve.
+
+948
+00:45:51,520 --> 00:45:52,460
+SPK_0: We have.
+
+949
+00:45:52,460 --> 00:45:54,060
+SPK_0: We are impelled.
+
+950
+00:45:55,620 --> 00:45:56,900
+SPK_0: Machiavelli points to this as well.
+
+951
+00:45:56,980 --> 00:45:59,000
+SPK_0: We are impelled by a certain kind of trap.
+
+952
+00:45:59,500 --> 00:46:04,700
+SPK_0: The logic of this thing is that it requires an increase in speed.
+
+953
+00:46:05,260 --> 00:46:10,460
+SPK_1: And just to make, I guess, a thought on this, because I think we can otherwise stay on this topic forever.
+
+954
+00:46:10,860 --> 00:46:14,360
+SPK_1: My only counterpunch would be to the whole impelsing.
+
+955
+00:46:14,600 --> 00:46:18,140
+SPK_1: We are impel as long as we believe that it is the reason of salvation.
+
+956
+00:46:18,500 --> 00:46:20,520
+SPK_1: As long as we are limited by reason.
+
+957
+00:46:21,280 --> 00:46:22,000
+SPK_1: Not limited.
+
+958
+00:46:22,000 --> 00:46:26,360
+SPK_1: As long as we treat reason as the sacred, we are impelled.
+
+959
+00:46:26,460 --> 00:46:28,520
+SPK_0: Well, I would go one level deeper.
+
+960
+00:46:28,640 --> 00:46:28,980
+SPK_0: Okay.
+
+961
+00:46:29,120 --> 00:46:32,460
+SPK_0: As long as we are not willing to get on the cross.
+
+962
+00:46:33,040 --> 00:46:33,340
+SPK_1: Yes.
+
+963
+00:46:33,400 --> 00:46:33,920
+SPK_1: Okay, fine.
+
+964
+00:46:34,000 --> 00:46:34,200
+SPK_1: Yes.
+
+965
+00:46:34,320 --> 00:46:35,100
+SPK_1: You say it's the same thing.
+
+966
+00:46:35,140 --> 00:46:35,300
+SPK_1: Yeah.
+
+967
+00:46:35,620 --> 00:46:38,400
+SPK_1: It's like giving away, you know, the answer to the puzzle.
+
+968
+00:46:38,660 --> 00:46:41,660
+SPK_0: Well, the point is that fear of death is one level deeper.
+
+969
+00:46:41,760 --> 00:46:42,140
+SPK_0: Okay.
+
+970
+00:46:42,160 --> 00:46:51,400
+SPK_0: As long as we are not willing to, not willing, able to receive the gift of no longer being afraid of death.
+
+971
+00:46:52,020 --> 00:46:54,780
+SPK_0: Then we will be driven by that same fear.
+
+972
+00:46:55,120 --> 00:46:57,240
+SPK_0: And this will put us on this path.
+
+973
+00:46:57,400 --> 00:46:58,740
+SPK_1: And this will put us on this curve.
+
+974
+00:46:59,280 --> 00:46:59,680
+SPK_1: Inevitably.
+
+975
+00:46:59,940 --> 00:47:00,340
+SPK_1: Necessarily.
+
+976
+00:47:00,440 --> 00:47:02,460
+SPK_1: That's again, necessarily puts us on this curve.
+
+977
+00:47:02,500 --> 00:47:02,640
+SPK_0: Yeah.
+
+978
+00:47:02,640 --> 00:47:11,440
+SPK_0: By the way, if somebody, anybody chooses to watch this and is paying attention, this is a categorical rebuke of the aspirations of liberalism.
+
+979
+00:47:12,100 --> 00:47:13,480
+SPK_1: Apart from many things also.
+
+980
+00:47:14,100 --> 00:47:14,320
+SPK_0: Yeah.
+

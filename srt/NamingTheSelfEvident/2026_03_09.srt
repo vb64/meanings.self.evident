@@ -1,0 +1,3716 @@
+1
+00:00:03,860 --> 00:00:08,320
+SPK_1: hello dear audience today it is a true special day for our
+
+2
+00:00:08,320 --> 00:00:14,940
+SPK_1: channel we have a most wonderful guest a man who needs no introduction the one who basically
+
+3
+00:00:15,430 --> 00:00:23,440
+SPK_1: revived and mass symbolic thinking in the west jonathan pedro thank you it's nice to meet you
+
+4
+00:00:23,440 --> 00:00:33,260
+SPK_1: and so today we have a quite a huge i would say broad list of topics we would want to talk about
+
+5
+00:00:34,120 --> 00:00:38,760
+SPK_1: they will talk about problems of identity political community international order
+
+6
+00:00:39,270 --> 00:00:44,120
+SPK_1: but where we want to start i think is one of the most basic elements of
+
+7
+00:00:45,060 --> 00:00:51,480
+SPK_1: what's happening what is playing out in front of our eyes and i've been entertained the thought
+
+8
+00:00:51,480 --> 00:00:59,680
+SPK_1: that all main let's say paradigms of thinking like liberalism communism at the nationalism
+
+9
+00:00:59,680 --> 00:01:03,720
+SPK_1: which seems to be self-evident which seems to be dominant in the modern
+
+10
+00:01:03,860 --> 00:01:09,780
+SPK_1: political discourse are in fact just the brothers uh fighting over that killed their
+
+11
+00:01:09,780 --> 00:01:14,520
+SPK_1: own father of enlightenment and now they're just effectively trying over its inheritance and over
+
+12
+00:01:14,520 --> 00:01:23,040
+SPK_1: its uh dead body um since you made a lot of videos about this topic i would maybe like you to
+
+13
+00:01:23,040 --> 00:01:27,960
+SPK_1: elaborate on like to say whether it's an overstretch or maybe it's not a deep enough
+
+14
+00:01:27,960 --> 00:01:33,640
+SPK_0: understanding of the process yeah well it depends on what angle you want to look at and so
+
+15
+00:01:34,800 --> 00:01:41,860
+SPK_0: one of the aspects so the enlightenment obviously is a very broad it's a very broad event uh but one
+
+16
+00:01:41,860 --> 00:01:47,200
+SPK_0: of the aspects of the enlightenment is related to let's say rationalism or to the creation of this
+
+17
+00:01:47,200 --> 00:01:52,920
+SPK_0: of scientific processes or in some ways the fine-tuning of those processes and also making
+
+18
+00:01:52,920 --> 00:02:00,360
+SPK_0: that type of thinking the analytical type of thinking uh you could say making it the mode
+
+19
+00:02:00,360 --> 00:02:03,840
+SPK_0: of being that is preferred maybe that's a good way of saying it
+
+20
+00:02:03,860 --> 00:02:11,080
+SPK_0: and you know that leads downstream to many things that you know when we look at them we find very
+
+21
+00:02:11,080 --> 00:02:18,860
+SPK_0: positive like it increases obviously the capacity to quantify you know to name and to predict
+
+22
+00:02:18,860 --> 00:02:26,720
+SPK_0: phenomena and therefore it leads to the type of scientific progress that we have seen but if you
+
+23
+00:02:26,720 --> 00:02:32,220
+SPK_0: take that as a mode of thinking that's a way of you have to understand that you can't avoid the
+
+24
+00:02:32,220 --> 00:02:33,560
+SPK_0: corollaries of that
+
+25
+00:02:33,860 --> 00:02:38,560
+SPK_0: type of thinking so if you have an analytic mode of thinking where you try to create
+
+26
+00:02:39,160 --> 00:02:45,740
+SPK_0: strong identities that you then analyze and predict you know you create these uh you know
+
+27
+00:02:45,740 --> 00:02:50,820
+SPK_0: so it does things like for example the creation of encyclopedias right the creation of dictionaries
+
+28
+00:02:50,820 --> 00:02:57,240
+SPK_0: all of this type of of attitude where we want to fix the phenomena define it create a very strong
+
+29
+00:02:57,240 --> 00:03:02,180
+SPK_0: boundary around it so we can analyze it predict it and all that well that has corollaries which are
+
+30
+00:03:02,180 --> 00:03:03,840
+SPK_0: the the problem for
+
+31
+00:03:03,840 --> 00:03:10,580
+SPK_0: example of nation states so nation states are born out of that thinking and ethnic divisions
+
+32
+00:03:10,580 --> 00:03:14,560
+SPK_0: the way that we think of them in the modern age are also born out of that division because
+
+33
+00:03:14,560 --> 00:03:20,080
+SPK_0: just like we want to identify species of animals in order to analyze them and look at their
+
+34
+00:03:20,080 --> 00:03:25,240
+SPK_0: behaviors we do the same with humans and we do the same with nations so instead of having you know
+
+35
+00:03:25,240 --> 00:03:33,080
+SPK_0: broad empires with fuzzy borders and you know and kind of no man's land and ambiguous spaces we want
+
+36
+00:03:33,080 --> 00:03:39,180
+SPK_0: to have nations with clear imaginal lines you know and we create maps and we have maps that are you
+
+37
+00:03:39,180 --> 00:03:46,800
+SPK_0: know the ancient maps were basically just uh cosmic descriptions of relations of of of large
+
+38
+00:03:47,260 --> 00:03:51,840
+SPK_0: you know uh like identities and so if you look at the t map for example in the middle ages
+
+39
+00:03:51,840 --> 00:03:58,160
+SPK_0: you know it's like it's basically just europe africa asia in in like a flower pattern and it
+
+40
+00:03:58,160 --> 00:04:05,340
+SPK_0: has nothing to do it has very little to do with the type of analytic thinking that we apply to
+
+41
+00:04:05,340 --> 00:04:09,640
+SPK_0: the world now so and and like you said what how it happens is that has corollaries which is
+
+42
+00:04:10,440 --> 00:04:14,560
+SPK_0: all the things that all the modern political movements are in some ways downstream
+
+43
+00:04:14,560 --> 00:04:21,200
+SPK_0: from that whether it is the libertarian who wants to be completely autonomous and free
+
+44
+00:04:21,640 --> 00:04:27,880
+SPK_0: from all relationship to to to other beings or whether it is the ethno-nationalist
+
+45
+00:04:28,160 --> 00:04:33,900
+SPK_0: that wants to segregate himself and create this really tight clear identity border around their
+
+46
+00:04:33,900 --> 00:04:40,300
+SPK_0: identity you know whether it is the the communist that in some ways is actually strangely akin to
+
+47
+00:04:40,300 --> 00:04:46,540
+SPK_0: the libertarian though with a different strategy yeah uh but so you can see the downstream from
+
+48
+00:04:46,540 --> 00:04:50,780
+SPK_0: this type of thinking you have all kinds of problems or political solutions that although
+
+49
+00:04:50,780 --> 00:04:55,840
+SPK_0: they fight amongst themselves like you mentioned at the introduction they are in some ways they're
+
+50
+00:04:55,840 --> 00:04:57,840
+SPK_0: not in some ways they are just fruits of
+
+51
+00:04:58,160 --> 00:05:06,840
+SPK_1: of the same origin well you brought so many points which uh i would like to elaborate i guess i will
+
+52
+00:05:06,840 --> 00:05:11,540
+SPK_1: start with a quick point i really like your idea of borders because i think it's one of the most
+
+53
+00:05:11,540 --> 00:05:19,360
+SPK_1: fascinating uh element of modern reality when people treat borders as something both sacred
+
+54
+00:05:19,790 --> 00:05:26,000
+SPK_1: fixed and natural whereas historically there have been never any of these three things effectively
+
+55
+00:05:29,200 --> 00:05:35,200
+SPK_1: constantly moving they might not be completely flexible but there it's always a movable line like
+
+56
+00:05:35,200 --> 00:05:39,680
+SPK_1: there is i think maybe one of few borders in a world which like lasted for hundreds of years
+
+57
+00:05:39,680 --> 00:05:44,960
+SPK_1: and it's something like between border between a small duke of andorra and the rest of spain like
+
+58
+00:05:44,960 --> 00:05:50,380
+SPK_1: in like peninsula but generally speaking borders are always something which is moved and i think
+
+59
+00:05:50,380 --> 00:05:57,120
+SPK_1: that's kind of the core weakness of rationalist thinking which you i think we can address it now
+
+60
+00:05:58,160 --> 00:06:05,220
+SPK_1: tries to freeze time all of these kind of um process all of these ideologies they try to
+
+61
+00:06:05,220 --> 00:06:10,360
+SPK_1: freeze time so let's say we find the perfect mapping of something of a moment being at the
+
+62
+00:06:10,360 --> 00:06:15,500
+SPK_1: end of history of Fukuyama or like liberal end of history communist and then let's freeze it
+
+63
+00:06:15,500 --> 00:06:20,480
+SPK_1: it won't go any further it nothing will ever happen so let's freeze these borders and when
+
+64
+00:06:20,480 --> 00:06:27,940
+SPK_1: you ask the most simple question why these borders so why no movement then it falls apart like it's
+
+65
+00:06:27,940 --> 00:06:32,080
+SPK_0: just falls apart yeah because if you ask the question let's say in terms of nationalism
+
+66
+00:06:32,080 --> 00:06:35,940
+SPK_0: let's say the nationalisms that developed uh very strongly at the beginning of the
+
+67
+00:06:35,940 --> 00:06:43,500
+SPK_0: late 19th early 20th century you ask yourself oh okay so does that mean that now this is it
+
+68
+00:06:43,500 --> 00:06:48,580
+SPK_0: forever like you said like we're just going to keep these lines forever uh and you can see it
+
+69
+00:06:48,580 --> 00:06:57,040
+SPK_0: like in some ways there is a sense in which if you want to understand like if you want to
+
+70
+00:06:57,040 --> 00:06:57,480
+SPK_0: understand
+
+71
+00:06:57,940 --> 00:07:02,920
+SPK_0: let's say where the political movement is you can see you have to just have to look at where
+
+72
+00:07:02,920 --> 00:07:08,460
+SPK_0: the borders are absolute and unquestionable and where the borders are all of a sudden
+
+73
+00:07:08,460 --> 00:07:14,460
+SPK_0: treated as completely arbitrary and ridiculous and and as if not all the borders are actually
+
+74
+00:07:14,460 --> 00:07:19,500
+SPK_0: have the same the same characteristic but when you you look at political movements you can notice
+
+75
+00:07:19,500 --> 00:07:23,880
+SPK_0: that when all of a sudden they start to treat certain borders as arbitrary and ridiculous
+
+76
+00:07:23,880 --> 00:07:27,660
+SPK_0: you think oh okay now I see where the wind is shifting I can kind of see
+
+77
+00:07:27,940 --> 00:07:34,340
+SPK_0: but like you said what's interesting about that is in some ways the postmodern reaction to the modern
+
+78
+00:07:34,340 --> 00:07:42,020
+SPK_0: to the modern thinking is in some ways a a realization that identities have fuzziness
+
+79
+00:07:42,020 --> 00:07:47,380
+SPK_0: right that identities have hybridity that identities produce these intermediary states that
+
+80
+00:07:47,380 --> 00:07:52,700
+SPK_0: the modern rationalist wants to eliminate but you can't completely eliminate and so they
+
+81
+00:07:52,700 --> 00:07:57,620
+SPK_0: they you could say that if you try to eliminate the fuzziness then it
+
+82
+00:07:57,940 --> 00:08:04,520
+SPK_0: at some point it it has revenge on you because you you build it up in the in the borders then at
+
+83
+00:08:04,520 --> 00:08:10,480
+SPK_0: some point it overwhelms the identity you can't you can't avoid it forever I absolutely agree this
+
+84
+00:08:10,480 --> 00:08:16,020
+SPK_1: revenge of the fuzziness it's a great phrase I will I might borrow because that is a paradox
+
+85
+00:08:16,020 --> 00:08:23,300
+SPK_1: like those people who like I find it quite often mostly right now in this I don't know how to call
+
+86
+00:08:23,300 --> 00:08:27,580
+SPK_1: this movement let's say anti-gnostic anti-Marxist movement in the West which
+
+87
+00:08:27,940 --> 00:08:33,500
+SPK_1: is doing like quite a lot of good of educational work and it's remarkable but they keep missing
+
+88
+00:08:33,500 --> 00:08:39,360
+SPK_1: this core element like at least most of them that what they are fighting against it's the
+
+89
+00:08:40,280 --> 00:08:46,140
+SPK_1: consequences of the actions of their heroes it's like you brought it upon yourself and that's a
+
+90
+00:08:46,140 --> 00:08:50,680
+SPK_1: very that's why I started the conversation from enlightenment because as you said so once you
+
+91
+00:08:51,340 --> 00:08:57,660
+SPK_1: see a political community as something quantifiable named predictable rationalized
+
+92
+00:08:57,940 --> 00:09:02,680
+SPK_1: you will end up in those areas like then you will have this revenge of a fuzziness and then just
+
+93
+00:09:03,380 --> 00:09:08,760
+SPK_1: those who do it better than you will start eating you but it's still in fighting as long as you
+
+94
+00:09:08,760 --> 00:09:14,000
+SPK_1: don't address this foundational stones that political communities are nicer quantifiable
+
+95
+00:09:14,000 --> 00:09:21,520
+SPK_1: and predictable they are quite different in their nature yeah and and I don't it's very difficult to
+
+96
+00:09:21,520 --> 00:09:27,020
+SPK_0: see how we're going to solve the problem because it's like once you start to crystallize things
+
+97
+00:09:27,020 --> 00:09:27,620
+SPK_0: right right
+
+98
+00:09:27,940 --> 00:09:32,100
+SPK_0: you start to make these these marginal lines and you start to create because imagine line has no
+
+99
+00:09:32,100 --> 00:09:38,040
+SPK_0: space between it so if you want to like let's say I mean I'm talking about Nations but it you can use
+
+100
+00:09:38,040 --> 00:09:43,760
+SPK_0: this for any type of category right imagine line has no fuzziness and therefore who's going to give
+
+101
+00:09:43,760 --> 00:09:49,780
+SPK_0: like how are you going to recreate that fuzziness when it's the magical line is there it means that
+
+102
+00:09:49,780 --> 00:09:56,200
+SPK_0: that you're looking at war all that you're looking at for at least the potential idea of war all the
+
+103
+00:09:56,200 --> 00:09:57,920
+SPK_0: time because you've got these lines you're looking at war all the time because you've got these lines
+
+104
+00:09:57,940 --> 00:10:03,820
+SPK_0: that are you don't have the kind of hybrid a hybrid buffer between the empire that you would
+
+105
+00:10:03,820 --> 00:10:08,600
+SPK_0: have for example between the roman and the persian empire uh you know for example so it's a it's a
+
+106
+00:10:08,600 --> 00:10:16,260
+SPK_0: problematic thing and so therefore what happens is the dream of abolishing the borders becomes
+
+107
+00:10:16,260 --> 00:10:23,840
+SPK_0: almost necessary so that's why it sounds contradictory but the the rationalism and the
+
+108
+00:10:23,840 --> 00:10:30,280
+SPK_0: desire to to you know the let's say the analytic mode of creating all these nation states it
+
+109
+00:10:30,280 --> 00:10:35,680
+SPK_0: ultimately also leads to a dream of a world and world government like it leads to the dream of
+
+110
+00:10:35,680 --> 00:10:41,180
+SPK_0: something like communism where the borders all dissolve because the problem of the borders is a
+
+111
+00:10:41,180 --> 00:10:47,460
+SPK_0: real problem and if you if you ignore it then then you have world war one and you have world war two
+
+112
+00:10:47,460 --> 00:10:52,540
+SPK_0: and it's like these are these are these are issues that the idea that that went away it's like we're
+
+113
+00:10:52,540 --> 00:10:53,660
+SPK_0: not going to have that again
+
+114
+00:10:53,840 --> 00:11:00,340
+SPK_0: it's so completely ridiculous as we see now uh but but then there's a dream of saying well then we
+
+115
+00:11:00,340 --> 00:11:05,820
+SPK_0: should have all the borders dissolved right so this is the funny thing about you know the movement
+
+116
+00:11:05,820 --> 00:11:10,580
+SPK_0: of the enlightenment and the movement of modernism is that because of its dialectical
+
+117
+00:11:10,580 --> 00:11:16,080
+SPK_0: structure right it tends to do that and and that's in some ways i think that's one thing
+
+118
+00:11:16,080 --> 00:11:23,580
+SPK_0: that people like hegel or marx intuitive intuited rightly you know that that that process is in
+
+119
+00:11:23,580 --> 00:11:23,820
+SPK_0: some way
+
+120
+00:11:23,840 --> 00:11:30,500
+SPK_1: is inevitable for for for yeah as long as you have this foundation it is inevitable i think that and
+
+121
+00:11:30,500 --> 00:11:36,280
+SPK_1: and it's but it's very hard to identify the foundation with the false foundation oh for
+
+122
+00:11:36,280 --> 00:11:41,800
+SPK_1: sure it is a false foundation yeah it is but it became so natural it became self-evident and
+
+123
+00:11:41,800 --> 00:11:47,080
+SPK_1: that's why we're having conversation like this to just effectively an exercise of as a way of
+
+124
+00:11:47,080 --> 00:11:52,700
+SPK_1: thinking or like trying to identify this foundation as not self-evident that it is not like how it is
+
+125
+00:11:52,700 --> 00:11:53,820
+SPK_1: or how it always been and so on and so forth so i think that's another way of thinking about it
+
+126
+00:11:53,840 --> 00:11:59,420
+SPK_1: and your example of like historical borders roman empire like it's very interesting and core
+
+127
+00:11:59,420 --> 00:12:04,540
+SPK_1: example this whole idea of margin flu this whole idea of fluidity on the border but we need to
+
+128
+00:12:04,540 --> 00:12:10,200
+SPK_1: understand that this fluidity the disappearance of this fluidity exactly hasn't always been
+
+129
+00:12:11,040 --> 00:12:18,300
+SPK_1: like you know a natural process of dying out again we cannot avoid talking about a political actor
+
+130
+00:12:18,300 --> 00:12:23,500
+SPK_1: like a political subject a political sovereign who deliberately wanted to destroy this imperial
+
+131
+00:12:23,500 --> 00:12:29,500
+SPK_1: fluidity and i think i i will i won't talk about it then but i will i guess offer it right now
+
+132
+00:12:29,500 --> 00:12:35,660
+SPK_1: the way i see the hierarchy of political communities and the way we see it nowadays and
+
+133
+00:12:35,660 --> 00:12:41,680
+SPK_1: then where the kind of trick happens so in my idea as in my understanding on the bottom lies a glacier
+
+134
+00:12:42,300 --> 00:12:47,480
+SPK_1: in a broad scheme of things like you can call it a political community any local community but it
+
+135
+00:12:47,480 --> 00:12:52,120
+SPK_1: is effectively a community everybody knows that everybody supposedly love it like all this um
+
+136
+00:13:07,220 --> 00:13:23,480
+SPK_1: so it's one of the the main things i can think of that's in the central part is that the
+
+137
+00:13:23,500 --> 00:13:30,600
+SPK_1: analysis like something something that unites many classes together but it's big enough that's big
+
+138
+00:13:30,600 --> 00:13:36,260
+SPK_1: enough to be to act in history something big enough to get to act in us to act enough as a
+
+139
+00:13:36,260 --> 00:13:42,120
+SPK_1: sovereign and then there is a third level of imperium let's say of empire like this is
+
+140
+00:13:42,120 --> 00:13:49,900
+SPK_1: something which is truly unifying and like is much stronger than all of those like uh kingdoms on
+
+141
+00:13:49,900 --> 00:13:54,360
+SPK_1: their own and what we and the version of history which should say we are usually taught in the
+
+142
+00:13:54,360 --> 00:14:00,060
+SPK_1: history books and vast people to understand is empire is evil and oppressive and it oppresses
+
+143
+00:14:00,060 --> 00:14:07,540
+SPK_1: this local communities local classes but in my opinion it's a trick because actually it's empire
+
+144
+00:14:07,540 --> 00:14:12,240
+SPK_1: and the classia which are usually way more in a flexible if you read history books you will see
+
+145
+00:14:12,240 --> 00:14:19,300
+SPK_1: how much flexibility how much gray zoning how much borderlining like it allows but what is the true
+
+146
+00:14:19,900 --> 00:14:26,880
+SPK_1: is a nation state or let's say a small kingdom and what is even above an empire this tower of
+
+147
+00:14:26,880 --> 00:14:33,400
+SPK_1: babel what i called or a globalist or a communist dream so alliance is happening between the steps
+
+148
+00:14:33,400 --> 00:14:38,320
+SPK_1: but we keep but most people keep missing this structure and that's why they think that nation
+
+149
+00:14:38,320 --> 00:14:42,700
+SPK_1: state for example is an ally of local community whereas historically nation state has never been
+
+150
+00:14:42,700 --> 00:14:47,580
+SPK_1: an ally of local community historically all nation states are literally created on the bones
+
+151
+00:14:47,580 --> 00:14:49,820
+SPK_1: and blood of local communities but they're
+
+152
+00:14:49,900 --> 00:14:55,720
+SPK_1: sold in a history version as uh on the contrary something which fights to protect the local
+
+153
+00:14:55,720 --> 00:15:00,580
+SPK_1: community from an oppressive empire whereas the true master is kind of states on the shade and
+
+154
+00:15:00,580 --> 00:15:05,820
+SPK_1: it is this idea of tower of bible world without no borders so and that's what i think the paradox
+
+155
+00:15:05,820 --> 00:15:09,680
+SPK_1: we're in and that's why it's hard to have a conversation because people rarely see this whole
+
+156
+00:15:09,680 --> 00:15:17,800
+SPK_1: structure at least the way i encounter maybe you see it yeah well i maybe i see i probably see it
+
+157
+00:15:17,800 --> 00:15:19,820
+SPK_0: a little differently from you in the sense of
+
+158
+00:15:19,900 --> 00:15:20,920
+SPK_0: it's almost as if it's like a
+
+159
+00:15:20,920 --> 00:15:39,780
+SPK_0: the ancient way to function you had to have things like family clans you know villages
+
+160
+00:15:40,170 --> 00:15:46,820
+SPK_0: in like you said kingdoms or sometimes kingdoms that even had had uh you know aristocracies that
+
+161
+00:15:46,820 --> 00:15:49,880
+SPK_0: were like local feats or whatever and then you move up into some of these underground villages
+
+162
+00:15:49,880 --> 00:15:59,140
+SPK_0: a kingdom uh and and then that let's say that that kingdom can become a part of a of an empire
+
+163
+00:15:59,140 --> 00:16:04,080
+SPK_0: uh like we saw during the roman empire or the you know obviously there are different
+
+164
+00:16:04,080 --> 00:16:12,220
+SPK_0: forms of empire even the muslim empire or um and so that was was in some that was has been for
+
+165
+00:16:12,220 --> 00:16:17,520
+SPK_0: i mean since the bronze age you could say the the traditional way of things to lay themselves out
+
+166
+00:16:17,520 --> 00:16:25,900
+SPK_0: and it's almost inevitable that we do it that way the problem seems to arise to me when any of those
+
+167
+00:16:25,900 --> 00:16:32,760
+SPK_0: level tries to subjugate the one under it that is tried to swallow it into itself and so you can
+
+168
+00:16:32,760 --> 00:16:36,340
+SPK_0: understand it with the bureaucratic nation state the bureaucratic nation state is a good example
+
+169
+00:16:36,340 --> 00:16:42,580
+SPK_0: because we live in it we experience it where the the state begins to see itself as protecting
+
+170
+00:16:42,580 --> 00:16:47,100
+SPK_0: individuals from the intermediary structures
+
+171
+00:16:47,520 --> 00:16:51,800
+SPK_0: so it's like oh we need to protect children from parents we need to protect children
+
+172
+00:16:51,800 --> 00:16:57,220
+SPK_0: and and and people from the church we need to protect people from clubs and so you see all
+
+173
+00:16:57,220 --> 00:17:02,360
+SPK_0: these stories which are obviously inevitable of abuse in families abuse in clubs abuse in churches
+
+174
+00:17:02,360 --> 00:17:06,960
+SPK_0: all these things it's like oh the state will protect us and then what happens is you start
+
+175
+00:17:06,960 --> 00:17:12,920
+SPK_0: to level the you start to level the the intermediary structures and then you create a
+
+176
+00:17:12,920 --> 00:17:16,900
+SPK_0: individual state relationship and that is corrosive
+
+177
+00:17:17,520 --> 00:17:23,920
+SPK_0: it's corrosive to the identity of the person uh and it's and it ends up ultimately making the state
+
+178
+00:17:23,920 --> 00:17:31,280
+SPK_0: into a form of tyranny even without anybody willing it particularly because it has to take up
+
+179
+00:17:31,280 --> 00:17:35,480
+SPK_0: in its own authority has to take up all those intermediary levels which
+
+180
+00:17:35,480 --> 00:17:41,820
+SPK_0: which are not necessarily natural for it to do so now the problem is that technology makes that
+
+181
+00:17:41,820 --> 00:17:46,880
+SPK_0: possible in a way that in an ancient empire you simply could not have done that right it's like
+
+182
+00:17:47,520 --> 00:17:53,140
+SPK_0: a king could have said i want to control everybody in my empire but all right how are you going to do
+
+183
+00:17:53,140 --> 00:17:58,240
+SPK_0: it because you don't have the reach to do it so technology makes that possible and it makes it
+
+184
+00:17:58,240 --> 00:18:03,420
+SPK_0: possible to dream like you said like we talked about and i think a lot of people are kind of
+
+185
+00:18:03,420 --> 00:18:10,660
+SPK_0: naturally moving towards that to dream of a universal like a universal state where now the
+
+186
+00:18:10,660 --> 00:18:16,540
+SPK_0: globalist states will protect us from our nation state you know we that's the way that's presented
+
+187
+00:18:17,520 --> 00:18:20,160
+SPK_0: but we really didn't want to2020 the world where there's a horrible dangerous ethno nation states that are
+
+188
+00:18:20,160 --> 00:18:25,160
+SPK_0: you know that are that are xenophobic and they're all these things and we we accuse them and they do
+
+189
+00:18:25,160 --> 00:18:28,940
+SPK_0: all these things that are only for their own interest we need a you we need a global interest
+
+190
+00:18:28,940 --> 00:18:34,560
+SPK_0: we need something that serves everyone and so we're going to create this global structure that
+
+191
+00:18:34,560 --> 00:18:40,680
+SPK_0: with technology we'll be capable of managing individuals here i mean that i mean that is the
+
+192
+00:18:40,680 --> 00:18:44,960
+SPK_0: most like you said did it that's the most corrosive thing ever four towers and...
+
+193
+00:18:47,520 --> 00:18:52,100
+SPK_1: same pattern and it preys upon the same mistake because it's the way you've been describing like
+
+194
+00:18:52,100 --> 00:18:57,560
+SPK_1: to protect individual effectively against its community but here is the lies of false
+
+195
+00:18:57,560 --> 00:19:03,460
+SPK_1: contradictions because I would agree even now like subconsciously to an extent we are still
+
+196
+00:19:03,460 --> 00:19:09,820
+SPK_1: a relatively healthy we leave a community like people don't leave as individual we say we do
+
+197
+00:19:09,820 --> 00:19:14,400
+SPK_1: leave as individual we do claim we live as individual but we don't really we always live
+
+198
+00:19:14,400 --> 00:19:19,100
+SPK_1: in the community we always live as in something which is bigger than the sum of its parts this
+
+199
+00:19:19,640 --> 00:19:24,760
+SPK_1: the sum can never be true properly quantifiable but as you said the very manner that the state
+
+200
+00:19:24,760 --> 00:19:32,040
+SPK_1: treats an individual like let's say as something has exists on its own this famous uh empty board
+
+201
+00:19:32,040 --> 00:19:36,700
+SPK_1: of law basically it's I think it's coming from effectively local hopes like effectively in in
+
+202
+00:19:36,700 --> 00:19:42,820
+SPK_1: more in one way of thinking but exactly the same pattern is that so let's just uh take this nation
+
+203
+00:19:44,400 --> 00:19:50,020
+SPK_1: which historically they are not and then let's uh devoid them of all other things and then exactly
+
+204
+00:19:50,020 --> 00:19:55,080
+SPK_1: use this bigger authority to protect again now individuals against the state but it is the same
+
+205
+00:19:55,080 --> 00:20:00,660
+SPK_1: pattern and until you stop thinking about reality in terms of individuals which I think it's a
+
+206
+00:20:00,660 --> 00:20:07,440
+SPK_1: really huge challenge it's really hard to start seeing like the other way of potential coexisting
+
+207
+00:20:07,440 --> 00:20:11,660
+SPK_0: it's a little bit problematic well I don't know if you read you maybe you haven't read it but
+
+208
+00:20:11,660 --> 00:20:14,200
+SPK_0: but I wrote a paper last year
+
+209
+00:20:14,400 --> 00:20:22,160
+SPK_0: for our on subsidiarity uh and in some ways for me this has been the thing that i want to bring
+
+210
+00:20:22,160 --> 00:20:28,820
+SPK_0: about it like i'm not a very political person in my engagements like publicly i i'm political
+
+211
+00:20:28,820 --> 00:20:34,040
+SPK_0: privately like also in my own state but uh you know i've been wanting to help people see that
+
+212
+00:20:34,040 --> 00:20:41,460
+SPK_0: this subsidiary model as the most natural model and how in some ways the false opposition right
+
+213
+00:20:41,460 --> 00:20:46,400
+SPK_0: because one of the issues with the classical liberal is that they're they they tend to push
+
+214
+00:20:46,400 --> 00:20:51,060
+SPK_0: towards the individual and the sovereignty of the individual but they don't realize that
+
+215
+00:20:51,060 --> 00:20:55,820
+SPK_0: as you push towards the sovereignty of the individual even though you don't like it
+
+216
+00:20:55,820 --> 00:21:01,980
+SPK_0: you're necessarily making the power of the state more and more necessary because you need something
+
+217
+00:21:01,980 --> 00:21:07,680
+SPK_0: to fill in the the subsidiary gaps of alignment right that are little communities and all these
+
+218
+00:21:07,680 --> 00:21:10,640
+SPK_0: things that fit together to to create something that is more akin to
+
+219
+00:21:11,460 --> 00:21:15,580
+SPK_0: natural system so you have this opposition right where the individual becomes more and more free
+
+220
+00:21:15,580 --> 00:21:21,800
+SPK_0: in parenthesis and then the state becomes more and more powerful necessarily and that's why like
+
+221
+00:21:22,380 --> 00:21:28,880
+SPK_0: that's why the strange coalition between rainbow you know rainbow coalition stuff and you and
+
+222
+00:21:28,880 --> 00:21:33,240
+SPK_0: globalism because it looks like how do these two things fit together would they completely fit
+
+223
+00:21:33,240 --> 00:21:38,920
+SPK_0: together because as you move towards idiosyncrasy then you need the state so it's like the
+
+224
+00:21:38,920 --> 00:21:41,320
+SPK_0: idiosyncrasy becomes more and more pervasive and therefore
+
+225
+00:21:41,460 --> 00:21:47,460
+SPK_0: we need someone to protect all of us from each other right because now we all hate each other
+
+226
+00:21:48,140 --> 00:21:53,240
+SPK_1: it's the same yeah as ideal ideal in this idiosyncratic moment we have this famous you know
+
+227
+00:21:53,240 --> 00:21:58,660
+SPK_1: panoptic image the one eye in the middle and every single individual in its own cell like
+
+228
+00:21:58,660 --> 00:22:06,000
+SPK_1: that's the most famous image of uh that's what how where it cannot not go like there is no way
+
+229
+00:22:06,000 --> 00:22:11,300
+SPK_1: of going it but kind of i think our audience knows it and i just want i guess to highlight
+
+230
+00:22:11,460 --> 00:22:16,580
+SPK_1: the things which lead to this and i think we mentioned one important question in this paper
+
+231
+00:22:16,580 --> 00:22:23,980
+SPK_1: or some other of your conversation which liberals often don't get they consider any subsidiary
+
+232
+00:22:23,980 --> 00:22:30,600
+SPK_1: arbitrary and it's not subsidiaries are not arbitrary and if you treat individual as a primary
+
+233
+00:22:30,600 --> 00:22:36,400
+SPK_1: element of analysis then it has to be arbitrary then every subsidiary has to be arbitrary but it's
+
+234
+00:22:36,400 --> 00:22:41,180
+SPK_1: not and then you run into the problem you just described yeah because and it's funny because in
+
+235
+00:22:41,180 --> 00:22:47,820
+SPK_0: in some ways you know the the modern scientist type should be able to perceive this is that that
+
+236
+00:22:47,820 --> 00:22:52,900
+SPK_0: it's it really is like natural systems the way that society functions because what you have is
+
+237
+00:22:52,900 --> 00:22:59,080
+SPK_0: you have cells and those cells like they exist for the unity of a being right they don't only
+
+238
+00:22:59,080 --> 00:23:05,460
+SPK_0: just exist on their own and so individuals have a level of existence but individuals don't exist
+
+239
+00:23:05,460 --> 00:23:11,600
+SPK_0: without families they just don't exist they have no they have no way of being without being
+
+240
+00:23:11,600 --> 00:23:18,300
+SPK_0: an interrelation with other people and so you necessarily need all of this to stack up right
+
+241
+00:23:18,300 --> 00:23:23,880
+SPK_0: that's the way the best way to to see it and it's the most it's the most natural way for the world
+
+242
+00:23:23,880 --> 00:23:31,120
+SPK_0: to to to exist it imitates all kinds of natural systems that we that we see in in biology uh and
+
+243
+00:23:31,120 --> 00:23:35,380
+SPK_0: if you're not careful you know you create the problem of fragility
+
+244
+00:23:36,040 --> 00:23:42,020
+SPK_0: which it's which is exactly what globalism does because it was funny because of all people i
+
+245
+00:23:42,020 --> 00:23:47,020
+SPK_0: remember i saw an interview with elon musk like in somewhere in saudi arabia or something some
+
+246
+00:23:47,020 --> 00:23:51,200
+SPK_0: weird thing where they were asking elon musk like we need a global government like we need to move
+
+247
+00:23:51,200 --> 00:23:55,600
+SPK_0: and elon musk was saying no you can't because if you do that then you just have one thing
+
+248
+00:23:55,600 --> 00:24:00,360
+SPK_0: and if it falls then everything falls you need you actually do need several
+
+249
+00:24:01,300 --> 00:24:05,360
+SPK_0: empires and multiplicity because if one of them starts to decay
+
+250
+00:24:05,460 --> 00:24:10,140
+SPK_0: then the other one will take up the space and you have this you have like a natural competition
+
+251
+00:24:10,140 --> 00:24:16,380
+SPK_0: that doesn't necessarily have to just be seen as warring but rather as really like i said like
+
+252
+00:24:16,380 --> 00:24:21,540
+SPK_0: natural systems and so if you only have one way of doing thing and only one pyramid if that pyramid
+
+253
+00:24:21,540 --> 00:24:27,120
+SPK_0: starts to to shake then that's it then you have actually have you have an apocalypse you have an
+
+254
+00:24:27,120 --> 00:24:34,500
+SPK_1: armageddon everything falls apart because yeah i agree ultimately but yeah this idea of competition
+
+255
+00:24:35,460 --> 00:24:41,920
+SPK_1: of different it's also just as any subsidiary model the especially in terms of politicals then
+
+256
+00:24:41,920 --> 00:24:46,740
+SPK_1: you understand that there is a healthy limit to it like under certain moments that there is a natural
+
+257
+00:24:46,740 --> 00:24:51,020
+SPK_1: limit to it let's say that's why i'm talking let's say an empire is a natural limit of a
+
+258
+00:24:51,020 --> 00:24:56,600
+SPK_1: particular subsidiary yes any empire has this element of global universality i admit coming back
+
+259
+00:24:56,600 --> 00:25:02,580
+SPK_1: from roman empire which considered to be the empire of the world as we know it but it's exactly more
+
+260
+00:25:02,580 --> 00:25:05,020
+SPK_1: like an aspiration historically it's impossible
+
+261
+00:25:05,460 --> 00:25:11,260
+SPK_1: for any political empire to become a true one global empire the ambition if anything is good
+
+262
+00:25:11,260 --> 00:25:16,740
+SPK_1: because it makes them like to be better to exactly this whole this element of competition which
+
+263
+00:25:17,560 --> 00:25:23,320
+SPK_1: rationalists like but they never really ascribe to become this one controlling prison guardian
+
+264
+00:25:23,320 --> 00:25:30,000
+SPK_1: which world government inevitably has to lean forward but but in some ways we have to be the
+
+265
+00:25:30,000 --> 00:25:35,240
+SPK_0: problem that we have the roman empire i i think i agree with what you're saying
+
+266
+00:25:35,460 --> 00:25:41,160
+SPK_0: completely but we have a problem now which is that now we have technology that actually makes
+
+267
+00:25:41,160 --> 00:25:46,280
+SPK_0: it possible so the roman empire couldn't like like you said their aspiration to be in some ways the
+
+268
+00:25:46,280 --> 00:25:50,780
+SPK_0: global empire you know that it was limited by their reach by their you know and when they
+
+269
+00:25:50,780 --> 00:25:55,660
+SPK_0: overreach they paid the price for it because you know they basically overreach their capacity to
+
+270
+00:25:55,660 --> 00:26:00,900
+SPK_0: actually control these things yeah and then the the mercenaries that they were using to continue
+
+271
+00:26:00,900 --> 00:26:04,940
+SPK_0: to increase their their their uh like reach
+
+272
+00:26:07,040 --> 00:26:08,420
+SPK_0: mobility from there would be kind
+
+273
+00:26:08,420 --> 00:26:21,060
+SPK_0: okay soon enough mediterranean
+
+274
+00:26:21,060 --> 00:26:21,140
+SPK_0: you
+
+275
+00:26:21,140 --> 00:26:23,220
+SPK_0: know just kill
+
+276
+00:26:23,220 --> 00:26:23,660
+SPK_0: it
+
+277
+00:26:23,660 --> 00:26:35,400
+SPK_0: you know just kill it
+
+278
+00:26:35,460 --> 00:26:42,160
+SPK_0: you just blow up a few houses once in a while to remind people we're watching you like an absolute
+
+279
+00:26:42,160 --> 00:26:49,140
+SPK_0: authoritarian world government is yeah i don't know if it's possible but at least the dream of
+
+280
+00:26:49,140 --> 00:26:55,060
+SPK_0: it is far more like the dream that people have of it is is closer than what the romans or the
+
+281
+00:26:55,060 --> 00:27:03,820
+SPK_1: persians had access to i i see what you i see what you mean and uh yeah it is definitely closer but
+
+282
+00:27:03,820 --> 00:27:10,340
+SPK_1: i think here is a completely different pattern which is on our side i actually don't remember
+
+283
+00:27:10,340 --> 00:27:16,920
+SPK_1: this line in english but do you remember when mary praises the lord in the second chapter in
+
+284
+00:27:16,920 --> 00:27:23,420
+SPK_1: the second chapter of luke praises a lot and says that he dispersed the arrogant with the intention
+
+285
+00:27:23,420 --> 00:27:27,940
+SPK_1: of it of their hearts i see i'm translating so maybe in english it sounds slightly different
+
+286
+00:27:27,940 --> 00:27:31,440
+SPK_1: but i think that's effectively the same element which will happen in this story
+
+287
+00:27:31,440 --> 00:27:33,680
+SPK_1: so their own they
+
+288
+00:27:33,820 --> 00:27:39,980
+SPK_1: won't be defeated by this this idea to create an a the total idea secrecy on the tower of barbie
+
+289
+00:27:39,980 --> 00:27:44,760
+SPK_1: level and the connection now talk a little bit about it as a symbol because i think it's a
+
+290
+00:27:44,760 --> 00:27:49,720
+SPK_1: perfect example it's a very complexity of the structure as a very arrogance of the structure
+
+291
+00:27:49,720 --> 00:27:54,020
+SPK_1: will be the root of its own demise it won't be the root device of like let's say control
+
+292
+00:27:54,020 --> 00:27:58,340
+SPK_1: revolutionary movement no no revolutionary movement when defeat this tower but it will
+
+293
+00:27:58,340 --> 00:28:03,620
+SPK_1: collapse on its own that's what i think will happen but until then we'll see we have an
+
+294
+00:28:03,820 --> 00:28:08,860
+SPK_0: example of it right which is the soviet the soviet empire collapsed on its own it's not like
+
+295
+00:28:08,860 --> 00:28:14,140
+SPK_0: you know it although there there were you know americans and other people were trying to influence
+
+296
+00:28:14,140 --> 00:28:18,440
+SPK_0: they were trying to do things in order to kind of bring it down but it didn't it didn't like you
+
+297
+00:28:18,440 --> 00:28:22,540
+SPK_0: said come up with a counter-revolutionary movement it basically just petered out because
+
+298
+00:28:22,540 --> 00:28:28,020
+SPK_0: the the amount of control that he the amount of control that it exercised of centralization was
+
+299
+00:28:28,020 --> 00:28:33,700
+SPK_0: not sustainable and created lack of alignment fractally right so you know
+
+300
+00:28:33,820 --> 00:28:37,560
+SPK_0: this is also the problem with the it's already it's already the problem with the nation state
+
+301
+00:28:37,560 --> 00:28:44,820
+SPK_0: which is that it's their responsibility it's not me i'm just a taxpayer a consumer i'm just a
+
+302
+00:28:44,820 --> 00:28:52,500
+SPK_0: you know i'm not i'm not actually a member of a body i don't feel uh allegiance in the way that
+
+303
+00:28:52,500 --> 00:28:58,500
+SPK_0: i care for my family i have an abstract allegiance maybe but you know and the only way that people
+
+304
+00:28:58,500 --> 00:29:03,340
+SPK_0: are able to real to reawaken the uh allegiance to a state is war
+
+305
+00:29:03,820 --> 00:29:09,080
+SPK_0: right and so you have war so oh now we're together now we're like you now we're this people and now
+
+306
+00:29:09,080 --> 00:29:13,020
+SPK_0: we're going to fight this other people but if you have a global government what are you going to do
+
+307
+00:29:13,020 --> 00:29:17,080
+SPK_0: i guess you need aliens you need extraterrestrials like you need alien enemies or something
+
+308
+00:29:17,800 --> 00:29:21,280
+SPK_0: because then you just have basically just going to fall apart because nobody is going to feel
+
+309
+00:29:21,280 --> 00:29:25,520
+SPK_1: but that's why actually you can uh you bring yourself for the second time you wrote a question
+
+310
+00:29:25,520 --> 00:29:30,540
+SPK_1: before and i now i will indulge myself because speaking of like the theory of war is one of my
+
+311
+00:29:33,820 --> 00:29:37,120
+SPK_1: concerns and i think it's very coincidental because actually the question of war is the
+
+312
+00:29:37,120 --> 00:29:42,920
+SPK_1: question of this whole sovereignty because ironically if a state being at a nation state
+
+313
+00:29:42,920 --> 00:29:48,840
+SPK_1: or an empire nation an empire state is not allowed to wage war then it's not the one that holds the
+
+314
+00:29:48,840 --> 00:29:55,520
+SPK_1: power like like it or not but historically it's the right to wage war is the political right and
+
+315
+00:29:55,520 --> 00:30:02,660
+SPK_1: when we after world war ii created this ape of united nations which says no there will be no wars
+
+316
+00:30:03,820 --> 00:30:08,720
+SPK_1: like, wars are illegal, we don't allow any wars, you kind of exactly created the foundation for
+
+317
+00:30:08,720 --> 00:30:13,900
+SPK_1: this next step to, and then why do you need states at all, in a way? On top of it, you created the
+
+318
+00:30:13,900 --> 00:30:18,800
+SPK_1: gigantic problem of hypocrisy, because if you look into, once again, if you look into real history,
+
+319
+00:30:19,140 --> 00:30:23,360
+SPK_1: there was wars, we just don't call them this way anymore. Like, that's the most ironic thing,
+
+320
+00:30:23,440 --> 00:30:28,880
+SPK_1: like people often, like, it's remarkable that there is no wars, like, like, what United States
+
+321
+00:30:28,880 --> 00:30:32,880
+SPK_1: is in Iraq, it's not war, what is happening between Russia and Ukraine right now, it's not
+
+322
+00:30:32,880 --> 00:30:38,340
+SPK_1: war, legally, it's not war, and like, there was no wars, like, for the last 70 years, and it's
+
+323
+00:30:38,780 --> 00:30:41,260
+SPK_1: kind of this example of this clown war you're talking about.
+
+324
+00:30:41,400 --> 00:30:42,580
+SPK_0: Yeah, but we're not idiots, like,
+
+325
+00:30:42,620 --> 00:30:46,580
+SPK_0: you know, we're not, we're not, I think that, I think that if we're having this conversation,
+
+326
+00:30:46,840 --> 00:30:51,840
+SPK_0: we're not, neither of you, neither of us are the type of person that just listens to the drivel
+
+327
+00:30:51,840 --> 00:30:54,220
+SPK_0: that comes out of the official sources, and the same.
+
+328
+00:30:54,260 --> 00:30:56,180
+SPK_1: No, but it is important, I would agree,
+
+329
+00:30:56,260 --> 00:31:00,700
+SPK_1: it's important why even those in power don't call it war, I think that there is an actual
+
+330
+00:31:00,700 --> 00:31:02,660
+SPK_1: important seed in it, because they,
+
+331
+00:31:02,880 --> 00:31:08,580
+SPK_1: don't treat themselves as properly sovereign, and that, so I, I guess, to me, it's, it's a sign
+
+332
+00:31:08,580 --> 00:31:13,920
+SPK_1: that a certain shift towards the Bible has already happened, like, and it's happened, like, 70 years
+
+333
+00:31:13,920 --> 00:31:18,720
+SPK_1: ago, on a very fundamental level, I guess, so that was my, that's an interesting idea, I never thought
+
+334
+00:31:18,720 --> 00:31:24,060
+SPK_0: of that, like, it's an interesting idea to say that the fact that, that nation states, you know,
+
+335
+00:31:24,060 --> 00:31:27,700
+SPK_0: for example, like, the United States have basically been in war since World War II, non-stop,
+
+336
+00:31:27,840 --> 00:31:31,940
+SPK_0: just like the Korean War, the Vietnam War, you just keep, like, they're just, they just have,
+
+337
+00:31:32,040 --> 00:31:32,700
+SPK_0: they've been at war.
+
+338
+00:31:32,880 --> 00:31:39,900
+SPK_0: without, without end, and so, but the fact that nobody wants to actually call it war is it, that is
+
+339
+00:31:39,900 --> 00:31:46,060
+SPK_0: an interesting idea, like you said, it means that even though it's hypocritical, it means that we,
+
+340
+00:31:46,120 --> 00:31:52,260
+SPK_0: somewhat, somehow, everyone has accepted that the, the capacity to wage war is no longer
+
+341
+00:31:52,260 --> 00:32:03,250
+SPK_0: justifiable in any way, like, there's no justification for it, and so, what we do name wars,
+
+342
+00:32:03,410 --> 00:32:04,450
+SPK_0: right, we do, we do,
+
+343
+00:32:04,670 --> 00:32:12,730
+SPK_0: we call them wars, but it's not, it's always, it's not the, the people, the powerful agents, you know, they tend to avoid it.
+
+344
+00:32:13,530 --> 00:32:21,170
+SPK_1: It's gray zone, it's always fluid, it's war on terror, it's a culture war, it's, like, something else, but it's not.
+
+345
+00:32:21,350 --> 00:32:27,670
+SPK_0: But we say, we do say Vietnam War, like, we do say Korean War, we do say the, people, they do say the war in Iraq, although,
+
+346
+00:32:29,230 --> 00:32:34,290
+SPK_0: that's a colloquial term, but for sure, in the United States, I don't think the U.S. has voted for war.
+
+347
+00:32:35,110 --> 00:32:55,190
+SPK_1: I don't forget to, like, no, historically, as you know, there is a very, it was a very clear, like, act called declaration of war, like, it is a document, like, historically, you needed to declare, like, that the country, a, even in World War II, like, this, there is, like, like, you can look, like, for example, Britain is declaring war in Germany, like, there is an official state that since, like, 12 p.m.
+
+348
+00:32:55,190 --> 00:33:00,570
+SPK_1: this day, we are in a state of war, that's what I mean, and this is gone, like, this is gone completely.
+
+349
+00:33:00,790 --> 00:33:04,530
+SPK_0: For sure, now, it's, it's very, it's gone, and, and also, because the,
+
+350
+00:33:06,150 --> 00:33:34,150
+SPK_0: a lot of it has to do with the way that, that, that America considers itself, like, its own self-identity, and the manner in which it, it wages, it's constantly waging war for its interests, but it, it also masks it in the interests of the people that they fight, where they fight, you know, and in some ways, sometimes I've always wondered if that is also a kind of remainder of a veneer of Christianity, right?
+
+351
+00:33:34,210 --> 00:33:34,430
+SPK_0: Right.
+
+352
+00:33:34,870 --> 00:33:39,250
+SPK_0: christianity where we have to we feel like we have to say no we're we're we're going in iraq
+
+353
+00:33:39,250 --> 00:33:44,090
+SPK_0: you know because we want to help the iraqis like we're going in syria because we want to help the
+
+354
+00:33:44,090 --> 00:33:50,890
+SPK_0: syrians yeah uh you know which is which is a very strange idea way of doing war but but it seems
+
+355
+00:33:50,890 --> 00:33:57,250
+SPK_0: that like you said to be the way that that at least the modern west does war uh it's not just
+
+356
+00:33:57,250 --> 00:34:02,830
+SPK_1: but i can tell you it's not just the west it generally became a global uh paradigm you can
+
+357
+00:34:02,830 --> 00:34:08,390
+SPK_1: i guess you can argue that the united states maybe were one of the first who really cemented this
+
+358
+00:34:08,390 --> 00:34:13,650
+SPK_1: model in their actions and this is very interesting like story and so on for an outsider the united
+
+359
+00:34:13,650 --> 00:34:18,550
+SPK_1: states is definitely a very interesting case because i i based on my conversation actually
+
+360
+00:34:18,550 --> 00:34:22,890
+SPK_1: believe americans when they say these things the problem is it doesn't change the fact that what
+
+361
+00:34:22,890 --> 00:34:30,130
+SPK_1: they are actually doing is a normal historical power struggle etc etc you perceive it as a
+
+362
+00:34:30,130 --> 00:34:32,810
+SPK_1: benevolent let's say uh acting in this really
+
+363
+00:34:32,830 --> 00:34:38,970
+SPK_1: of ideas and care but it doesn't change the fact that it is what it is in reality but there is this
+
+364
+00:34:38,970 --> 00:34:43,130
+SPK_1: very interesting gap which creates with as here comes a big difference between the americans
+
+365
+00:34:43,130 --> 00:34:48,990
+SPK_1: perceive themselves and the rest of the world specific americans but um it's just very
+
+366
+00:34:48,990 --> 00:34:55,090
+SPK_1: interesting uh topic but let's come back a little bit because yeah yeah unfortunately it's
+
+367
+00:34:55,090 --> 00:35:02,630
+SPK_1: fascinating so i like i just want to to come back to i think the issue of um cornerstone issues so
+
+368
+00:35:03,330 --> 00:35:09,930
+SPK_1: because we talked about it like um uh different elements how it's not working so let's talk a
+
+369
+00:35:09,930 --> 00:35:16,650
+SPK_1: little bit how it works i would to be a little bit more positive and one of the quotes of yours
+
+370
+00:35:16,650 --> 00:35:21,470
+SPK_1: from one of again your videos which i loved it a lot like about what is a political community
+
+371
+00:35:21,470 --> 00:35:27,690
+SPK_1: and the quote is that mysticism happens every time you encounter unity in the world and for
+
+372
+00:35:27,690 --> 00:35:32,770
+SPK_1: me then there is a question so is it a who not a world not a water
+
+373
+00:35:32,830 --> 00:35:40,370
+SPK_1: or if that holds a political community together so it is mystical in nature and i guess i wanted
+
+374
+00:35:40,370 --> 00:35:44,710
+SPK_1: to maybe you to elaborate yeah why is it mystical in nature so
+
+375
+00:35:44,710 --> 00:35:49,610
+SPK_0: i mean i think like you said like when you quoted it that you have to understand that
+
+376
+00:35:49,610 --> 00:35:56,350
+SPK_0: the mysticism of the experience of unity it happens you know way lower than the political
+
+377
+00:35:56,350 --> 00:36:02,670
+SPK_0: sphere right it happens every time you you perceive unity because the because the qualities of the unit
+
+378
+00:36:02,830 --> 00:36:07,890
+SPK_0: right like we say the whole is more than the than the parts right that something that has a unit
+
+379
+00:36:07,890 --> 00:36:13,870
+SPK_0: unitary identity cannot be the the multiplicity of it the parts of it cannot account for the quality
+
+380
+00:36:13,870 --> 00:36:19,290
+SPK_0: of its unity right that's what they call emergence you know whatever like that word that people use
+
+381
+00:36:19,290 --> 00:36:25,350
+SPK_0: um but that is true at every level that we perceive unity and then it's true as a person and
+
+382
+00:36:25,350 --> 00:36:32,110
+SPK_0: so the unity of the person right the fact that i have a unity cannot be accounted for like my brain
+
+383
+00:36:32,830 --> 00:36:37,730
+SPK_0: is a bunch of things going off my body is a bunch of things doing things but nonetheless i i have
+
+384
+00:36:38,430 --> 00:36:44,630
+SPK_0: a a push towards unity within me and that is the soul right we don't like using that word the
+
+385
+00:36:44,630 --> 00:36:49,930
+SPK_0: spirit then there's a sense in which it's the place where and so that is necessary for all
+
+386
+00:36:49,930 --> 00:36:56,030
+SPK_0: multiplicity to join into one and so you can understand now like why families for example like
+
+387
+00:36:56,030 --> 00:37:02,310
+SPK_0: that families in many cultures will have things like they had family gods for example or that they
+
+388
+00:37:02,830 --> 00:37:08,490
+SPK_0: had patron saints or they had this this notion of a kind of guardian angel of the family because
+
+389
+00:37:08,490 --> 00:37:13,510
+SPK_0: we notice the unity of the family coming together and you know we're made of a bunch of people but
+
+390
+00:37:13,510 --> 00:37:19,410
+SPK_0: we can we feel that's just not a feeling but it's it is a capacity to recognize the unity
+
+391
+00:37:19,410 --> 00:37:27,170
+SPK_0: and that scales right it scales into communities into parishes it scales into into uh you know
+
+392
+00:37:27,170 --> 00:37:32,090
+SPK_0: cities like for example in italy during the middle ages it was the city state that was strong where
+
+393
+00:37:32,090 --> 00:37:36,770
+SPK_0: people had or you know even during the hellenistic period people identified with their city
+
+394
+00:37:36,770 --> 00:37:42,630
+SPK_0: their body politic and saw that as a having a common identity but they were still capable of
+
+395
+00:37:42,630 --> 00:37:47,010
+SPK_0: seeing themselves as hellenes as having also higher identity that pulled them together into
+
+396
+00:37:47,010 --> 00:37:52,470
+SPK_0: that type of common space and they had ritual ways of acknowledging and participating in that
+
+397
+00:37:52,470 --> 00:38:00,030
+SPK_0: and so that keeps on scaling and at every level there's always there's opportunity and danger
+
+398
+00:38:00,390 --> 00:38:02,070
+SPK_0: and that's really important like i think
+
+399
+00:38:02,090 --> 00:38:06,250
+SPK_0: even you know when we started the conversation i wanted to mention that which is that
+
+400
+00:38:07,310 --> 00:38:16,170
+SPK_0: empire can be horrible a nation can be horrible families can be horrible and a person can be
+
+401
+00:38:16,170 --> 00:38:21,750
+SPK_0: horrible and so it's important to acknowledge that into not to paint a simple rosy picture
+
+402
+00:38:22,510 --> 00:38:28,230
+SPK_0: of these structures right you know julius caesar bragged that he killed a million gauls like he
+
+403
+00:38:28,230 --> 00:38:32,010
+SPK_0: he was proud of doing that in order to bring them into the empire
+
+404
+00:38:32,090 --> 00:38:39,790
+SPK_0: so these are horrible acts that all of these levels of power do but they also at the same time
+
+405
+00:38:39,790 --> 00:38:44,470
+SPK_0: offer opportunities which are real and should not be denied as well you know and we shouldn't say
+
+406
+00:38:44,470 --> 00:38:49,590
+SPK_0: well just so the roman empire killed all these people so it's horrible the answer is yes but
+
+407
+00:38:49,590 --> 00:38:55,910
+SPK_0: also the roman empire provided communication and peace amongst these people you know at the same
+
+408
+00:38:55,910 --> 00:39:00,130
+SPK_0: time so we have to be able to see the good good and bad of well and you need to judge the
+
+409
+00:39:00,130 --> 00:39:02,010
+SPK_1: historical sorry it's this rosy
+
+410
+00:39:02,090 --> 00:39:06,330
+SPK_1: like just because like before like i think two or three decades before
+
+411
+00:39:06,990 --> 00:39:15,110
+SPK_1: uh julius started his uh whole crusade no not crusade whole like invasion in the goal as the
+
+412
+00:39:15,110 --> 00:39:19,590
+SPK_1: goals came to rome and almost destroyed the rome so like it's it it it's it's not like you know
+
+413
+00:39:19,590 --> 00:39:23,930
+SPK_1: there is a no it's not a one-way find a good peaceful guy in history basically you won't find
+
+414
+00:39:23,930 --> 00:39:29,850
+SPK_1: a good guy who was just you know innocent peace-loving community which like no the moment
+
+415
+00:39:29,850 --> 00:39:31,890
+SPK_1: you step into history you will
+
+416
+00:39:32,430 --> 00:39:36,190
+SPK_1: your your self as a cultural people but the uh well and next it turns on us you know
+
+417
+00:39:36,190 --> 00:39:40,530
+SPK_0: people who are in the Gefühl l I have to stay in my own head and I don't want that kind of
+
+418
+00:39:40,530 --> 00:39:43,450
+SPK_0: frying-up on people too I don't want that kind of fry-up on people right
+
+419
+00:39:43,450 --> 00:39:52,310
+SPK_0: and you're just only one in the récup u femin experts on it utc.
+
+420
+00:39:52,310 --> 00:39:58,650
+SPK_0: is exhilarating and this is important for people to understand it it's exhilarating because you
+
+421
+00:39:58,650 --> 00:40:03,010
+SPK_0: just like when you're in a sports team and all of a sudden you feel this unity right you're working
+
+422
+00:40:03,010 --> 00:40:06,930
+SPK_0: together and you're winning the game and all of a sudden you feel this kind of sense of being
+
+423
+00:40:06,930 --> 00:40:13,970
+SPK_0: elated into the identity uh and like again again that provides you provides opportunity but it also
+
+424
+00:40:13,970 --> 00:40:19,430
+SPK_0: provides danger i mean it's like you can weaponize that in crazy ways which we saw in the modern in
+
+425
+00:40:19,430 --> 00:40:26,130
+SPK_1: the modern nation state exactly but okay then then just let's talk a little bit more about this
+
+426
+00:40:26,130 --> 00:40:31,510
+SPK_1: danger because i think it's one of the things we are missing in our modern conversation is the
+
+427
+00:40:31,510 --> 00:40:36,870
+SPK_1: distinguishing between two types of danger and i think a lot of let's say misunderstanding and
+
+428
+00:40:36,870 --> 00:40:44,210
+SPK_1: manipulation happens here so one uh danger is in my in my understanding you can call it natural
+
+429
+00:40:44,210 --> 00:40:49,310
+SPK_1: and yes i will reference christianity is just the consequences of sin sorry the reason the
+
+430
+00:40:49,310 --> 00:40:55,090
+SPK_1: there is a danger in sin and as you said in individually family nation state etc etc etc
+
+431
+00:40:56,310 --> 00:41:03,110
+SPK_1: it's uh the danger of uh i would call you can call it natural entropy or basically something
+
+432
+00:41:03,110 --> 00:41:09,470
+SPK_1: can go wrong all the time you are not perfect nothing is ever really perfect and uh one of the
+
+433
+00:41:09,470 --> 00:41:14,690
+SPK_1: russian philosophers nikolai berzeev has this very i think important to hear now phrase that
+
+434
+00:41:14,690 --> 00:41:19,110
+SPK_1: the purpose of a state is not to create heaven on earth it's not to let it devolve in hell
+
+435
+00:41:19,310 --> 00:41:27,290
+SPK_1: like so yeah yeah yeah so and you can and you can argue it's also a pattern so the your the point
+
+436
+00:41:27,290 --> 00:41:31,950
+SPK_1: of yours is not to create heaven on earth it's not to let your soul in hell the point of the
+
+437
+00:41:31,950 --> 00:41:36,410
+SPK_1: family is not to create let's say you know literally create heaven on earth but where
+
+438
+00:41:36,410 --> 00:41:42,430
+SPK_1: manipulation happens if we forget looking about this admitting the well and that comes from
+
+439
+00:41:42,430 --> 00:41:46,510
+SPK_1: rationalism and enlightenment because it kind of destroyed it if we forget to accept that we are
+
+440
+00:41:46,510 --> 00:41:49,090
+SPK_1: limited and we do forget because we can
+
+441
+00:41:49,310 --> 00:41:53,230
+SPK_1: 으니까 we consider us first progressive and then we consider us to being this humanist man
+
+442
+00:41:53,230 --> 00:41:57,610
+SPK_1: who is way better than everybody who has ever been before history really really started with
+
+443
+00:41:57,610 --> 00:42:01,430
+SPK_1: us before there was only darkness whereas the light which come and thenHmm sorry that is the
+
+444
+00:42:01,430 --> 00:42:05,670
+SPK_1: basic pattern of thinking oh yeah then you leave then you leave no room interprection
+
+445
+00:42:05,670 --> 00:42:10,510
+SPK_1: then you leave no room for imperfection into anything and then you have to look to any
+
+446
+00:42:10,510 --> 00:42:15,330
+SPK_1: authority figure to precisely destroy the imperfections switch you are still witnessing
+
+447
+00:42:15,330 --> 00:42:18,590
+SPK_1: because they are natural but you can cannot accept the code
+
+448
+00:42:19,310 --> 00:42:26,670
+SPK_1: cause so you have to you have to ascribe them exclusively to human-made causes like
+
+449
+00:42:26,670 --> 00:42:32,910
+SPK_1: those other causes you if anything create causes which explains imperfections around itself and
+
+450
+00:42:32,910 --> 00:42:36,810
+SPK_1: that's one big conundrum happening and then of course there is a second conundrum you are talking
+
+451
+00:42:36,810 --> 00:42:41,230
+SPK_1: about that there is an element of potential corruption in any structure if you effectively
+
+452
+00:42:41,230 --> 00:42:47,710
+SPK_1: turn it to the wrong purpose that's another thing but they are different things but if you can at
+
+453
+00:42:47,710 --> 00:42:52,430
+SPK_1: least address the second you can because we can talk about what is a good purpose what is the good
+
+454
+00:42:52,430 --> 00:42:58,450
+SPK_1: telos what is good what is so we can talk about it and maybe we can yeah try to through you know
+
+455
+00:42:58,450 --> 00:43:02,370
+SPK_1: transforming the hearts education talking because it's very interesting that for the most part of
+
+456
+00:43:02,370 --> 00:43:07,190
+SPK_1: history the political treaties and machiavelli was the one who broke the traditions they were
+
+457
+00:43:07,190 --> 00:43:13,510
+SPK_1: not about how it works and how to gain power but what kind of person we need in power so what kind
+
+458
+00:43:13,510 --> 00:43:17,370
+SPK_1: of heart should be that they make the decisions so how we educate
+
+459
+00:43:17,710 --> 00:43:23,230
+SPK_1: let's say the sovereign the monarch etc etc and we can talk about it so how not to let into
+
+460
+00:43:23,230 --> 00:43:27,570
+SPK_1: dissolve into this tyranny but it's not the conversation we are having the real conversation
+
+461
+00:43:27,570 --> 00:43:33,330
+SPK_1: we are having is this uh labyrinth of fighting against imperfections which are irreducible and
+
+462
+00:43:33,330 --> 00:43:39,770
+SPK_0: i think that was completely missed that's a great i mean i think that's a great point uh you know uh
+
+463
+00:43:40,550 --> 00:43:47,390
+SPK_0: interesting this is an interesting moment that i had because uh i i had a taxi driver a moroccan
+
+464
+00:43:47,390 --> 00:43:47,690
+SPK_0: man and i had a taxi driver and i had a taxi driver and i had a taxi driver and i had a taxi driver
+
+465
+00:43:47,690 --> 00:43:54,490
+SPK_0: and you know nice guy living in canada uh talking about covid now in 20 after covid was over
+
+466
+00:43:54,490 --> 00:44:01,730
+SPK_0: and in saying just how horrible it was in morocco because in morocco they didn't do anything like
+
+467
+00:44:01,730 --> 00:44:05,990
+SPK_0: they didn't have masks they didn't have all this stuff and and i'm like listening to the guy and i
+
+468
+00:44:05,990 --> 00:44:12,390
+SPK_0: asked him i said was there a difference in death toll in morocco and canada he said no not really
+
+469
+00:44:12,390 --> 00:44:17,050
+SPK_0: like was there a difference in in the in the and he's like no not really and i said
+
+470
+00:44:17,690 --> 00:44:22,670
+SPK_0: and i was like so what's the problem he said well at least they managed it and it was like that's
+
+471
+00:44:22,670 --> 00:44:27,590
+SPK_0: the thing it's it's this idea that what are you going to do there's a problem there's an
+
+472
+00:44:27,590 --> 00:44:33,570
+SPK_0: imperfection in the system and you and this weird idea like you said that somehow we have this weird
+
+473
+00:44:33,570 --> 00:44:39,510
+SPK_0: idea that now the state has to fill up this imperfection with its authority for the simple
+
+474
+00:44:39,510 --> 00:44:45,830
+SPK_0: fact that the imperfection exists which is which is insane because it leads to this this kind of
+
+475
+00:44:45,830 --> 00:44:47,210
+SPK_0: you know
+
+476
+00:44:47,690 --> 00:44:53,430
+SPK_0: thinking whereas you know the the natural way of being would say to say yeah that's right you're
+
+477
+00:44:53,430 --> 00:45:00,630
+SPK_0: right people die and people get sick and bad things happen and that part of life you know and
+
+478
+00:45:00,630 --> 00:45:05,930
+SPK_0: and if we if we want the state to cover every single bad thing that happens we are setting
+
+479
+00:45:05,930 --> 00:45:11,130
+SPK_0: ourselves up for tyranny like it's going to happen you can't avoid the corollaries of that
+
+480
+00:45:11,130 --> 00:45:16,330
+SPK_1: authority in your life but also not just i think that's important to highlight it's exactly the
+
+481
+00:45:17,690 --> 00:45:21,470
+SPK_1: same thing with your family to cover up for any imperfection which you have on your own
+
+482
+00:45:21,470 --> 00:45:27,130
+SPK_0: it's the same problem it's the same problem you're right no you're exactly right that's that's that's
+
+483
+00:45:27,130 --> 00:45:31,410
+SPK_0: the right way to think about it but even in your will like you have the same problems inside you
+
+484
+00:45:31,410 --> 00:45:39,470
+SPK_0: which is that if you try to could if you try without like the guidance of of a spiritual
+
+485
+00:45:39,470 --> 00:45:44,890
+SPK_0: father or someone helping you if you try to like get rid of all your sins you know you are in
+
+486
+00:45:44,890 --> 00:45:47,330
+SPK_0: serious danger my friend because you are going to
+
+487
+00:45:47,690 --> 00:45:53,250
+SPK_0: you're going to run in right into a wall and you know it's like people who try to establish crazy
+
+488
+00:45:53,250 --> 00:45:57,830
+SPK_0: disciplines right or like dieting for example like oh i'm i have this problem like i'm gonna
+
+489
+00:45:57,830 --> 00:46:02,190
+SPK_0: diet like crazy and then you know then you meet them a year later and they they've gained another
+
+490
+00:46:02,190 --> 00:46:06,630
+SPK_1: 30 pounds because they collapse they are unhappy the only difference is they are now also very
+
+491
+00:46:06,630 --> 00:46:14,930
+SPK_1: unhappy because they failed to achieve and they're unhappy yeah and no that's a good point that's a
+
+492
+00:46:17,690 --> 00:46:24,390
+SPK_0: to understand the state of the fall and to understand the need to acknowledge imperfection
+
+493
+00:46:24,390 --> 00:46:29,690
+SPK_0: so you know you know there's this tradition in late middle ages it was called the nine worthies
+
+494
+00:46:29,690 --> 00:46:34,170
+SPK_0: i don't know if you know about this political tradition so basically it was they you know the
+
+495
+00:46:34,170 --> 00:46:40,150
+SPK_0: the thinkers in in the late middle ages had identified nine characters in history that were
+
+496
+00:46:40,150 --> 00:46:46,370
+SPK_0: important and in some ways models so three from the pagan past three from the old testament
+
+497
+00:46:47,690 --> 00:46:52,430
+SPK_0: and then three from the modern like the modern for the medieval era right and what they would do
+
+498
+00:46:52,430 --> 00:46:57,150
+SPK_0: is they would say something like alexander right alexander is a great man he's a one of the worthies
+
+499
+00:46:57,150 --> 00:47:03,510
+SPK_0: and they would say here are the great things he did and here are his sins and they would do that
+
+500
+00:47:03,510 --> 00:47:09,150
+SPK_0: for all the characters and it was like now we have this weird idea right we can't we can't stomach
+
+501
+00:47:09,150 --> 00:47:14,510
+SPK_0: imperfection in even our historical figures and so you see that in america people like tearing
+
+502
+00:47:14,510 --> 00:47:17,590
+SPK_0: down statues because someone wasn't jesus
+
+503
+00:47:17,590 --> 00:47:23,530
+SPK_0: basically it's like oh he wasn't god so we have to destroy everything like every memory of them
+
+504
+00:47:23,530 --> 00:47:29,190
+SPK_0: because they they weren't perfect which is which is nuts well i think here happening like super
+
+505
+00:47:29,190 --> 00:47:32,910
+SPK_1: trick honestly but like first thing it's not just about this nine worthy tradition i'm just
+
+506
+00:47:32,910 --> 00:47:37,950
+SPK_1: like i'm running a class on plutarch like from like my projects and then they read plutarch like
+
+507
+00:47:37,950 --> 00:47:43,430
+SPK_1: whenever you read any description of person like it's it's full of imperfection like it's worth it
+
+508
+00:47:43,430 --> 00:47:47,290
+SPK_1: and that's the way people understood history actually for the most part of our
+
+509
+00:47:47,590 --> 00:47:53,230
+SPK_1: like existence we understood history as stories and that was very clear it's a story of a nation
+
+510
+00:47:53,230 --> 00:47:57,930
+SPK_1: if it's story of a person of course it will have failures but it can successes and failures it's
+
+511
+00:47:57,930 --> 00:48:04,090
+SPK_1: like nobody expected perfection from anything we reclaim what we and we learn from it that's
+
+512
+00:48:04,090 --> 00:48:09,210
+SPK_1: important thing we learn from it like let's say in this situation he did this so maybe if the
+
+513
+00:48:09,210 --> 00:48:14,750
+SPK_1: similar pattern arises in your life you know you are not the first one who encountered it this way
+
+514
+00:48:14,750 --> 00:48:16,470
+SPK_1: of thinking is completely lost to us
+
+515
+00:48:17,590 --> 00:48:21,910
+SPK_1: but it's not on but again it's canvas there's a whole idea of freeze of time the nature of time
+
+516
+00:48:21,910 --> 00:48:27,630
+SPK_1: because we simultaneously exactly we as a light before us was darkness like that's the basic
+
+517
+00:48:27,630 --> 00:48:32,930
+SPK_1: pattern of thinking like nobody can think about past and anything but darkness but and people
+
+518
+00:48:32,930 --> 00:48:37,230
+SPK_1: think that's why we're judging the past from the lenses of the present but i actually think that
+
+519
+00:48:37,230 --> 00:48:42,470
+SPK_1: there is a trick happening and maybe you didn't hear like here's what he will say that it's not
+
+520
+00:48:42,470 --> 00:48:47,190
+SPK_1: like just with judging past uh from the perspective of a present
+
+521
+00:48:47,590 --> 00:48:54,270
+SPK_1: we are protecting our present from being judged through the eyes of our past i think there is this
+
+522
+00:48:54,270 --> 00:48:59,790
+SPK_1: trick happening because how how how it looks in practical would you like rather have your
+
+523
+00:48:59,790 --> 00:49:05,270
+SPK_1: politician be like uh i don't know who is who was i don't know great canadian parliamentarian
+
+524
+00:49:05,270 --> 00:49:11,010
+SPK_1: of the 19th century so you're not familiar but a person but point being or your modern politician
+
+525
+00:49:11,010 --> 00:49:17,050
+SPK_1: yeah think about it yeah yeah the standards read the speeches read the language like
+
+526
+00:49:17,590 --> 00:49:22,730
+SPK_1: simply read the speeches the way they speak in parliament in 19th century like even in the 19th
+
+527
+00:49:22,730 --> 00:49:27,210
+SPK_1: century not going let's say in the medieval but just read the way they speak and read the way it's
+
+528
+00:49:27,210 --> 00:49:33,470
+SPK_1: it is spoken now like don't i i think this anger towards the past it's not just the anger towards
+
+529
+00:49:33,470 --> 00:49:39,090
+SPK_1: imperfections towards the past it's mostly anger towards that we are not we subconsciously know we
+
+530
+00:49:39,090 --> 00:49:45,210
+SPK_1: are not really better than our past but our whole let's say political theology is centered around it
+
+531
+00:49:47,590 --> 00:49:53,150
+SPK_1: and that's the key how it must be done and etc etc etc so many many things are playing out i think
+
+532
+00:49:53,150 --> 00:49:58,270
+SPK_1: it's not just one directional story basically yeah i think that's a really interesting insight you
+
+533
+00:49:58,270 --> 00:50:03,670
+SPK_0: know because in some ways there it's a it's a yeah it's a faint right it's like it's like
+
+534
+00:50:03,670 --> 00:50:09,210
+SPK_0: actually a weird faint where we are actually much worse than than the ancients and we're more more
+
+535
+00:50:09,210 --> 00:50:16,210
+SPK_0: stupid like you know the citizenry is less involved less educated and less aware of the issues
+
+536
+00:50:17,610 --> 00:50:22,670
+SPK_0: even though we're a democracy it's like we're a democracy but nobody's aware of any of the issues
+
+537
+00:50:22,670 --> 00:50:28,150
+SPK_0: at least in our countries like in canada and america we never discuss any actual political
+
+538
+00:50:28,150 --> 00:50:35,410
+SPK_0: or economic issues it's all bluster it's just insane it's all it's all just it's all just like
+
+539
+00:50:35,410 --> 00:50:41,670
+SPK_0: kind of empty political rhetoric our our prime minister is astounding like justin trudeau is
+
+540
+00:50:41,670 --> 00:50:47,290
+SPK_0: amazing like he is he is a he is a he has something to behold because
+
+541
+00:50:47,590 --> 00:50:54,990
+SPK_0: he can speak for five minutes and then you you you say okay so what did he say and you realize he
+
+542
+00:50:54,990 --> 00:51:01,010
+SPK_0: actually there's no content in his speech and he is the prime minister of canada he's not dealing
+
+543
+00:51:01,010 --> 00:51:07,070
+SPK_0: with any of the issues he's not giving he's just saying as canadians we take this seriously and
+
+544
+00:51:07,070 --> 00:51:11,590
+SPK_0: we're going to consider it and we know that the canadians are with us because this is an issue
+
+545
+00:51:11,590 --> 00:51:16,230
+SPK_0: that is important to us and he can do that in an entire speech and he's actually not saying anything
+
+546
+00:51:17,590 --> 00:51:22,970
+SPK_0: and you're right i think that's right is is that in some ways this weird contraction of the past
+
+547
+00:51:22,970 --> 00:51:30,070
+SPK_0: like this weird desire to you know make the past as short as possible too this is also something
+
+548
+00:51:30,070 --> 00:51:35,130
+SPK_0: that's happening is that you see that in the united states especially right like the whole
+
+549
+00:51:35,130 --> 00:51:40,530
+SPK_0: slavery question united states is funny because people act as if the only thing that exists is
+
+550
+00:51:40,530 --> 00:51:46,070
+SPK_0: the is the the kind of transatlantic state trade you know in the modern age and that everything
+
+551
+00:51:46,070 --> 00:51:47,570
+SPK_0: about us is related to the reality of our times because there are all sorts of things like slavery and todo's business and everything else but there are some of those things that we don't know about and there are no good ways of knowing about it
+
+552
+00:51:47,570 --> 00:51:52,810
+SPK_0: to that but there's nothing around it like there's no history nobody knows anything about any history
+
+553
+00:51:52,810 --> 00:51:59,570
+SPK_0: before before that uh that's a that's a great insight that it's an interesting insight about
+
+554
+00:51:59,570 --> 00:52:05,990
+SPK_0: the and it just it like contracts everything into this into this moment and then when you end up
+
+555
+00:52:05,990 --> 00:52:13,770
+SPK_0: having are these really vague idea of progress yeah like effectively you know and progress yeah
+
+556
+00:52:13,770 --> 00:52:18,230
+SPK_0: yeah and the progress thing the progress thing is a mystery to me it's it's one of the most
+
+557
+00:52:18,230 --> 00:52:25,390
+SPK_0: mysterious aspects of modern politics because because progress in progress necessarily has to
+
+558
+00:52:25,390 --> 00:52:31,490
+SPK_0: be teleological because you have to be able to measure progress towards a purpose but the progress
+
+559
+00:52:31,490 --> 00:52:38,230
+SPK_0: progress that the modern politician talks about or the modern political class talks about is a vague
+
+560
+00:52:38,230 --> 00:52:43,690
+SPK_0: open-ended progress that we don't know actually
+
+561
+00:52:43,770 --> 00:52:51,270
+SPK_0: what it is it's it like it just means something like more is it more equality more it's heaven
+
+562
+00:52:51,270 --> 00:52:55,810
+SPK_1: on earth no i think we know what it is like again we know what it is progress is heaven on earth
+
+563
+00:52:55,810 --> 00:52:59,890
+SPK_0: right here right now yeah all right that's it yeah that's a good that's a good probably a good
+
+564
+00:52:59,890 --> 00:53:05,670
+SPK_0: it's a utopian it's a new utopian vision really it but it's always been the case because actual
+
+565
+00:53:05,670 --> 00:53:12,010
+SPK_1: like i don't know if you know about this whole hobson idea but the hobson idea we kind of keep
+
+566
+00:53:12,010 --> 00:53:13,530
+SPK_1: forgetting where is this idea
+
+567
+00:53:13,770 --> 00:53:17,990
+SPK_1: modern progress is coming from and one of it was actual gigantic disillusionment of
+
+568
+00:53:17,990 --> 00:53:24,130
+SPK_1: europe after the 30 years old war which started our age we live in the age of modernity for like
+
+569
+00:53:24,130 --> 00:53:28,910
+SPK_1: the last 400 years and it started with 30 years world uh just for the audience who might not be
+
+570
+00:53:28,910 --> 00:53:35,890
+SPK_1: aware and uh it was devastating like and people were really like really devastated like and
+
+571
+00:53:35,890 --> 00:53:40,470
+SPK_1: thinkers were really devastating it was a despair and despair was in part because the root cause of
+
+572
+00:53:40,470 --> 00:53:43,510
+SPK_1: the 30 years world war 30 years you can argue world
+
+573
+00:53:43,770 --> 00:53:49,870
+SPK_1: war was that different versions of heaven been fighting each other killing each other and they
+
+574
+00:53:49,870 --> 00:53:55,730
+SPK_1: decided okay so it's not so the cops personally that was his idea okay we cannot fight about whose
+
+575
+00:53:55,730 --> 00:54:01,250
+SPK_1: version of heaven is right so let's just put this question outside of the box and let's kind of
+
+576
+00:54:01,250 --> 00:54:06,610
+SPK_1: freeze our eschatological and historical time and this goal of the state is to keep the society
+
+577
+00:54:06,610 --> 00:54:12,370
+SPK_1: effectively frozen until the second coming jesus will come he will solve this problem we don't have
+
+578
+00:54:12,370 --> 00:54:13,750
+SPK_1: to address it but it's important to keep the
+
+579
+00:54:13,770 --> 00:54:19,930
+SPK_1: possible not to address it because yeah i'm giving up my card this is how hobbes i i mean i don't
+
+580
+00:54:19,930 --> 00:54:25,950
+SPK_0: know he actually had an eschatological aspect to his oh yeah no he was literally arguing against
+
+581
+00:54:25,950 --> 00:54:31,210
+SPK_1: paul like his writing his was he was directly paraphrasing paul if our paul has the church
+
+582
+00:54:31,210 --> 00:54:35,990
+SPK_1: gobs has the state he and it's literal like line by line i don't have it right in front of me but
+
+583
+00:54:35,990 --> 00:54:41,750
+SPK_1: maybe the next time or like outside we can talk about it no hopes is it's it's exactly he's
+
+584
+00:54:41,750 --> 00:54:46,330
+SPK_1: deeply theological he's he's a leviathan and he might it fascinating because you are
+
+585
+00:54:46,330 --> 00:54:51,010
+SPK_1: this is a symbolism of leviathan you are discovering right now but it's not arbitrary
+
+586
+00:54:51,010 --> 00:54:56,130
+SPK_1: like it's a it's a very theological it's it's so deeply rooted in christian tradition it's
+
+587
+00:54:56,130 --> 00:54:59,930
+SPK_1: addressing christian tradition and ultimate question he's strangling so how do we live
+
+588
+00:54:59,930 --> 00:55:05,290
+SPK_1: we know that there is a second coming but we don't know when so how do we live until this
+
+589
+00:55:05,290 --> 00:55:10,390
+SPK_1: when and he was because previous way of living until this when he saw around himself is like
+
+590
+00:55:11,750 --> 00:55:16,410
+SPK_1: he did he was legitimately terrified traumatized and scared man because he was born on the
+
+591
+00:55:16,410 --> 00:55:22,470
+SPK_1: day the spanish ramada was kind of moving towards uh britain like so all these things
+
+592
+00:55:22,470 --> 00:55:26,490
+SPK_1: were really deeply affected him and he was really trying and his solution was so let's
+
+593
+00:55:26,490 --> 00:55:31,270
+SPK_1: just freeze it let's just freeze this question we let's just pretend they are not important
+
+594
+00:55:31,270 --> 00:55:35,970
+SPK_1: let's just talk about different things but as we discussed before you cannot because
+
+595
+00:55:35,970 --> 00:55:41,170
+SPK_1: it is the questions it is mystical any unity is a mystical unity and then you start like
+
+596
+00:55:41,750 --> 00:55:46,450
+SPK_1: he has seen theology coming taking his revenge just in its secular form in a form of french
+
+597
+00:55:46,450 --> 00:55:51,250
+SPK_1: revolution and then in a form of enlightenment it's exactly the same manner he tried he was
+
+598
+00:55:51,250 --> 00:55:55,710
+SPK_1: trying to freeze but he didn't understand it's impossible to freeze but we keep pretending
+
+599
+00:55:55,710 --> 00:56:00,010
+SPK_1: it's possible to freeze like that so that's an interesting yeah that's a really that's
+
+600
+00:56:00,010 --> 00:56:05,710
+SPK_0: a that's a that's a definitely an interesting insight and i do think for sure you know that
+
+601
+00:56:05,710 --> 00:56:11,430
+SPK_0: in some ways i mean a lot of the modern political ideas they they have
+
+602
+00:56:11,750 --> 00:56:16,990
+SPK_0: definitely a kind of religious aspect or like the very idea of progress like you said in some ways
+
+603
+00:56:16,990 --> 00:56:23,370
+SPK_0: it is it is a religious it's a weird religious idea in you know this vision of something this
+
+604
+00:56:23,370 --> 00:56:27,650
+SPK_0: like yeah like the heavenly city or something and that it's vague enough so that it can call
+
+605
+00:56:27,650 --> 00:56:33,370
+SPK_0: draw us into it uh but it is this yeah that's fascinating actually that's i think i think
+
+606
+00:56:33,370 --> 00:56:40,830
+SPK_1: honestly that's actually the difference jonathan because uh it's not it's simultaneously vague but
+
+607
+00:56:41,750 --> 00:56:46,250
+SPK_1: the purpose is not to be drawn to it the purpose is to have it here right here right now
+
+608
+00:56:46,250 --> 00:56:51,410
+SPK_1: so that's i think that's i think the true even difference with let's say the aquinas project to
+
+609
+00:56:51,410 --> 00:56:55,930
+SPK_1: bring the you know city of god to the city of man and he at least understood it's a process
+
+610
+00:56:55,930 --> 00:57:01,510
+SPK_1: and he didn't expect it to happen like uh immediately and it was yeah a long term and
+
+611
+00:57:01,510 --> 00:57:05,590
+SPK_1: now we have this paradox at the same time it's really vague as you said it's really hard to put
+
+612
+00:57:05,590 --> 00:57:10,930
+SPK_1: in all of the description but we must have it right here right now it is very important to have
+
+613
+00:57:11,750 --> 00:57:17,050
+SPK_1: it right now if it's not happening within the next presidential term we are doomed like we're doomed
+
+614
+00:57:18,570 --> 00:57:25,270
+SPK_0: yeah well also because they because there's a they the let's say the globalists also use uh
+
+615
+00:57:25,270 --> 00:57:31,290
+SPK_0: apocalyptic uh environmentalism you know to fuel the movement you know and it's all and it's
+
+616
+00:57:31,290 --> 00:57:35,770
+SPK_0: fascinating to watch how you know it's interchangeable in their mind i don't know how
+
+617
+00:57:35,770 --> 00:57:40,310
+SPK_0: conscious it is where it's like you it's like there's a relationship in their mind between
+
+618
+00:57:42,050 --> 00:57:46,230
+SPK_0: environmentalism and they're able to kind of jumble it together as this like social program
+
+619
+00:57:46,230 --> 00:57:52,490
+SPK_0: where we have to be a certain way but the vision i mean i don't know because i i don't totally
+
+620
+00:57:54,330 --> 00:58:00,130
+SPK_0: because i'm not i'm not a progressive right i i can kind of i can kind of enter into that
+
+621
+00:58:00,130 --> 00:58:06,690
+SPK_0: thinking to some extent and i understand some of the reactions let's say of the desire for
+
+622
+00:58:06,690 --> 00:58:12,430
+SPK_0: variability in a system that's too set right i kind of understand that and i see it but
+
+623
+00:58:13,030 --> 00:58:21,170
+SPK_0: you know the vision the vision that even they have that's ultimately seems to be anti-human
+
+624
+00:58:21,170 --> 00:58:27,190
+SPK_0: and that's what i don't totally like that's what i i think it's satanic in that sense like i i hate
+
+625
+00:58:27,190 --> 00:58:31,430
+SPK_0: the word that use that word to to clear i think it's like a weird trickery like this weird trickery
+
+626
+00:58:31,430 --> 00:58:40,090
+SPK_0: that the liberation from forms of control right is simultaneously creating stronger and stronger
+
+627
+00:58:40,090 --> 00:58:43,010
+SPK_0: forms of control at the same time i see it i see it i see it i see it i see it i see it i see it
+
+628
+00:58:43,030 --> 00:58:51,230
+SPK_0: and that ultimately it actually leads to a desire for the elimination of the human which is it's hard
+
+629
+00:58:51,230 --> 00:58:54,770
+SPK_0: to wrap your head around it but it seems to be that's what the case the case of what we see
+
+630
+00:58:54,770 --> 00:59:02,210
+SPK_1: happening uh i i can offer you a way of yeah go for it sorry like uh so two points the first is
+
+631
+00:59:03,610 --> 00:59:09,090
+SPK_1: it's not elimination of control uh it's elimination of control where you you are not
+
+632
+00:59:13,030 --> 00:59:25,210
+SPK_1: like well that's right so that's that's a little bit of a
+
+633
+00:59:25,210 --> 00:59:26,990
+SPK_1: you know i i i i i i i think it seems to be like what and i think it's not elimination of control
+
+634
+00:59:26,990 --> 00:59:33,410
+SPK_1: where you you're not like what kind of individual does has the Towards hierarchy i think it's an
+
+635
+00:59:33,410 --> 00:59:36,390
+SPK_1: social part of the system and in that sense it's the opposite because there's a certain hierarchy
+
+636
+00:59:43,030 --> 00:59:49,730
+SPK_1: form of subsidiarity around you is consciously chosen by you in an absolute free environment
+
+637
+00:59:49,730 --> 00:59:55,290
+SPK_1: with now further external influence then you are not free and they want to be this man they want
+
+638
+00:59:55,290 --> 01:00:03,190
+SPK_1: to be the man that uh chooses every single form of subsidiary constantly and it's not once and
+
+639
+01:00:03,190 --> 01:00:09,270
+SPK_1: for all but every single moment you can argue it's a little bit schizophrenic but whatever that's how
+
+640
+01:00:09,270 --> 01:00:13,430
+SPK_1: they see like so the idea is like because you because there is an element of it and i think
+
+641
+01:00:13,430 --> 01:00:19,430
+SPK_1: jonathan peterson talks a little bit about it that any name any identity does indeed have a
+
+642
+01:00:19,430 --> 01:00:24,690
+SPK_1: tyrannical element in itself yeah the moment you accept certainty upon the moment you accept it
+
+643
+01:00:24,690 --> 01:00:29,230
+SPK_1: and there is an element of control in it there is an element there is an element something you
+
+644
+01:00:29,230 --> 01:00:33,370
+SPK_1: must surrender to it and they don't want to surrender anything they want to be the one
+
+645
+01:00:33,910 --> 01:00:39,090
+SPK_1: to whom it is surrendered yeah all right so you see how this trick it's working but i i don't
+
+646
+01:00:39,090 --> 01:00:39,190
+SPK_0: see
+
+647
+01:00:39,270 --> 01:00:43,890
+SPK_0: how it's related to environmentalism and i'll tell you like i'll tell you why because
+
+648
+01:00:43,890 --> 01:00:51,390
+SPK_0: so let's take i mean the the the lgbt stuff uh that's clear like you can see that that is in
+
+649
+01:00:51,390 --> 01:00:58,070
+SPK_0: some ways you know the ultimate liberal act act which is self-determination self-naming
+
+650
+01:00:58,070 --> 01:01:03,290
+SPK_0: i i'm actually not i'm not even dependent on any form of constraint even my body even social
+
+651
+01:01:03,290 --> 01:01:08,350
+SPK_0: constraint like there's no constraint i i break open the constraints and i become a rainbow right
+
+652
+01:01:08,350 --> 01:01:14,050
+SPK_0: example right uh it's like it's all multiplicity right um and so that's re that that's but then
+
+653
+01:01:14,050 --> 01:01:21,590
+SPK_0: there's the the environmental thing is a call for absolute control but it's absolute control where
+
+654
+01:01:21,590 --> 01:01:27,550
+SPK_1: we are in church and not evil capitalism it's right this is a power so i told you so the same
+
+655
+01:01:27,550 --> 01:01:33,570
+SPK_1: way it's me who controls my body it should be me who controls the planet not some hierarchical
+
+656
+01:01:33,570 --> 01:01:36,350
+SPK_1: capitalist structure see so yeah
+
+657
+01:01:36,350 --> 01:01:41,390
+SPK_1: yeah for them it works i know it's a little bit tricky but it makes sense as long as so is
+
+658
+01:01:41,390 --> 01:01:47,190
+SPK_1: basically the lie is they claim that they want no structures but it's a lie they want the structure
+
+659
+01:01:47,190 --> 01:01:53,010
+SPK_1: with them in control but uh still the whole pattern is that in that sense the true liberation
+
+660
+01:01:53,010 --> 01:01:59,590
+SPK_1: exactly happens from uh any non-arbitrary hierarchy and every article should be arbitrary and conscious
+
+661
+01:01:59,590 --> 01:02:06,130
+SPK_1: and like chosen by me uh chosen by me voluntarily so that's one important thing but i think there
+
+662
+01:02:06,130 --> 01:02:09,590
+SPK_1: is a thing deeper in it and it's connected to what we're talking before and that's my hypothesis
+
+663
+01:02:09,590 --> 01:02:14,910
+SPK_1: but i think it comes very deep to gnostic tradition to many he and tradition
+
+664
+01:02:15,610 --> 01:02:20,290
+SPK_1: and it is a confusion of two things i don't know if we have time to talk about it between respect
+
+665
+01:02:20,290 --> 01:02:25,170
+SPK_1: and love and i think that's actually a western thing which could just now spread across the globe
+
+666
+01:02:25,850 --> 01:02:31,110
+SPK_1: because i think especially in the west like it's a very long story how it developed but
+
+667
+01:02:31,110 --> 01:02:36,070
+SPK_1: you as an orthodox can see it there is this kind of this weird mixture that something we
+
+668
+01:02:36,130 --> 01:02:42,570
+SPK_1: are not perfect or something which is not worthy of respect is also not worthy of love
+
+669
+01:02:43,270 --> 01:02:48,090
+SPK_1: there is this thing which plays again in the western culture and it is but as we've been
+
+670
+01:02:48,090 --> 01:02:53,530
+SPK_1: talking before because of the sinful nature there is there is constantly a lot of imperfection
+
+671
+01:02:53,530 --> 01:02:58,850
+SPK_1: there is not that much in reality in the society which is a true worthy of respect okay there is a
+
+672
+01:02:58,850 --> 01:03:05,970
+SPK_1: king authority figure somebody who is successful etc etc etc uh but uh it won't be the majority
+
+673
+01:03:06,130 --> 01:03:09,990
+SPK_1: yeah america tries to solve it through like capitalism and everyone with your respect but
+
+674
+01:03:10,470 --> 01:03:15,850
+SPK_1: i can straight away say no like many people will be left out many people are left out if the only
+
+675
+01:03:15,850 --> 01:03:21,170
+SPK_1: thing which is lovable is the one it basically if you make love and respect the same
+
+676
+01:03:21,170 --> 01:03:25,950
+SPK_1: then you have so many people left out of both and i think that's where this whole game coming
+
+677
+01:03:25,950 --> 01:03:30,850
+SPK_1: from because then they think so because we want to be loved like everybody wants to be loved etc etc
+
+678
+01:03:31,330 --> 01:03:35,990
+SPK_1: then we have to through society through these different elements to make
+
+679
+01:03:36,130 --> 01:03:40,190
+SPK_1: us worthy but at the same time they're not addressing the core issues that imperfect
+
+680
+01:03:41,050 --> 01:03:45,050
+SPK_1: something which is rejected like here is the whole christ figure is coming in he shows that
+
+681
+01:03:45,510 --> 01:03:49,630
+SPK_1: love is for everyone not for just something which is worse on respected says it should
+
+682
+01:03:49,630 --> 01:03:53,630
+SPK_1: respect the poor like in a sense you know societal that you should put them on pedestal
+
+683
+01:03:53,630 --> 01:03:59,010
+SPK_1: but he says you should love them but because this distinction is lost i think that's how
+
+684
+01:03:59,010 --> 01:04:04,850
+SPK_1: the deep seed is coming into their thinking so that's why they consider them same just that's
+
+685
+01:04:04,850 --> 01:04:06,110
+SPK_1: why they consider them some just that's why they consider them some doing good or they consider them some do good
+
+686
+01:04:06,130 --> 01:04:14,010
+SPK_1: is a good thing that's what yeah but it's an interesting it's an interesting hypothesis i'm
+
+687
+01:04:14,010 --> 01:04:20,350
+SPK_0: kind of testing it out in my mind on different things uh because so this is my my the way that
+
+688
+01:04:20,350 --> 01:04:27,270
+SPK_0: i tend to approach it is really through the idea that extremes necessarily call each other that's
+
+689
+01:04:27,270 --> 01:04:33,510
+SPK_0: the way that i tend to think about it and so that's why when i see a move towards idiosyncrasy
+
+690
+01:04:33,510 --> 01:04:38,450
+SPK_0: what i notice is that there's a move towards control that happens simultaneously and that
+
+691
+01:04:38,450 --> 01:04:43,870
+SPK_0: move towards control becomes more and more tyrannical as the move towards idiosyncrasy
+
+692
+01:04:43,870 --> 01:04:48,610
+SPK_0: functions and so and so to me that's the only way to explain certain things so for example like
+
+693
+01:04:48,610 --> 01:04:55,770
+SPK_0: the relationship between self-naming and you being whatever it is that you want to be and and you
+
+694
+01:04:55,770 --> 01:05:00,730
+SPK_0: could just say what you are you're a cat you're a whatever and that you can become whatever you
+
+695
+01:05:00,730 --> 01:05:03,090
+SPK_0: want that and cancel culture
+
+696
+01:05:03,510 --> 01:05:09,990
+SPK_0: at the outset you think how do those things fit together but it's because one necessitates
+
+697
+01:05:09,990 --> 01:05:17,450
+SPK_0: necessitates the other by its very well by its very uh idiosyncratic emphasis right and so
+
+698
+01:05:17,450 --> 01:05:24,470
+SPK_0: that to me is the way that i explained also the relationship between globalist control tendencies
+
+699
+01:05:24,470 --> 01:05:29,390
+SPK_0: like that's why there was even it was so weird like it was so weird in covid to watch the
+
+700
+01:05:29,390 --> 01:05:33,430
+SPK_0: alignments right to watch the the the
+
+701
+01:05:33,510 --> 01:05:39,190
+SPK_0: the rainbow people align with absolute state control over every aspect of your life and
+
+702
+01:05:39,190 --> 01:05:44,350
+SPK_0: and it was like how is it how did this work but i i realized that in some ways that this was a
+
+703
+01:05:44,350 --> 01:05:50,970
+SPK_0: necessary thing um sort of just because because let me just one say would say one more thing is
+
+704
+01:05:50,970 --> 01:05:56,310
+SPK_0: that the so the what happens is that on the one hand and even in this rainbow culture you have
+
+705
+01:05:56,310 --> 01:06:02,710
+SPK_0: something like you know you should love me just the way i am right you should love you you should
+
+706
+01:06:03,510 --> 01:06:10,970
+SPK_0: me you should love me but then in it there's this insane level of judgment that will basically you
+
+707
+01:06:10,970 --> 01:06:18,150
+SPK_0: know force you to do like uh you know uh that that can it can destroy your career destroy your
+
+708
+01:06:18,150 --> 01:06:23,290
+SPK_0: life destroy all of your elite all of your reputation because it's not love because again
+
+709
+01:06:23,290 --> 01:06:27,810
+SPK_1: again there is a trick i think all right which is happening uh because it's not about love it's
+
+710
+01:06:27,810 --> 01:06:33,210
+SPK_1: about chosen and it's unfortunately this derivative of american protestantism because again
+
+711
+01:06:33,510 --> 01:06:39,450
+SPK_1: the i think i was wrong that is like only chosen can be loved only pure can be loved only perfect
+
+712
+01:06:39,450 --> 01:06:43,050
+SPK_1: can be loved and like chosen who is safe you know yeah yeah yeah like that
+
+713
+01:06:43,050 --> 01:06:51,170
+SPK_1: elect so what's the name love it's like you should love me no i should be a like i am the
+
+714
+01:06:51,170 --> 01:06:56,170
+SPK_1: elect and it's all competition of different for different statuses of elect so i cannot be elect
+
+715
+01:06:56,170 --> 01:07:00,210
+SPK_1: in capitalist system and i think it's wrong i don't think your quote-unquote electability
+
+716
+01:07:00,210 --> 01:07:03,490
+SPK_1: should be based on your economic success it's a different story but that's why
+
+717
+01:07:03,510 --> 01:07:08,310
+SPK_1: i think they kind of created this but then they so we cannot compete this so we create an alternative
+
+718
+01:07:08,310 --> 01:07:13,370
+SPK_1: way of competition but for the same thing so now we're like because we are rainbow now we are
+
+719
+01:07:13,370 --> 01:07:18,430
+SPK_1: elect because we are wearing a mask and the goal of the state is to effectively give you
+
+720
+01:07:18,430 --> 01:07:22,370
+SPK_1: a passport paper you are the electron that's what they're fighting for
+
+721
+01:07:23,050 --> 01:07:26,050
+SPK_0: oh yeah that's an interesting idea so then the social credit system
+
+722
+01:07:26,050 --> 01:07:33,370
+SPK_0: tendency that we were moving towards makes sense it's like you you basically want god to tell you
+
+723
+01:07:33,510 --> 01:07:38,970
+SPK_0: you're of the chosen people but because we don't believe in god we want the state to do it to say
+
+724
+01:07:38,970 --> 01:07:45,590
+SPK_0: you're a good boy you know like you're you're the one and now people should love you and now people
+
+725
+01:07:45,590 --> 01:07:50,490
+SPK_1: exactly you're the good one and now people should love you yes yeah yeah yeah that's it really that's
+
+726
+01:07:50,490 --> 01:07:56,910
+SPK_0: an interesting idea because because usually the way that that functions right is is organic there's
+
+727
+01:07:56,910 --> 01:08:03,250
+SPK_0: an organic process by which we discover respect and love and a type of election right because if i marry
+
+728
+01:08:03,250 --> 01:08:10,130
+SPK_0: someone i i elect them if i you know if i and if i hire people i elect them and so there's this
+
+729
+01:08:10,130 --> 01:08:17,790
+SPK_0: there's this kind of organic process but you know the yeah the tendency is to want to find a way to
+
+730
+01:08:17,790 --> 01:08:25,450
+SPK_0: be a an elect that shortcuts all of that and like the state shortcut because it's all tyrannical and
+
+731
+01:08:25,450 --> 01:08:31,330
+SPK_1: bad because they are not arbitrary i'm not free in this because because i was born into family
+
+732
+01:08:31,330 --> 01:08:33,230
+SPK_1: for example i'm not loved by my family and i'm not loved by my family and i'm not loved by my family
+
+733
+01:08:33,250 --> 01:08:40,310
+SPK_0: i was born into it what yeah and so and so the the yeah yeah so so the the um you know strange
+
+734
+01:08:40,310 --> 01:08:46,670
+SPK_0: uh whatever uh brave new world vision that you see in in some of those cultures where you should
+
+735
+01:08:46,670 --> 01:08:51,730
+SPK_0: you should you should not be allowed to refuse to sleep with someone like you should you see
+
+736
+01:08:51,730 --> 01:08:57,450
+SPK_0: that in in in some of the the rainbow stuff where it's like you know i'm a trans this and
+
+737
+01:08:58,110 --> 01:09:02,910
+SPK_0: it's like it's unex it's unacceptable that you don't want to sleep with me like you should
+
+738
+01:09:03,250 --> 01:09:07,890
+SPK_0: and it's like there's this weird imp implying that almost like the state should force you
+
+739
+01:09:08,530 --> 01:09:12,930
+SPK_1: to sleep otherwise you're denying me my chosen status exactly you're telling me
+
+740
+01:09:12,930 --> 01:09:19,050
+SPK_0: by not oh yeah yeah yeah that's an interesting idea i'd have to play that out in my mind
+
+741
+01:09:19,050 --> 01:09:26,270
+SPK_0: also like to see what the corollaries are uh yeah yeah to see what so so this is interesting
+
+742
+01:09:26,270 --> 01:09:32,210
+SPK_0: also in the idea you know you see that in uh in the book of revelation you see these two images
+
+743
+01:09:33,250 --> 01:09:55,590
+SPK_0: to see hilo right like Qin hilo which represents a man called Qin hilo which is the Facet one
+
+744
+01:09:57,510 --> 01:10:03,130
+SPK_0: but the dream of him is
+
+745
+01:10:03,130 --> 01:10:08,330
+SPK_0: name effectively your true name your true name right and so it's like these two images of where
+
+746
+01:10:08,330 --> 01:10:15,630
+SPK_0: it is that we get our value from yeah yeah correct me if i'm wrong but i think the difference is that
+
+747
+01:10:15,630 --> 01:10:21,170
+SPK_1: like the mark of the beast is visible and the mark of the god is invisible yeah it's hidden it's a
+
+748
+01:10:21,170 --> 01:10:27,170
+SPK_0: hidden it says we'll give us we'll put your name on a stone like white stone that only you will
+
+749
+01:10:27,170 --> 01:10:32,270
+SPK_0: know like there's a secret aspect to it for sure but see that's the thing that's where for us
+
+750
+01:10:32,270 --> 01:10:37,730
+SPK_1: everyone is a human i think that's the challenge because this hidden element there is no certainty
+
+751
+01:10:37,730 --> 01:10:43,050
+SPK_1: like you don't know and that's like what the christian culture has been struggling for like
+
+752
+01:10:43,050 --> 01:10:48,710
+SPK_1: millennia we have to admit that people wanted to be saved but they it was but they were anxious
+
+753
+01:10:48,710 --> 01:10:53,050
+SPK_1: about it because you don't know are you saved or you're not it's if it's the most important question
+
+754
+01:10:53,050 --> 01:10:58,350
+SPK_1: if it is hidden so it's a constant exercise in this humility it's a constant exercise of
+
+755
+01:10:58,350 --> 01:11:01,870
+SPK_1: surrendering yourself and you can humanly understand the desire
+
+756
+01:11:02,270 --> 01:11:07,410
+SPK_1: i just want a paper i i just want somebody to tell me for sure being at god or state i don't
+
+757
+01:11:07,410 --> 01:11:13,730
+SPK_1: just give me my ticket that's right give me my take give me in actually in both ways either i
+
+758
+01:11:13,730 --> 01:11:19,930
+SPK_1: mean or i out but don't torture me with this uncertainty i think that's one of the psych i
+
+759
+01:11:19,930 --> 01:11:24,970
+SPK_1: think like it's something psychological here involves it yeah yeah but that's interesting i'd
+
+760
+01:11:24,970 --> 01:11:30,370
+SPK_0: never like i would never have put a calvinist twist on this uh but it is something to think
+
+761
+01:11:30,370 --> 01:11:32,250
+SPK_0: about for sure it's something to consider it's something to consider it's something to consider
+
+762
+01:11:32,270 --> 01:11:40,570
+SPK_0: in terms of this idea of of a kind of certainty of election in you right uh which is that you know
+
+763
+01:11:40,570 --> 01:11:44,350
+SPK_0: the traditional way of understanding the certainty of election is that the certainty of election is
+
+764
+01:11:44,350 --> 01:11:50,110
+SPK_1: in christ it's not in you like it's exactly no exactly that's it yeah but but bringing it into
+
+765
+01:11:50,110 --> 01:11:58,490
+SPK_0: the individualism like linking it to individualism brings that weird kind of uh state um yeah and then
+
+766
+01:11:58,490 --> 01:12:02,150
+SPK_0: wanting to be to be chosen by
+
+767
+01:12:02,270 --> 01:12:08,770
+SPK_0: something that makes it public that you are to be loved let's say and then effectively you just
+
+768
+01:12:08,770 --> 01:12:14,370
+SPK_1: have competition on the criteria on which criteria we're giving this paper is it money is it race is
+
+769
+01:12:14,370 --> 01:12:19,550
+SPK_1: it nation is it's class is it's uh gender it's just a competition which great on which criteria
+
+770
+01:12:19,550 --> 01:12:25,690
+SPK_1: we are giving the paper like that then it's kind of whole just develops into it and that's how but
+
+771
+01:12:25,690 --> 01:12:31,110
+SPK_1: so what unites all of these different people who kind of hate each other often is precisely the
+
+772
+01:12:32,270 --> 01:12:37,970
+SPK_1: way in which we kind of this whole idea of chosenness not through christ which i think
+
+773
+01:12:37,970 --> 01:12:42,430
+SPK_1: actually is a great way of saying it which you mentioned yeah yeah yeah that's a that's i mean
+
+774
+01:12:42,430 --> 01:12:46,050
+SPK_0: it's definitely insightful my mind is going a mile a minute so i definitely i would definitely
+
+775
+01:12:46,050 --> 01:12:49,350
+SPK_0: have to think about some of the things we're talking about to see how they how they kind of
+
+776
+01:12:49,350 --> 01:12:53,810
+SPK_0: how they they they jive with other things that i've been thinking about but it's an interesting
+
+777
+01:12:53,810 --> 01:12:58,470
+SPK_0: definitely an interesting an interesting way of thinking about the problem that we're dealing
+
+778
+01:12:58,470 --> 01:13:02,110
+SPK_0: with now yeah for sure uh just again
+
+779
+01:13:02,270 --> 01:13:08,490
+SPK_1: so i guess we can talk more about it next time hopefully like so if you don't mind i just wanted
+
+780
+01:13:08,490 --> 01:13:12,750
+SPK_1: to say how it is bring it back to the whole political idea because i think there is this whole
+
+781
+01:13:13,370 --> 01:13:19,110
+SPK_1: element also about this chosenness and uh surrendering yourself to christ or not in a way
+
+782
+01:13:19,110 --> 01:13:25,090
+SPK_1: that uh and here people might argue but you know that in maximus the confessor he speaks that all
+
+783
+01:13:25,090 --> 01:13:31,190
+SPK_1: of the logos were effectively created before time and effectively that all of the identities you can
+
+784
+01:13:31,190 --> 01:13:31,970
+SPK_1: argue as a
+
+785
+01:13:32,270 --> 01:13:40,330
+SPK_1: similar pattern are pre-created like all true identities are pre-created and another challenge
+
+786
+01:13:40,330 --> 01:13:44,750
+SPK_1: for modern and rationalist enlightenment thinking which goes into all these different patterns we
+
+787
+01:13:44,750 --> 01:13:50,570
+SPK_1: describe is to accept it because we understand identity is something we create it's something
+
+788
+01:13:50,570 --> 01:13:56,410
+SPK_1: we choose and to surrender to something it's something we should we should receive and not
+
+789
+01:13:56,410 --> 01:14:02,230
+SPK_1: control that's a big ultimate challenge but it's also the core challenge which also kind of unites
+
+790
+01:14:02,270 --> 01:14:08,790
+SPK_1: all of these different elements together that's that would be my last i guess point and uh yeah i
+
+791
+01:14:08,790 --> 01:14:14,550
+SPK_0: think i mean that definitely makes sense and in some ways that is the the one of the aspects of
+
+792
+01:14:14,550 --> 01:14:21,370
+SPK_0: subsidiarity and the idea of how identity is received right it comes from heaven it's hard
+
+793
+01:14:21,370 --> 01:14:25,050
+SPK_0: for modernists to hear language like that but there's a manner in which
+
+794
+01:14:26,130 --> 01:14:32,250
+SPK_0: identity is the precondition for the being to come together towards a purpose right
+
+795
+01:14:32,270 --> 01:14:38,810
+SPK_0: so you could say that an identity is a purpose calling multiplicity into its unity uh and that
+
+796
+01:14:38,810 --> 01:14:47,190
+SPK_0: and that this like you said is is received and all the sins of the the big sins in the bible
+
+797
+01:14:47,190 --> 01:14:51,690
+SPK_0: whether it's the sin of adam and eve whether it's the sin of satan uh even if the saint of
+
+798
+01:14:51,690 --> 01:14:57,170
+SPK_0: saint peter is a sin of self-naming self-identifying right and saint max was a
+
+799
+01:14:57,170 --> 01:15:01,630
+SPK_0: confessor he identifies that himself as what he called the sins of the right hand
+
+800
+01:15:02,270 --> 01:15:09,830
+SPK_0: which is this idea that it's the the first sin is always a sin of of not receiving from god right
+
+801
+01:15:09,830 --> 01:15:16,110
+SPK_0: of saying of trying to contain an identity fully in itself and to own it or at its level and that
+
+802
+01:15:16,110 --> 01:15:20,050
+SPK_0: then leads to breakdown right it's an image of the tower of babel saying maximus obviously
+
+803
+01:15:20,830 --> 01:15:24,890
+SPK_0: thinks and like thinks and all these things together like if you try to hold on to something
+
+804
+01:15:24,890 --> 01:15:31,630
+SPK_0: and make it real completely on its own then it shatters um but yeah but just how it works in the
+
+805
+01:15:32,270 --> 01:15:36,430
+SPK_1: just i should have started with them yeah yeah go for it i basically i'm argue i was arguing in a
+
+806
+01:15:36,430 --> 01:15:42,570
+SPK_1: simple example idea that we think that we can take any group of people and make them a state just
+
+807
+01:15:42,570 --> 01:15:46,810
+SPK_1: because we recognize this as such for example or make it a nation just because we request without
+
+808
+01:15:46,810 --> 01:15:51,650
+SPK_1: any so all the different subsidiarity relations there it was very evidently you know after the
+
+809
+01:15:52,250 --> 01:15:56,310
+SPK_1: so-called decolonization process when western empires were just leaving and these are the
+
+810
+01:15:56,310 --> 01:16:00,630
+SPK_1: borders that we created so just you take them and live in them without live and understanding that
+
+811
+01:16:02,270 --> 01:16:07,770
+SPK_1: that's exactly the same pattern so we just come and make whatever we want including like states
+
+812
+01:16:07,770 --> 01:16:14,130
+SPK_1: and it doesn't work they must grow or get and yeah part of organic growth is competition fighting yes
+
+813
+01:16:14,130 --> 01:16:18,470
+SPK_1: it can't get bloody but there is a pattern but back to your point exactly it's massive confessor
+
+814
+01:16:18,470 --> 01:16:24,990
+SPK_1: so like for us it's just hard to accept that it's not us who creates identities on all level being
+
+815
+01:16:24,990 --> 01:16:30,930
+SPK_1: on personal family structural political global which goes on a global level it's exactly as you
+
+816
+01:16:30,930 --> 01:16:32,250
+SPK_1: said the same pattern we're not we're not going to be able to be able to do that on a global level
+
+817
+01:16:32,270 --> 01:16:35,650
+SPK_1: we can create this name and identity for ourselves.
+
+818
+01:16:35,990 --> 01:16:38,910
+SPK_1: Not receive it, but we create.
+
+819
+01:16:39,530 --> 01:16:43,350
+SPK_0: No, that's exactly, I think that intuition is right.
+
+820
+01:16:43,470 --> 01:16:48,070
+SPK_0: And in some ways, you know, that is, you know,
+
+821
+01:16:48,070 --> 01:16:50,170
+SPK_0: and there's a type of humility, right?
+
+822
+01:16:50,610 --> 01:16:54,530
+SPK_0: Which is that, you know, when you're born in a family,
+
+823
+01:16:54,630 --> 01:16:56,050
+SPK_0: you don't choose your family.
+
+824
+01:16:56,130 --> 01:16:59,630
+SPK_0: You don't, and your family comes with all the sins
+
+825
+01:16:59,630 --> 01:17:01,990
+SPK_0: and all the virtues of that family.
+
+826
+01:17:02,270 --> 01:17:06,890
+SPK_0: And I think it's the same with our participation in different peoples.
+
+827
+01:17:06,970 --> 01:17:08,770
+SPK_0: Like, you know, I'm a French Canadian, right?
+
+828
+01:17:08,890 --> 01:17:10,790
+SPK_0: And so I don't choose that.
+
+829
+01:17:10,890 --> 01:17:12,510
+SPK_0: I'm born into that reality.
+
+830
+01:17:12,530 --> 01:17:16,710
+SPK_0: If I try to deny it for some universalist thing,
+
+831
+01:17:17,850 --> 01:17:20,210
+SPK_0: or I try to self-create my identity,
+
+832
+01:17:20,470 --> 01:17:25,030
+SPK_0: then I'm actually, I'm denying, you know, aspects of what I am.
+
+833
+01:17:25,050 --> 01:17:25,710
+SPK_0: And it's not useful.
+
+834
+01:17:25,850 --> 01:17:28,790
+SPK_0: It's better to acknowledge the virtues and the sins
+
+835
+01:17:28,790 --> 01:17:32,130
+SPK_0: and to try to cover the sins of my father, right?
+
+836
+01:17:32,270 --> 01:17:35,050
+SPK_0: To cover the nakedness of my father as I move forward.
+
+837
+01:17:36,270 --> 01:17:36,750
+SPK_0: Yeah.
+
+838
+01:17:37,990 --> 01:17:42,270
+SPK_1: Well, yeah, I couldn't agree more with what you just said.
+
+839
+01:17:42,410 --> 01:17:44,710
+SPK_1: And I guess for the rest of the questions we raised,
+
+840
+01:17:44,830 --> 01:17:46,870
+SPK_1: we can talk next time when you have time.
+
+841
+01:17:46,870 --> 01:17:47,290
+SPK_0: Sure, sure.
+
+842
+01:17:47,710 --> 01:17:50,510
+SPK_0: Yeah, but I think, like, the difficulty that we have now
+
+843
+01:17:50,510 --> 01:17:54,510
+SPK_0: is in some ways because we're facing these global solutions.
+
+844
+01:17:54,550 --> 01:17:57,330
+SPK_0: Like, we're noticing the global solutions kind of establish themselves
+
+845
+01:17:57,330 --> 01:18:01,470
+SPK_0: and we're actually seeing them as, you know,
+
+846
+01:18:01,470 --> 01:18:05,150
+SPK_0: you know, competing or trying to compete with national national interest.
+
+847
+01:18:05,910 --> 01:18:07,690
+SPK_0: You know, the question is, what can we do?
+
+848
+01:18:07,810 --> 01:18:11,010
+SPK_0: Because it can really bring us into a state of despair
+
+849
+01:18:12,350 --> 01:18:16,490
+SPK_0: because we are presented with the vision of an individual
+
+850
+01:18:16,490 --> 01:18:18,910
+SPK_0: in this global citizenship, right?
+
+851
+01:18:19,050 --> 01:18:23,530
+SPK_0: But I do think that the solution that we can do
+
+852
+01:18:23,530 --> 01:18:27,750
+SPK_0: is recreate subsidiarity at the local level, right?
+
+853
+01:18:27,850 --> 01:18:30,990
+SPK_0: And that is to be a father, to be in a family,
+
+854
+01:18:30,990 --> 01:18:34,070
+SPK_0: to be a member of a community, whether it's a church,
+
+855
+01:18:34,190 --> 01:18:35,830
+SPK_0: whether it's, you know, different aspects.
+
+856
+01:18:36,150 --> 01:18:41,710
+SPK_0: And that building of subsidiarity will offer resilience
+
+857
+01:18:42,390 --> 01:18:44,330
+SPK_0: when the Tower of Babel falls.
+
+858
+01:18:44,710 --> 01:18:46,990
+SPK_1: I, yes, we can develop this.
+
+859
+01:18:47,050 --> 01:18:48,430
+SPK_1: So basically, I completely agree with you.
+
+860
+01:18:48,510 --> 01:18:50,810
+SPK_1: That's exactly the same advice I give when people ask me,
+
+861
+01:18:50,850 --> 01:18:52,590
+SPK_1: OK, so it's all well and good, but what we do?
+
+862
+01:18:52,850 --> 01:18:57,970
+SPK_1: Well, basically, I have to admit, I'm borrowing this ethos of yours
+
+863
+01:18:57,970 --> 01:18:58,970
+SPK_1: because I agree with it.
+
+864
+01:18:59,090 --> 01:19:00,750
+SPK_1: I would just add one step.
+
+865
+01:19:00,750 --> 01:19:02,830
+SPK_1: Which, in my opinion, is necessary for it.
+
+866
+01:19:02,930 --> 01:19:06,430
+SPK_1: Exactly on the level of a soul, you need to recreate subsidiarity
+
+867
+01:19:06,430 --> 01:19:10,190
+SPK_1: between you and something higher than you, because it is, in my opinion,
+
+868
+01:19:10,230 --> 01:19:12,810
+SPK_1: the foundation for all of the other subsidiarities
+
+869
+01:19:12,810 --> 01:19:13,810
+SPK_1: which you've been describing.
+
+870
+01:19:14,270 --> 01:19:16,590
+SPK_1: But it's just a nitpicking from my side.
+
+871
+01:19:16,770 --> 01:19:19,770
+SPK_1: And other than that, effectively, you just said it's just,
+
+872
+01:19:19,810 --> 01:19:24,230
+SPK_1: I would say it's a paraphrase of what we have in the 36 psalm,
+
+873
+01:19:24,230 --> 01:19:27,470
+SPK_1: which says, fret not thyself because of evil doers,
+
+874
+01:19:27,470 --> 01:19:30,330
+SPK_1: neither be thou envious against the workers of your iniquity.
+
+875
+01:19:30,750 --> 01:19:34,570
+SPK_1: For they shall soon be cut down like the grass and wither as the green herb.
+
+876
+01:19:34,730 --> 01:19:36,470
+SPK_1: Trust in the Lord and do good.
+
+877
+01:19:36,610 --> 01:19:40,470
+SPK_1: So shall thou dwell in the land, and verily thou shall be fed.
+
+878
+01:19:40,670 --> 01:19:42,230
+SPK_1: So kind of it.
+
+879
+01:19:42,310 --> 01:19:44,630
+SPK_1: Again, we are not the first one who dealing with it.
+
+880
+01:19:44,690 --> 01:19:46,770
+SPK_1: I think that's constantly missing this element.
+
+881
+01:19:46,950 --> 01:19:47,310
+SPK_1: We are not.
+
+882
+01:19:47,370 --> 01:19:51,270
+SPK_1: Yes, technology makes it seems that we are in a more dangerous situation
+
+883
+01:19:51,270 --> 01:19:55,810
+SPK_1: because, let's say, the scale is bigger, but the pattern is the same.
+
+884
+01:19:55,930 --> 01:19:58,850
+SPK_1: And the Towers of Babel have already fallen multiple times.
+
+885
+01:19:59,130 --> 01:19:59,810
+SPK_1: Yeah, yeah.
+
+886
+01:19:59,810 --> 01:20:02,150
+SPK_1: Like, it's not the first time it's happening.
+
+887
+01:20:02,370 --> 01:20:05,090
+SPK_1: So like, so that's a practical advice.
+
+888
+01:20:05,170 --> 01:20:08,410
+SPK_1: Actually, read history and then you don't feel so lonely.
+
+889
+01:20:08,630 --> 01:20:10,130
+SPK_1: So then you don't feel like it's happening.
+
+890
+01:20:10,150 --> 01:20:12,430
+SPK_0: I think the psalm you quoted is great.
+
+891
+01:20:12,530 --> 01:20:14,810
+SPK_0: And it's like, love God and love your neighbor.
+
+892
+01:20:15,550 --> 01:20:16,050
+SPK_0: That's it.
+
+893
+01:20:16,190 --> 01:20:19,950
+SPK_0: Like, if you do that, then that's the only solution.
+
+894
+01:20:20,210 --> 01:20:21,290
+SPK_0: It's the one that Christ gave us.
+
+895
+01:20:21,430 --> 01:20:24,990
+SPK_0: And that's the solution to the subsidiarity problem.
+
+896
+01:20:25,210 --> 01:20:28,390
+SPK_0: Because if you do that, then you'll have natural relationships
+
+897
+01:20:28,390 --> 01:20:29,790
+SPK_0: with things around you.
+
+898
+01:20:29,810 --> 01:20:32,330
+SPK_0: You know, and you won't be to what extent it works here.
+
+899
+01:20:32,390 --> 01:20:35,790
+SPK_1: Maybe in a better times, it will be bigger circle of relationship.
+
+900
+01:20:35,890 --> 01:20:38,270
+SPK_1: Maybe in the worst time when everything starts falling apart,
+
+901
+01:20:38,450 --> 01:20:42,470
+SPK_1: it will be the circle of your city or like the circle is a circle of your neighborhood.
+
+902
+01:20:42,610 --> 01:20:45,510
+SPK_1: But it's like not for us to know that.
+
+903
+01:20:45,590 --> 01:20:51,370
+SPK_1: Like, you know, it was recently as ascensions and like,
+
+904
+01:20:51,450 --> 01:20:55,610
+SPK_1: it's not for you to know the time and it's not for you to know the times we are told.
+
+905
+01:20:55,750 --> 01:20:59,050
+SPK_1: So it's not for us to know the times, but it's for us to do what we can.
+
+906
+01:20:59,170 --> 01:20:59,790
+SPK_1: And yeah.
+
+907
+01:21:00,430 --> 01:21:04,230
+SPK_1: But to understand that, I think you do need to and that's your favorite subject,
+
+908
+01:21:04,450 --> 01:21:06,670
+SPK_1: which I agree with completely.
+
+909
+01:21:06,830 --> 01:21:07,930
+SPK_1: You need to know the stories.
+
+910
+01:21:08,070 --> 01:21:11,630
+SPK_1: I would argue that without stories, without embodied stories like people,
+
+911
+01:21:11,790 --> 01:21:15,890
+SPK_1: you cannot really orient yourself in this maze because, yeah,
+
+912
+01:21:15,950 --> 01:21:17,770
+SPK_1: we've been talking for it for over and a half.
+
+913
+01:21:17,830 --> 01:21:19,810
+SPK_1: And it's just the beginning of this maze.
+
+914
+01:21:20,030 --> 01:21:24,810
+SPK_1: Like we like our thing is so trapped in these different loopholes,
+
+915
+01:21:24,950 --> 01:21:28,230
+SPK_1: which seem self-evident, but we don't understand why self-evident.
+
+916
+01:21:28,330 --> 01:21:29,590
+SPK_1: We don't understand what is unifying.
+
+917
+01:21:29,590 --> 01:21:36,070
+SPK_1: So it takes time, but doesn't that you can keep the optimism going and the best way is the story.
+
+918
+01:21:36,150 --> 01:21:41,890
+SPK_1: So I think it's just in the end want to mention that the story can kind of summarize our or even better.
+
+919
+01:21:42,070 --> 01:21:47,770
+SPK_1: What you do is image and image can summarize the hour and a half political theology conversation into one image.
+
+920
+01:21:47,910 --> 01:21:50,510
+SPK_1: And you can look upon it and see it in everything.
+
+921
+01:21:50,650 --> 01:21:52,770
+SPK_1: And that's also a good place to start.
+
+922
+01:21:53,970 --> 01:21:55,230
+SPK_0: Yeah, that's great.
+
+923
+01:21:56,890 --> 01:21:58,610
+SPK_1: Well, again, then.
+
+924
+01:21:58,690 --> 01:21:59,070
+SPK_1: Yeah.
+
+925
+01:22:00,670 --> 01:22:03,710
+SPK_1: So I'm very grateful for the generosity of your time.
+
+926
+01:22:03,810 --> 01:22:09,470
+SPK_1: I'm very grateful for your coming for this meeting, and I hope many will follow in the future.
+
+927
+01:22:09,550 --> 01:22:10,470
+SPK_1: Thank you very much, Jonathan.
+
+928
+01:22:10,790 --> 01:22:12,810
+SPK_0: Thanks, Pavel. Yeah, it was great to talk to you.
+
+929
+01:22:12,830 --> 01:22:13,510
+SPK_0: I really enjoyed it.
+
