@@ -34,6 +34,7 @@ MDATA = {
       ("2025_12_19", (Speak.Shchelin, Speak.Dudnik)),
       ("2026_01_23", (Speak.Shchelin, Speak.Dudnik)),
       ("2026_02_09", (Speak.Shchelin, Speak.Dudnik)),
+      ("2026_03_13", (Speak.Shchelin, Speak.Dudnik)),
   ],
   Course.Panchenko: [
       ("2025_12_04_1", (Speak.Panchenko, Speak.Shchelin)),
