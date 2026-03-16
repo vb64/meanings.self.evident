@@ -15,3 +15,5 @@ https://www.youtube.com/@NamingTheSelfEvident
 - [ ] [VIOLENCE, THE LEVIATHAN, REVOLUTION: Gnostic Civilization, Ep.7 | Jordan Hall and Pavel Shchelin](2026_03_05.md) March 05, 2026
 - [ ] [ON FASTS AND FEASTS | John Heers and Pavel Shchelin](2026_03_06.md) March 06, 2026
 - [ ] [PATTERNS OF POLITICAL COMMUNITY | Jonathan Pageau and Shchelin Pavel](2026_03_09.md) March 09, 2026
+- [ ] [BABEL AND LEVIATHAN | Richard Rohlin and Pavel Shchelin](2026_03_12.md) March 12, 2026
+- [ ] [THE ILLUSION OF MODERN POLITICAL | Jonathan Pageau and Shchelin Pavel](2026_03_15.md) March 15, 2026

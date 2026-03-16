@@ -13,3 +13,5 @@ and how ancient Christian anthropology illuminates the crises of our time.
 - VIOLENCE, THE LEVIATHAN, REVOLUTION: Gnostic Civilization, Ep.7 | Jordan Hall and Pavel Shchelin. March 05, 2026
 - ON FASTS AND FEASTS | John Heers and Pavel Shchelin. March 06, 2026
 - PATTERNS OF POLITICAL COMMUNITY | Jonathan Pageau and Shchelin Pavel. March 09, 2026
+- BABEL AND LEVIATHAN | Richard Rohlin and Pavel Shchelin. March 12, 2026
+- THE ILLUSION OF MODERN POLITICAL | Jonathan Pageau and Shchelin Pavel. March 15, 2026
