@@ -1,0 +1,4900 @@
+1
+00:00:03,470 --> 00:00:05,090
+SPK_1: песочный интерес
+
+2
+00:00:33,470 --> 00:00:36,330
+SPK_0: Паш, привет, но пока мы еще, видать, на брудершафт не выпили
+
+3
+00:00:36,330 --> 00:00:40,610
+SPK_2: Ну, давайте, да, собственно, перейдем к новостям
+
+4
+00:00:40,610 --> 00:00:41,770
+SPK_0: Павел, а тебя кто-нибудь называет вообще Пашей?
+
+5
+00:00:41,830 --> 00:00:43,290
+SPK_0: Вот так, знаешь, по-небратски кто-нибудь
+
+6
+00:00:43,290 --> 00:00:44,190
+SPK_0: Паш, ну хватит
+
+7
+00:00:44,190 --> 00:00:45,050
+SPK_0: Есть такие, да?
+
+8
+00:00:45,930 --> 00:00:46,990
+SPK_2: Супруга, я так думаю
+
+9
+00:00:46,990 --> 00:00:47,510
+SPK_1: Да, конечно
+
+10
+00:00:47,510 --> 00:00:49,790
+SPK_0: Я говорю так, прям вот в СМИ
+
+11
+00:00:49,790 --> 00:00:51,550
+SPK_2: Не, в СМИ, вот ни разу не слышала
+
+12
+00:00:51,550 --> 00:00:53,590
+SPK_1: И не только супруга, а в СМИ нет
+
+13
+00:00:54,690 --> 00:00:56,550
+SPK_2: Ну и мы не будем, отец Павел
+
+14
+00:00:57,250 --> 00:00:59,590
+SPK_0: Лучше меня в СМИ не называть, так как меня супруга называет
+
+15
+00:01:00,490 --> 00:01:01,070
+SPK_2: Наверное, да
+
+16
+00:01:01,510 --> 00:01:03,070
+SPK_2: На самом деле, тема-то серьезная
+
+17
+00:01:03,070 --> 00:01:04,990
+SPK_2: И чего мы смеемся, отец Павел, почему вы смеетесь?
+
+18
+00:01:04,990 --> 00:01:05,830
+SPK_0: Потому что мы христиане
+
+19
+00:01:05,830 --> 00:01:07,130
+SPK_2: И нам все равно?
+
+20
+00:01:07,410 --> 00:01:08,210
+SPK_0: Нет, нам не все равно
+
+21
+00:01:08,210 --> 00:01:11,950
+SPK_0: У нас просто, помимо плохих новостей, всегда есть очень много хороших
+
+22
+00:01:11,950 --> 00:01:14,710
+SPK_0: Мы стоим на фундаменте очень хорошей новости
+
+23
+00:01:14,710 --> 00:01:15,870
+SPK_0: Радостной новости, да?
+
+24
+00:01:16,250 --> 00:01:17,590
+SPK_0: То, что называется Евангелие
+
+25
+00:01:17,590 --> 00:01:20,670
+SPK_0: Ну, Полин, просто благая весть, радостная весть, понимаете?
+
+26
+00:01:20,810 --> 00:01:21,270
+SPK_2: Я понимаю
+
+27
+00:01:21,270 --> 00:01:26,690
+SPK_2: И надо сказать, что в тот момент, когда наши слушатели и зрители это все увидят
+
+28
+00:01:26,690 --> 00:01:28,530
+SPK_2: Уже закончится третья неделя
+
+29
+00:01:29,290 --> 00:01:30,070
+SPK_0: Закончится все
+
+30
+00:01:30,070 --> 00:01:31,670
+SPK_2: Нет, нет, ну я надеюсь, что нет
+
+31
+00:01:31,670 --> 00:01:32,890
+SPK_2: Но третья неделя Великого Поста
+
+32
+00:01:32,890 --> 00:01:33,870
+SPK_2: Закончится точно
+
+33
+00:01:33,870 --> 00:01:35,950
+SPK_2: И станет еще ближе Пасха
+
+34
+00:01:35,950 --> 00:01:40,530
+SPK_2: Но начнем с новостей, которые, на самом деле, последнюю неделю
+
+35
+00:01:40,530 --> 00:01:45,330
+SPK_2: Будоражат умы, сердца тех, кто смотрит новости, наверное
+
+36
+00:01:45,330 --> 00:01:46,810
+SPK_2: С Ирана
+
+37
+00:01:46,810 --> 00:01:50,650
+SPK_2: И я начну не с вопроса, а с утверждения
+
+38
+00:01:50,650 --> 00:01:54,130
+SPK_2: И потом можете его прокомментировать
+
+39
+00:01:54,130 --> 00:01:56,330
+SPK_2: Если можно, можно я так сделаю
+
+40
+00:01:56,330 --> 00:01:58,250
+SPK_2: Потому что я долго думала, что спросить
+
+41
+00:01:58,250 --> 00:02:02,710
+SPK_2: Но я вот наблюдаю последнюю неделю за всем происходящим
+
+42
+00:02:02,890 --> 00:02:07,650
+SPK_2: И вам, Павел, наверное, очевиднее, как это все в США выглядит
+
+43
+00:02:07,650 --> 00:02:10,150
+SPK_2: И об этом я тоже хотела вас потом спросить
+
+44
+00:02:10,150 --> 00:02:13,830
+SPK_2: Но вот есть Трамп, который вот сегодня, в день записи этого эфира
+
+45
+00:02:14,690 --> 00:02:17,050
+SPK_2: Сказал, что он всех победил вообще
+
+46
+00:02:17,050 --> 00:02:20,350
+SPK_2: И выиграл все, что можно выиграть
+
+47
+00:02:20,350 --> 00:02:23,750
+SPK_2: Но при этом из Ирана не уйдет, потому что надо бы довести до конца
+
+48
+00:02:25,290 --> 00:02:27,610
+SPK_0: Как пара Олимпиады, получается
+
+49
+00:02:27,610 --> 00:02:29,150
+SPK_2: Ну, возможно, не знаю
+
+50
+00:02:29,150 --> 00:02:32,870
+SPK_2: И при этом есть Иран, который выбрал Пару Олимпиаду
+
+51
+00:02:32,890 --> 00:02:34,370
+SPK_2: Новую Айталу
+
+52
+00:02:34,370 --> 00:02:39,090
+SPK_2: И кажется, вот просто на уровне ощущений
+
+53
+00:02:39,090 --> 00:02:42,110
+SPK_2: Вы уж простите, я перейду вот в такую плоскость
+
+54
+00:02:42,110 --> 00:02:44,970
+SPK_2: На уровне ощущений мне кажется, что он проигрывает
+
+55
+00:02:44,970 --> 00:02:48,070
+SPK_2: Несмотря на превосходство США в воздухе
+
+56
+00:02:48,070 --> 00:02:52,750
+SPK_2: Несмотря на то, что вроде бы там какие-то невероятные бомбежки
+
+57
+00:02:52,750 --> 00:02:55,950
+SPK_2: Каждый день анонсируются все больше и больше и больше
+
+58
+00:02:55,950 --> 00:03:00,950
+SPK_2: И у меня в связи с этим возникла гипотеза о том, что так происходит
+
+59
+00:03:00,950 --> 00:03:02,750
+SPK_2: Из-за того, что...
+
+60
+00:03:02,890 --> 00:03:06,770
+SPK_2: За Ираном, вот на каком-то таком тонком уровне
+
+61
+00:03:06,770 --> 00:03:09,330
+SPK_2: Стоит что-то большее, чем за США
+
+62
+00:03:09,330 --> 00:03:12,210
+SPK_2: Потому что в США мы видим, как выкладываются ролики
+
+63
+00:03:12,210 --> 00:03:16,030
+SPK_2: Про бомбежку Ирана под музыку из Макарены
+
+64
+00:03:16,030 --> 00:03:21,230
+SPK_2: А все-таки Айталу выбирает Совет Старейшин
+
+65
+00:03:21,230 --> 00:03:24,090
+SPK_2: Все-таки это как будто бы разный немножко калинкор
+
+66
+00:03:24,090 --> 00:03:26,370
+SPK_2: Вот так ли это?
+
+67
+00:03:26,590 --> 00:03:28,410
+SPK_2: Верно ли это ощущение?
+
+68
+00:03:28,470 --> 00:03:30,830
+SPK_2: Верна ли это гипотеза моя?
+
+69
+00:03:30,910 --> 00:03:31,710
+SPK_2: Я думаю, что в принципе...
+
+70
+00:03:33,190 --> 00:03:37,530
+SPK_2: Иран, возможно, даже может быть и победит в этом конфликте
+
+71
+00:03:40,010 --> 00:03:44,370
+SPK_1: Ух, ну про тонкий мир у нас священник пусть лучше скажет
+
+72
+00:03:44,370 --> 00:03:48,490
+SPK_1: Я просто прокомментирую, что происходит
+
+73
+00:03:48,490 --> 00:03:51,170
+SPK_1: На самом деле, христианину довольно...
+
+74
+00:03:51,170 --> 00:03:52,730
+SPK_1: Если мы внимательно читаем Писание
+
+75
+00:03:52,730 --> 00:03:57,070
+SPK_1: Нам очень легко распознать некоторые закономерности политической реальности
+
+76
+00:03:57,070 --> 00:04:00,370
+SPK_1: И вот сегодня на примере вот этой войны
+
+77
+00:04:00,370 --> 00:04:03,970
+SPK_1: Мы видим очередное проявление истины из Богородичной песни
+
+78
+00:04:03,970 --> 00:04:04,470
+SPK_1: Где это...
+
+79
+00:04:04,490 --> 00:04:06,370
+SPK_1: Благословен Господь, который...
+
+80
+00:04:06,370 --> 00:04:09,610
+SPK_1: Рассеял надменных помышлениями их сердец
+
+81
+00:04:09,610 --> 00:04:13,310
+SPK_1: Вот вся та вот эта странная, скажем так, позиция
+
+82
+00:04:13,310 --> 00:04:15,590
+SPK_1: Которую вы наблюдаете вокруг Пресетского залива
+
+83
+00:04:15,590 --> 00:04:18,070
+SPK_1: Ее корни лежат в очень простой страсти
+
+84
+00:04:18,070 --> 00:04:22,010
+SPK_1: В которой отец Павел постоянно исповедует всех к нему приходящих, наверное
+
+85
+00:04:22,010 --> 00:04:24,170
+SPK_1: Гордыня надменная
+
+86
+00:04:24,170 --> 00:04:28,290
+SPK_1: Потому что биполярочка это не очень хорошее состояние
+
+87
+00:04:28,290 --> 00:04:30,010
+SPK_1: Для принятия политических решений
+
+88
+00:04:30,010 --> 00:04:34,070
+SPK_1: А американская политическая стратегия строилась на примерно...
+
+89
+00:04:34,490 --> 00:04:36,730
+SPK_1: В следующих взаимопротиворечащих утверждениях
+
+90
+00:04:36,730 --> 00:04:40,450
+SPK_1: С одной стороны, Иран это абсолютное исчадие зла
+
+91
+00:04:40,450 --> 00:04:42,950
+SPK_1: Там вот это все 40 лет Death to America
+
+92
+00:04:44,250 --> 00:04:45,850
+SPK_1: Мулы, зло и прочее
+
+93
+00:04:45,850 --> 00:04:51,730
+SPK_1: А с другой стороны, да как они посмели бить по нашим базам в окружающих странах
+
+94
+00:04:51,730 --> 00:04:56,890
+SPK_1: Понимаете, что это два утверждения, которые являются полностью противоречивы относительно друг друга
+
+95
+00:04:56,890 --> 00:04:59,290
+SPK_1: Но они прекрасно удерживаются в одной голове
+
+96
+00:04:59,290 --> 00:05:04,470
+SPK_1: И вот на этом разрыве, соответственно, и происходит вот этот акт рассеивания
+
+97
+00:05:04,490 --> 00:05:08,970
+SPK_1: Что твои планы приводят к последствиям, которые, мягко говоря, ты не ожидал
+
+98
+00:05:08,970 --> 00:05:12,850
+SPK_1: Обратится болезнь его на главу его, наверх его неправда его снедит
+
+99
+00:05:12,850 --> 00:05:15,570
+SPK_1: Ну то есть у тебя неадекватное представление о реальности
+
+100
+00:05:15,570 --> 00:05:18,570
+SPK_1: Ты неправильно оценил противника, мягко говоря
+
+101
+00:05:18,570 --> 00:05:22,530
+SPK_1: Ну, условно говоря, план мы сейчас всех переубиваем, как было в первый день
+
+102
+00:05:22,530 --> 00:05:25,390
+SPK_1: И вы тут выйдете свергать свой собственный режим
+
+103
+00:05:25,390 --> 00:05:27,590
+SPK_1: И становиться нашей колонией
+
+104
+00:05:27,590 --> 00:05:29,170
+SPK_1: Внезапно что-то пошло не по плану
+
+105
+00:05:29,170 --> 00:05:31,450
+SPK_1: И проблема-то в том, что плана Б нет, да?
+
+106
+00:05:31,470 --> 00:05:33,950
+SPK_1: То есть почему вот это все выглядит сейчас смешно?
+
+107
+00:05:35,350 --> 00:05:40,730
+SPK_1: Заявление о победах, потому что, очевидно, это как в русском, знаете, такой присказке
+
+108
+00:05:40,730 --> 00:05:43,490
+SPK_1: Я медведя поймал, так иди, он меня не пускает
+
+109
+00:05:43,490 --> 00:05:47,370
+SPK_1: То есть можно, конечно, очень долго заявлять о том, что я победил Иран
+
+110
+00:05:47,370 --> 00:05:52,130
+SPK_1: Проблема в том, что нужно, чтобы еще Иран хотя бы перестал делать те действия
+
+111
+00:05:52,130 --> 00:05:55,870
+SPK_1: Которые не позволяют тебе заявить о своей победе
+
+112
+00:05:55,870 --> 00:06:00,570
+SPK_1: То есть заявить-то, конечно, можно, но сложно заявлять о своей победе с перегрытым армузским проливом
+
+113
+00:06:00,570 --> 00:06:03,810
+SPK_1: А вот здесь наступает фундаментальная проблема
+
+114
+00:06:04,490 --> 00:06:09,530
+SPK_1: Что заставить Иран снять плакаду армузского пролива военным путем сейчас невозможно
+
+115
+00:06:09,530 --> 00:06:14,290
+SPK_1: Это можно сделать политическим путем, но для этого надо заплатить очень много
+
+116
+00:06:14,290 --> 00:06:16,950
+SPK_1: Ну, то есть, а это и есть поражение
+
+117
+00:06:16,950 --> 00:06:21,310
+SPK_1: То есть критерий победы и поражения, он же определяется относительно целей войны
+
+118
+00:06:21,310 --> 00:06:22,990
+SPK_1: Для США цель была простая
+
+119
+00:06:22,990 --> 00:06:27,150
+SPK_1: Смена режима в Иране на дружественной и взятие под контроль иранской нефти
+
+120
+00:06:27,150 --> 00:06:32,030
+SPK_1: Ну, то есть, чтобы это США определяло, сколько, куда, когда иранской нефти пойдет на рынок
+
+121
+00:06:32,030 --> 00:06:33,270
+SPK_1: Ну, такая Бенесуэла 2.0
+
+122
+00:06:33,270 --> 00:06:34,470
+SPK_1: Очевидно, что эти цели, они не будут в Иране
+
+123
+00:06:34,490 --> 00:06:35,370
+SPK_1: Цели не достигнуты
+
+124
+00:06:35,370 --> 00:06:38,030
+SPK_1: Проблема в том, как отползти с минимальными потерями
+
+125
+00:06:38,030 --> 00:06:40,890
+SPK_1: Но вот сейчас сделать это, мягко говоря, будет крайне сложно
+
+126
+00:06:40,890 --> 00:06:46,610
+SPK_1: Потому что, ну, как вы понимаете, человек, у которого убили всю семью, не очень склонен договариваться
+
+127
+00:06:46,610 --> 00:06:47,610
+SPK_2: Это правда
+
+128
+00:06:47,610 --> 00:06:52,210
+SPK_1: У него вот есть маленький, скажем так, зуб на вот эту историю, да
+
+129
+00:06:52,210 --> 00:06:54,330
+SPK_1: И, как минимум, то, что ходит в слух
+
+130
+00:06:54,330 --> 00:06:56,190
+SPK_1: Даже вот сегодняшнее сейчас было выступление
+
+131
+00:06:56,190 --> 00:07:00,190
+SPK_1: По сути, он ставит вопрос радикально о выводе американских баз с территории региона
+
+132
+00:07:00,190 --> 00:07:02,730
+SPK_1: О выплате репараций
+
+133
+00:07:05,310 --> 00:07:07,330
+SPK_1: Ирану со стороны США и Израиля
+
+134
+00:07:07,330 --> 00:07:11,330
+SPK_1: И тут, как в анекдоте, вы когда последний раз видели, чтобы Америка кому-то что-то платила, да?
+
+135
+00:07:11,510 --> 00:07:15,750
+SPK_1: То есть все эти условия становятся практически политически невозможными
+
+136
+00:07:15,750 --> 00:07:19,610
+SPK_1: Но цена продолжения конфликта в длинную для США выше
+
+137
+00:07:19,610 --> 00:07:21,610
+SPK_1: В этом вот такая загогуля
+
+138
+00:07:21,610 --> 00:07:25,450
+SPK_1: На все началось с того, что у вас в голове было два неправильных утверждения
+
+139
+00:07:25,450 --> 00:07:28,470
+SPK_1: Ну, это вот российским зрителям это знакомо
+
+140
+00:07:28,470 --> 00:07:31,570
+SPK_1: Это как очень популярное такое размышление
+
+141
+00:07:31,570 --> 00:07:34,470
+SPK_1: То, что Владимир Путин одновременно является дедом России
+
+142
+00:07:34,490 --> 00:07:36,330
+SPK_1: Который прячется в бункере со страха
+
+143
+00:07:36,330 --> 00:07:38,130
+SPK_1: Но при этом же он управляет всем миром
+
+144
+00:07:38,130 --> 00:07:40,450
+SPK_1: Вот как эти две, скажем так, тезисы
+
+145
+00:07:41,250 --> 00:07:45,510
+SPK_1: Соответственно, существуют в одной и той же оппозиционной или аналитической голове
+
+146
+00:07:45,510 --> 00:07:48,210
+SPK_1: Понять сложно, но прекрасно вот существуют
+
+147
+00:07:48,210 --> 00:07:51,590
+SPK_1: То есть вся европейская дипломатия на этом строится
+
+148
+00:07:51,590 --> 00:07:55,850
+SPK_1: Россия крайне слаба, поэтому нам надо вооружиться и ее деколонизировать
+
+149
+00:07:55,850 --> 00:07:58,270
+SPK_1: Но при этом Россия очень страшная и опасная
+
+150
+00:07:58,270 --> 00:08:00,190
+SPK_1: И если мы не объединимся, она нас съест
+
+151
+00:08:00,190 --> 00:08:04,130
+SPK_1: Вот вам краткое содержание этих биполярчик
+
+152
+00:08:04,770 --> 00:08:10,250
+SPK_0: Я думаю, что, ну, как бы это дисклеймер сразу
+
+153
+00:08:10,250 --> 00:08:13,450
+SPK_0: Что я, как бы, конечно, очень могу ошибаться
+
+154
+00:08:13,450 --> 00:08:14,950
+SPK_0: Ну, такой своей мысли вслух
+
+155
+00:08:14,950 --> 00:08:19,430
+SPK_0: Что мы просто еще, в целом, мир еще до конца не дошел
+
+156
+00:08:19,430 --> 00:08:21,670
+SPK_0: До стадии полного отрицания международного права
+
+157
+00:08:21,670 --> 00:08:25,630
+SPK_0: Еще где-то что-то сохраняется, какие-то последние иллюзии
+
+158
+00:08:25,630 --> 00:08:30,730
+SPK_0: Поэтому мир не перешел еще к тем войнам, которые были в старые добрые времена
+
+159
+00:08:30,730 --> 00:08:32,770
+SPK_0: Когда вырезалось просто все
+
+160
+00:08:32,770 --> 00:08:34,470
+SPK_0: Население, женщины, французы
+
+161
+00:08:34,490 --> 00:08:41,190
+SPK_0: he is a woman in captivity, men kill everyone, preferably boys, yes, that is, full submission and
+
+162
+00:08:41,190 --> 00:08:47,770
+SPK_0: destruction is a victory, but if they surrendered to slavery, yes, well, okay, maybe someone
+
+163
+00:08:47,770 --> 00:08:53,070
+SPK_0: will be spared, but at some point it happened that it seems as if they began to pity the world for the population,
+
+164
+00:08:53,710 --> 00:08:59,590
+SPK_0: but weapons of mass destruction are considered evil and so on, so it seems to me that we are moving
+
+165
+00:08:59,590 --> 00:09:08,170
+SPK_0: in that direction when, well, the last stoppers will finally be removed and people will already start
+
+166
+00:09:08,170 --> 00:09:14,530
+SPK_0: fighting like in the good old days when you just dig up just the population, and everyone will
+
+167
+00:09:14,530 --> 00:09:19,090
+SPK_0: already care about it, and in the same time, it seems to me that the Americans may end up in such a situation
+
+168
+00:09:19,090 --> 00:09:26,070
+SPK_0: that they will pay for the repair, it will be a shame to disgrace the base, this is also a defeat, well,
+
+169
+00:09:26,550 --> 00:09:29,550
+SPK_0: as it were, why not repeat it with the first
+
+170
+00:09:29,550 --> 00:09:35,330
+SPK_0: time you canới первое скрыть вы знаете отсюда на счет власть местных
+
+171
+00:09:35,330 --> 00:09:47,970
+SPK_1: capitalist table и тогда все эти базы очень workspace то есть ну можете конечно все это
+
+172
+00:09:47,970 --> 00:09:53,970
+SPK_1: посбрасывать но проблема это не решит потому что бы тем самым только гарантируете стирание
+
+173
+00:09:53,970 --> 00:09:57,950
+SPK_1: государства израиль уже с этой скажем так территории нет там сейчас хороших вариантов
+
+174
+00:09:57,950 --> 00:09:59,530
+SPK_1: нет это вот проблема то что вся стратегия
+
+175
+00:09:59,550 --> 00:10:06,770
+SPK_1: was hanging on about absolutely this, you know, very such a protestant idea of ​​election, yes, that we are
+
+176
+00:10:06,770 --> 00:10:12,690
+SPK_1: elected, we can and we can't get it, I'm not a fool, I can do it, why look at point 1,
+
+177
+00:10:13,150 --> 00:10:19,150
+SPK_1: that's about it, well, the boss is always right and what to do if the boss is wrong, look at point 1, America
+
+178
+00:10:19,150 --> 00:10:24,030
+SPK_1: always wins what to do if America loses, look at point 1, here you have, according to this logic, it
+
+179
+00:10:24,030 --> 00:10:29,390
+SPK_1: all kind of goes around, but here there is a nuance and its comments that this is what
+
+180
+00:10:29,390 --> 00:10:36,910
+SPK_1: they are old good times here, in fact, we do not agree here 20th century was much less humane than
+
+181
+00:10:36,910 --> 00:10:42,930
+SPK_1: for example century 19 if you look at this especially less humane than by 2018 at the
+
+182
+00:10:42,930 --> 00:10:49,870
+SPK_1: beginning of total capitulation, it is the consequence of n idea of ​​exception of the war if you look at
+
+183
+00:10:49,870 --> 00:10:52,130
+SPK_1: the medieval wars it was absolutely normal to fight for ten years then conclude
+
+184
+00:10:52,130 --> 00:10:54,010
+SPK_1: status in turn, but the idea of ​​extinction right after the end of the century the idea of ​​extinction the idea of ​​extinction the idea of ​​extinction the idea of ​​extinction war if you look at the medieval war it was absolutely normal可以 воевать 10 лет потом заключить перелаживать в hugely неожиданный мир
+
+185
+00:10:54,010 --> 00:10:59,830
+SPK_1: world for 10 years after which the war is automatically prolonged the state of the war today we live in the
+
+186
+00:10:59,830 --> 00:11:03,910
+SPK_1: world when there is no war, you will notice that because of him no one can declare a war to anyone,
+
+187
+00:11:05,210 --> 00:11:10,470
+SPK_1: that is, the United States cannot declare a war to Iran, Russia cannot declare a war to Ukraine, Ukraine cannot even
+
+188
+00:11:10,470 --> 00:11:15,330
+SPK_1: declare a war to Russia, and even Iran did not declare a war to the United States, that is, no one is with whom, as it were,
+
+189
+00:11:15,430 --> 00:11:20,130
+SPK_1: does not fight this war, but this creates this impossibility, in fact, the conclusion of a normal
+
+190
+00:11:20,130 --> 00:11:24,990
+SPK_1: agreement, because if there is no war, there is no agreement for a double line to Grandma mah vogiesheva, here, too,
+
+191
+00:11:25,070 --> 00:11:29,110
+SPK_1: here is the reverse such some kind of dependence as a result we actually do everything through a little
+
+192
+00:11:29,110 --> 00:11:35,390
+SPK_1: such an infinite no war and no world the whole world becomes 1 1 ha a global wild field of
+
+193
+00:11:35,390 --> 00:11:40,450
+SPK_1: the world a global gray zone of war space space of the world is notThat is, it is really important
+
+194
+00:11:40,450 --> 00:11:45,650
+SPK_1: what is happening now, a triumph ma rimose triumph of Trotskyism, but now I have a question about the괙
+
+195
+00:11:46,170 --> 00:11:50,110
+SPK_2: fate of the exit from this, you probably wanted to 춘DE it to start
+
+196
+00:11:50,110 --> 00:11:53,210
+SPK_2: but it didn't work out, because it seems to be initially...
+
+197
+00:11:53,210 --> 00:11:55,670
+SPK_2: Well, there are different hypotheses about the origin of power,
+
+198
+00:11:55,930 --> 00:11:59,930
+SPK_2: but one of them says that a person who took power
+
+199
+00:11:59,930 --> 00:12:05,190
+SPK_2: took responsibility for the people he represents in front of the Lord.
+
+200
+00:12:07,670 --> 00:12:10,070
+SPK_2: Obviously, looking at the USA,
+
+201
+00:12:10,230 --> 00:12:13,850
+SPK_2: although despite the fact that it's really a Protestant idea and so on,
+
+202
+00:12:13,990 --> 00:12:17,530
+SPK_2: it doesn't seem like it's like that there.
+
+203
+00:12:17,530 --> 00:12:23,650
+SPK_2: In the case of Iran, there's a little bit more of an impression that it's like that.
+
+204
+00:12:23,810 --> 00:12:26,310
+SPK_2: Well, maybe. It's, again, maybe, it seems to me.
+
+205
+00:12:26,910 --> 00:12:30,510
+SPK_2: And I'll just ask the second question right away.
+
+206
+00:12:30,610 --> 00:12:33,690
+SPK_2: Is there anything here that just in the end,
+
+207
+00:12:33,990 --> 00:12:36,630
+SPK_2: in the current transition of the world that is happening now,
+
+208
+00:12:36,630 --> 00:12:42,110
+SPK_2: will those countries win, where the power will take on this sacred function?
+
+209
+00:12:43,570 --> 00:12:45,610
+SPK_1: There will be. There will be a short answer,
+
+210
+00:12:45,930 --> 00:12:47,490
+SPK_1: but the question is whether we will survive.
+
+211
+00:12:47,530 --> 00:12:48,270
+SPK_1: I think we will survive with you until this time,
+
+212
+00:12:48,510 --> 00:12:53,730
+SPK_1: because now you need... How do I explain it to you?
+
+213
+00:12:53,750 --> 00:12:55,430
+SPK_1: Well, generations of grown-ups, rulers,
+
+214
+00:12:55,730 --> 00:12:58,850
+SPK_1: who, to put it mildly, were overthrown by the tsars all over the world for this.
+
+215
+00:12:58,970 --> 00:13:01,350
+SPK_1: That is, in general, the idea of ​​dividing power and responsibility
+
+216
+00:13:01,350 --> 00:13:05,950
+SPK_1: is the main idea of ​​all Masonic revolutions, starting with the Great French Revolution.
+
+217
+00:13:06,030 --> 00:13:08,450
+SPK_1: Well, including the October Revolution and all these stories.
+
+218
+00:13:08,770 --> 00:13:09,830
+SPK_1: What was the point?
+
+219
+00:13:09,930 --> 00:13:11,890
+SPK_1: The monarch has a very clear responsibility before God.
+
+220
+00:13:12,770 --> 00:13:15,290
+SPK_1: The aristocracy doesn't really want to serve.
+
+221
+00:13:15,510 --> 00:13:15,950
+SPK_1: That is...
+
+222
+00:13:16,430 --> 00:13:20,870
+SPK_1: They are oligarchs, they are aristocrats, they are high officials, and so on, and so on.
+
+223
+00:13:21,370 --> 00:13:25,570
+SPK_1: Therefore, historically, they have always been very tempted by this task.
+
+224
+00:13:25,870 --> 00:13:30,590
+SPK_1: And let's save the power and shift the responsibility, including the people.
+
+225
+00:13:30,730 --> 00:13:32,470
+SPK_1: If anything, the people will be to blame for everything.
+
+226
+00:13:32,610 --> 00:13:33,950
+SPK_1: He didn't choose those.
+
+227
+00:13:33,950 --> 00:13:36,170
+SPK_1: Well, you chose them yourself, he wanted to.
+
+228
+00:13:36,330 --> 00:13:39,290
+SPK_1: And this was the system, it was formulated for centuries, as it were.
+
+229
+00:13:40,410 --> 00:13:43,930
+SPK_1: And now, for it to change at some point, voluntarily, no.
+
+230
+00:13:44,050 --> 00:13:44,950
+SPK_1: Unfortunately, I'm afraid,
+
+231
+00:13:44,950 --> 00:13:47,530
+SPK_1: there are only pain, bloodshed, and grumbling.
+
+232
+00:13:47,750 --> 00:13:49,270
+SPK_1: Well, that is, you are right, of course.
+
+233
+00:13:49,350 --> 00:13:50,810
+SPK_1: The question is whether we will survive to this time.
+
+234
+00:13:50,890 --> 00:13:55,070
+SPK_1: I fully agree that at the end of this entire period of the Thirty Years' War,
+
+235
+00:13:55,270 --> 00:13:58,530
+SPK_1: or however long God has measured it, only those will survive,
+
+236
+00:13:58,530 --> 00:14:00,770
+SPK_1: where the authorities will take, including themselves,
+
+237
+00:14:01,010 --> 00:14:03,730
+SPK_1: sacred responsibility for those over whom they rule.
+
+238
+00:14:04,190 --> 00:14:07,630
+SPK_1: It's very optimistic, you could say.
+
+239
+00:14:07,970 --> 00:14:08,970
+SPK_1: Well, how optimistic he is.
+
+240
+00:14:08,990 --> 00:14:11,530
+SPK_1: On the subject of optimism, you know, we even have an apocalypse.
+
+241
+00:14:11,810 --> 00:14:13,470
+SPK_1: We are destined to meet with optimism.
+
+242
+00:14:13,810 --> 00:14:14,250
+SPK_1: Oh, my God, Hagrid.
+
+243
+00:14:14,250 --> 00:14:16,010
+SPK_1: Oh, my God, Jesus, Varanath.
+
+244
+00:14:16,250 --> 00:14:18,710
+SPK_1: Although there are events happening, to put it mildly,
+
+245
+00:14:18,930 --> 00:14:20,710
+SPK_1: just like you are watching the news right now.
+
+246
+00:14:21,510 --> 00:14:24,490
+SPK_1: That is, this is such a subtlety of the state.
+
+247
+00:14:25,670 --> 00:14:30,310
+SPK_1: But from a political point of view, it should be understood that the entire system of democracy
+
+248
+00:14:31,130 --> 00:14:34,410
+SPK_1: exists only in order to divide power and responsibility for power.
+
+249
+00:14:34,690 --> 00:14:36,810
+SPK_1: That is, your thesis is extremely anti-democratic.
+
+250
+00:14:37,190 --> 00:14:37,790
+SPK_1: Well, if anything.
+
+251
+00:14:37,970 --> 00:14:40,690
+SPK_1: And this, after 1945, we all signed into the Constitution.
+
+252
+00:14:41,390 --> 00:14:43,590
+SPK_1: That is, to put it mildly, it is difficult to refuse this.
+
+253
+00:14:44,250 --> 00:14:44,670
+SPK_1: It is difficult to refuse this.
+
+254
+00:14:44,670 --> 00:14:45,970
+SPK_1: Although there will be no other way out.
+
+255
+00:14:46,350 --> 00:14:49,370
+SPK_1: But first they will try everything they can.
+
+256
+00:14:49,450 --> 00:14:53,830
+SPK_1: Artificial intelligence, censorship, control over the population, and so on, and so on, and so on.
+
+257
+00:14:53,890 --> 00:14:55,050
+SPK_1: As long as you don't take responsibility.
+
+258
+00:14:55,670 --> 00:14:58,750
+SPK_1: But in the end, only those who will take responsibility will survive.
+
+259
+00:14:58,750 --> 00:14:59,050
+SPK_1: Yes.
+
+260
+00:15:00,310 --> 00:15:03,930
+SPK_0: I look more apocalyptic, but not in the sense of some wars and so on,
+
+261
+00:15:04,110 --> 00:15:09,110
+SPK_0: but in the sense of what the Holy Patriarch said when he said that artificial intelligence
+
+262
+00:15:09,110 --> 00:15:12,270
+SPK_0: will be an apocalyptic challenge to human freedom.
+
+263
+00:15:14,250 --> 00:15:17,350
+SPK_0: After all, there is a famous fairy tale, and the king is naked.
+
+264
+00:15:17,590 --> 00:15:23,090
+SPK_0: That is, thanks to mass media, in general, the population in the world,
+
+265
+00:15:23,810 --> 00:15:26,830
+SPK_0: in civilized countries, has seen what power is in reality.
+
+266
+00:15:27,430 --> 00:15:28,570
+SPK_0: And what people are in reality.
+
+267
+00:15:29,030 --> 00:15:36,950
+SPK_0: And this is not even a matter of Heppstein's list, but in general, just how smart, wise, competent the power is.
+
+268
+00:15:37,270 --> 00:15:42,970
+SPK_0: Especially considering that people have recently started giving a lot of interviews, making remarks
+
+269
+00:15:42,970 --> 00:15:43,950
+SPK_0: in social networks, comments.
+
+270
+00:15:44,330 --> 00:15:46,370
+SPK_0: This also applies to Russia.
+
+271
+00:15:46,370 --> 00:15:51,270
+SPK_0: That is, the discreditation of the State Duma is just incredible.
+
+272
+00:15:51,750 --> 00:15:55,730
+SPK_0: That is, there are, of course, smart deputies who do a lot of good, useful things.
+
+273
+00:15:55,830 --> 00:16:02,030
+SPK_0: But those comments of various officials, they just put everything down to zero.
+
+274
+00:16:02,270 --> 00:16:08,930
+SPK_0: And it seems to me that at some point people will be disappointed in the human rule over themselves.
+
+275
+00:16:09,330 --> 00:16:11,510
+SPK_0: And it will simply be proposed.
+
+276
+00:16:11,510 --> 00:16:13,410
+SPK_0: Well, first of all, such attempts have already been made.
+
+277
+00:16:13,690 --> 00:16:17,910
+SPK_0: But it will simply be proposed, that is, some kind of management of the artificial intelligence,
+
+278
+00:16:18,070 --> 00:16:19,850
+SPK_0: which will still be behind a person, it is clear.
+
+279
+00:16:21,110 --> 00:16:22,930
+SPK_0: We will not see these kings anymore.
+
+280
+00:16:24,090 --> 00:16:28,050
+SPK_0: That is, the artificial intelligence, for example, will be called to put on the king.
+
+281
+00:16:28,570 --> 00:16:30,870
+SPK_0: So that no one could undress him.
+
+282
+00:16:31,310 --> 00:16:34,590
+SPK_0: And the power will be covered with artificial intelligence.
+
+283
+00:16:34,870 --> 00:16:37,190
+SPK_0: But people will be calm, because it will be ...
+
+284
+00:16:37,190 --> 00:16:40,990
+SPK_0: Well, in short, in simple words, if the radio listener does not quite understand,
+
+285
+00:16:40,990 --> 00:16:42,330
+SPK_0: it is like a camera on the street.
+
+286
+00:16:42,590 --> 00:16:46,110
+SPK_0: That is, once there were HBDD employees, with whom you can always negotiate.
+
+287
+00:16:46,490 --> 00:16:49,290
+SPK_0: And people, in principle, drove as they wanted.
+
+288
+00:16:49,370 --> 00:16:50,730
+SPK_0: I remember the 90s perfectly well.
+
+289
+00:16:52,390 --> 00:16:53,690
+SPK_0: Then cameras appeared.
+
+290
+00:16:53,870 --> 00:16:55,470
+SPK_0: And the movement became normal.
+
+291
+00:16:57,390 --> 00:17:00,570
+SPK_1: But over the long run, I will say right away, it will not work with the authorities.
+
+292
+00:17:00,570 --> 00:17:01,490
+SPK_1: For one simple reason.
+
+293
+00:17:02,030 --> 00:17:03,970
+SPK_1: Because they will not negotiate with each other.
+
+294
+00:17:04,310 --> 00:17:06,910
+SPK_1: That is, the problem is that such a system kills trust.
+
+295
+00:17:07,210 --> 00:17:09,970
+SPK_1: That is, this algorithm, it actually exists for that.
+
+296
+00:17:10,990 --> 00:17:11,770
+SPK_1: So that you don't have to trust.
+
+297
+00:17:12,150 --> 00:17:15,730
+SPK_1: And when trust is killed, there is no ability to cope with an emergency situation.
+
+298
+00:17:16,110 --> 00:17:19,150
+SPK_1: And emergency situations, the main one of which is war,
+
+299
+00:17:19,350 --> 00:17:21,110
+SPK_1: will not happen anywhere in human nature.
+
+300
+00:17:21,170 --> 00:17:26,350
+SPK_1: Because each of the authorities will not consider others as people anyway.
+
+301
+00:17:26,410 --> 00:17:29,450
+SPK_1: Okay, that they, conditionally, do not consider those who rule as people.
+
+302
+00:17:30,010 --> 00:17:32,690
+SPK_1: But conditionally speaking, conditionally Biden, conditionally Trump,
+
+303
+00:17:32,850 --> 00:17:34,830
+SPK_1: will never consider Mulu as a person.
+
+304
+00:17:35,330 --> 00:17:37,950
+SPK_1: And Putin will not consider him as a person or a collective either.
+
+305
+00:17:38,730 --> 00:17:39,790
+SPK_1: Therefore, they will not negotiate.
+
+306
+00:17:39,790 --> 00:17:44,010
+SPK_1: And this is why this process of natural selection will take place.
+
+307
+00:17:44,190 --> 00:17:47,170
+SPK_1: At the same time, what my father-in-law wrote with artificial intelligence,
+
+308
+00:17:47,230 --> 00:17:49,510
+SPK_1: is that now they think that this is such a sword and hammer,
+
+309
+00:17:49,750 --> 00:17:54,270
+SPK_1: which will allow them to avoid solving the problem that I talked about at the beginning.
+
+310
+00:17:54,670 --> 00:17:59,530
+SPK_1: It won't work, but this will take a few, maybe decades,
+
+311
+00:17:59,790 --> 00:18:01,150
+SPK_1: but I don't think it will take that long, in fact.
+
+312
+00:18:01,310 --> 00:18:02,250
+SPK_1: They think it will be much faster.
+
+313
+00:18:02,730 --> 00:18:04,790
+SPK_2: And how does it all look from the inside?
+
+314
+00:18:04,810 --> 00:18:09,710
+SPK_2: Here in the USA, in general, I understand that the average statistician
+
+315
+00:18:09,790 --> 00:18:13,170
+SPK_2: in the USA is not so much interested in what is happening outside his headquarters.
+
+316
+00:18:13,950 --> 00:18:17,550
+SPK_2: That is, there is no such thing that they bombed a school for girls,
+
+317
+00:18:17,830 --> 00:18:19,510
+SPK_2: everyone was outraged, because I, for example,
+
+318
+00:18:19,570 --> 00:18:24,010
+SPK_2: I can only listen to Tucker Carlson, who still speaks on this topic,
+
+319
+00:18:24,130 --> 00:18:25,410
+SPK_2: but I don't know how much...
+
+320
+00:18:25,410 --> 00:18:30,270
+SPK_1: But he is the only one, you know, he was specially marginalized for this.
+
+321
+00:18:30,370 --> 00:18:35,150
+SPK_1: Tucker Carlson is a person with a large, so to speak, of course, number of subscribers,
+
+322
+00:18:35,370 --> 00:18:38,890
+SPK_1: but on a large political level, he is an exception.
+
+323
+00:18:39,790 --> 00:18:43,950
+SPK_1: And the Americans, in general, well, there is irritation, they don't like the fact that gasoline is growing on gas stations.
+
+324
+00:18:44,110 --> 00:18:46,290
+SPK_1: This is important, this is unpleasant.
+
+325
+00:18:46,770 --> 00:18:53,070
+SPK_1: And this kind of Russian type of compassion for the outside world is not at all typical for the Americans.
+
+326
+00:18:53,070 --> 00:18:54,610
+SPK_1: The other thing is that this does not matter.
+
+327
+00:18:55,030 --> 00:18:57,910
+SPK_1: Accordingly, decisions are made based on other logics.
+
+328
+00:18:57,990 --> 00:19:03,090
+SPK_1: How decisions are made, for example, the logic of this group of pastors, dispensationalists,
+
+329
+00:19:03,170 --> 00:19:07,110
+SPK_1: who want to speed up the apocalypse by building the Third Temple, this is important.
+
+330
+00:19:07,270 --> 00:19:09,010
+SPK_1: They have a business in this region.
+
+331
+00:19:09,790 --> 00:19:11,130
+SPK_1: But in general, the Americans have nothing to do with it.
+
+332
+00:19:11,130 --> 00:19:14,710
+SPK_1: And since they have nothing to do with it, their opinion, let's say, is the secret of Polichinelli,
+
+333
+00:19:14,810 --> 00:19:17,270
+SPK_1: who do not tell them that, in principle, yes, the opinion...
+
+334
+00:19:17,630 --> 00:19:20,830
+SPK_1: It always turns out that they are all against the war.
+
+335
+00:19:20,870 --> 00:19:23,650
+SPK_1: That is, every president says, I will end the voids, but all the voids continue for some reason.
+
+336
+00:19:24,170 --> 00:19:28,710
+SPK_1: Well, that's exactly what continues, because real clans are a real group of interests,
+
+337
+00:19:28,930 --> 00:19:32,490
+SPK_1: and there is a business for the region, but the Americans don't. That's all.
+
+338
+00:19:33,490 --> 00:19:36,650
+SPK_0: Well, I'll go back a little bit about the fact that they don't agree.
+
+339
+00:19:37,670 --> 00:19:38,610
+SPK_0: It seems to me that...
+
+340
+00:19:39,790 --> 00:19:41,670
+SPK_0: When people agree, that's when motivation appears.
+
+341
+00:19:43,230 --> 00:19:46,570
+SPK_0: The threat of loss in general, in general, of power,
+
+342
+00:19:48,730 --> 00:19:55,050
+SPK_0: taking into account the fact that it is clear that both the wars that are taking place
+
+343
+00:19:55,050 --> 00:19:57,790
+SPK_0: and the tension in the whole world that is growing,
+
+344
+00:19:58,490 --> 00:20:04,470
+SPK_0: it can lead to the fact that the highest circles, which, for example, I don't know at all,
+
+345
+00:20:04,470 --> 00:20:09,430
+SPK_0: but they are in any case those people who do not listen to us now, I think,
+
+346
+00:20:09,790 --> 00:20:10,430
+SPK_0: they will not listen to us at all.
+
+347
+00:20:11,690 --> 00:20:15,790
+SPK_0: It's a temptation, it's a temptation that people can be controlled in this way.
+
+348
+00:20:15,790 --> 00:20:20,850
+SPK_0: I will give a simple example, which, well, it's not that it surprises me,
+
+349
+00:20:20,850 --> 00:20:27,930
+SPK_0: but it is unpleasantly surprising, that now on measured YouTube a lot of channels have appeared,
+
+350
+00:20:28,590 --> 00:20:33,190
+SPK_0: which are called Father Dmitry or Father Anatoly or something else,
+
+351
+00:20:33,190 --> 00:20:35,630
+SPK_0: which exist for literally two or three months.
+
+352
+00:20:36,470 --> 00:20:38,730
+SPK_0: They have somewhere tens of thousands of subscribers,
+
+353
+00:20:38,730 --> 00:20:40,230
+SPK_0: somewhere already hundreds of thousands of subscribers.
+
+354
+00:20:40,470 --> 00:20:43,890
+SPK_0: This is from the beginning to the end of artificial intelligence, from the beginning to the end.
+
+355
+00:20:44,050 --> 00:20:48,690
+SPK_0: The priests preach, well, it's not priests, it's IEA, they preach perfectly, everything is beautifully shot.
+
+356
+00:20:49,250 --> 00:20:53,890
+SPK_0: To be honest, even in some kind of preaching of such a pastoral, theological character,
+
+357
+00:20:53,930 --> 00:20:59,310
+SPK_0: it is impossible to dig up, because, you see, the numbers clearly calculate which texts to take for the voice-over,
+
+358
+00:20:59,310 --> 00:21:02,490
+SPK_0: which will not be discredited or anything else.
+
+359
+00:21:02,710 --> 00:21:07,890
+SPK_0: But what is surprising is that when you open the comments, and there are a lot of comments,
+
+360
+00:21:08,730 --> 00:21:09,830
+SPK_0: there are a lot of grateful people.
+
+361
+00:21:10,290 --> 00:21:14,650
+SPK_0: And right here, Father Dmitry, thank you, Father Anatoly, and so on, and even when...
+
+362
+00:21:14,650 --> 00:21:15,910
+SPK_2: You don't think they are also bots?
+
+363
+00:21:16,150 --> 00:21:16,830
+SPK_0: No, no, no, no.
+
+364
+00:21:16,910 --> 00:21:17,550
+SPK_0: They are the same.
+
+365
+00:21:17,830 --> 00:21:20,310
+SPK_0: Well, because you can look at the channel, who you are subscribed to, and so on.
+
+366
+00:21:20,410 --> 00:21:22,090
+SPK_0: You can check, in fact, the real subscriber.
+
+367
+00:21:22,350 --> 00:21:26,170
+SPK_0: And even when people write, this is artificial intelligence, and so on,
+
+368
+00:21:26,390 --> 00:21:30,090
+SPK_0: then no one even notices it.
+
+369
+00:21:30,570 --> 00:21:31,710
+SPK_0: And in this sense...
+
+370
+00:21:31,710 --> 00:21:33,090
+SPK_1: Dear Father Pavel...
+
+371
+00:21:33,790 --> 00:21:34,630
+SPK_0: Yes, let's go, Pavel.
+
+372
+00:21:34,670 --> 00:21:34,770
+SPK_1: Sorry for interrupting.
+
+373
+00:21:36,150 --> 00:21:37,770
+SPK_1: It's just important.
+
+374
+00:21:38,770 --> 00:21:40,370
+SPK_1: It's not that the problem is at the bottom.
+
+375
+00:21:40,590 --> 00:21:41,890
+SPK_1: Everything you say is true.
+
+376
+00:21:42,010 --> 00:21:42,490
+SPK_1: One nuance.
+
+377
+00:21:42,830 --> 00:21:44,910
+SPK_1: People will not die for artificial intelligence.
+
+378
+00:21:47,090 --> 00:21:50,570
+SPK_1: Who will protect this power when it is kept on artificial intelligence?
+
+379
+00:21:50,970 --> 00:21:51,450
+SPK_1: I'm talking about this.
+
+380
+00:21:52,850 --> 00:21:53,630
+SPK_1: Are you sure?
+
+381
+00:21:53,730 --> 00:21:54,670
+SPK_1: The challenge will be that.
+
+382
+00:21:54,970 --> 00:21:58,210
+SPK_2: I think they won't, really.
+
+383
+00:21:59,550 --> 00:22:02,070
+SPK_0: Well, you know, it's interesting.
+
+384
+00:22:04,630 --> 00:22:07,610
+SPK_0: I'm talking to the guys, it's cool, probably, it turns out,
+
+385
+00:22:07,610 --> 00:22:09,990
+SPK_0: because now I'm constantly going, 9th, 8th, 8th, 9th grade.
+
+386
+00:22:10,810 --> 00:22:16,470
+SPK_0: Well, about a third of the classes are constantly communicating with artificial intelligence.
+
+387
+00:22:17,270 --> 00:22:18,070
+SPK_0: Constantly, right?
+
+388
+00:22:18,470 --> 00:22:18,790
+SPK_0: Right.
+
+389
+00:22:19,310 --> 00:22:19,970
+SPK_0: Right, constantly.
+
+390
+00:22:20,490 --> 00:22:21,510
+SPK_0: And for them it's...
+
+391
+00:22:21,510 --> 00:22:25,430
+SPK_0: It seems to me that some of them will be ready, if they are removed, they have artificial intelligence,
+
+392
+00:22:25,570 --> 00:22:27,410
+SPK_0: which is already friendlier with them, right?
+
+393
+00:22:27,490 --> 00:22:29,050
+SPK_0: Some may even want to go out the window.
+
+394
+00:22:29,790 --> 00:22:30,830
+SPK_0: That is, they will want to die.
+
+395
+00:22:31,170 --> 00:22:32,150
+SPK_1: Go out the window, please.
+
+396
+00:22:32,610 --> 00:22:35,670
+SPK_1: No, they may want to die, but they will not want to sacrifice themselves.
+
+397
+00:22:35,830 --> 00:22:36,470
+SPK_1: A huge difference.
+
+398
+00:22:36,470 --> 00:22:37,070
+SPK_1: Do you understand?
+
+399
+00:22:37,350 --> 00:22:44,970
+SPK_1: I can't explain this difference between self-sacrifice and, in fact, the reaction of a teenager
+
+400
+00:22:44,970 --> 00:22:48,150
+SPK_1: to attract attention and inability to cope with their own pain.
+
+401
+00:22:48,550 --> 00:22:49,610
+SPK_1: That's what I'm talking about.
+
+402
+00:22:49,750 --> 00:22:54,130
+SPK_1: And in relation to the government, you know, the government that does not take responsibility for the people
+
+403
+00:22:54,130 --> 00:22:56,470
+SPK_1: over whom it rules, no one will defend it.
+
+404
+00:22:57,590 --> 00:23:01,810
+SPK_1: And that's why this whole structure hangs on this, in fact, this Kantian project.
+
+405
+00:23:02,470 --> 00:23:03,930
+SPK_1: Let's kick the canto again.
+
+406
+00:23:04,010 --> 00:23:05,630
+SPK_1: And here we are at the top.
+
+407
+00:23:05,630 --> 00:23:06,650
+SPK_1: At the top of the elite we will agree.
+
+408
+00:23:07,010 --> 00:23:09,990
+SPK_1: And in order to better manage this scum, we will not fight each other.
+
+409
+00:23:10,590 --> 00:23:15,710
+SPK_1: But it doesn't work, because you at the top level cannot count on each other for people.
+
+410
+00:23:16,210 --> 00:23:18,110
+SPK_1: You can't, it's proven, you can't.
+
+411
+00:23:18,350 --> 00:23:18,610
+SPK_1: And if there will be a winner?
+
+412
+00:23:18,610 --> 00:23:23,230
+SPK_1: Because, in simple terms, time is moving.
+
+413
+00:23:23,370 --> 00:23:26,090
+SPK_1: The winner, the passion does not go anywhere.
+
+414
+00:23:26,310 --> 00:23:27,930
+SPK_1: The city, the greed, the excess.
+
+415
+00:23:28,390 --> 00:23:32,130
+SPK_1: That is, rationally, if a person were rational, Father Pavel, then yes.
+
+416
+00:23:32,410 --> 00:23:34,390
+SPK_1: But we are not rational, we are moving passions.
+
+417
+00:23:35,630 --> 00:23:37,210
+SPK_1: But rationally, it should have been in the 90s.
+
+418
+00:23:37,630 --> 00:23:38,210
+SPK_1: If what?
+
+419
+00:23:38,550 --> 00:23:39,750
+SPK_1: Well, for three years, yes.
+
+420
+00:23:40,290 --> 00:23:42,110
+SPK_1: Well, for three years, okay, let's bear with it.
+
+421
+00:23:42,110 --> 00:23:43,270
+SPK_1: Yes, that is, not for long.
+
+422
+00:23:44,270 --> 00:23:46,850
+SPK_1: Yes, that is, I understand.
+
+423
+00:23:48,610 --> 00:23:54,270
+SPK_2: For listeners who have not read the Apocalypse, it should be explained that after the Antichrist comes,
+
+424
+00:23:54,270 --> 00:23:59,230
+SPK_2: well, before the coming of Christ the Lord in power, only three years should pass.
+
+425
+00:23:59,890 --> 00:24:01,910
+SPK_2: Yes, I'll just explain it just in case.
+
+426
+00:24:02,010 --> 00:24:05,610
+SPK_0: And you don't have, Pavel, a strange apocalyptic story?
+
+427
+00:24:05,630 --> 00:24:06,830
+SPK_0: You don't have a taste for it when you look at it all.
+
+428
+00:24:07,050 --> 00:24:10,310
+SPK_0: Or do you think that, well, or do you honestly understand that Solomon is right?
+
+429
+00:24:10,470 --> 00:24:12,470
+SPK_0: Everything that happened now has already been there for centuries.
+
+430
+00:24:14,490 --> 00:24:18,170
+SPK_1: And both, yes, that is, in fact, well, Solomon is right, definitely.
+
+431
+00:24:18,310 --> 00:24:19,310
+SPK_1: That is, it is not special.
+
+432
+00:24:19,490 --> 00:24:21,970
+SPK_1: On the other hand, as we should always be ready.
+
+433
+00:24:22,290 --> 00:24:25,670
+SPK_1: That is, it is more difficult to explain in Russian than in English.
+
+434
+00:24:25,830 --> 00:24:29,010
+SPK_1: You know, there is a certain article, an indefinite article.
+
+435
+00:24:29,410 --> 00:24:35,250
+SPK_1: Here I definitely have a feeling of an indefinite article, like this apocalyptic feeling with an indefinite article.
+
+436
+00:24:35,630 --> 00:24:38,890
+SPK_1: And about a certain article, the Church teaches us not to think,
+
+437
+00:24:38,990 --> 00:24:44,330
+SPK_1: otherwise it is our favorite entertainment in every generation to look for the fact that the Apocalypse is right here and now.
+
+438
+00:24:44,530 --> 00:24:46,250
+SPK_1: It is told to us, given to us.
+
+439
+00:24:46,330 --> 00:24:49,750
+SPK_1: In general, no one knows this more often than the Father of our Heaven.
+
+440
+00:24:49,890 --> 00:24:53,170
+SPK_1: Therefore, even if you want, you cannot be too much into it.
+
+441
+00:24:54,430 --> 00:24:57,130
+SPK_1: There are many bad consequences from this.
+
+442
+00:24:57,130 --> 00:25:04,210
+SPK_1: But with indefinite, that is, if we understand the whole symbolism of the Apocalypse as purification, revelation, the secret becomes clear,
+
+443
+00:25:04,210 --> 00:25:08,110
+SPK_1: then, like the likeness of this fractal, yes, of course, there is a war.
+
+444
+00:25:08,290 --> 00:25:09,890
+SPK_1: And the war is always in this sense of purification.
+
+445
+00:25:09,970 --> 00:25:12,050
+SPK_1: War, disease, crisis, attack.
+
+446
+00:25:12,410 --> 00:25:16,710
+SPK_1: This is not for nothing that in the Russian language such events are always, as we said, the Lord has blessed.
+
+447
+00:25:16,950 --> 00:25:18,610
+SPK_1: That is, the Lord has blessed.
+
+448
+00:25:18,670 --> 00:25:24,950
+SPK_1: This is not always about what we perceive as a happy, such a blissful moment.
+
+449
+00:25:24,950 --> 00:25:27,490
+SPK_1: This is often about such a great tragedy.
+
+450
+00:25:27,490 --> 00:25:29,410
+SPK_1: And therefore, yes, there is in this case.
+
+451
+00:25:29,790 --> 00:25:34,010
+SPK_2: The last thing I ask about this topic, we have only one and a half minutes left until the end.
+
+452
+00:25:34,570 --> 00:25:40,470
+SPK_2: How true is the hypothesis, just our viewer and listener asked us about this.
+
+453
+00:25:40,470 --> 00:25:47,610
+SPK_2: How true is the hypothesis that Trump can be driven by some really messianic ideas,
+
+454
+00:25:47,870 --> 00:25:51,690
+SPK_2: and that is, really the construction of the Third Temple and so on.
+
+455
+00:25:51,890 --> 00:25:52,830
+SPK_2: That's what I wanted to ask.
+
+456
+00:25:53,290 --> 00:25:54,470
+SPK_1: Look, a short answer.
+
+457
+00:25:54,650 --> 00:25:56,970
+SPK_1: Not as much as Trump himself, a bunch of people around Trump.
+
+458
+00:25:57,110 --> 00:25:59,750
+SPK_1: Trump himself is driven by a very simple idea, and Trump is great.
+
+459
+00:25:59,950 --> 00:26:02,590
+SPK_1: He personally speaks only with one, God himself.
+
+460
+00:26:02,590 --> 00:26:04,590
+SPK_1: He literally said it.
+
+461
+00:26:04,650 --> 00:26:06,850
+SPK_1: No one limits him to his own blood.
+
+462
+00:26:07,190 --> 00:26:08,830
+SPK_1: Therefore, he is great.
+
+463
+00:26:09,030 --> 00:26:12,170
+SPK_1: He is the ruler of the planet from one particular palace.
+
+464
+00:26:12,410 --> 00:26:14,790
+SPK_1: And he has no problems with this question.
+
+465
+00:26:15,170 --> 00:26:18,930
+SPK_1: And around him, these people with messianic things are serious.
+
+466
+00:26:18,930 --> 00:26:23,170
+SPK_0: Before we go to the end, I just want to say that I already have two temples on the territory.
+
+467
+00:26:23,450 --> 00:26:26,030
+SPK_0: So if anyone wants to build a third one, come to the Harbin Temple.
+
+468
+00:26:27,030 --> 00:26:27,970
+SPK_0: Friends, do not miss it.
+
+469
+00:26:28,170 --> 00:26:28,490
+SPK_2: Do not miss it.
+
+470
+00:26:28,490 --> 00:26:28,730
+SPK_2: Do not miss it.
+
+471
+00:26:33,600 --> 00:26:34,560
+SPK_1: Sand Interest
+
+472
+00:26:34,560 --> 00:26:37,400
+SPK_2: Good evening, dear friends.
+
+473
+00:26:37,820 --> 00:26:39,060
+SPK_2: Sand Interest is on air.
+
+474
+00:26:39,060 --> 00:26:41,320
+SPK_2: I am the priest Pavel Ostrovsky and I am Polina Uvarova.
+
+475
+00:26:41,340 --> 00:26:44,340
+SPK_2: And our guest today is political philosopher Pavel Shchelin.
+
+476
+00:26:44,600 --> 00:26:46,040
+SPK_2: Hello again, Pavel.
+
+477
+00:26:46,860 --> 00:26:48,000
+SPK_2: We greet you again.
+
+478
+00:26:48,220 --> 00:26:52,380
+SPK_0: Friends, I wanted to talk about the family for a second and a half hour.
+
+479
+00:26:52,440 --> 00:26:54,700
+SPK_0: Because sooner or later we need to give birth here.
+
+480
+00:26:57,140 --> 00:26:57,620
+SPK_2: More.
+
+481
+00:26:58,100 --> 00:26:58,580
+SPK_0: More.
+
+482
+00:27:01,200 --> 00:27:05,400
+SPK_0: When I watch all these stories about what needs to be given birth and so on,
+
+483
+00:27:05,580 --> 00:27:09,660
+SPK_0: I feel sorry for the young guys who have to do all this.
+
+484
+00:27:09,740 --> 00:27:11,500
+SPK_0: Because I communicate with them the most.
+
+485
+00:27:11,980 --> 00:27:18,060
+SPK_0: And while they are Christians, while we are having Christian conversations,
+
+486
+00:27:18,360 --> 00:27:21,740
+SPK_0: they have some kind of light in front of them.
+
+487
+00:27:22,100 --> 00:27:26,920
+SPK_0: But when the speech comes in, we are already talking in a secular way.
+
+488
+00:27:26,920 --> 00:27:30,220
+SPK_0: Probably, for this reason, it is better not to talk to young people in a secular way.
+
+489
+00:27:31,380 --> 00:27:34,720
+SPK_0: They have some kind of absolute...
+
+490
+00:27:35,260 --> 00:27:35,640
+SPK_0: Stupor.
+
+491
+00:27:36,100 --> 00:27:36,540
+SPK_0: ...sadness.
+
+492
+00:27:36,640 --> 00:27:36,940
+SPK_0: Yes.
+
+493
+00:27:37,360 --> 00:27:37,920
+SPK_2: Their tone.
+
+494
+00:27:38,200 --> 00:27:38,600
+SPK_0: For one reason.
+
+495
+00:27:39,220 --> 00:27:42,800
+SPK_0: Because we are, in fact, the first place in the world in Russia in divorce.
+
+496
+00:27:44,200 --> 00:27:46,400
+SPK_0: It is clear that no one wants to get into a mortgage.
+
+497
+00:27:48,940 --> 00:27:50,000
+SPK_2: Yes, a mortgage is okay.
+
+498
+00:27:50,220 --> 00:27:55,500
+SPK_2: As a person living in a marriage, I can say that just despite the fact
+
+499
+00:27:55,500 --> 00:28:00,020
+SPK_2: that I love my husband and, I hope, he loves me too.
+
+500
+00:28:00,660 --> 00:28:01,700
+SPK_2: Despite what?
+
+501
+00:28:02,060 --> 00:28:02,280
+SPK_0: Yes.
+
+502
+00:28:02,280 --> 00:28:06,460
+SPK_2: But despite this, I can't get rid of, reading the news,
+
+503
+00:28:06,480 --> 00:28:09,960
+SPK_2: just from some kind of constant, as if a wet sword.
+
+504
+00:28:10,200 --> 00:28:13,900
+SPK_2: As if this marriage institute, which is present in our country,
+
+505
+00:28:14,300 --> 00:28:19,420
+SPK_2: as if nothing at all, except God's help and our personal will,
+
+506
+00:28:19,920 --> 00:28:23,480
+SPK_2: which sometimes, as I understand it, can be experienced by some spirits of evil,
+
+507
+00:28:23,480 --> 00:28:25,840
+SPK_2: just can't stand it.
+
+508
+00:28:25,980 --> 00:28:29,980
+SPK_2: And from this, in fact, to the cold, it's terrible.
+
+509
+00:28:30,280 --> 00:28:30,720
+SPK_2: Here.
+
+510
+00:28:31,260 --> 00:28:35,180
+SPK_0: I will add, before we give the word to our wonderful Pavel,
+
+511
+00:28:35,920 --> 00:28:42,520
+SPK_0: that those people who actually speak for real family values,
+
+512
+00:28:42,680 --> 00:28:47,100
+SPK_0: because the word traditional family values has already discredited itself,
+
+513
+00:28:47,260 --> 00:28:48,740
+SPK_0: it's just not beautiful.
+
+514
+00:28:49,040 --> 00:28:52,000
+SPK_0: But those who really speak for family values,
+
+515
+00:28:52,000 --> 00:28:57,040
+SPK_0: offer anything, they don't even get into any discussions,
+
+516
+00:28:57,440 --> 00:29:02,740
+SPK_0: not even in any working groups, and often just openly marginalize themselves.
+
+517
+00:29:03,980 --> 00:29:08,540
+SPK_0: And those people who are called upon, even appointed by the authorities,
+
+518
+00:29:08,600 --> 00:29:13,940
+SPK_0: to decide all this, well, it seems to me, even if they want to,
+
+519
+00:29:14,060 --> 00:29:16,200
+SPK_0: if they want to, it can't work out.
+
+520
+00:29:17,760 --> 00:29:20,020
+SPK_1: Pavel, what do you think?
+
+521
+00:29:20,180 --> 00:29:21,240
+SPK_1: Well, short answer.
+
+522
+00:29:24,120 --> 00:29:26,480
+SPK_1: You are both completely right, in fact.
+
+523
+00:29:26,680 --> 00:29:30,500
+SPK_1: This topic is very sad, but it is deservedly sad,
+
+524
+00:29:30,800 --> 00:29:34,840
+SPK_1: because I absolutely completely agree with Pavel
+
+525
+00:29:34,840 --> 00:29:39,640
+SPK_1: that these magical spells of traditional values in the 21st century will not work.
+
+526
+00:29:40,020 --> 00:29:43,000
+SPK_1: We can just say in advance why.
+
+527
+00:29:43,300 --> 00:29:45,340
+SPK_1: And there is one fundamental reason for this.
+
+528
+00:29:47,540 --> 00:29:49,180
+SPK_1: Today, under marriage,
+
+529
+00:29:49,180 --> 00:29:52,580
+SPK_1: there really is no rational basis.
+
+530
+00:29:53,140 --> 00:29:55,320
+SPK_1: There is only a super-rational basis.
+
+531
+00:29:55,820 --> 00:29:58,120
+SPK_1: And everything that is super-rational, it is faith.
+
+532
+00:29:58,400 --> 00:30:02,280
+SPK_1: We can clearly see from Pavel's father where it is located.
+
+533
+00:30:02,460 --> 00:30:04,380
+SPK_1: That is, you absolutely, Pavel, you yourself said everything.
+
+534
+00:30:04,500 --> 00:30:05,940
+SPK_1: Marriage is held in good faith today.
+
+535
+00:30:06,980 --> 00:30:09,760
+SPK_1: And, probably, in this, if you look for optimism, this is good.
+
+536
+00:30:10,140 --> 00:30:12,580
+SPK_1: He is only held by faith, he is called to this,
+
+537
+00:30:12,580 --> 00:30:14,420
+SPK_1: that only by faith he should be held.
+
+538
+00:30:14,680 --> 00:30:17,800
+SPK_1: But historically, we just had such very large crutches.
+
+539
+00:30:17,800 --> 00:30:19,780
+SPK_1: The main crutch was survival.
+
+540
+00:30:20,340 --> 00:30:22,260
+SPK_1: You are not in marriage, you will die.
+
+541
+00:30:22,520 --> 00:30:23,100
+SPK_1: Well, physically.
+
+542
+00:30:23,680 --> 00:30:27,320
+SPK_1: You can ask a woman in the 18th century how she will live without her husband in winter.
+
+543
+00:30:28,220 --> 00:30:29,880
+SPK_1: Bad. Short answer. Bad.
+
+544
+00:30:30,160 --> 00:30:31,000
+SPK_1: She will probably die.
+
+545
+00:30:31,320 --> 00:30:32,720
+SPK_1: She will probably die with her husband, too.
+
+546
+00:30:34,100 --> 00:30:36,140
+SPK_1: But without a husband, yes.
+
+547
+00:30:37,020 --> 00:30:39,200
+SPK_1: Without a husband, she will probably die from cold with a child.
+
+548
+00:30:39,980 --> 00:30:43,760
+SPK_1: Well, that is, it is necessary to understand that this Institute of Traditional Values,
+
+549
+00:30:43,860 --> 00:30:45,700
+SPK_1: I will never say a better phrase,
+
+550
+00:30:45,700 --> 00:30:49,780
+SPK_1: but you can really give even this, remove this rational hat
+
+551
+00:30:49,780 --> 00:30:51,660
+SPK_1: in front of all sorts of feminists and marxists.
+
+552
+00:30:51,920 --> 00:30:58,360
+SPK_1: There is really a lot of such applied, economic, class and all sorts of things in it.
+
+553
+00:30:58,360 --> 00:30:59,160
+SPK_1: Today there is no such thing.
+
+554
+00:30:59,640 --> 00:31:03,320
+SPK_1: Today a person alone, alone with this scum of the state,
+
+555
+00:31:03,540 --> 00:31:04,340
+SPK_1: nevertheless, survives.
+
+556
+00:31:04,820 --> 00:31:09,440
+SPK_1: He has a delivery man, delivers food, a drone flies by,
+
+557
+00:31:09,440 --> 00:31:12,300
+SPK_1: artificial intelligence satisfies emotional needs.
+
+558
+00:31:12,560 --> 00:31:14,920
+SPK_1: That is, there is no rational reason to get married.
+
+559
+00:31:14,920 --> 00:31:18,200
+SPK_1: Property, it does not really matter.
+
+560
+00:31:19,420 --> 00:31:20,740
+SPK_1: Moreover, for example, for men,
+
+561
+00:31:20,920 --> 00:31:23,800
+SPK_1: entering into marriage is almost a guaranteed way to lose property.
+
+562
+00:31:24,020 --> 00:31:25,280
+SPK_1: In statistics with divorces.
+
+563
+00:31:25,280 --> 00:31:25,880
+SPK_1: Well, yes, yes.
+
+564
+00:31:26,000 --> 00:31:33,340
+SPK_1: That is, all these rational arguments for marriage, they really do not exist.
+
+565
+00:31:33,440 --> 00:31:36,700
+SPK_1: And it seems to me that the first step to a real honest conversation
+
+566
+00:31:36,700 --> 00:31:38,620
+SPK_1: about all this demographic problem,
+
+567
+00:31:39,100 --> 00:31:40,180
+SPK_1: about the problem of tradition,
+
+568
+00:31:40,480 --> 00:31:42,020
+SPK_1: is the recognition of the fact that
+
+569
+00:31:42,020 --> 00:31:45,240
+SPK_1: no one will really give birth for money.
+
+570
+00:31:45,700 --> 00:31:49,260
+SPK_1: This has failed in South Korea, in China, in Scandinavia.
+
+571
+00:31:49,360 --> 00:31:52,140
+SPK_1: That is, there is a small effect, but there is no real one.
+
+572
+00:31:52,440 --> 00:31:54,160
+SPK_1: That is, he does not make a problem.
+
+573
+00:31:54,260 --> 00:31:58,940
+SPK_1: And while we are at the level of the public, public thinkers,
+
+574
+00:31:59,580 --> 00:32:00,800
+SPK_1: and even more so at the level of the authorities,
+
+575
+00:32:00,940 --> 00:32:03,420
+SPK_1: do not recognize that we cannot solve this problem
+
+576
+00:32:03,920 --> 00:32:05,280
+SPK_1: with any rational actions,
+
+577
+00:32:05,700 --> 00:32:08,920
+SPK_1: it is useless to touch on it at all.
+
+578
+00:32:09,100 --> 00:32:11,660
+SPK_1: The only solution to the problem of marriage today
+
+579
+00:32:12,020 --> 00:32:13,620
+SPK_1: is a super-rational solution.
+
+580
+00:32:13,840 --> 00:32:15,240
+SPK_1: Look, and all over the world.
+
+581
+00:32:15,320 --> 00:32:20,240
+SPK_1: The only groups that have passed the temptation of this rationality,
+
+582
+00:32:20,240 --> 00:32:23,320
+SPK_1: well, that is, this is called the second demographic transition,
+
+583
+00:32:23,420 --> 00:32:25,980
+SPK_1: but in a good way, just a certain level of wealth and education,
+
+584
+00:32:26,260 --> 00:32:27,120
+SPK_1: so to put it simply.
+
+585
+00:32:27,360 --> 00:32:31,580
+SPK_1: The only groups that have passed this and continue to give birth
+
+586
+00:32:31,580 --> 00:32:33,240
+SPK_1: are deeply religious people.
+
+587
+00:32:33,480 --> 00:32:36,320
+SPK_1: These are traditional Orthodox, deeply churched.
+
+588
+00:32:36,320 --> 00:32:37,680
+SPK_1: These are traditional Catholics.
+
+589
+00:32:38,160 --> 00:32:40,160
+SPK_1: Not Catholics at all, but those who still
+
+590
+00:32:40,160 --> 00:32:41,660
+SPK_1: go to the Latin place.
+
+591
+00:32:42,060 --> 00:32:44,660
+SPK_1: That is, if you look at the statistics of these arrivals,
+
+592
+00:32:44,780 --> 00:32:46,500
+SPK_1: then there are 7-8 children there.
+
+593
+00:32:46,500 --> 00:32:48,080
+SPK_1: Some traditional Muslims.
+
+594
+00:32:48,540 --> 00:32:50,080
+SPK_1: Also, note, not Muslims in general.
+
+595
+00:32:50,260 --> 00:32:52,460
+SPK_1: Muslims who ended up in Europe, for example,
+
+596
+00:32:52,560 --> 00:32:56,320
+SPK_1: are exactly the same, as well as the same,
+
+597
+00:32:56,440 --> 00:33:01,960
+SPK_1: on the same robes as Catholics, Protestants, Orthodox.
+
+598
+00:33:02,380 --> 00:33:03,480
+SPK_1: In general, a single challenge.
+
+599
+00:33:03,600 --> 00:33:06,340
+SPK_1: That is, only a serious attitude to religion.
+
+600
+00:33:06,500 --> 00:33:07,980
+SPK_1: Well, the third is traditional Judaism.
+
+601
+00:33:08,220 --> 00:33:09,480
+SPK_1: The state of Israel as a state
+
+602
+00:33:09,480 --> 00:33:13,300
+SPK_1: is the only state that has passed the second demographic transition
+
+603
+00:33:13,300 --> 00:33:16,560
+SPK_1: and has a birth rate of more than two children per woman.
+
+604
+00:33:16,860 --> 00:33:19,400
+SPK_1: But you can look at the role of religion in the life of Israel
+
+605
+00:33:19,400 --> 00:33:20,960
+SPK_1: with all the pros and cons, right?
+
+606
+00:33:21,060 --> 00:33:23,180
+SPK_1: That is, no matter how I treated Judaism,
+
+607
+00:33:23,440 --> 00:33:24,440
+SPK_1: just the fact itself.
+
+608
+00:33:24,500 --> 00:33:26,760
+SPK_1: A short answer to the beginning, whether he likes it or not.
+
+609
+00:33:26,940 --> 00:33:29,720
+SPK_1: In the 21st century, robots will either give birth
+
+610
+00:33:29,720 --> 00:33:31,140
+SPK_1: or people with a living faith.
+
+611
+00:33:31,380 --> 00:33:31,840
+SPK_1: That's it.
+
+612
+00:33:32,380 --> 00:33:33,480
+SPK_1: Well, robots cannot give birth.
+
+613
+00:33:33,480 --> 00:33:34,920
+SPK_1: This is such a sarcasm, if anything, right?
+
+614
+00:33:35,040 --> 00:33:37,900
+SPK_1: But a short answer is that only people...
+
+615
+00:33:37,900 --> 00:33:40,000
+SPK_0: Yes, there is actually a reasonable question.
+
+616
+00:33:42,160 --> 00:33:45,680
+SPK_0: So, if at the top they did not understand the obvious
+
+617
+00:33:45,680 --> 00:33:47,760
+SPK_0: that it is the believers who give birth.
+
+618
+00:33:47,760 --> 00:33:48,420
+SPK_0: Well, I say believers.
+
+619
+00:33:48,720 --> 00:33:51,240
+SPK_2: In the broadest sense of the word.
+
+620
+00:33:51,240 --> 00:33:52,580
+SPK_0: In the broadest sense of the word, believers.
+
+621
+00:33:52,880 --> 00:33:55,180
+SPK_0: In the broadest sense of the word, all believers.
+
+622
+00:33:55,480 --> 00:33:57,500
+SPK_2: Not only Orthodox, but also all others.
+
+623
+00:33:57,500 --> 00:33:59,980
+SPK_0: Well, that it is the real believers that give birth.
+
+624
+00:34:00,000 --> 00:34:00,960
+SPK_0: Regardless of what.
+
+625
+00:34:01,080 --> 00:34:02,640
+SPK_0: Regardless of their finances.
+
+626
+00:34:02,880 --> 00:34:03,680
+SPK_0: With a living faith.
+
+627
+00:34:03,940 --> 00:34:04,420
+SPK_0: Yes, yes.
+
+628
+00:34:04,420 --> 00:34:06,040
+SPK_0: Well, I say believers in the broadest sense of the word.
+
+629
+00:34:06,160 --> 00:34:07,980
+SPK_0: Those who have faith with deeds.
+
+630
+00:34:08,420 --> 00:34:09,180
+SPK_0: Confirmed with deeds.
+
+631
+00:34:11,360 --> 00:34:13,920
+SPK_0: If the authorities do not notice it,
+
+632
+00:34:15,880 --> 00:34:18,320
+SPK_0: then how can they not notice it?
+
+633
+00:34:18,320 --> 00:34:19,080
+SPK_0: Because it lies on the surface.
+
+634
+00:34:19,440 --> 00:34:21,960
+SPK_0: But if she notices it and understands it,
+
+635
+00:34:21,960 --> 00:34:23,880
+SPK_0: then, it turns out, she resists it.
+
+636
+00:34:24,520 --> 00:34:25,700
+SPK_0: For the reason that,
+
+637
+00:34:26,380 --> 00:34:27,840
+SPK_0: despite the fact that in our country,
+
+638
+00:34:28,000 --> 00:34:30,020
+SPK_0: on the one hand, we have no, thank God,
+
+639
+00:34:30,100 --> 00:34:31,340
+SPK_0: persecution of the Orthodox Church.
+
+640
+00:34:31,820 --> 00:34:32,480
+SPK_0: There is no persecution.
+
+641
+00:34:32,480 --> 00:34:32,640
+SPK_0: There is no persecution.
+
+642
+00:34:33,160 --> 00:34:36,060
+SPK_0: But to say that we have at least,
+
+643
+00:34:36,080 --> 00:34:38,440
+SPK_0: well, at least a little bit of some religious propaganda,
+
+644
+00:34:38,860 --> 00:34:39,960
+SPK_0: in the good sense of the word,
+
+645
+00:34:40,080 --> 00:34:41,000
+SPK_0: that is, this is a movie,
+
+646
+00:34:41,660 --> 00:34:42,620
+SPK_0: and so on,
+
+647
+00:34:44,620 --> 00:34:45,780
+SPK_0: we do not see it.
+
+648
+00:34:45,900 --> 00:34:46,720
+SPK_0: We do not see it.
+
+649
+00:34:47,440 --> 00:34:48,300
+SPK_1: Where do they come from?
+
+650
+00:34:49,420 --> 00:34:50,060
+SPK_0: The question.
+
+651
+00:34:50,400 --> 00:34:51,300
+SPK_1: Well, in a good way.
+
+652
+00:34:51,340 --> 00:34:52,640
+SPK_1: After all, people are elderly.
+
+653
+00:34:52,940 --> 00:34:53,360
+SPK_1: It is necessary to understand.
+
+654
+00:34:53,660 --> 00:34:54,620
+SPK_1: That is, it seems to me, after all,
+
+655
+00:34:54,620 --> 00:34:56,640
+SPK_1: I tend to the first option, sincerely.
+
+656
+00:34:56,880 --> 00:34:57,820
+SPK_1: Because, do not forget,
+
+657
+00:34:58,020 --> 00:34:59,260
+SPK_1: in the mass of their people, this generation,
+
+658
+00:35:00,300 --> 00:35:01,820
+SPK_1: when we have in our bosses,
+
+659
+00:35:02,020 --> 00:35:04,620
+SPK_1: who gave birth, people, well, people always give birth.
+
+660
+00:35:05,080 --> 00:35:06,460
+SPK_1: That is, they are from the generation,
+
+661
+00:35:06,620 --> 00:35:08,120
+SPK_1: when the birth, it just happens.
+
+662
+00:35:08,920 --> 00:35:10,560
+SPK_1: Well, you know, it's like, well,
+
+663
+00:35:11,820 --> 00:35:13,900
+SPK_1: well, this is, well, we are here,
+
+664
+00:35:13,920 --> 00:35:15,020
+SPK_1: probably, we underestimate the speed
+
+665
+00:35:15,020 --> 00:35:15,800
+SPK_1: of this transition.
+
+666
+00:35:16,100 --> 00:35:17,040
+SPK_1: But it is necessary to understand that
+
+667
+00:35:17,040 --> 00:35:19,000
+SPK_1: when they were formed,
+
+668
+00:35:19,620 --> 00:35:21,340
+SPK_1: this is what I was talking about,
+
+669
+00:35:21,460 --> 00:35:23,040
+SPK_1: rationality and super-rationality,
+
+670
+00:35:23,040 --> 00:35:24,260
+SPK_1: this is an sincerely incomprehensible fact.
+
+671
+00:35:24,420 --> 00:35:24,960
+SPK_1: Well, really.
+
+672
+00:35:25,100 --> 00:35:27,560
+SPK_1: They think that this is a problem of money,
+
+673
+00:35:27,700 --> 00:35:29,060
+SPK_1: well, money, maybe a little shy
+
+674
+00:35:29,060 --> 00:35:30,060
+SPK_1: life circumstances.
+
+675
+00:35:30,300 --> 00:35:33,060
+SPK_1: But in general, the fact that the very installation
+
+676
+00:35:33,060 --> 00:35:35,560
+SPK_1: for birth is natural for them
+
+677
+00:35:35,560 --> 00:35:37,260
+SPK_1: is the most obvious fact
+
+678
+00:35:37,260 --> 00:35:38,620
+SPK_1: and, in addition, as it were,
+
+679
+00:35:38,660 --> 00:35:39,900
+SPK_1: the understanding of the needless.
+
+680
+00:35:40,180 --> 00:35:42,200
+SPK_1: But it's amazing, here it's industrial,
+
+681
+00:35:42,500 --> 00:35:43,560
+SPK_1: in fact, it's good.
+
+682
+00:35:43,960 --> 00:35:46,380
+SPK_1: In a sense, we ourselves drive ourselves to the point
+
+683
+00:35:46,380 --> 00:35:48,100
+SPK_1: when we have to admit that birth
+
+684
+00:35:48,100 --> 00:35:49,440
+SPK_1: is not just, forgive me,
+
+685
+00:35:49,440 --> 00:35:50,060
+SPK_1: to have some kind of
+
+686
+00:35:50,060 --> 00:35:52,200
+SPK_1: and this is exactly a spiritual, divine,
+
+687
+00:35:52,480 --> 00:35:53,560
+SPK_1: supernatural fact.
+
+688
+00:35:54,560 --> 00:35:56,880
+SPK_1: But it will certainly not be obvious to them,
+
+689
+00:35:56,880 --> 00:35:58,840
+SPK_1: and it is difficult to demand this from people
+
+690
+00:35:58,840 --> 00:36:01,540
+SPK_1: at their age, formed in the late 70s,
+
+691
+00:36:01,540 --> 00:36:03,960
+SPK_1: early 80s, with all the ongoing events.
+
+692
+00:36:04,520 --> 00:36:06,620
+SPK_1: At the same time, if you talk about,
+
+693
+00:36:06,620 --> 00:36:08,600
+SPK_1: I repeat, subconscious fear,
+
+694
+00:36:08,880 --> 00:36:10,260
+SPK_1: then, of course, there is a subconscious fear.
+
+695
+00:36:10,660 --> 00:36:12,340
+SPK_1: And this is, returning to the first part
+
+696
+00:36:12,340 --> 00:36:13,420
+SPK_1: of our program, of course,
+
+697
+00:36:13,440 --> 00:36:14,160
+SPK_1: this is a fear of responsibility.
+
+698
+00:36:14,640 --> 00:36:16,780
+SPK_1: It will have to be imitated by themselves.
+
+699
+00:36:17,080 --> 00:36:19,320
+SPK_1: They also don't really know how to imitate.
+
+700
+00:36:19,680 --> 00:36:21,120
+SPK_1: They are also children of all these.
+
+701
+00:36:21,260 --> 00:36:23,460
+SPK_1: You will notice that the collective symbol
+
+702
+00:36:23,460 --> 00:36:26,060
+SPK_1: of the power of modernity is Pontius Pilate.
+
+703
+00:36:26,320 --> 00:36:28,580
+SPK_1: They are all brought up in this kind of fatigue.
+
+704
+00:36:29,660 --> 00:36:30,580
+SPK_1: They carry it here,
+
+705
+00:36:31,140 --> 00:36:32,980
+SPK_1: it is necessary to deal with all this,
+
+706
+00:36:33,380 --> 00:36:33,880
+SPK_1: that's all.
+
+707
+00:36:34,060 --> 00:36:35,980
+SPK_1: And just like Pontius Pilate,
+
+708
+00:36:35,980 --> 00:36:37,680
+SPK_1: they all can say, in fact,
+
+709
+00:36:37,720 --> 00:36:38,940
+SPK_1: from my experience of communication,
+
+710
+00:36:39,180 --> 00:36:40,620
+SPK_1: where is the truth here?
+
+711
+00:36:40,740 --> 00:36:42,500
+SPK_1: From this Pilate fatigue.
+
+712
+00:36:42,780 --> 00:36:44,360
+SPK_1: Pilate's questions are very powerful.
+
+713
+00:36:46,140 --> 00:36:47,260
+SPK_0: Well, well, well.
+
+714
+00:36:47,760 --> 00:36:48,740
+SPK_0: Well, well, well.
+
+715
+00:36:48,840 --> 00:36:50,500
+SPK_1: Is there any human way
+
+716
+00:36:50,500 --> 00:36:52,980
+SPK_2: to cope with this at all, I think?
+
+717
+00:36:53,340 --> 00:36:56,040
+SPK_2: I understand that our only chance
+
+718
+00:36:56,040 --> 00:36:57,820
+SPK_2: is to live to the moment
+
+719
+00:36:57,820 --> 00:36:59,380
+SPK_2: when the generation will change
+
+720
+00:36:59,380 --> 00:37:01,480
+SPK_2: and, accordingly, something will change
+
+721
+00:37:01,480 --> 00:37:03,780
+SPK_2: in the structure, or what?
+
+722
+00:37:03,920 --> 00:37:04,760
+SPK_0: No, no, I don't agree with you
+
+723
+00:37:05,980 --> 00:37:06,800
+SPK_0: to say the generation will change,
+
+724
+00:37:06,800 --> 00:37:09,440
+SPK_0: because when today,
+
+725
+00:37:10,300 --> 00:37:11,640
+SPK_0: even in the Orthodox environment,
+
+726
+00:37:12,220 --> 00:37:13,810
+SPK_0: we are talking about marriage
+
+727
+00:37:14,500 --> 00:37:15,280
+SPK_0: and everything else,
+
+728
+00:37:15,400 --> 00:37:17,160
+SPK_0: it is necessary to say that the Orthodox Church
+
+729
+00:37:17,160 --> 00:37:19,580
+SPK_0: in Russia, I don't take it now,
+
+730
+00:37:19,580 --> 00:37:21,800
+SPK_0: I don't know how in Greece, in Serbia,
+
+731
+00:37:21,940 --> 00:37:22,480
+SPK_0: or in America,
+
+732
+00:37:23,220 --> 00:37:24,700
+SPK_0: but if we take Russia,
+
+733
+00:37:25,000 --> 00:37:28,480
+SPK_0: the same people enter the Orthodox Church,
+
+734
+00:37:28,480 --> 00:37:29,740
+SPK_0: who go to the elections,
+
+735
+00:37:29,760 --> 00:37:31,400
+SPK_0: to the store, to the five, and so on, right?
+
+736
+00:37:31,500 --> 00:37:31,960
+SPK_1: Yes, absolutely.
+
+737
+00:37:32,400 --> 00:37:33,600
+SPK_1: And all the problems,
+
+738
+00:37:33,600 --> 00:37:34,880
+SPK_0: including demographic,
+
+739
+00:37:36,220 --> 00:37:37,760
+SPK_0: psychological, any,
+
+740
+00:37:38,040 --> 00:37:40,320
+SPK_0: they concern the Russian Orthodox Church.
+
+741
+00:37:40,560 --> 00:37:42,420
+SPK_0: That is, we have a gigantic problem
+
+742
+00:37:42,420 --> 00:37:42,880
+SPK_0: with the clergy.
+
+743
+00:37:43,340 --> 00:37:45,240
+SPK_0: Our families are being destroyed
+
+744
+00:37:45,240 --> 00:37:45,980
+SPK_0: by the clergy.
+
+745
+00:37:46,340 --> 00:37:46,880
+SPK_0: Our families are being destroyed
+
+746
+00:37:46,880 --> 00:37:48,520
+SPK_0: by the simple Orthodox Christians.
+
+747
+00:37:48,980 --> 00:37:51,240
+SPK_0: And in general, when you start talking,
+
+748
+00:37:51,580 --> 00:37:53,020
+SPK_0: whether with priests
+
+749
+00:37:54,300 --> 00:37:56,360
+SPK_0: or with laymen
+
+750
+00:37:56,360 --> 00:37:58,300
+SPK_0: who have some influence
+
+751
+00:37:58,300 --> 00:37:59,120
+SPK_0: or even education,
+
+752
+00:37:59,840 --> 00:38:01,280
+SPK_0: I do not generalize now,
+
+753
+00:38:01,280 --> 00:38:02,660
+SPK_0: but very often,
+
+754
+00:38:02,940 --> 00:38:04,160
+SPK_0: if not in most cases,
+
+755
+00:38:04,400 --> 00:38:05,940
+SPK_0: you see that people say
+
+756
+00:38:05,940 --> 00:38:07,120
+SPK_0: that in order to give birth to children,
+
+757
+00:38:07,340 --> 00:38:09,780
+SPK_0: of course, it is important that there are money,
+
+758
+00:38:09,980 --> 00:38:10,960
+SPK_0: that it is important to have a living space,
+
+759
+00:38:11,200 --> 00:38:11,460
+SPK_0: and so on.
+
+760
+00:38:11,620 --> 00:38:12,560
+SPK_0: Although, by and large,
+
+761
+00:38:13,600 --> 00:38:16,420
+SPK_0: what Pavel says is the only goal.
+
+762
+00:38:17,200 --> 00:38:18,940
+SPK_0: That is, the birth of children
+
+763
+00:38:18,940 --> 00:38:21,180
+SPK_0: is very useful for spiritual life.
+
+764
+00:38:21,920 --> 00:38:23,640
+SPK_0: Just because you will be forced
+
+765
+00:38:23,640 --> 00:38:24,680
+SPK_0: to love these thugs
+
+766
+00:38:24,680 --> 00:38:26,300
+SPK_0: who yell at you and everything else,
+
+767
+00:38:26,300 --> 00:38:28,680
+SPK_0: but the confession of God to us,
+
+768
+00:38:28,860 --> 00:38:30,360
+SPK_0: yes, love each other.
+
+769
+00:38:30,600 --> 00:38:31,440
+SPK_0: And in this sense,
+
+770
+00:38:31,600 --> 00:38:32,700
+SPK_0: the birth of a child
+
+771
+00:38:32,700 --> 00:38:34,400
+SPK_0: and in general a complete family,
+
+772
+00:38:34,400 --> 00:38:35,660
+SPK_0: and so on, for spiritual life,
+
+773
+00:38:36,160 --> 00:38:37,500
+SPK_0: for spiritual growth,
+
+774
+00:38:37,500 --> 00:38:38,680
+SPK_0: it is very useful.
+
+775
+00:38:39,180 --> 00:38:40,260
+SPK_0: It is not by chance that it is said
+
+776
+00:38:40,260 --> 00:38:42,000
+SPK_0: that a woman is saved by a prodigal child,
+
+777
+00:38:42,100 --> 00:38:43,280
+SPK_0: not only by a prodigal child.
+
+778
+00:38:44,360 --> 00:38:46,160
+SPK_0: Polina is just six months old
+
+779
+00:38:46,160 --> 00:38:47,240
+SPK_0: and enjoys it.
+
+780
+00:38:47,540 --> 00:38:47,640
+SPK_0: Congratulations.
+
+781
+00:38:48,360 --> 00:38:49,020
+SPK_2: Thank you.
+
+782
+00:38:56,300 --> 00:38:56,580
+SPK_2: Do you understand that everything
+
+783
+00:38:56,580 --> 00:38:59,620
+SPK_2: that we are saying now is clear to the three of us?
+
+784
+00:39:00,060 --> 00:39:01,380
+SPK_2: There is hope.
+
+785
+00:39:03,440 --> 00:39:05,240
+SPK_2: But it seems to me that what we are saying
+
+786
+00:39:05,240 --> 00:39:05,520
+SPK_1: is also very simple.
+
+787
+00:39:05,720 --> 00:39:08,100
+SPK_1: Only these will survive, Polina.
+
+788
+00:39:08,340 --> 00:39:10,640
+SPK_1: It's a empty sound, but, unfortunately,
+
+789
+00:39:10,920 --> 00:39:12,960
+SPK_1: this divine selection works here.
+
+790
+00:39:13,500 --> 00:39:17,060
+SPK_1: Do you remember the prophet Isaiah?
+
+791
+00:39:17,540 --> 00:39:18,500
+SPK_1: May God bless us.
+
+792
+00:39:18,820 --> 00:39:19,500
+SPK_1: How is it?
+
+793
+00:39:19,580 --> 00:39:20,720
+SPK_1: Did I stay alone? No.
+
+794
+00:39:20,780 --> 00:39:22,420
+SPK_1: I left 5,000 people to myself
+
+795
+00:39:22,420 --> 00:39:24,900
+SPK_1: from a million city.
+
+796
+00:39:26,300 --> 00:39:27,960
+SPK_1: But the rest survives.
+
+797
+00:39:27,960 --> 00:39:29,100
+SPK_1: The short answer is that
+
+798
+00:39:29,100 --> 00:39:31,840
+SPK_1: you are completely right.
+
+799
+00:39:31,960 --> 00:39:32,660
+SPK_1: It is necessary to tell the truth.
+
+800
+00:39:33,600 --> 00:39:35,380
+SPK_1: No one guarantees survival
+
+801
+00:39:35,380 --> 00:39:36,120
+SPK_1: and no one forces it.
+
+802
+00:39:36,440 --> 00:39:37,120
+SPK_1: If you do not want to survive,
+
+803
+00:39:37,840 --> 00:39:39,000
+SPK_1: you will not.
+
+804
+00:39:41,760 --> 00:39:43,620
+SPK_1: Whoever acquires faith will survive.
+
+805
+00:39:43,900 --> 00:39:45,220
+SPK_1: This is the short answer.
+
+806
+00:39:45,820 --> 00:39:47,680
+SPK_1: If you are interested in a rational explanation,
+
+807
+00:39:48,120 --> 00:39:48,840
+SPK_1: then it is like this.
+
+808
+00:39:50,200 --> 00:39:51,540
+SPK_1: In this sense, survival
+
+809
+00:39:51,540 --> 00:39:53,660
+SPK_1: should be understood not in the narrow sense
+
+810
+00:39:53,660 --> 00:39:55,060
+SPK_1: as we had historically,
+
+811
+00:39:55,060 --> 00:39:57,240
+SPK_1: physically, from hunger and cold,
+
+812
+00:39:57,480 --> 00:39:59,100
+SPK_1: but in such a long, big,
+
+813
+00:39:59,400 --> 00:40:00,440
+SPK_1: with some...
+
+814
+00:40:00,920 --> 00:40:01,840
+SPK_2: It turns out like this.
+
+815
+00:40:02,300 --> 00:40:05,120
+SPK_1: Yes, it turns out like this.
+
+816
+00:40:05,240 --> 00:40:06,840
+SPK_1: And I agree with you that the speech,
+
+817
+00:40:06,900 --> 00:40:07,800
+SPK_1: of course, is not so much
+
+818
+00:40:07,800 --> 00:40:08,600
+SPK_1: about the death of generations,
+
+819
+00:40:08,680 --> 00:40:10,740
+SPK_1: again, our Orthodox lexicography
+
+820
+00:40:10,740 --> 00:40:11,680
+SPK_1: is more useful here.
+
+821
+00:40:11,680 --> 00:40:13,660
+SPK_1: The speech is about repentance and metanoia.
+
+822
+00:40:13,860 --> 00:40:15,280
+SPK_1: The speech is about the change of mind.
+
+823
+00:40:15,540 --> 00:40:17,100
+SPK_1: In this sense, in our generation,
+
+824
+00:40:17,560 --> 00:40:18,500
+SPK_1: in some sense,
+
+825
+00:40:18,500 --> 00:40:21,460
+SPK_1: the feat of a consciously giving birth to a woman today,
+
+826
+00:40:21,680 --> 00:40:22,660
+SPK_1: in some sense,
+
+827
+00:40:23,280 --> 00:40:25,040
+SPK_1: let my father correct me now,
+
+828
+00:40:25,520 --> 00:40:26,060
+SPK_1: if I am wrong,
+
+829
+00:40:26,320 --> 00:40:28,440
+SPK_1: it is comparable to the feat of a saint
+
+830
+00:40:28,440 --> 00:40:30,940
+SPK_1: of the first centuries.
+
+831
+00:40:31,200 --> 00:40:32,340
+SPK_1: Simply because today
+
+832
+00:40:32,340 --> 00:40:34,820
+SPK_1: the same super-natural motivation is required.
+
+833
+00:40:34,820 --> 00:40:36,880
+SPK_1: This is also an act of faith.
+
+834
+00:40:37,100 --> 00:40:38,780
+SPK_1: Do you understand? This is the whole story.
+
+835
+00:40:40,380 --> 00:40:42,880
+SPK_1: And all the problems inside the Orthodox families,
+
+836
+00:40:43,020 --> 00:40:43,500
+SPK_1: what are they?
+
+837
+00:40:43,680 --> 00:40:45,320
+SPK_1: Today we are entering an era
+
+838
+00:40:45,320 --> 00:40:46,620
+SPK_1: when it will not be possible
+
+839
+00:40:46,620 --> 00:40:48,580
+SPK_1: to rely on any form.
+
+840
+00:40:48,920 --> 00:40:50,320
+SPK_1: That is, neither formal faith,
+
+841
+00:40:50,600 --> 00:40:51,440
+SPK_1: nor a formal institute,
+
+842
+00:40:51,780 --> 00:40:53,180
+SPK_1: nor even formal biology,
+
+843
+00:40:53,500 --> 00:40:55,580
+SPK_1: nothing formal will save us.
+
+844
+00:40:55,600 --> 00:40:58,300
+SPK_1: Only the connection of your choice of the heart,
+
+845
+00:40:58,540 --> 00:40:59,120
+SPK_1: your will,
+
+846
+00:40:59,300 --> 00:41:02,600
+SPK_1: with those abilities and potentials
+
+847
+00:41:02,600 --> 00:41:03,840
+SPK_1: that are embedded in us,
+
+848
+00:41:03,880 --> 00:41:06,400
+SPK_1: today can give
+
+849
+00:41:06,400 --> 00:41:07,720
+SPK_1: some kind of living good fruit.
+
+850
+00:41:08,000 --> 00:41:09,480
+SPK_1: This is really to emphasize
+
+851
+00:41:09,480 --> 00:41:11,060
+SPK_1: the uniqueness of our moment.
+
+852
+00:41:11,200 --> 00:41:13,520
+SPK_1: Even our parents did not require this.
+
+853
+00:41:13,720 --> 00:41:15,400
+SPK_1: Such a level of awareness
+
+854
+00:41:15,400 --> 00:41:16,820
+SPK_1: and spiritual feat
+
+855
+00:41:16,820 --> 00:41:18,060
+SPK_1: in the simplest things
+
+856
+00:41:18,060 --> 00:41:19,800
+SPK_1: was not required earlier.
+
+857
+00:41:20,060 --> 00:41:23,420
+SPK_1: A person could simply go to one church all his life
+
+858
+00:41:23,420 --> 00:41:25,100
+SPK_1: simply because his parents go there,
+
+859
+00:41:25,100 --> 00:41:26,080
+SPK_1: give birth to children because
+
+860
+00:41:26,080 --> 00:41:28,400
+SPK_1: everyone does it this way,
+
+861
+00:41:28,440 --> 00:41:30,300
+SPK_1: and how else, and so on.
+
+862
+00:41:30,400 --> 00:41:31,840
+SPK_1: He did not need anything consciously.
+
+863
+00:41:32,700 --> 00:41:34,500
+SPK_1: To observe faithfulness simply because
+
+864
+00:41:34,500 --> 00:41:35,540
+SPK_1: how not to observe?
+
+865
+00:41:36,960 --> 00:41:38,900
+SPK_1: Today only freedom of will.
+
+866
+00:41:39,100 --> 00:41:40,360
+SPK_1: Only freedom of will
+
+867
+00:41:40,360 --> 00:41:41,800
+SPK_1: and a super-rational choice.
+
+868
+00:41:41,800 --> 00:41:43,820
+SPK_0: I want to note that today,
+
+869
+00:41:44,440 --> 00:41:46,380
+SPK_0: when I talk to young Christians,
+
+870
+00:41:46,760 --> 00:41:48,520
+SPK_0: I tell them directly that
+
+871
+00:41:48,520 --> 00:41:51,100
+SPK_0: it is necessary to teach yourself,
+
+872
+00:41:51,720 --> 00:41:52,760
+SPK_0: to teach directly,
+
+873
+00:41:52,760 --> 00:41:54,040
+SPK_0: not to look around,
+
+874
+00:41:54,460 --> 00:41:56,900
+SPK_0: including those around you,
+
+875
+00:41:57,080 --> 00:41:57,980
+SPK_0: in the church and so on,
+
+876
+00:41:58,080 --> 00:42:00,180
+SPK_0: to look for the best examples for yourself,
+
+877
+00:42:00,180 --> 00:42:02,160
+SPK_0: preferably among those who have already died.
+
+878
+00:42:02,840 --> 00:42:05,380
+SPK_0: That is, as the Apostle Paul said,
+
+879
+00:42:05,420 --> 00:42:07,020
+SPK_0: remember your mentors
+
+880
+00:42:07,020 --> 00:42:08,220
+SPK_0: and following the end of their lives,
+
+881
+00:42:08,320 --> 00:42:09,100
+SPK_0: imitate their faith.
+
+882
+00:42:09,300 --> 00:42:10,360
+SPK_0: That is, the end of their lives,
+
+883
+00:42:10,360 --> 00:42:11,620
+SPK_0: that is, those who are to the end.
+
+884
+00:42:11,800 --> 00:42:13,320
+SPK_0: To take the best examples,
+
+885
+00:42:14,140 --> 00:42:15,200
+SPK_0: to follow them.
+
+886
+00:42:15,200 --> 00:42:18,160
+SPK_0: And yes, this is the most real
+
+887
+00:42:18,160 --> 00:42:19,580
+SPK_0: feat of faith, because,
+
+888
+00:42:19,920 --> 00:42:23,300
+SPK_0: for example, a girl is getting married,
+
+889
+00:42:23,480 --> 00:42:24,960
+SPK_0: she even has an Orthodox husband,
+
+890
+00:42:25,320 --> 00:42:26,700
+SPK_0: and everything is fine and so on.
+
+891
+00:42:26,800 --> 00:42:27,660
+SPK_0: Here she gives birth to him,
+
+892
+00:42:27,700 --> 00:42:29,200
+SPK_0: the first, the second, the third,
+
+893
+00:42:29,320 --> 00:42:32,460
+SPK_0: and she really believes in God,
+
+894
+00:42:33,040 --> 00:42:34,120
+SPK_0: believes in her husband,
+
+895
+00:42:34,200 --> 00:42:35,840
+SPK_0: in the hope that her husband will not die,
+
+896
+00:42:36,040 --> 00:42:37,220
+SPK_0: that her husband will not change,
+
+897
+00:42:37,500 --> 00:42:39,200
+SPK_0: then the fourth child, the fifth child.
+
+898
+00:42:40,360 --> 00:42:42,760
+SPK_0: In the hope that her husband will not look to the sides,
+
+899
+00:42:42,820 --> 00:42:44,380
+SPK_0: to look for a non-priest,
+
+900
+00:42:44,620 --> 00:42:46,000
+SPK_0: wolves, sheep, sheep,
+
+901
+00:42:46,100 --> 00:42:47,720
+SPK_0: who will tell him, if anything,
+
+902
+00:42:47,820 --> 00:42:50,040
+SPK_0: go to the psychologist, your wife is toxic.
+
+903
+00:42:50,060 --> 00:42:50,840
+SPK_2: Or throw her away.
+
+904
+00:42:51,120 --> 00:42:52,100
+SPK_0: Throw her away and so on.
+
+905
+00:42:52,580 --> 00:42:54,200
+SPK_0: Because there is also such a thing,
+
+906
+00:42:54,420 --> 00:42:58,180
+SPK_0: that her husband will take an example from Christ.
+
+907
+00:42:58,360 --> 00:42:59,480
+SPK_0: This is, however, a feat of faith.
+
+908
+00:42:59,660 --> 00:43:01,740
+SPK_0: What is interesting is that when you talk to the guys about this topic,
+
+909
+00:43:02,060 --> 00:43:03,280
+SPK_0: you say directly how it is,
+
+910
+00:43:03,940 --> 00:43:06,180
+SPK_0: that it is impossible to be a Christian
+
+911
+00:43:06,180 --> 00:43:07,920
+SPK_0: if you do not dream of becoming a great saint.
+
+912
+00:43:08,480 --> 00:43:10,500
+SPK_0: That is, not just a saint.
+
+913
+00:43:10,680 --> 00:43:12,300
+SPK_0: You just have to take it to the maximum.
+
+914
+00:43:12,680 --> 00:43:14,360
+SPK_0: Even if you do not succeed in becoming a great saint,
+
+915
+00:43:14,940 --> 00:43:16,660
+SPK_0: God forbid, you will simply be a saint.
+
+916
+00:43:16,860 --> 00:43:18,940
+SPK_0: But the church is a gathering of holy people.
+
+917
+00:43:20,080 --> 00:43:21,220
+SPK_0: These words of Christ,
+
+918
+00:43:21,820 --> 00:43:23,840
+SPK_0: the one who takes the plow and looks back,
+
+919
+00:43:24,340 --> 00:43:25,520
+SPK_0: unreliable for the Kingdom of Heaven,
+
+920
+00:43:25,700 --> 00:43:27,460
+SPK_0: this is today, right now,
+
+921
+00:43:27,480 --> 00:43:29,180
+SPK_0: about our time in full measure.
+
+922
+00:43:29,480 --> 00:43:31,080
+SPK_0: And it can be seen that the guys like it.
+
+923
+00:43:32,140 --> 00:43:33,900
+SPK_0: As John the Baptist said,
+
+924
+00:43:33,920 --> 00:43:35,500
+SPK_0: young men, you are brave, you have defeated the wicked.
+
+925
+00:43:35,840 --> 00:43:36,880
+SPK_0: That is, the confrontation
+
+926
+00:43:37,920 --> 00:43:39,920
+SPK_0: with God in all spheres of life,
+
+927
+00:43:40,060 --> 00:43:40,980
+SPK_0: including within the church,
+
+928
+00:43:41,160 --> 00:43:43,620
+SPK_0: there are also many antichrists and so on.
+
+929
+00:43:43,980 --> 00:43:45,420
+SPK_0: Yes, I agree with Pavel
+
+930
+00:43:45,420 --> 00:43:46,460
+SPK_0: that this is a unique time.
+
+931
+00:43:46,580 --> 00:43:48,760
+SPK_0: Today we either speak the truth
+
+932
+00:43:48,760 --> 00:43:49,820
+SPK_0: or we are just out of context.
+
+933
+00:43:50,120 --> 00:43:51,100
+SPK_0: Immediately, instantly.
+
+934
+00:43:51,880 --> 00:43:53,620
+SPK_2: Well, I hope that we will at least reach someone,
+
+935
+00:43:54,380 --> 00:43:55,940
+SPK_2: because I certainly understand
+
+936
+00:43:55,940 --> 00:43:58,880
+SPK_2: that what you say makes sense to me.
+
+937
+00:43:59,020 --> 00:44:01,000
+SPK_2: But if a person just connects
+
+938
+00:44:01,000 --> 00:44:04,120
+SPK_2: who lives in the usual secular context,
+
+939
+00:44:04,120 --> 00:44:06,820
+SPK_2: then, of course, for him this is most likely ...
+
+940
+00:44:06,820 --> 00:44:09,820
+SPK_2: If he is not in the state of a burning crisis,
+
+941
+00:44:10,180 --> 00:44:11,260
+SPK_2: then most likely for him
+
+942
+00:44:11,260 --> 00:44:13,980
+SPK_2: this will not be some kind of way out.
+
+943
+00:44:14,260 --> 00:44:15,760
+SPK_2: That is, it is not yet a pre-prep.
+
+944
+00:44:15,760 --> 00:44:16,580
+SPK_1: Well, about the crisis ...
+
+945
+00:44:17,400 --> 00:44:18,820
+SPK_1: Well, about the pre-prep, yes,
+
+946
+00:44:18,820 --> 00:44:20,220
+SPK_1: here it is, without pre-prep,
+
+947
+00:44:20,300 --> 00:44:22,160
+SPK_1: this is, unfortunately, a prediction,
+
+948
+00:44:22,340 --> 00:44:24,420
+SPK_1: you know, we are one of those rough predictions
+
+949
+00:44:24,420 --> 00:44:25,900
+SPK_1: which, unfortunately, are true
+
+950
+00:44:25,900 --> 00:44:28,540
+SPK_1: both in the church and in personal geopolitical life,
+
+951
+00:44:28,960 --> 00:44:30,220
+SPK_1: do not reach through the head,
+
+952
+00:44:30,280 --> 00:44:31,660
+SPK_1: you knock through the liver.
+
+953
+00:44:31,900 --> 00:44:32,860
+SPK_1: That's about it.
+
+954
+00:44:33,380 --> 00:44:34,300
+SPK_1: Yes, that's about it, unfortunately,
+
+955
+00:44:34,300 --> 00:44:35,400
+SPK_1: that's how it works.
+
+956
+00:44:35,520 --> 00:44:37,660
+SPK_1: In the biblical language, we have prophets
+
+957
+00:44:37,660 --> 00:44:38,680
+SPK_1: who write a lot about this,
+
+958
+00:44:38,680 --> 00:44:41,140
+SPK_1: how the process of knocking through the liver
+
+959
+00:44:41,140 --> 00:44:42,460
+SPK_1: occurs at the collective level.
+
+960
+00:44:42,840 --> 00:44:45,000
+SPK_1: And I just want to fully support Father Paul.
+
+961
+00:44:45,360 --> 00:44:47,380
+SPK_1: That is, here is this duality,
+
+962
+00:44:47,380 --> 00:44:47,980
+SPK_1: precisely optimistic,
+
+963
+00:44:48,780 --> 00:44:51,420
+SPK_1: that the first thing is that when we tell the truth,
+
+964
+00:44:51,680 --> 00:44:55,340
+SPK_1: we can actually avoid this Phariseeism,
+
+965
+00:44:55,440 --> 00:44:57,160
+SPK_1: in which the discussion of traditional values
+
+966
+00:44:57,160 --> 00:44:59,320
+SPK_1: has stopped, turned into much,
+
+967
+00:44:59,520 --> 00:45:01,260
+SPK_1: and which does not give good fruits,
+
+968
+00:45:01,540 --> 00:45:03,020
+SPK_1: but gives fruits exclusively evil.
+
+969
+00:45:03,020 --> 00:45:04,280
+SPK_1: That is, according to the secular person,
+
+970
+00:45:04,560 --> 00:45:06,460
+SPK_1: the first thing to say is that
+
+971
+00:45:06,460 --> 00:45:08,120
+SPK_1: if you stay with a secular person,
+
+972
+00:45:08,300 --> 00:45:09,420
+SPK_1: yes, you really do not need marriage today
+
+973
+00:45:09,900 --> 00:45:11,320
+SPK_1: and you do not need to torture yourself.
+
+974
+00:45:11,920 --> 00:45:14,620
+SPK_1: That is, you can live as you live.
+
+975
+00:45:14,660 --> 00:45:16,460
+SPK_1: That is, all these formal dances
+
+976
+00:45:16,460 --> 00:45:18,180
+SPK_1: are not needed, they are really for you.
+
+977
+00:45:18,260 --> 00:45:20,040
+SPK_1: That is, this is actually the first very important step.
+
+978
+00:45:20,040 --> 00:45:22,000
+SPK_1: You can tell him this whole formal story
+
+979
+00:45:22,640 --> 00:45:24,300
+SPK_1: and this is without any condemnation,
+
+980
+00:45:24,340 --> 00:45:24,780
+SPK_1: so it is.
+
+981
+00:45:24,940 --> 00:45:26,320
+SPK_1: That is, if you are in such a system of values,
+
+982
+00:45:26,560 --> 00:45:27,260
+SPK_1: well, do not torture yourself,
+
+983
+00:45:27,260 --> 00:45:29,500
+SPK_1: do not try to force yourself to be faithful
+
+984
+00:45:29,500 --> 00:45:32,220
+SPK_1: without this great supernatural context,
+
+985
+00:45:32,500 --> 00:45:34,080
+SPK_1: because you will not be able to,
+
+986
+00:45:34,080 --> 00:45:35,780
+SPK_1: and you will only spend money on a psychologist.
+
+987
+00:45:36,480 --> 00:45:37,920
+SPK_1: In fact, it is very therapeutic,
+
+988
+00:45:38,200 --> 00:45:40,580
+SPK_1: but if you make a choice,
+
+989
+00:45:40,740 --> 00:45:42,040
+SPK_1: then you understand
+
+990
+00:45:42,040 --> 00:45:44,600
+SPK_1: which battlefield you are going to.
+
+991
+00:45:44,760 --> 00:45:46,460
+SPK_1: And this honesty on it,
+
+992
+00:45:46,520 --> 00:45:47,700
+SPK_1: even in my work,
+
+993
+00:45:47,760 --> 00:45:49,140
+SPK_1: I have fewer young people,
+
+994
+00:45:49,140 --> 00:45:51,840
+SPK_1: I have more people of 30-40 years old
+
+995
+00:45:51,840 --> 00:45:53,020
+SPK_1: who come to study with me,
+
+996
+00:45:53,020 --> 00:45:55,080
+SPK_1: but this honesty catches them too,
+
+997
+00:45:55,260 --> 00:45:57,240
+SPK_1: because this honesty
+
+998
+00:45:57,260 --> 00:45:59,180
+SPK_1: of the real system of coordinates,
+
+999
+00:45:59,520 --> 00:46:01,320
+SPK_1: of the real value of one choice or another,
+
+1000
+00:46:01,320 --> 00:46:03,100
+SPK_1: it is now important for itself.
+
+1001
+00:46:03,300 --> 00:46:05,020
+SPK_1: We cannot choose for a person,
+
+1002
+00:46:05,180 --> 00:46:07,020
+SPK_1: but there is a duty
+
+1003
+00:46:07,020 --> 00:46:09,320
+SPK_1: to honestly mark between what and what they choose.
+
+1004
+00:46:09,560 --> 00:46:10,520
+SPK_1: Because, for example,
+
+1005
+00:46:10,600 --> 00:46:12,680
+SPK_1: this spoon, which is that there is a choice,
+
+1006
+00:46:12,780 --> 00:46:15,080
+SPK_1: you can get all the fruits of faith without faith,
+
+1007
+00:46:15,080 --> 00:46:17,180
+SPK_1: the good ones, such as faithfulness, love, humility
+
+1008
+00:46:17,180 --> 00:46:17,640
+SPK_1: and patience,
+
+1009
+00:46:18,540 --> 00:46:20,500
+SPK_1: you can just say no, not today.
+
+1010
+00:46:21,000 --> 00:46:22,180
+SPK_1: Maybe a hundred years ago it was still possible,
+
+1011
+00:46:22,700 --> 00:46:24,240
+SPK_1: but today it will not work,
+
+1012
+00:46:24,320 --> 00:46:25,080
+SPK_1: because that's it.
+
+1013
+00:46:27,840 --> 00:46:29,220
+SPK_0: Well, Apostle Paul, in general,
+
+1014
+00:46:29,340 --> 00:46:30,240
+SPK_0: has wonderful words,
+
+1015
+00:46:30,340 --> 00:46:31,720
+SPK_0: this is when he ends his life,
+
+1016
+00:46:31,760 --> 00:46:33,520
+SPK_0: he says, the course has been completed, faith has been preserved.
+
+1017
+00:46:34,420 --> 00:46:36,600
+SPK_0: Just, guys, I suggest a choice,
+
+1018
+00:46:36,760 --> 00:46:39,340
+SPK_0: you tell them that life will end anyway,
+
+1019
+00:46:39,340 --> 00:46:40,180
+SPK_0: you will look back,
+
+1020
+00:46:40,680 --> 00:46:43,620
+SPK_0: and if you really fought,
+
+1021
+00:46:44,580 --> 00:46:45,020
+SPK_0: fought,
+
+1022
+00:46:45,420 --> 00:46:47,920
+SPK_0: and you walked on the path of a hero,
+
+1023
+00:46:48,400 --> 00:46:49,720
+SPK_0: you will understand that,
+
+1024
+00:46:49,760 --> 00:46:51,240
+SPK_0: yes, the course of life has passed,
+
+1025
+00:46:51,380 --> 00:46:52,100
+SPK_0: faith has been preserved.
+
+1026
+00:46:52,300 --> 00:46:53,940
+SPK_0: It is not shameful to look back,
+
+1027
+00:46:54,040 --> 00:46:55,680
+SPK_0: despite numerous mistakes and so on.
+
+1028
+00:46:55,680 --> 00:46:58,620
+SPK_0: But if you did not start fighting in the end,
+
+1029
+00:46:58,620 --> 00:46:59,480
+SPK_0: then this feeling
+
+1030
+00:47:00,220 --> 00:47:01,940
+SPK_0: that I am actually an empty place,
+
+1031
+00:47:02,380 --> 00:47:04,280
+SPK_0: it will appear to you long before death,
+
+1032
+00:47:04,580 --> 00:47:05,680
+SPK_0: which is the most interesting thing.
+
+1033
+00:47:05,740 --> 00:47:06,960
+SPK_0: That is, it is not so that you will die,
+
+1034
+00:47:07,080 --> 00:47:09,020
+SPK_0: you think that I burned my life in vain,
+
+1035
+00:47:09,680 --> 00:47:10,280
+SPK_0: and so on.
+
+1036
+00:47:10,380 --> 00:47:12,720
+SPK_0: No, you will not even be 40 years old,
+
+1037
+00:47:13,260 --> 00:47:16,000
+SPK_0: and you will understand that I lived half my life,
+
+1038
+00:47:16,440 --> 00:47:17,620
+SPK_0: and I did not live.
+
+1039
+00:47:17,740 --> 00:47:19,240
+SPK_0: And in this state, of course,
+
+1040
+00:47:19,340 --> 00:47:21,520
+SPK_0: young guys, in principle, they feel it.
+
+1041
+00:47:21,660 --> 00:47:22,740
+SPK_2: That's what I wanted to ask,
+
+1042
+00:47:23,020 --> 00:47:24,920
+SPK_2: I thought I would ask Paul, but thank you.
+
+1043
+00:47:26,140 --> 00:47:27,600
+SPK_2: Yes, I'm learning better and better,
+
+1044
+00:47:27,600 --> 00:47:27,940
+SPK_2: though, Paul.
+
+1045
+00:47:28,340 --> 00:47:30,320
+SPK_2: In general, I just wanted to ask
+
+1046
+00:47:30,320 --> 00:47:33,040
+SPK_2: what those who choose the secular path pay,
+
+1047
+00:47:33,040 --> 00:47:34,320
+SPK_2: and thank you for this answer,
+
+1048
+00:47:34,500 --> 00:47:36,100
+SPK_2: because, by and large, then it turns out
+
+1049
+00:47:36,100 --> 00:47:37,460
+SPK_2: that this is a choice between life and death,
+
+1050
+00:47:37,720 --> 00:47:40,580
+SPK_2: in general, by and large, absolute.
+
+1051
+00:47:41,080 --> 00:47:42,300
+SPK_2: And this must be understood,
+
+1052
+00:47:42,460 --> 00:47:43,980
+SPK_2: because what we said before
+
+1053
+00:47:43,980 --> 00:47:46,680
+SPK_2: sounded like the fact that this secular path
+
+1054
+00:47:46,680 --> 00:47:47,660
+SPK_2: is so very sweet,
+
+1055
+00:47:47,920 --> 00:47:51,220
+SPK_2: and the maximum when you start to regret it
+
+1056
+00:47:51,220 --> 00:47:51,980
+SPK_2: is only before death.
+
+1057
+00:47:52,080 --> 00:47:52,440
+SPK_1: Well, like a drug.
+
+1058
+00:47:55,680 --> 00:47:56,040
+SPK_1: Much earlier.
+
+1059
+00:47:56,720 --> 00:47:57,400
+SPK_2: Well, yes, yes, yes.
+
+1060
+00:47:58,320 --> 00:47:59,480
+SPK_2: It's just important to talk about it.
+
+1061
+00:47:59,500 --> 00:48:00,040
+SPK_1: Yes, a new dose is needed.
+
+1062
+00:48:00,040 --> 00:48:02,840
+SPK_1: Well, it usually leads to Osterfein-Epstein
+
+1063
+00:48:02,840 --> 00:48:03,720
+SPK_1: in all kinds of him,
+
+1064
+00:48:03,860 --> 00:48:05,040
+SPK_1: further into the world of strength,
+
+1065
+00:48:05,040 --> 00:48:06,520
+SPK_1: abilities and financial resources.
+
+1066
+00:48:07,620 --> 00:48:09,440
+SPK_1: But on a practical level,
+
+1067
+00:48:09,600 --> 00:48:10,880
+SPK_1: well, this is a crisis of senselessness,
+
+1068
+00:48:10,980 --> 00:48:12,200
+SPK_1: this is a crisis of senseless life,
+
+1069
+00:48:12,460 --> 00:48:13,700
+SPK_1: and he, of course, devours it.
+
+1070
+00:48:14,420 --> 00:48:16,360
+SPK_1: But just what needs to be said,
+
+1071
+00:48:16,480 --> 00:48:17,860
+SPK_1: just the first step to this is the recognition
+
+1072
+00:48:17,860 --> 00:48:20,820
+SPK_1: that it is not formally resolved.
+
+1073
+00:48:20,820 --> 00:48:23,060
+SPK_1: Today, this crisis of senselessness,
+
+1074
+00:48:23,060 --> 00:48:23,880
+SPK_1: it is through the form,
+
+1075
+00:48:23,940 --> 00:48:25,520
+SPK_1: that is, what Father Paul says,
+
+1076
+00:48:25,720 --> 00:48:27,520
+SPK_1: just to come and go to church
+
+1077
+00:48:27,520 --> 00:48:29,900
+SPK_1: and correct the ritual is not enough.
+
+1078
+00:48:30,100 --> 00:48:32,660
+SPK_1: If you think that at least some form will save you,
+
+1079
+00:48:32,680 --> 00:48:33,940
+SPK_1: even the church form
+
+1080
+00:48:33,940 --> 00:48:36,460
+SPK_1: from the crisis of senselessness will not save you,
+
+1081
+00:48:36,460 --> 00:48:37,960
+SPK_1: only through this conscious,
+
+1082
+00:48:38,740 --> 00:48:40,540
+SPK_1: well, through the path of changing yourself.
+
+1083
+00:48:40,820 --> 00:48:43,200
+SPK_1: That is, it sounds very banal, yes,
+
+1084
+00:48:43,340 --> 00:48:45,380
+SPK_1: but you are absolutely right, Polina,
+
+1085
+00:48:45,440 --> 00:48:47,040
+SPK_1: but this is our second law, yes.
+
+1086
+00:48:47,120 --> 00:48:47,920
+SPK_1: I offered you life and death,
+
+1087
+00:48:49,020 --> 00:48:50,380
+SPK_1: blessings and curses.
+
+1088
+00:48:50,820 --> 00:48:52,100
+SPK_1: Choose life so that you live
+
+1089
+00:48:52,100 --> 00:48:53,000
+SPK_1: and then something else.
+
+1090
+00:48:53,820 --> 00:48:54,680
+SPK_1: But choose.
+
+1091
+00:48:55,000 --> 00:48:55,880
+SPK_1: This is very important.
+
+1092
+00:48:56,220 --> 00:48:58,560
+SPK_1: Culture is just a short comment.
+
+1093
+00:48:58,820 --> 00:49:00,200
+SPK_0: You should be amazed now that
+
+1094
+00:49:00,200 --> 00:49:02,220
+SPK_0: both I and Pavel know the text of the Holy Sepulchre.
+
+1095
+00:49:02,340 --> 00:49:02,960
+SPK_2: I am amazed.
+
+1096
+00:49:04,020 --> 00:49:06,300
+SPK_2: Let Pavel finish what he said.
+
+1097
+00:49:06,500 --> 00:49:07,720
+SPK_2: Sorry, Pavel, please.
+
+1098
+00:49:08,360 --> 00:49:10,120
+SPK_1: No, just a short moment.
+
+1099
+00:49:10,320 --> 00:49:12,540
+SPK_1: We often forget this, especially,
+
+1100
+00:49:12,620 --> 00:49:13,980
+SPK_1: that is, a short comment.
+
+1101
+00:49:14,600 --> 00:49:16,560
+SPK_1: We should not be conservators.
+
+1102
+00:49:16,780 --> 00:49:18,420
+SPK_1: It is very important to understand that a conservator
+
+1103
+00:49:20,820 --> 00:49:21,940
+SPK_1: is a tradition, a tradition is something
+
+1104
+00:49:21,940 --> 00:49:23,700
+SPK_1: that a person must constantly choose
+
+1105
+00:49:23,700 --> 00:49:26,100
+SPK_1: in each generation himself and again.
+
+1106
+00:49:26,400 --> 00:49:28,500
+SPK_1: Here, culture, it gives the temptation
+
+1107
+00:49:28,500 --> 00:49:30,740
+SPK_1: that it is enough to just do
+
+1108
+00:49:30,740 --> 00:49:33,020
+SPK_1: such a conservative reconstruction,
+
+1109
+00:49:33,020 --> 00:49:34,680
+SPK_1: yes, that is, just perform these things.
+
+1110
+00:49:34,940 --> 00:49:36,060
+SPK_1: Here, you need to get married,
+
+1111
+00:49:36,200 --> 00:49:36,980
+SPK_1: so you went to the registry office,
+
+1112
+00:49:37,020 --> 00:49:38,140
+SPK_1: put a signature, it itself,
+
+1113
+00:49:38,220 --> 00:49:39,600
+SPK_1: this signature will save you.
+
+1114
+00:49:39,640 --> 00:49:41,500
+SPK_1: It will not save you, only through choice.
+
+1115
+00:49:41,660 --> 00:49:44,100
+SPK_1: And choice is precisely the metanoia,
+
+1116
+00:49:44,140 --> 00:49:45,040
+SPK_1: the transformation of repentance.
+
+1117
+00:49:45,460 --> 00:49:47,100
+SPK_1: And that's what young people,
+
+1118
+00:49:47,100 --> 00:49:47,940
+SPK_1: even at any age,
+
+1119
+00:49:48,140 --> 00:49:49,960
+SPK_1: it is our power and subject,
+
+1120
+00:49:50,160 --> 00:49:51,520
+SPK_1: which, regardless of the news,
+
+1121
+00:49:51,680 --> 00:49:54,180
+SPK_1: that we are able to make this choice.
+
+1122
+00:49:54,340 --> 00:49:56,940
+SPK_1: This is the power that no one
+
+1123
+00:49:56,940 --> 00:49:57,360
+SPK_1: can take away from a person,
+
+1124
+00:49:57,580 --> 00:49:58,840
+SPK_1: even artificial intelligence.
+
+1125
+00:49:59,140 --> 00:50:00,720
+SPK_1: We can, in the end, choose to use,
+
+1126
+00:50:00,940 --> 00:50:01,960
+SPK_1: not to use and so on.
+
+1127
+00:50:02,000 --> 00:50:02,860
+SPK_1: This is all our choice.
+
+1128
+00:50:03,060 --> 00:50:04,440
+SPK_1: This is the centrality of choice.
+
+1129
+00:50:04,720 --> 00:50:06,200
+SPK_1: Well, I don't know, someone fell asleep
+
+1130
+00:50:06,200 --> 00:50:08,160
+SPK_1: in the days of what the modern sermon is about.
+
+1131
+00:50:08,160 --> 00:50:10,000
+SPK_1: It seems to me that maybe today
+
+1132
+00:50:10,000 --> 00:50:12,480
+SPK_1: it will sound louder or, well,
+
+1133
+00:50:12,480 --> 00:50:13,260
+SPK_1: the groundwork for this,
+
+1134
+00:50:13,520 --> 00:50:15,120
+SPK_1: for the conversation about the centrality
+
+1135
+00:50:15,120 --> 00:50:16,220
+SPK_1: of the choice of a person,
+
+1136
+00:50:16,400 --> 00:50:17,740
+SPK_1: it is now very important.
+
+1137
+00:50:18,180 --> 00:50:20,040
+SPK_0: Well, I notice this in young people,
+
+1138
+00:50:20,280 --> 00:50:21,120
+SPK_0: those who are encircling,
+
+1139
+00:50:21,920 --> 00:50:23,180
+SPK_0: it seems to me that this is some kind
+
+1140
+00:50:23,180 --> 00:50:24,500
+SPK_0: of evolutionary process,
+
+1141
+00:50:24,860 --> 00:50:26,060
+SPK_0: that they, well, survival,
+
+1142
+00:50:26,380 --> 00:50:27,180
+SPK_0: in this sense, evolutionary,
+
+1143
+00:50:27,580 --> 00:50:32,380
+SPK_0: that they, having looked at the previous generation,
+
+1144
+00:50:32,840 --> 00:50:34,680
+SPK_0: having listened to all these coaches,
+
+1145
+00:50:34,840 --> 00:50:36,660
+SPK_0: psychologists, info gypsies and the like,
+
+1146
+00:50:37,200 --> 00:50:39,420
+SPK_0: having looked at what is happening around,
+
+1147
+00:50:40,540 --> 00:50:42,640
+SPK_0: they understand, well, not everyone,
+
+1148
+00:50:42,760 --> 00:50:44,400
+SPK_0: it is clear that, well, some of the guys
+
+1149
+00:50:44,400 --> 00:50:45,860
+SPK_0: understand that this is not possible,
+
+1150
+00:50:45,980 --> 00:50:48,840
+SPK_0: and they address then, well,
+
+1151
+00:50:48,980 --> 00:50:51,500
+SPK_0: first of all, to those people
+
+1152
+00:50:52,320 --> 00:50:53,920
+SPK_0: who, well, first of all,
+
+1153
+00:50:53,940 --> 00:50:54,820
+SPK_0: offer some kind of certain
+
+1154
+00:50:54,820 --> 00:50:56,220
+SPK_0: clear practice, not a form,
+
+1155
+00:50:56,360 --> 00:50:57,540
+SPK_0: but a practical, yes,
+
+1156
+00:50:57,640 --> 00:50:58,640
+SPK_0: some kind of moment, yes,
+
+1157
+00:50:59,360 --> 00:51:02,120
+SPK_0: which is proven in different
+
+1158
+00:51:02,120 --> 00:51:03,900
+SPK_0: generations, in different times,
+
+1159
+00:51:04,080 --> 00:51:05,580
+SPK_0: in different eras, in different circumstances,
+
+1160
+00:51:05,980 --> 00:51:08,060
+SPK_0: yes, and in general, well,
+
+1161
+00:51:08,180 --> 00:51:08,860
+SPK_0: I can say that, well,
+
+1162
+00:51:09,420 --> 00:51:10,860
+SPK_0: I can say that those young guys
+
+1163
+00:51:11,280 --> 00:51:12,340
+SPK_0: with whom I have to communicate,
+
+1164
+00:51:12,840 --> 00:51:14,060
+SPK_0: and it pleases me very much,
+
+1165
+00:51:14,080 --> 00:51:16,420
+SPK_0: these are the guys who are not just
+
+1166
+00:51:16,420 --> 00:51:18,020
+SPK_0: formally you confess and confess,
+
+1167
+00:51:18,600 --> 00:51:19,600
+SPK_0: yes, that is, once a week
+
+1168
+00:51:19,600 --> 00:51:20,960
+SPK_0: at the service, but these are the guys
+
+1169
+00:51:20,960 --> 00:51:23,340
+SPK_0: who read the Scripture, who together,
+
+1170
+00:51:23,660 --> 00:51:25,240
+SPK_0: they use, by the way, modern technology,
+
+1171
+00:51:25,480 --> 00:51:28,940
+SPK_0: they start, well, all seven of them
+
+1172
+00:51:28,940 --> 00:51:30,260
+SPK_0: are non-believers, yes, but they,
+
+1173
+00:51:30,320 --> 00:51:31,980
+SPK_0: well, I found out yesterday,
+
+1174
+00:51:31,980 --> 00:51:33,800
+SPK_0: just these guys, they, well,
+
+1175
+00:51:34,040 --> 00:51:35,540
+SPK_0: in collective communication, together
+
+1176
+00:51:35,540 --> 00:51:37,400
+SPK_0: read the evening prayers. Oh, class.
+
+1177
+00:51:39,420 --> 00:51:40,700
+SPK_0: It's a little boring, but, as it were,
+
+1178
+00:51:40,720 --> 00:51:41,720
+SPK_0: I want to, as it were, together,
+
+1179
+00:51:41,820 --> 00:51:43,640
+SPK_0: so they, you know, there they call,
+
+1180
+00:51:43,820 --> 00:51:44,700
+SPK_0: they have their chats, yes,
+
+1181
+00:51:44,780 --> 00:51:46,740
+SPK_0: and together they read the morning prayers,
+
+1182
+00:51:46,740 --> 00:51:48,520
+SPK_0: the evening prayers, there, together
+
+1183
+00:51:48,520 --> 00:51:50,520
+SPK_0: something goes somewhere, this, in my opinion,
+
+1184
+00:51:50,620 --> 00:51:53,740
+SPK_2: this is a church, where two or three,
+
+1185
+00:51:53,900 --> 00:51:56,180
+SPK_2: yes, gathered together, there I am among them.
+
+1186
+00:51:56,240 --> 00:51:58,040
+SPK_2: Unfortunately, we don't have time
+
+1187
+00:51:58,040 --> 00:52:00,620
+SPK_2: for another topic, which was very important,
+
+1188
+00:52:00,700 --> 00:52:02,120
+SPK_2: maybe we will leave it for the next time,
+
+1189
+00:52:02,200 --> 00:52:03,380
+SPK_2: but I really wanted to say
+
+1190
+00:52:03,380 --> 00:52:04,660
+SPK_2: thank you very much for this broadcast,
+
+1191
+00:52:04,660 --> 00:52:06,180
+SPK_2: because during the last week
+
+1192
+00:52:06,180 --> 00:52:07,400
+SPK_2: I was very bored with the news,
+
+1193
+00:52:07,580 --> 00:52:09,300
+SPK_2: and I somehow, somewhere,
+
+1194
+00:52:09,960 --> 00:52:11,740
+SPK_2: despite the fact that I seem to be a Christian,
+
+1195
+00:52:12,140 --> 00:52:14,400
+SPK_2: a deified one, somewhere, for some reason,
+
+1196
+00:52:15,280 --> 00:52:16,660
+SPK_2: some internal meaning was lost,
+
+1197
+00:52:16,660 --> 00:52:17,400
+SPK_2: and now I understand ...
+
+1198
+00:52:17,400 --> 00:52:17,820
+SPK_2: Do you read the morning prayers?
+
+1199
+00:52:18,620 --> 00:52:21,020
+SPK_0: I read, I read. With earthly compliments?
+
+1200
+00:52:21,020 --> 00:52:21,460
+SPK_2: With earthly.
+
+1201
+00:52:21,820 --> 00:52:22,600
+SPK_0: Well, okay, okay.
+
+1202
+00:52:23,800 --> 00:52:24,600
+SPK_2: But, yes.
+
+1203
+00:52:26,980 --> 00:52:28,480
+SPK_0: I now, as a typical,
+
+1204
+00:52:28,540 --> 00:52:30,500
+SPK_0: a typical, a typical,
+
+1205
+00:52:30,620 --> 00:52:31,920
+SPK_0: a typical, a semi-esthetic pop,
+
+1206
+00:52:32,240 --> 00:52:33,020
+SPK_0: you know, such a thing.
+
+1207
+00:52:34,660 --> 00:52:36,200
+SPK_2: In general, I just think that
+
+1208
+00:52:36,200 --> 00:52:38,220
+SPK_2: I understand what, in fact, the meaning is,
+
+1209
+00:52:38,280 --> 00:52:39,900
+SPK_2: the meaning is just to repeat even,
+
+1210
+00:52:39,980 --> 00:52:41,100
+SPK_2: it would seem, banal things
+
+1211
+00:52:41,100 --> 00:52:43,620
+SPK_2: until they are heard by the maximum
+
+1212
+00:52:43,620 --> 00:52:45,960
+SPK_2: number of people. I think so.
+
+1213
+00:52:46,180 --> 00:52:48,600
+SPK_0: So? Pavel, it doesn't matter what Polina says,
+
+1214
+00:52:48,600 --> 00:52:49,820
+SPK_0: I'm always glad to see you,
+
+1215
+00:52:49,900 --> 00:52:51,040
+SPK_0: just remember about it.
+
+1216
+00:52:51,280 --> 00:52:53,440
+SPK_2: I'm talking to each other, I too,
+
+1217
+00:52:56,240 --> 00:52:58,000
+SPK_0: Give your wife your greetings
+
+1218
+00:52:58,000 --> 00:52:59,800
+SPK_0: and condolences, this is traditional.
+
+1219
+00:52:59,880 --> 00:53:00,280
+SPK_1: Thank you.
+
+1220
+00:53:00,280 --> 00:53:01,680
+SPK_2: Yes, thank you very much for the broadcast,
+
+1221
+00:53:01,780 --> 00:53:04,220
+SPK_2: and our listeners, thank you very much,
+
+1222
+00:53:04,220 --> 00:53:06,040
+SPK_2: for listening. I hope you listened
+
+1223
+00:53:06,040 --> 00:53:07,580
+SPK_2: to the end. Bye everyone.
+
+1224
+00:53:08,100 --> 00:53:09,100
+SPK_2: Stay with us.
+
+1225
+00:53:09,300 --> 00:53:09,580
+SPK_0: Goodbye.
+
