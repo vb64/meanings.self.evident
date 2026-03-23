@@ -7,7 +7,7 @@
 
 Отредактированные человеком выпуски с исправленными ошибками машинного перевода отмечены галочкой в списке выпусков.
 
-- [ ] 65/65 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
+- [ ] 65/66 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
 - [x] 09/09 [Гностическое Мышление](GnosticThinking/README.md). Лекции из совместного проекта с Юрием Романенко.
 - [ ] 00/11 [Naming The Self Evident](NamingTheSelfEvident/README.md)
 - [ ] 00/09 [Videos with English Speaking guests.](English/README.md)
