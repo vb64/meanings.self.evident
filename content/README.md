@@ -13,7 +13,7 @@
 - [ ] 00/09 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 01/08 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
-- [ ] 00/05 Протоиерей [Андрей Ткачёв.](Tkachev/README.md)
+- [ ] 00/06 Протоиерей [Андрей Ткачёв.](Tkachev/README.md)
 - [ ] 00/04 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/03 [Mash Room](Mash/README.md). Не выходя из комнаты.
 - [ ] 00/15 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
