@@ -72,6 +72,7 @@ MDATA = {
       ("2026_02_14", (Speak.ATkachev, Speak.Shchelin)),
       ("2026_03_13", (Speak.Shchelin, Speak.ATkachev)),
       ("2026_03_27", (Speak.Shchelin, Speak.ATkachev)),
+      ("2026_04_03", (Speak.ATkachev, Speak.Shchelin)),
   ],
   Course.Sputnik: [
       ("2025_12_14", (Speak.Shchelin, Speak.POstrovsky, Speak.PUvarova)),
