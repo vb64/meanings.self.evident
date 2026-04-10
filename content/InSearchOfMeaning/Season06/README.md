@@ -4,3 +4,4 @@
 - [x] [Единственно важный вопрос.](the-only-questtion.md) 02 марта 2026
 - [x] [Память смертная.](memory.md) 09 марта 2026
 - [x] [Цена небытия.](the-price-of-non-existance.md) 23 марта 2026
+- [ ] [Упразднение и благовремение](uprazdenenie-blagovremenie.md) 06 апреля 2026
