@@ -8,6 +8,7 @@ MDATA = {
       ("Singles/2026_01_05", (Speak.Shchelin, Speak.Golub)),
       ("Singles/2026_01_07", (Speak.Golub, Speak.Shchelin, Speak.Golub)),
       ("Singles/2026_01_09", (Speak.Shchelin, Speak.Golub)),
+      ("Singles/2026_04_05", (Speak.Golub, Speak.Shchelin)),
       ("Season05/end-of-willpower", (Speak.Shchelin, Speak.Golub)),
       ("Season06/what-is-freedom", (Speak.Shchelin, Speak.Golub)),
       ("Season06/the-only-questtion", (Speak.Golub, Speak.Shchelin)),
