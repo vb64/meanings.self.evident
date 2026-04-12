@@ -83,9 +83,9 @@ MDATA = {
   ],
   Course.Chernov: [
       ("2026_03_18", (Speak.Shchelin, Speak.Chernov)),
+      ("2026_04_06", (Speak.Shchelin, Speak.Chernov)),
   ],
 }
-
 
 def proc_md(in_file, out_file, speakers):
     print(in_file)
