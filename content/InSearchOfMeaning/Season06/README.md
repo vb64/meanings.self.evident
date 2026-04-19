@@ -5,3 +5,4 @@
 - [x] [Память смертная.](memory.md) 09 марта 2026
 - [x] [Цена небытия.](the-price-of-non-existance.md) 23 марта 2026
 - [ ] [Упразднение и благовремение](uprazdenenie-blagovremenie.md) 06 апреля 2026
+- [ ] [Кредит или дар.](credit-or-gift.md) 19 апреля 2026
