@@ -1,0 +1,7908 @@
+1
+00:00:04,400 --> 00:00:23,960
+SPK_1: Well, hello, dear audience of my channel. Today I have a privilege of presenting you a very special guest. His name is Jordan Hall. And of all of the guests who were at my channel, he might be the one most difficult to be put in the box.
+
+2
+00:00:23,960 --> 00:00:37,380
+SPK_1: That's why I would rather ask you, Jordan, to present yourself to my audience who doesn't know you yet, but I'm absolutely confident will be excited to learn about.
+
+3
+00:00:38,080 --> 00:00:52,260
+SPK_0: Great. Maybe three aspects. So a big portion of my life, in the earlier period of my life in particular, was as a technology entrepreneur in the classic Silicon Valley mold.
+
+4
+00:00:52,260 --> 00:01:05,540
+SPK_0: So I built a series of tech companies in the beginning of the Internet age, took them public and retired from that in 2007 when I was 36 years old, I guess.
+
+5
+00:01:06,940 --> 00:01:11,900
+SPK_0: I have continued to participate in that world, but more as an investor, a board member, as an advisor.
+
+6
+00:01:11,980 --> 00:01:17,840
+SPK_0: But I have some cycles where I'll pulse into it meaningfully and then pulse away.
+
+7
+00:01:18,800 --> 00:01:21,620
+SPK_0: Then the second chunk, which was me.
+
+8
+00:01:22,260 --> 00:01:39,240
+SPK_0: Maybe 2009 to 2022 was a world of being a highly undisciplined, largely self-taught polymath with an orientation towards the big questions.
+
+9
+00:01:39,360 --> 00:01:51,760
+SPK_0: In fact, that we'll talk about today, things like the metacrisis, the nature of civilization, the relationship between technology and culture and things like that, where I met a large number of really interesting people.
+
+10
+00:01:52,260 --> 00:01:54,180
+SPK_0: And learned a lot of interesting things.
+
+11
+00:01:54,960 --> 00:02:14,260
+SPK_0: And then the third aspect, which is the most recent, is that I was baptized and become a, I would hope to say, at least deeply committed and meaningfully disciplined, though not well disciplined, Christian in October of, not this most recent October, but the year before that.
+
+12
+00:02:14,380 --> 00:02:15,460
+SPK_0: So quite brief.
+
+13
+00:02:15,760 --> 00:02:19,100
+SPK_0: And this has been a significant piece, as you might imagine.
+
+14
+00:02:21,400 --> 00:02:21,960
+SPK_0: Largely.
+
+15
+00:02:22,260 --> 00:02:24,200
+SPK_0: Consuming piece of my life for that period of time.
+
+16
+00:02:27,020 --> 00:02:28,720
+SPK_1: Could not have done it better for sure.
+
+17
+00:02:30,400 --> 00:02:35,460
+SPK_1: I guess, yeah, let's just jump into this big topics you already brought it up.
+
+18
+00:02:37,160 --> 00:02:40,640
+SPK_1: I personally find your idea of metacrisis.
+
+19
+00:02:42,820 --> 00:02:54,480
+SPK_1: Maybe being one of the most eloquent, eloquent ways of describing just the current state of not just the Western civilization, but I would say the capital C.
+
+20
+00:02:56,120 --> 00:03:00,520
+SPK_1: And could you help me and my audience understand them better?
+
+21
+00:03:00,600 --> 00:03:02,220
+SPK_1: So what is metacrisis?
+
+22
+00:03:02,240 --> 00:03:06,020
+SPK_1: How it's different from all of the other things we've experienced before?
+
+23
+00:03:06,260 --> 00:03:07,660
+SPK_1: And maybe why now?
+
+24
+00:03:08,460 --> 00:03:08,900
+SPK_0: Okay.
+
+25
+00:03:10,460 --> 00:03:11,660
+SPK_0: So I'll start.
+
+26
+00:03:11,700 --> 00:03:12,660
+SPK_0: I'll kind of walk up slowly.
+
+27
+00:03:13,600 --> 00:03:16,800
+SPK_0: The first thing is just to maybe just to notice the idea of what is a crisis.
+
+28
+00:03:17,160 --> 00:03:22,900
+SPK_0: And this is from the Greek sense of something that cannot continue as what it is.
+
+29
+00:03:23,140 --> 00:03:24,080
+SPK_0: So there is some.
+
+30
+00:03:24,140 --> 00:03:24,640
+SPK_0: You know, it's a crisis.
+
+31
+00:03:24,640 --> 00:03:36,200
+SPK_0: It's usually a process or a state of affairs where there's something about the nature of that state of affairs and the nature of the context of what's happening, where a qualitative change is going to occur.
+
+32
+00:03:37,620 --> 00:03:39,040
+SPK_0: Pregnancy is a crisis.
+
+33
+00:03:39,260 --> 00:03:41,500
+SPK_0: There's a period where birth will happen.
+
+34
+00:03:41,580 --> 00:03:45,000
+SPK_0: And that is a transition where the woman is no longer carrying the baby inside.
+
+35
+00:03:45,200 --> 00:03:47,000
+SPK_0: She is now nursing the baby outside.
+
+36
+00:03:47,160 --> 00:03:47,760
+SPK_0: So crisis.
+
+37
+00:03:49,040 --> 00:03:54,620
+SPK_0: And then what we've noticed in the world now is that there are crises happening.
+
+38
+00:03:54,640 --> 00:03:55,420
+SPK_0: They're happening all over the place.
+
+39
+00:03:56,060 --> 00:04:01,300
+SPK_0: And some have come to call this the poly crisis or the multiplicity of crises.
+
+40
+00:04:01,900 --> 00:04:05,340
+SPK_0: And you can look sort of under any rock you'd like to.
+
+41
+00:04:05,420 --> 00:04:07,020
+SPK_0: There's crises in finance and economics.
+
+42
+00:04:07,120 --> 00:04:10,140
+SPK_0: There's crises in birth rates.
+
+43
+00:04:10,300 --> 00:04:13,140
+SPK_0: There's meaning crises and psychological crises.
+
+44
+00:04:13,220 --> 00:04:14,280
+SPK_0: There's political crises.
+
+45
+00:04:14,420 --> 00:04:16,040
+SPK_0: There's ecological crises.
+
+46
+00:04:16,220 --> 00:04:17,740
+SPK_0: There's all sorts all over the place.
+
+47
+00:04:17,780 --> 00:04:20,860
+SPK_0: And some of these are, in fact, overblown.
+
+48
+00:04:20,940 --> 00:04:23,480
+SPK_0: But many of them are underreported.
+
+49
+00:04:23,720 --> 00:04:24,620
+SPK_0: And they are all over the place.
+
+50
+00:04:24,640 --> 00:04:25,140
+SPK_0: They're all happening.
+
+51
+00:04:25,200 --> 00:04:27,080
+SPK_0: And in some sense are continuing to proceed.
+
+52
+00:04:27,680 --> 00:04:33,120
+SPK_0: Now, the next move you can make is noticing that these crises are almost never independent.
+
+53
+00:04:33,520 --> 00:04:44,280
+SPK_0: So, for example, we witnessed that the real estate crisis in the United States in 2007 spilled over into a series of financial crises around the world.
+
+54
+00:04:44,320 --> 00:04:53,520
+SPK_0: But those also spilled over into political crises or spilled over into even coordination crises that caused the COVID viral crisis to become worse.
+
+55
+00:04:53,520 --> 00:04:58,540
+SPK_0: Because the political crisis that had preceded it reduced our ability to respond to our environment.
+
+56
+00:04:58,640 --> 00:05:00,360
+SPK_0: So you now have one level up.
+
+57
+00:05:00,420 --> 00:05:14,860
+SPK_0: And then one level above that is where we begin to talk about the metacrisis, which is to say, are there deep things, things that are closer to the root that are themselves the profound foundations that are shaking?
+
+58
+00:05:15,020 --> 00:05:23,500
+SPK_0: So to use the visual metaphor, if we're all sort of standing on a platform and we notice that everything on the platform is shaking, we might say, hey, everything is shaking.
+
+59
+00:05:23,500 --> 00:05:24,520
+SPK_0: Everything on the platform is shaking.
+
+60
+00:05:24,640 --> 00:05:26,040
+SPK_0: All of these things are under crisis.
+
+61
+00:05:26,440 --> 00:05:31,700
+SPK_0: Or we might wonder, wait a minute, are we standing on a platform that's on a pillar and the pillar is what's shaking?
+
+62
+00:05:31,820 --> 00:05:33,280
+SPK_0: In which case we need to be looking down.
+
+63
+00:05:33,760 --> 00:05:39,780
+SPK_0: And that was the work that I and a number of people underwent from about, again, 2010 to 2017.
+
+64
+00:05:41,600 --> 00:05:53,440
+SPK_0: And the answer, as it turns out, was something like, yes, there's a relatively compact set, not one single point, but relatively compact set of deep events that are occurring.
+
+65
+00:05:53,500 --> 00:05:56,380
+SPK_0: Now, many of which are actually predictable.
+
+66
+00:05:56,520 --> 00:06:02,980
+SPK_0: Like you could say, given a proper theory or set of theories about the nature of, say, civilization, what might we expect to occur?
+
+67
+00:06:03,660 --> 00:06:09,460
+SPK_0: And that these are producing the poly crisis events that we're seeing.
+
+68
+00:06:09,600 --> 00:06:20,280
+SPK_0: And one of the consequences of that, as you might imagine, is that if you try to address the set of problems at the poly crisis level, at best, you're playing whack-a-mole.
+
+69
+00:06:20,340 --> 00:06:22,820
+SPK_0: And in point of fact, you're usually making things worse.
+
+70
+00:06:22,820 --> 00:06:30,180
+SPK_0: Because a solution that will be affecting a subset generally produces spillover effects into areas that you're not paying attention to.
+
+71
+00:06:31,340 --> 00:06:36,600
+SPK_0: So can you, if you want to grasp this at all, you have to find some way of grasping it at the most foundational level.
+
+72
+00:06:36,720 --> 00:06:38,060
+SPK_0: So metacrisis.
+
+73
+00:06:39,340 --> 00:06:39,880
+SPK_0: How's that?
+
+74
+00:06:40,560 --> 00:06:41,560
+SPK_1: That sounds great.
+
+75
+00:06:41,680 --> 00:06:45,660
+SPK_1: And it brings me one question and one comment.
+
+76
+00:06:45,780 --> 00:06:49,020
+SPK_1: I will start with a short comment concerning the idea of crisis.
+
+77
+00:06:49,980 --> 00:06:52,460
+SPK_1: The idea of crisis is something which cannot continue.
+
+78
+00:06:52,820 --> 00:06:59,340
+SPK_1: But also, I think there is an important element of revelation in any crisis.
+
+79
+00:06:59,640 --> 00:07:03,580
+SPK_1: Crisis as a process always reveals something.
+
+80
+00:07:04,080 --> 00:07:08,120
+SPK_1: And in that sense, I just think it kind of strengthens your arguments.
+
+81
+00:07:08,220 --> 00:07:13,520
+SPK_1: We are in a process when many things which we took for granted are not for granted anymore.
+
+82
+00:07:13,780 --> 00:07:18,080
+SPK_1: It reveals maybe that we are not what we think we are.
+
+83
+00:07:18,160 --> 00:07:22,660
+SPK_1: Or like we don't function based on the principles we say we are functioning.
+
+84
+00:07:22,820 --> 00:07:34,500
+SPK_1: And this kind of constructive, revelatory element of pain or suffering or destruction, which is usually associated with crisis, I also think is happening right here, right now.
+
+85
+00:07:34,620 --> 00:07:40,460
+SPK_1: In a way, it reminds of this Deuteronomy, like when it says that crisis effectively...
+
+86
+00:07:40,460 --> 00:07:42,400
+SPK_1: You can say that crisis is a moment of choice.
+
+87
+00:07:42,560 --> 00:07:44,900
+SPK_1: It's like, if you remember, there is a verse,
+
+88
+00:07:45,820 --> 00:07:49,360
+SPK_1: I have said before you life and death, blessing and cursing.
+
+89
+00:07:49,420 --> 00:07:50,600
+SPK_1: The Lord choose life.
+
+90
+00:07:50,600 --> 00:07:53,700
+SPK_1: That both of you and your descendants may live.
+
+91
+00:07:53,880 --> 00:07:58,040
+SPK_1: And you can say that every crisis on a different level presents the same choice.
+
+92
+00:07:58,160 --> 00:07:58,820
+SPK_1: You can choose life.
+
+93
+00:07:58,880 --> 00:07:59,540
+SPK_1: You can choose death.
+
+94
+00:07:59,800 --> 00:08:03,380
+SPK_1: And that's why I think it's important exactly to talk about it right now.
+
+95
+00:08:04,340 --> 00:08:12,680
+SPK_1: When we live in a moment where I still witness for the last, let's say, three years, focusing closely, exactly this walk-a-mole game.
+
+96
+00:08:12,820 --> 00:08:14,260
+SPK_1: I think it's a very beautiful metaphor.
+
+97
+00:08:14,340 --> 00:08:19,960
+SPK_1: So attempts to trying to put new wine into the old.
+
+98
+00:08:21,160 --> 00:08:22,340
+SPK_1: Into the old sack.
+
+99
+00:08:22,520 --> 00:08:24,320
+SPK_1: So you can use it to be comparable.
+
+100
+00:08:24,900 --> 00:08:26,620
+SPK_1: But my question would be very straightforward.
+
+101
+00:08:26,940 --> 00:08:28,020
+SPK_1: So what is the pillar?
+
+102
+00:08:28,320 --> 00:08:31,680
+SPK_1: You mentioned that like everything is shaking, platform is shaking.
+
+103
+00:08:31,880 --> 00:08:33,780
+SPK_1: And maybe it's the pillar which is shaking.
+
+104
+00:08:33,980 --> 00:08:35,160
+SPK_1: So what do you define as a pillar?
+
+105
+00:08:35,340 --> 00:08:37,220
+SPK_1: So what do you think is shaking?
+
+106
+00:08:39,380 --> 00:08:40,180
+SPK_1: So there's...
+
+107
+00:08:40,180 --> 00:08:41,120
+SPK_1: What was revealed to you?
+
+108
+00:08:41,220 --> 00:08:41,500
+SPK_1: Sorry.
+
+109
+00:08:41,780 --> 00:08:42,220
+SPK_0: Yes, yes.
+
+110
+00:08:42,260 --> 00:08:42,780
+SPK_0: I love this.
+
+111
+00:08:42,780 --> 00:08:43,500
+SPK_0: What is revealed.
+
+112
+00:08:45,240 --> 00:08:46,160
+SPK_0: And by the way, I agree.
+
+113
+00:08:46,300 --> 00:08:47,840
+SPK_0: I think all the points you added there are very good.
+
+114
+00:08:47,940 --> 00:08:48,640
+SPK_0: So yes.
+
+115
+00:08:50,660 --> 00:08:51,900
+SPK_0: Let me see.
+
+116
+00:08:53,920 --> 00:08:54,440
+SPK_0: Okay.
+
+117
+00:08:54,500 --> 00:08:59,040
+SPK_0: So there's three things that are at least somewhat independent.
+
+118
+00:09:01,600 --> 00:09:06,960
+SPK_0: One is that as it turns out, civilizations have cycles.
+
+119
+00:09:07,060 --> 00:09:10,240
+SPK_0: And there's lots of people who have written about them in different ways.
+
+120
+00:09:10,460 --> 00:09:12,860
+SPK_0: But the bottom line is civilizations have cycles.
+
+121
+00:09:13,180 --> 00:09:21,080
+SPK_0: And our civilization, I'm going to put that in quotes for the moment because we'll need to dig into what I am pointing to there.
+
+122
+00:09:21,080 --> 00:09:26,620
+SPK_0: But our civilization is nearing the end of its natural arc.
+
+123
+00:09:26,840 --> 00:09:28,980
+SPK_0: So it is sort of past senescence.
+
+124
+00:09:29,020 --> 00:09:29,760
+SPK_0: I'm sorry.
+
+125
+00:09:29,820 --> 00:09:31,960
+SPK_0: Past maturity and is in senescence.
+
+126
+00:09:31,980 --> 00:09:33,760
+SPK_0: Or in fact, I would argue is actually undead.
+
+127
+00:09:35,860 --> 00:09:47,740
+SPK_0: Second, and not directly connected but deeply related, is that oftentimes civilizations produce changes in the world,
+
+128
+00:09:48,760 --> 00:09:54,240
+SPK_0: which changes are beyond the capacity of that kind of civilization to address.
+
+129
+00:09:55,160 --> 00:09:55,840
+SPK_0: Okay.
+
+130
+00:09:56,780 --> 00:10:00,840
+SPK_0: And so for as a simple example, I mean, there's many, many examples.
+
+131
+00:10:00,940 --> 00:10:17,720
+SPK_0: But as a simple example, we might say the state of the world, world's capacity to perceive and activate peace in 1945 was not equal to the novel capacity to destroy the world in the context of modern civilization.
+
+132
+00:10:17,720 --> 00:10:30,180
+SPK_0: And so that civilization, which is sort of the holdover of the Victorian British Empire, had to innovate an entirely new capacity to respond to this new possibility.
+
+133
+00:10:30,400 --> 00:10:32,440
+SPK_0: There's no such possibility prior to then.
+
+134
+00:10:32,760 --> 00:10:36,640
+SPK_0: So civilizations sort of went away, went their way without having to deal with it.
+
+135
+00:10:36,660 --> 00:10:39,860
+SPK_0: This new possibility was something that could not have been addressed at that point.
+
+136
+00:10:40,020 --> 00:10:47,420
+SPK_0: And so the category of the international order or the global order had to be produced in some fashion,
+
+137
+00:10:47,420 --> 00:10:49,740
+SPK_0: which we saw, to be able to address it at all.
+
+138
+00:10:49,860 --> 00:10:52,160
+SPK_0: And by the way, sort of nip and tuck, right?
+
+139
+00:10:52,200 --> 00:10:54,120
+SPK_0: It wasn't obvious that it was going to make it through.
+
+140
+00:10:54,180 --> 00:10:54,700
+SPK_0: It's still not obvious.
+
+141
+00:10:56,920 --> 00:10:58,280
+SPK_0: And this happens all over the place.
+
+142
+00:10:58,340 --> 00:11:00,800
+SPK_0: Some classic examples are, for example, just population.
+
+143
+00:11:01,200 --> 00:11:03,920
+SPK_0: If a civilization is very successful, the population grows.
+
+144
+00:11:04,180 --> 00:11:10,060
+SPK_0: But the population's growth produces a wide variety of different consequences and very complex consequences,
+
+145
+00:11:10,700 --> 00:11:15,380
+SPK_0: which at some point will outstrip the civilization's ability to continue to maintain itself.
+
+146
+00:11:15,460 --> 00:11:16,840
+SPK_0: It's cybernetic.
+
+147
+00:11:17,460 --> 00:11:18,540
+SPK_0: Autopoetic feedback loops.
+
+148
+00:11:20,140 --> 00:11:21,740
+SPK_0: The third, which is...
+
+149
+00:11:21,740 --> 00:11:25,560
+SPK_0: And now we're going to start getting into the things that are unique in our current environment.
+
+150
+00:11:25,820 --> 00:11:32,840
+SPK_0: The third is this weird thing about the recursive self-building element of technology.
+
+151
+00:11:33,860 --> 00:11:39,620
+SPK_0: The famous curve, the exponential curve, which in the West we call Kurzweil.
+
+152
+00:11:39,740 --> 00:11:41,580
+SPK_0: I know there's a Russian who did it first and better.
+
+153
+00:11:41,680 --> 00:11:44,900
+SPK_0: So I can't remember his name right now, but I think his stuff is better.
+
+154
+00:11:44,980 --> 00:11:45,300
+SPK_0: But...
+
+155
+00:11:46,840 --> 00:11:49,160
+SPK_0: It does seem to be something like that, that there's something about...
+
+156
+00:11:49,760 --> 00:11:52,620
+SPK_0: And I think the reason is actually pretty straightforward, which is...
+
+157
+00:11:53,420 --> 00:11:56,740
+SPK_0: It is very, very difficult to innovate some new idea.
+
+158
+00:11:56,900 --> 00:11:58,380
+SPK_0: It's difficult to invent calculus.
+
+159
+00:11:58,520 --> 00:12:00,040
+SPK_0: It's difficult to invent arithmetic.
+
+160
+00:12:00,160 --> 00:12:01,680
+SPK_0: It's difficult to invent the laser.
+
+161
+00:12:01,840 --> 00:12:06,720
+SPK_0: But once it's been invented, it's relatively easy to learn how to do it again.
+
+162
+00:12:06,980 --> 00:12:11,100
+SPK_0: So it moves from the state of hard innovation into a new baseline.
+
+163
+00:12:11,680 --> 00:12:14,880
+SPK_0: Once it's a new baseline, new capabilities can get built on top of that.
+
+164
+00:12:14,940 --> 00:12:16,340
+SPK_0: And this creates a laddering effect,
+
+165
+00:12:16,340 --> 00:12:17,920
+SPK_0: which produces an exponential growth.
+
+166
+00:12:18,560 --> 00:12:23,420
+SPK_0: And so while it is the case that new technologies are part of the second category,
+
+167
+00:12:23,520 --> 00:12:30,340
+SPK_0: the fact that we are now caught in what seems quite clearly to be an accelerating rate of change is novel.
+
+168
+00:12:31,060 --> 00:12:39,100
+SPK_0: And that acceleration is happening inside the adaptive frame that humans are able to deal with.
+
+169
+00:12:39,920 --> 00:12:40,800
+SPK_0: Let me think.
+
+170
+00:12:42,160 --> 00:12:46,060
+SPK_0: Yeah, let me just give you a bit of a frame here, just as an example of something that's useful.
+
+171
+00:12:46,060 --> 00:12:53,140
+SPK_0: So I'm going to be dropping in some of the civilization theory that we produced over the sort of 15 year timeframe.
+
+172
+00:12:54,680 --> 00:12:58,400
+SPK_0: If you're living in a world where the world that you live in,
+
+173
+00:12:58,440 --> 00:13:01,820
+SPK_0: I mean this largely the physical and technical world that you live in,
+
+174
+00:13:01,860 --> 00:13:06,520
+SPK_0: is effectively equivalent to the one that your great great grandfather lived in,
+
+175
+00:13:07,520 --> 00:13:09,380
+SPK_0: then a number of things follow.
+
+176
+00:13:09,840 --> 00:13:15,220
+SPK_0: The first is you won't typically have any sense or any idea of progress.
+
+177
+00:13:15,220 --> 00:13:19,420
+SPK_0: You'll typically live in a world that has a basic circular metaphysics.
+
+178
+00:13:19,860 --> 00:13:22,180
+SPK_0: Seasons change, days cycle.
+
+179
+00:13:22,540 --> 00:13:23,780
+SPK_0: People are born and die.
+
+180
+00:13:23,900 --> 00:13:28,300
+SPK_0: But in some sense, that death is going to be reconnected to a rebirth several generations.
+
+181
+00:13:28,440 --> 00:13:29,340
+SPK_0: That's something like that.
+
+182
+00:13:30,340 --> 00:13:37,620
+SPK_0: And there will be no need and in fact, no capacity to imagine your culture changing.
+
+183
+00:13:37,740 --> 00:13:41,900
+SPK_0: Your culture is well suited to the world that you're in for a long enough period of time
+
+184
+00:13:41,900 --> 00:13:45,200
+SPK_0: that the only thing that matters is in fact that you're able to make progress.
+
+185
+00:13:45,220 --> 00:13:48,780
+SPK_0: You're able to maintain it and that you're able to prevent it from changing.
+
+186
+00:13:48,940 --> 00:13:49,700
+SPK_0: That's the key.
+
+187
+00:13:50,480 --> 00:13:57,640
+SPK_0: But as if something happens where there is a rate of change that begins to bring it such that
+
+188
+00:13:57,640 --> 00:13:59,880
+SPK_0: within that two or three generations span,
+
+189
+00:14:00,180 --> 00:14:05,340
+SPK_0: your world is different enough from your great grandfather's world that it's noticeable.
+
+190
+00:14:05,500 --> 00:14:11,820
+SPK_0: And there has had to have been some changes to the nature of how human beings view their world,
+
+191
+00:14:11,900 --> 00:14:13,380
+SPK_0: view their role in their world,
+
+192
+00:14:13,980 --> 00:14:15,820
+SPK_0: and respond to the world that they live in
+
+193
+00:14:15,820 --> 00:14:18,620
+SPK_0: in order to simply respond to the real changes that have occurred.
+
+194
+00:14:19,420 --> 00:14:21,360
+SPK_0: Then you're in a different kind of world.
+
+195
+00:14:21,640 --> 00:14:24,180
+SPK_0: First of all, there will be something like an arrow to time.
+
+196
+00:14:24,400 --> 00:14:25,280
+SPK_0: Something like that.
+
+197
+00:14:25,580 --> 00:14:27,240
+SPK_0: First, it'll maybe look like long circles.
+
+198
+00:14:27,320 --> 00:14:28,620
+SPK_0: But at some point, it'll begin to flatten.
+
+199
+00:14:28,680 --> 00:14:32,560
+SPK_0: There's some sense of, hold on, we're going in a direction that's not quite clear what's happening.
+
+200
+00:14:33,760 --> 00:14:39,200
+SPK_0: And you will begin to have, culture will begin to have more going on at the software level, let's say.
+
+201
+00:14:39,480 --> 00:14:42,620
+SPK_0: Meaning that it will be more programmable.
+
+202
+00:14:42,620 --> 00:14:46,360
+SPK_0: There'll be more of a sense of methodologies, like the birth of law.
+
+203
+00:14:46,560 --> 00:14:48,200
+SPK_0: Like the Hammurabi's code.
+
+204
+00:14:48,520 --> 00:14:51,920
+SPK_0: Having to actually have a sense that we are going to formally articulate the rules,
+
+205
+00:14:52,720 --> 00:14:55,580
+SPK_0: which implies, by the way, that we can also edit or modify those rules.
+
+206
+00:14:56,100 --> 00:14:58,540
+SPK_0: Whereas prior to that, why would you formally articulate it?
+
+207
+00:14:58,600 --> 00:15:01,700
+SPK_0: They're self-evident and woven into the fabric of reality so deeply that,
+
+208
+00:15:02,220 --> 00:15:03,320
+SPK_0: what would you even mean?
+
+209
+00:15:03,520 --> 00:15:06,140
+SPK_0: That'd be like trying to formally articulate that when you drop a ball, it falls.
+
+210
+00:15:06,240 --> 00:15:07,100
+SPK_0: That's a silly thing to do.
+
+211
+00:15:07,980 --> 00:15:12,120
+SPK_1: And just to point out, you have a conflict immediately between these two.
+
+212
+00:15:12,120 --> 00:15:13,040
+SPK_1: Two set of laws.
+
+213
+00:15:13,260 --> 00:15:16,460
+SPK_1: The laws which are self-evident and the laws which are written.
+
+214
+00:15:17,320 --> 00:15:22,440
+SPK_1: Already known to Greeks, if you read Antigone, the famous tragedy of Antigone.
+
+215
+00:15:22,500 --> 00:15:23,700
+SPK_1: Like exactly two set of laws.
+
+216
+00:15:23,840 --> 00:15:27,420
+SPK_1: There are laws which are given by gods and there are laws which are given by this king.
+
+217
+00:15:27,760 --> 00:15:29,440
+SPK_1: And which law do I choose?
+
+218
+00:15:29,860 --> 00:15:31,880
+SPK_1: Like very classical problem emerges immediately.
+
+219
+00:15:32,280 --> 00:15:38,920
+SPK_1: Once you have this disruption and you can even say alienation from like certain self-evident plesura.
+
+220
+00:15:39,100 --> 00:15:41,760
+SPK_1: And now we are dealing with on a completely different scale.
+
+221
+00:15:42,120 --> 00:15:42,620
+SPK_1: But go on, sorry.
+
+222
+00:15:42,900 --> 00:15:43,900
+SPK_0: No, this is perfect.
+
+223
+00:15:44,120 --> 00:15:51,760
+SPK_0: And so as you move into place with the magnitude of change and the rate of change starts to pull in.
+
+224
+00:15:51,840 --> 00:15:55,520
+SPK_0: Such that your life is meaningfully different than your father's life.
+
+225
+00:15:55,720 --> 00:15:59,840
+SPK_0: So this happened in the industrial transition in particular in the 20th century.
+
+226
+00:16:01,280 --> 00:16:04,280
+SPK_0: Where your life is very different from your father's life.
+
+227
+00:16:04,360 --> 00:16:06,260
+SPK_0: Who actually was very different from his father's life.
+
+228
+00:16:06,340 --> 00:16:09,940
+SPK_0: So we're now actually getting intergenerational, what they call the generation gap.
+
+229
+00:16:10,380 --> 00:16:10,860
+SPK_1: Yes.
+
+230
+00:16:10,860 --> 00:16:17,680
+SPK_0: Whole chunks of culture are now subject to A, a necessary and B, an inevitable transformation.
+
+231
+00:16:18,600 --> 00:16:24,160
+SPK_0: But we have new methodology to actually hold that within any construct where that transformation is going to be.
+
+232
+00:16:24,780 --> 00:16:25,600
+SPK_0: How do you say?
+
+233
+00:16:26,120 --> 00:16:27,060
+SPK_0: Less than random.
+
+234
+00:16:27,220 --> 00:16:28,180
+SPK_0: Like orderly.
+
+235
+00:16:28,740 --> 00:16:29,880
+SPK_0: We're doing our best.
+
+236
+00:16:29,980 --> 00:16:30,780
+SPK_0: But who knows?
+
+237
+00:16:30,820 --> 00:16:31,780
+SPK_0: Who knows what's going to work?
+
+238
+00:16:31,880 --> 00:16:35,460
+SPK_0: You throw the birth control pill into the middle of an entire species.
+
+239
+00:16:35,880 --> 00:16:39,880
+SPK_0: That has been grounded on the fundamental iron laws of reproduction.
+
+240
+00:16:39,880 --> 00:16:41,360
+SPK_0: Since the beginning of the species.
+
+241
+00:16:41,660 --> 00:16:43,400
+SPK_0: And things are going to go weird.
+
+242
+00:16:43,560 --> 00:16:44,100
+SPK_0: Just weird.
+
+243
+00:16:45,160 --> 00:16:46,160
+SPK_0: At best weird.
+
+244
+00:16:46,360 --> 00:16:46,480
+SPK_0: Right?
+
+245
+00:16:46,540 --> 00:16:47,220
+SPK_0: Hard to predict.
+
+246
+00:16:47,500 --> 00:16:48,120
+SPK_1: And big.
+
+247
+00:16:48,440 --> 00:16:51,960
+SPK_1: Social networks effect kind of similar comes to mind.
+
+248
+00:16:52,120 --> 00:16:52,560
+SPK_1: Yep.
+
+249
+00:16:52,640 --> 00:16:53,060
+SPK_0: Absolutely.
+
+250
+00:16:53,260 --> 00:16:55,600
+SPK_0: Or just this is called the digital as a big rock.
+
+251
+00:16:56,260 --> 00:16:57,520
+SPK_0: Big stone in the pond.
+
+252
+00:16:58,060 --> 00:16:59,820
+SPK_0: And then of course as we move into the digital.
+
+253
+00:16:59,900 --> 00:17:03,080
+SPK_0: One of the things we see is now the rate of change is fast enough and big enough.
+
+254
+00:17:03,120 --> 00:17:06,040
+SPK_0: That even inside a single human being's developmental life.
+
+255
+00:17:06,200 --> 00:17:09,560
+SPK_0: Like the world I live in now is quite meaningfully different.
+
+256
+00:17:09,560 --> 00:17:10,820
+SPK_0: From the world that I grew up in.
+
+257
+00:17:11,040 --> 00:17:12,240
+SPK_0: In ways that are palpable.
+
+258
+00:17:12,720 --> 00:17:16,160
+SPK_0: And so what this does is this creates has impacts on psychology.
+
+259
+00:17:16,440 --> 00:17:21,280
+SPK_0: The kind of mind that can form and adapt and respond to the world that it's in.
+
+260
+00:17:21,420 --> 00:17:23,080
+SPK_0: Actually has to be a different kind of mind.
+
+261
+00:17:23,220 --> 00:17:27,180
+SPK_0: You have to be a mind to the middle period.
+
+262
+00:17:27,320 --> 00:17:31,000
+SPK_0: Where cultures would maybe say two or three generations and would drift.
+
+263
+00:17:31,260 --> 00:17:32,760
+SPK_0: This is a paradigmatic world.
+
+264
+00:17:32,860 --> 00:17:35,600
+SPK_0: This is the world where we can build large-scale cultural models.
+
+265
+00:17:35,880 --> 00:17:39,040
+SPK_0: That sort of look like pseudo-reality by the third generation.
+
+266
+00:17:39,560 --> 00:17:41,940
+SPK_0: But by the fourth or fifth generation they're beginning to break.
+
+267
+00:17:42,040 --> 00:17:44,980
+SPK_0: We have to have some process of modifying and transitioning.
+
+268
+00:17:45,160 --> 00:17:48,660
+SPK_0: Which of course means things like giant educational institutions.
+
+269
+00:17:48,980 --> 00:17:54,600
+SPK_0: Which can codify, professionalize and regularly download paradigms on minds.
+
+270
+00:17:54,760 --> 00:17:58,100
+SPK_0: And convert human beings into things that can run paradigms effectively.
+
+271
+00:17:58,180 --> 00:17:59,660
+SPK_0: And become part of a paradigmatic machine.
+
+272
+00:18:00,520 --> 00:18:02,580
+SPK_0: But as you move into the 21st century.
+
+273
+00:18:02,640 --> 00:18:05,960
+SPK_0: The rate and magnitude changes too fast for that entire architecture.
+
+274
+00:18:06,380 --> 00:18:08,860
+SPK_0: And so we have to move into some novel moment.
+
+275
+00:18:09,560 --> 00:18:12,100
+SPK_0: So that's one big gigantic chunk.
+
+276
+00:18:12,260 --> 00:18:14,340
+SPK_0: Okay that's a novel moment.
+
+277
+00:18:14,480 --> 00:18:18,060
+SPK_0: We're actually in a point that is completely different qualitatively.
+
+278
+00:18:18,180 --> 00:18:21,940
+SPK_0: In the nature of what kind of human mind is necessary.
+
+279
+00:18:22,280 --> 00:18:25,920
+SPK_0: And capable of responding to the world that we're actually living in.
+
+280
+00:18:25,980 --> 00:18:27,000
+SPK_0: And living in more and more.
+
+281
+00:18:27,360 --> 00:18:32,740
+SPK_0: And what kind of cultural fabric is able to respond and connect with that mind.
+
+282
+00:18:32,820 --> 00:18:34,780
+SPK_0: That's an entirely new problem that we're in right now.
+
+283
+00:18:36,500 --> 00:18:38,460
+SPK_1: Well it is fascinating.
+
+284
+00:18:38,620 --> 00:18:40,680
+SPK_1: And I don't even know where to start.
+
+285
+00:18:40,840 --> 00:18:42,080
+SPK_1: Truth be told reacting.
+
+286
+00:18:42,420 --> 00:18:47,760
+SPK_1: One thing which definitely comes to mind is the whole technology element.
+
+287
+00:18:47,860 --> 00:18:48,620
+SPK_1: Which you mentioned.
+
+288
+00:18:49,020 --> 00:18:54,300
+SPK_1: And I think what is questioned nowadays.
+
+289
+00:18:54,540 --> 00:18:56,640
+SPK_1: And I think it's a little bit what you just talked around.
+
+290
+00:18:56,880 --> 00:19:02,740
+SPK_1: Is like we can no longer go on with the idea of neutrality of the progress.
+
+291
+00:19:03,120 --> 00:19:04,860
+SPK_1: Or neutrality of technology.
+
+292
+00:19:05,260 --> 00:19:10,340
+SPK_1: Because that was exactly the technological optimism of the Actively Enlightened.
+
+293
+00:19:11,240 --> 00:19:13,120
+SPK_1: That technology is good in itself.
+
+294
+00:19:13,320 --> 00:19:14,420
+SPK_1: Progress is good in itself.
+
+295
+00:19:14,700 --> 00:19:17,880
+SPK_1: And any direction towards forward is good in itself.
+
+296
+00:19:18,020 --> 00:19:21,160
+SPK_1: Nothing problematic let's say can really come out of it.
+
+297
+00:19:21,320 --> 00:19:25,360
+SPK_1: Or if it is problematic it's just due to the backwards mentality.
+
+298
+00:19:25,900 --> 00:19:28,920
+SPK_1: Or like you know usually it was against church.
+
+299
+00:19:29,060 --> 00:19:30,260
+SPK_1: But in the 18th century.
+
+300
+00:19:30,380 --> 00:19:33,120
+SPK_1: But the general idea was just like you know people with backwards thinking.
+
+301
+00:19:33,980 --> 00:19:36,720
+SPK_1: Nowadays basically due to the acceleration and speed.
+
+302
+00:19:37,040 --> 00:19:38,760
+SPK_1: It's clear that without direction.
+
+303
+00:19:38,900 --> 00:19:39,760
+SPK_1: It's just.
+
+304
+00:19:39,760 --> 00:19:42,100
+SPK_1: We are entering into the overload.
+
+305
+00:19:42,400 --> 00:19:46,200
+SPK_1: And I think overload is a very powerful metaphor on many different levels.
+
+306
+00:19:46,300 --> 00:19:47,780
+SPK_1: Starting from an individual life.
+
+307
+00:19:48,300 --> 00:19:49,680
+SPK_1: Who's too much change.
+
+308
+00:19:49,880 --> 00:19:50,860
+SPK_1: It doesn't make sense.
+
+309
+00:19:51,100 --> 00:19:58,520
+SPK_1: And we see this gigantic decline into effectively medicalization of human existence.
+
+310
+00:19:58,880 --> 00:20:01,860
+SPK_1: Like I can deal with the amount of change and chaos around me.
+
+311
+00:20:01,880 --> 00:20:02,620
+SPK_1: There is no order.
+
+312
+00:20:02,820 --> 00:20:04,620
+SPK_1: I can't control this chaos.
+
+313
+00:20:04,780 --> 00:20:08,080
+SPK_1: So I will effectively numb my feelings.
+
+314
+00:20:08,120 --> 00:20:09,400
+SPK_1: Numb my perceptions.
+
+315
+00:20:10,120 --> 00:20:11,080
+SPK_1: Numb my reason.
+
+316
+00:20:11,320 --> 00:20:15,860
+SPK_1: And it's interesting that in fact it was kind of predicted by Huxley 50 years ago.
+
+317
+00:20:15,960 --> 00:20:19,200
+SPK_1: So you can effectively see that the trend was already there.
+
+318
+00:20:19,380 --> 00:20:21,860
+SPK_1: And I think that's something very future we have to deal with.
+
+319
+00:20:22,380 --> 00:20:23,380
+SPK_1: But then also.
+
+320
+00:20:24,020 --> 00:20:25,440
+SPK_1: I didn't plan to talk about it.
+
+321
+00:20:25,520 --> 00:20:28,980
+SPK_1: But I think when you brought this difference between cyclical and effectively linear.
+
+322
+00:20:29,860 --> 00:20:31,960
+SPK_1: It really parallels with the Greeks.
+
+323
+00:20:32,320 --> 00:20:33,760
+SPK_1: Greek understanding of time.
+
+324
+00:20:33,880 --> 00:20:34,980
+SPK_1: And they have cyclos.
+
+325
+00:20:34,980 --> 00:20:36,080
+SPK_1: And they have chronos.
+
+326
+00:20:36,080 --> 00:20:38,140
+SPK_1: So cyclical time and chronological time.
+
+327
+00:20:38,140 --> 00:20:39,440
+SPK_1: But it wasn't.
+
+328
+00:20:39,680 --> 00:20:42,240
+SPK_1: There was an important third element.
+
+329
+00:20:42,460 --> 00:20:42,920
+SPK_1: Kairos.
+
+330
+00:20:42,960 --> 00:20:43,820
+SPK_1: Kairotic moment.
+
+331
+00:20:44,380 --> 00:20:46,180
+SPK_1: I know you know what I mean.
+
+332
+00:20:46,360 --> 00:20:48,000
+SPK_1: But for the audience.
+
+333
+00:20:48,240 --> 00:20:50,640
+SPK_1: Effectively to understand simply Kairos.
+
+334
+00:20:50,700 --> 00:20:52,300
+SPK_1: It's the perspective of eternity.
+
+335
+00:20:52,880 --> 00:20:55,420
+SPK_1: Or eternity comes into the slimmer fashion.
+
+336
+00:20:55,720 --> 00:20:59,700
+SPK_1: So it's not change for the sake of change.
+
+337
+00:20:59,920 --> 00:21:02,960
+SPK_1: It's effectively a popular song of the 90s.
+
+338
+00:21:03,020 --> 00:21:05,780
+SPK_1: Look at your life from the heaven's eyes.
+
+339
+00:21:06,120 --> 00:21:07,360
+SPK_1: And that's what I think.
+
+340
+00:21:07,360 --> 00:21:09,220
+SPK_1: Can be one unifying element.
+
+341
+00:21:09,400 --> 00:21:12,080
+SPK_1: Which on the one hand.
+
+342
+00:21:12,340 --> 00:21:15,200
+SPK_1: Is new to our current state of civilization.
+
+343
+00:21:15,700 --> 00:21:17,600
+SPK_1: But only because it was kind of lost.
+
+344
+00:21:18,000 --> 00:21:20,160
+SPK_1: Because we are living in a very weird time.
+
+345
+00:21:20,700 --> 00:21:22,340
+SPK_1: Which we thought we can.
+
+346
+00:21:22,780 --> 00:21:23,940
+SPK_1: And I do speak we.
+
+347
+00:21:24,020 --> 00:21:26,640
+SPK_1: Because I think it's even though it originated in the West.
+
+348
+00:21:26,720 --> 00:21:28,000
+SPK_1: It kind of became a global phenomenon.
+
+349
+00:21:28,400 --> 00:21:30,640
+SPK_1: Like you can say that West invented it.
+
+350
+00:21:30,680 --> 00:21:33,520
+SPK_1: But that this invention was accepted globally.
+
+351
+00:21:34,500 --> 00:21:35,520
+SPK_1: And that's why.
+
+352
+00:21:35,760 --> 00:21:37,140
+SPK_1: And that's where I think.
+
+353
+00:21:38,860 --> 00:21:39,960
+SPK_1: This crisis reveals.
+
+354
+00:21:40,260 --> 00:21:41,140
+SPK_1: Not the need.
+
+355
+00:21:41,280 --> 00:21:43,800
+SPK_1: But absolute necessity of rediscovering.
+
+356
+00:21:44,520 --> 00:21:45,960
+SPK_1: Rediscovering the perspective of eternal.
+
+357
+00:21:46,320 --> 00:21:48,300
+SPK_1: To deal with the changes of chronological.
+
+358
+00:21:48,680 --> 00:21:51,080
+SPK_1: Because otherwise it's impossible to keep anything.
+
+359
+00:21:51,660 --> 00:21:52,740
+SPK_1: Anything around you.
+
+360
+00:21:53,040 --> 00:21:53,660
+SPK_1: So that's.
+
+361
+00:21:53,660 --> 00:21:53,820
+SPK_0: Yeah.
+
+362
+00:21:54,920 --> 00:21:55,980
+SPK_0: Let's hold that.
+
+363
+00:21:56,020 --> 00:21:56,540
+SPK_0: Get back to that.
+
+364
+00:21:56,640 --> 00:21:58,100
+SPK_0: Because I think that's going to be a critical.
+
+365
+00:22:00,200 --> 00:22:00,880
+SPK_0: Scenic one on.
+
+366
+00:22:01,580 --> 00:22:03,340
+SPK_0: But I want to load one more thing on.
+
+367
+00:22:03,840 --> 00:22:04,800
+SPK_0: Before we go there.
+
+368
+00:22:04,960 --> 00:22:05,160
+SPK_0: So.
+
+369
+00:22:06,160 --> 00:22:07,120
+SPK_0: Because you made a point.
+
+370
+00:22:07,120 --> 00:22:07,800
+SPK_0: And I think it's.
+
+371
+00:22:07,800 --> 00:22:08,700
+SPK_0: I think useful.
+
+372
+00:22:09,300 --> 00:22:11,980
+SPK_0: Maybe even necessary to hammer that point home.
+
+373
+00:22:12,080 --> 00:22:12,880
+SPK_0: Which is that the we.
+
+374
+00:22:13,180 --> 00:22:13,920
+SPK_0: Is everybody.
+
+375
+00:22:15,980 --> 00:22:16,420
+SPK_0: And.
+
+376
+00:22:16,560 --> 00:22:19,120
+SPK_0: And this goes actually to something that I haven't mentioned yet.
+
+377
+00:22:19,180 --> 00:22:19,780
+SPK_0: Which is that.
+
+378
+00:22:22,520 --> 00:22:22,960
+SPK_0: Civilizations.
+
+379
+00:22:23,000 --> 00:22:23,580
+SPK_0: As I said.
+
+380
+00:22:23,640 --> 00:22:24,840
+SPK_0: Civilizations have cycles or.
+
+381
+00:22:26,040 --> 00:22:26,480
+SPK_0: Dynamics.
+
+382
+00:22:28,100 --> 00:22:29,840
+SPK_0: But there's a really interesting discovery.
+
+383
+00:22:30,200 --> 00:22:31,320
+SPK_0: That came out of the.
+
+384
+00:22:31,800 --> 00:22:32,860
+SPK_0: The study of technology.
+
+385
+00:22:34,160 --> 00:22:35,040
+SPK_0: Technology curves.
+
+386
+00:22:35,960 --> 00:22:36,780
+SPK_0: In the 70s.
+
+387
+00:22:37,360 --> 00:22:38,760
+SPK_0: And largely in the 90s.
+
+388
+00:22:38,760 --> 00:22:38,980
+SPK_0: And then.
+
+389
+00:22:39,240 --> 00:22:39,520
+SPK_0: Recently.
+
+390
+00:22:40,460 --> 00:22:41,400
+SPK_0: And it looks like this.
+
+391
+00:22:41,680 --> 00:22:41,960
+SPK_0: So.
+
+392
+00:22:42,280 --> 00:22:43,120
+SPK_0: If I look at the.
+
+393
+00:22:43,440 --> 00:22:43,880
+SPK_0: Moore's law.
+
+394
+00:22:45,060 --> 00:22:45,440
+SPK_0: You know.
+
+395
+00:22:45,520 --> 00:22:45,780
+SPK_0: More as well.
+
+396
+00:22:45,800 --> 00:22:45,900
+SPK_0: Yeah.
+
+397
+00:22:46,160 --> 00:22:46,440
+SPK_0: Computation.
+
+398
+00:22:46,980 --> 00:22:47,260
+SPK_1: Yeah.
+
+399
+00:22:47,720 --> 00:22:48,000
+SPK_1: Okay.
+
+400
+00:22:48,040 --> 00:22:48,440
+SPK_1: I know, but.
+
+401
+00:22:48,820 --> 00:22:49,660
+SPK_1: Just in case it repeats.
+
+402
+00:22:49,740 --> 00:22:50,020
+SPK_0: Yeah.
+
+403
+00:22:50,100 --> 00:22:50,400
+SPK_0: I'll say it.
+
+404
+00:22:50,480 --> 00:22:50,700
+SPK_0: So.
+
+405
+00:22:51,160 --> 00:22:54,640
+SPK_0: So one of the guys who was fundamental in the innovation of the general purpose.
+
+406
+00:22:55,080 --> 00:22:55,360
+SPK_0: Computer.
+
+407
+00:22:56,340 --> 00:22:56,620
+SPK_0: Intel.
+
+408
+00:22:57,200 --> 00:22:58,120
+SPK_0: One of the founders of Intel.
+
+409
+00:22:58,920 --> 00:22:59,200
+SPK_0: Noticed.
+
+410
+00:22:59,260 --> 00:22:59,540
+SPK_0: That.
+
+411
+00:23:00,180 --> 00:23:01,960
+SPK_0: Computation seemed to be doubling every.
+
+412
+00:23:02,220 --> 00:23:03,020
+SPK_0: Two years or so.
+
+413
+00:23:03,080 --> 00:23:03,860
+SPK_0: Just to make the math easy.
+
+414
+00:23:06,380 --> 00:23:06,660
+SPK_0: And.
+
+415
+00:23:06,740 --> 00:23:08,040
+SPK_0: And by the way, that has largely held.
+
+416
+00:23:08,120 --> 00:23:08,680
+SPK_0: So this is a.
+
+417
+00:23:08,680 --> 00:23:09,540
+SPK_0: A long time.
+
+418
+00:23:09,680 --> 00:23:10,420
+SPK_0: For something.
+
+419
+00:23:10,440 --> 00:23:10,840
+SPK_0: Which is a.
+
+420
+00:23:10,960 --> 00:23:11,400
+SPK_0: Exponential.
+
+421
+00:23:11,500 --> 00:23:11,820
+SPK_0: A doubling.
+
+422
+00:23:11,980 --> 00:23:12,240
+SPK_0: Period.
+
+423
+00:23:12,340 --> 00:23:13,060
+SPK_0: At the same period.
+
+424
+00:23:13,280 --> 00:23:13,820
+SPK_0: To hold.
+
+425
+00:23:14,200 --> 00:23:15,200
+SPK_0: But here's an important.
+
+426
+00:23:15,940 --> 00:23:17,860
+SPK_0: Insight that most people don't pay attention to.
+
+427
+00:23:17,980 --> 00:23:18,560
+SPK_0: And that is.
+
+428
+00:23:19,120 --> 00:23:20,000
+SPK_0: The underlying.
+
+429
+00:23:20,440 --> 00:23:21,440
+SPK_0: Physical mechanism.
+
+430
+00:23:21,820 --> 00:23:22,260
+SPK_0: Where.
+
+431
+00:23:22,260 --> 00:23:22,580
+SPK_0: By.
+
+432
+00:23:22,940 --> 00:23:23,380
+SPK_0: Computation.
+
+433
+00:23:23,420 --> 00:23:23,900
+SPK_0: Was done.
+
+434
+00:23:24,380 --> 00:23:25,980
+SPK_0: Has not itself stayed static.
+
+435
+00:23:26,200 --> 00:23:26,880
+SPK_0: So if I.
+
+436
+00:23:26,900 --> 00:23:28,000
+SPK_0: If I go back into the past.
+
+437
+00:23:28,020 --> 00:23:29,220
+SPK_0: The earliest days of computers.
+
+438
+00:23:30,200 --> 00:23:30,640
+SPK_0: Computation.
+
+439
+00:23:30,680 --> 00:23:31,740
+SPK_0: Was done by means of.
+
+440
+00:23:31,900 --> 00:23:32,480
+SPK_0: A vacuum.
+
+441
+00:23:32,540 --> 00:23:32,820
+SPK_0: Tubes.
+
+442
+00:23:33,440 --> 00:23:33,880
+SPK_0: And.
+
+443
+00:23:34,000 --> 00:23:34,940
+SPK_0: For a little while.
+
+444
+00:23:35,160 --> 00:23:36,100
+SPK_0: There was a doubling.
+
+445
+00:23:36,160 --> 00:23:36,780
+SPK_0: Of computation.
+
+446
+00:23:36,860 --> 00:23:37,540
+SPK_0: By means.
+
+447
+00:23:38,680 --> 00:23:38,780
+SPK_0: Of the transistor.
+
+448
+00:23:38,780 --> 00:23:38,960
+SPK_0: And then there was a point.
+
+449
+00:23:39,080 --> 00:23:40,020
+SPK_0: Where that just wasn't going.
+
+450
+00:23:40,080 --> 00:23:40,640
+SPK_0: To continue.
+
+451
+00:23:41,980 --> 00:23:42,300
+SPK_0: And.
+
+452
+00:23:42,360 --> 00:23:43,080
+SPK_0: So what happened was.
+
+453
+00:23:43,280 --> 00:23:43,600
+SPK_0: The.
+
+454
+00:23:43,700 --> 00:23:44,020
+SPK_0: The.
+
+455
+00:23:44,400 --> 00:23:44,960
+SPK_0: Transistor appears.
+
+456
+00:23:45,860 --> 00:23:47,060
+SPK_0: And then there was a doubling.
+
+457
+00:23:47,180 --> 00:23:47,480
+SPK_0: Of.
+
+458
+00:23:48,360 --> 00:23:48,680
+SPK_0: Computation.
+
+459
+00:23:48,700 --> 00:23:49,780
+SPK_0: By means of the transistor.
+
+460
+00:23:50,180 --> 00:23:50,860
+SPK_0: And then we've done.
+
+461
+00:23:50,980 --> 00:23:52,040
+SPK_0: A series of technical.
+
+462
+00:23:52,440 --> 00:23:52,760
+SPK_0: Shifts.
+
+463
+00:23:53,100 --> 00:23:54,080
+SPK_0: In either the methodology.
+
+464
+00:23:54,340 --> 00:23:55,000
+SPK_0: Of transistors.
+
+465
+00:23:55,060 --> 00:23:55,440
+SPK_0: Or et cetera.
+
+466
+00:23:55,540 --> 00:23:56,320
+SPK_0: We moved from the CPU.
+
+467
+00:23:56,600 --> 00:23:57,120
+SPK_0: The GPU.
+
+468
+00:23:57,220 --> 00:23:57,780
+SPK_0: There's a bunch of stuff.
+
+469
+00:23:57,860 --> 00:23:58,320
+SPK_0: That's happened.
+
+470
+00:23:59,220 --> 00:24:00,200
+SPK_0: If you look at it.
+
+471
+00:24:00,240 --> 00:24:00,760
+SPK_0: What you then see.
+
+472
+00:24:00,820 --> 00:24:01,760
+SPK_0: Is you see this really interesting.
+
+473
+00:24:01,960 --> 00:24:02,200
+SPK_0: Effect.
+
+474
+00:24:02,440 --> 00:24:02,980
+SPK_0: Where you'll have.
+
+475
+00:24:03,160 --> 00:24:03,980
+SPK_0: What looks like an S.
+
+476
+00:24:04,040 --> 00:24:04,340
+SPK_0: Curve.
+
+477
+00:24:08,680 --> 00:24:08,980
+SPK_0: And.
+
+478
+00:24:09,000 --> 00:24:09,840
+SPK_0: Not well understood.
+
+479
+00:24:10,340 --> 00:24:12,020
+SPK_0: A lot of ancillary engineering.
+
+480
+00:24:12,280 --> 00:24:13,180
+SPK_0: And scientific techniques.
+
+481
+00:24:13,440 --> 00:24:13,960
+SPK_0: Haven't been either.
+
+482
+00:24:14,020 --> 00:24:14,600
+SPK_0: Either discovered.
+
+483
+00:24:14,720 --> 00:24:15,500
+SPK_0: Or formalized.
+
+484
+00:24:17,080 --> 00:24:17,840
+SPK_0: Necessary components.
+
+485
+00:24:18,260 --> 00:24:18,860
+SPK_0: In the economy.
+
+486
+00:24:19,040 --> 00:24:19,700
+SPK_0: Have been put together.
+
+487
+00:24:19,960 --> 00:24:20,600
+SPK_0: So it's.
+
+488
+00:24:20,600 --> 00:24:21,780
+SPK_0: Sort of proceeding along.
+
+489
+00:24:22,620 --> 00:24:23,060
+SPK_0: Usually.
+
+490
+00:24:23,220 --> 00:24:24,420
+SPK_0: Quite amateurishly.
+
+491
+00:24:24,420 --> 00:24:24,860
+SPK_0: Or fail.
+
+492
+00:24:24,920 --> 00:24:25,660
+SPK_0: In a failing fashion.
+
+493
+00:24:25,880 --> 00:24:26,740
+SPK_0: But then it reaches.
+
+494
+00:24:26,760 --> 00:24:27,320
+SPK_0: A point of maturity.
+
+495
+00:24:27,480 --> 00:24:28,040
+SPK_0: Which is the nape.
+
+496
+00:24:28,080 --> 00:24:28,360
+SPK_0: Of the curve.
+
+497
+00:24:28,780 --> 00:24:29,680
+SPK_0: At that point.
+
+498
+00:24:29,760 --> 00:24:30,520
+SPK_0: It begins to accelerate.
+
+499
+00:24:30,780 --> 00:24:31,100
+SPK_0: Until it.
+
+500
+00:24:31,220 --> 00:24:31,600
+SPK_0: Achieves.
+
+501
+00:24:31,700 --> 00:24:32,100
+SPK_0: Effectually.
+
+502
+00:24:32,160 --> 00:24:32,780
+SPK_0: Was called mainstream.
+
+503
+00:24:38,680 --> 00:24:39,320
+SPK_0: Automatic horses.
+
+504
+00:24:39,460 --> 00:24:40,140
+SPK_0: Or something like that.
+
+505
+00:24:40,280 --> 00:24:40,360
+SPK_0: Yes.
+
+506
+00:24:40,360 --> 00:24:40,560
+SPK_0: They were.
+
+507
+00:24:40,720 --> 00:24:41,840
+SPK_0: They were a niche thing.
+
+508
+00:24:42,260 --> 00:24:43,440
+SPK_0: At a certain point though.
+
+509
+00:24:43,500 --> 00:24:44,800
+SPK_0: We had gasoline stations.
+
+510
+00:24:45,160 --> 00:24:46,080
+SPK_0: We had rubber tires.
+
+511
+00:24:46,440 --> 00:24:46,820
+SPK_0: We had.
+
+512
+00:24:46,920 --> 00:24:47,600
+SPK_0: Enough roads.
+
+513
+00:24:47,940 --> 00:24:48,760
+SPK_0: That it became.
+
+514
+00:24:49,140 --> 00:24:49,520
+SPK_0: Click.
+
+515
+00:24:49,660 --> 00:24:50,660
+SPK_0: All the pieces fit together.
+
+516
+00:24:51,340 --> 00:24:51,920
+SPK_0: Automobiles become.
+
+517
+00:24:52,000 --> 00:24:52,800
+SPK_0: A mature technology.
+
+518
+00:24:52,980 --> 00:24:53,760
+SPK_0: And they accelerate up.
+
+519
+00:24:54,020 --> 00:24:54,900
+SPK_0: And then there's a point.
+
+520
+00:24:55,020 --> 00:24:55,760
+SPK_0: Where that actually becomes.
+
+521
+00:24:56,740 --> 00:24:57,480
+SPK_0: It enters.
+
+522
+00:24:57,520 --> 00:24:57,880
+SPK_0: Into.
+
+523
+00:24:58,080 --> 00:24:58,740
+SPK_0: Old age.
+
+524
+00:24:58,960 --> 00:24:59,540
+SPK_0: It becomes.
+
+525
+00:24:59,620 --> 00:25:00,540
+SPK_0: Less and less relevant.
+
+526
+00:25:00,800 --> 00:25:01,180
+SPK_0: And.
+
+527
+00:25:01,220 --> 00:25:01,680
+SPK_0: And oftentimes.
+
+528
+00:25:01,820 --> 00:25:02,600
+SPK_0: It'll actually just die.
+
+529
+00:25:02,700 --> 00:25:03,320
+SPK_0: So if you take a look at.
+
+530
+00:25:03,340 --> 00:25:03,980
+SPK_0: Say for example.
+
+531
+00:25:04,400 --> 00:25:05,280
+SPK_0: Horse and buggy.
+
+532
+00:25:05,280 --> 00:25:06,160
+SPK_0: Went through an S curve.
+
+533
+00:25:06,240 --> 00:25:07,460
+SPK_0: When the automobile came along.
+
+534
+00:25:07,520 --> 00:25:08,140
+SPK_0: The horse and buggy.
+
+535
+00:25:08,180 --> 00:25:08,500
+SPK_0: Died.
+
+536
+00:25:08,580 --> 00:25:08,900
+SPK_0: Okay.
+
+537
+00:25:09,640 --> 00:25:10,540
+SPK_0: Same thing happened with.
+
+538
+00:25:10,580 --> 00:25:11,480
+SPK_0: Say the rolling out of.
+
+539
+00:25:11,600 --> 00:25:12,120
+SPK_0: Vacuum tubes.
+
+540
+00:25:12,280 --> 00:25:12,500
+SPK_0: And then.
+
+541
+00:25:12,680 --> 00:25:13,640
+SPK_0: Certain kinds of transitions.
+
+542
+00:25:13,800 --> 00:25:14,480
+SPK_0: You see these S curves.
+
+543
+00:25:14,900 --> 00:25:16,060
+SPK_0: What you see with Moore's law.
+
+544
+00:25:16,220 --> 00:25:17,340
+SPK_0: Is you have these nested.
+
+545
+00:25:17,340 --> 00:25:17,660
+SPK_0: S curves.
+
+546
+00:25:18,080 --> 00:25:18,440
+SPK_0: Meaning.
+
+547
+00:25:18,840 --> 00:25:20,040
+SPK_0: Just as the vacuum tube.
+
+548
+00:25:20,120 --> 00:25:20,380
+SPK_0: Is reaching.
+
+549
+00:25:20,500 --> 00:25:21,140
+SPK_0: Its old age.
+
+550
+00:25:21,160 --> 00:25:22,220
+SPK_0: The transistor comes along.
+
+551
+00:25:22,560 --> 00:25:23,700
+SPK_0: With a more capable.
+
+552
+00:25:24,300 --> 00:25:24,660
+SPK_0: Possibility.
+
+553
+00:25:25,660 --> 00:25:26,820
+SPK_0: Towards the more abstract.
+
+554
+00:25:27,420 --> 00:25:28,220
+SPK_0: Version of things.
+
+555
+00:25:28,320 --> 00:25:28,860
+SPK_0: Known as.
+
+556
+00:25:29,440 --> 00:25:29,940
+SPK_0: Moore's law.
+
+557
+00:25:30,040 --> 00:25:30,280
+SPK_0: Or.
+
+558
+00:25:31,000 --> 00:25:31,360
+SPK_0: Computation.
+
+559
+00:25:31,880 --> 00:25:32,480
+SPK_0: Substrate independent.
+
+560
+00:25:32,840 --> 00:25:33,080
+SPK_0: Okay.
+
+561
+00:25:33,080 --> 00:25:34,160
+SPK_0: Now here's the reason.
+
+562
+00:25:34,220 --> 00:25:34,840
+SPK_0: Why I bring that up.
+
+563
+00:25:35,280 --> 00:25:36,080
+SPK_0: The same thing.
+
+564
+00:25:36,140 --> 00:25:36,380
+SPK_0: Is true.
+
+565
+00:25:36,480 --> 00:25:36,860
+SPK_0: Of civilization.
+
+566
+00:25:38,180 --> 00:25:38,700
+SPK_0: There's a.
+
+567
+00:25:39,000 --> 00:25:39,680
+SPK_0: Substrate version.
+
+568
+00:25:39,760 --> 00:25:40,140
+SPK_0: Of civilization.
+
+569
+00:25:40,460 --> 00:25:41,380
+SPK_0: Let's go with like.
+
+570
+00:25:42,040 --> 00:25:42,440
+SPK_0: Babylon.
+
+571
+00:25:43,100 --> 00:25:43,500
+SPK_0: Babylon.
+
+572
+00:25:43,680 --> 00:25:44,440
+SPK_0: Has its S curve.
+
+573
+00:25:44,520 --> 00:25:44,980
+SPK_0: It rises.
+
+574
+00:25:45,000 --> 00:25:45,460
+SPK_0: It falls.
+
+575
+00:25:46,020 --> 00:25:46,820
+SPK_0: But there's.
+
+576
+00:25:47,020 --> 00:25:47,860
+SPK_0: Something bigger.
+
+577
+00:25:47,940 --> 00:25:48,460
+SPK_0: Going on.
+
+578
+00:25:48,580 --> 00:25:48,980
+SPK_0: Where the.
+
+579
+00:25:49,040 --> 00:25:50,040
+SPK_0: The baton.
+
+580
+00:25:50,060 --> 00:25:50,640
+SPK_0: Of civilization.
+
+581
+00:25:50,780 --> 00:25:51,180
+SPK_0: Itself.
+
+582
+00:25:51,300 --> 00:25:52,100
+SPK_0: Gets handed down.
+
+583
+00:25:52,460 --> 00:25:52,860
+SPK_0: Rome.
+
+584
+00:25:53,320 --> 00:25:53,720
+SPK_0: Collapses.
+
+585
+00:25:54,060 --> 00:25:54,460
+SPK_0: Medieval.
+
+586
+00:25:54,540 --> 00:25:54,880
+SPK_0: Period.
+
+587
+00:25:55,120 --> 00:25:55,520
+SPK_0: Arises.
+
+588
+00:25:55,660 --> 00:25:55,980
+SPK_0: Right.
+
+589
+00:25:56,020 --> 00:25:56,640
+SPK_0: Things just.
+
+590
+00:25:56,860 --> 00:25:57,260
+SPK_0: Move.
+
+591
+00:26:03,180 --> 00:26:03,360
+SPK_0: Certain.
+
+592
+00:26:03,780 --> 00:26:04,060
+SPK_0: Characteristic.
+
+593
+00:26:04,560 --> 00:26:04,840
+SPK_0: Aspects.
+
+594
+00:26:04,860 --> 00:26:05,600
+SPK_0: Of civilization.
+
+595
+00:26:05,920 --> 00:26:06,260
+SPK_0: Even though.
+
+596
+00:26:06,320 --> 00:26:06,540
+SPK_0: We had.
+
+597
+00:26:06,620 --> 00:26:07,140
+SPK_0: A loss.
+
+598
+00:26:07,160 --> 00:26:07,500
+SPK_0: Of a lot.
+
+599
+00:26:07,520 --> 00:26:07,820
+SPK_0: Of things.
+
+600
+00:26:07,860 --> 00:26:08,280
+SPK_0: In the context.
+
+601
+00:26:08,320 --> 00:26:08,680
+SPK_0: Of Rome.
+
+602
+00:26:09,300 --> 00:26:09,580
+SPK_0: Eventually.
+
+603
+00:26:09,700 --> 00:26:10,120
+SPK_0: It was.
+
+604
+00:26:10,360 --> 00:26:10,820
+SPK_0: Caught up.
+
+605
+00:26:10,860 --> 00:26:11,120
+SPK_0: Across.
+
+606
+00:26:11,220 --> 00:26:11,440
+SPK_0: All.
+
+607
+00:26:11,560 --> 00:26:11,800
+SPK_0: Material.
+
+608
+00:26:12,040 --> 00:26:12,320
+SPK_0: Factors.
+
+609
+00:26:12,340 --> 00:26:12,580
+SPK_0: Eventually.
+
+610
+00:26:13,960 --> 00:26:14,480
+SPK_0: And a lot.
+
+611
+00:26:14,540 --> 00:26:14,700
+SPK_0: Of other.
+
+612
+00:26:14,840 --> 00:26:14,880
+SPK_0: Things.
+
+613
+00:26:14,980 --> 00:26:15,180
+SPK_0: Were done.
+
+614
+00:26:15,300 --> 00:26:15,560
+SPK_0: Relatively.
+
+615
+00:26:15,680 --> 00:26:15,960
+SPK_0: Quickly.
+
+616
+00:26:16,680 --> 00:26:16,960
+SPK_0: Post.
+
+617
+00:26:17,100 --> 00:26:17,420
+SPK_0: The fall.
+
+618
+00:26:17,460 --> 00:26:17,720
+SPK_0: Of Rome.
+
+619
+00:26:18,480 --> 00:26:19,120
+SPK_0: And so.
+
+620
+00:26:19,440 --> 00:26:20,020
+SPK_0: This has.
+
+621
+00:26:20,200 --> 00:26:20,880
+SPK_0: Two points.
+
+622
+00:26:20,940 --> 00:26:21,220
+SPK_0: That I just.
+
+623
+00:26:21,280 --> 00:26:21,580
+SPK_0: Want to make.
+
+624
+00:26:22,300 --> 00:26:23,060
+SPK_0: One is.
+
+625
+00:26:24,280 --> 00:26:24,660
+SPK_0: Falling.
+
+626
+00:26:24,840 --> 00:26:25,540
+SPK_0: Or death.
+
+627
+00:26:26,020 --> 00:26:26,400
+SPK_0: Has.
+
+628
+00:26:26,540 --> 00:26:26,740
+SPK_0: In fact.
+
+629
+00:26:26,780 --> 00:26:27,640
+SPK_0: Always been woven.
+
+630
+00:26:27,760 --> 00:26:28,460
+SPK_0: Into the fabric.
+
+631
+00:26:28,520 --> 00:26:29,220
+SPK_0: Of how we navigate.
+
+632
+00:26:29,340 --> 00:26:29,720
+SPK_0: The dynamics.
+
+633
+00:26:29,900 --> 00:26:30,360
+SPK_0: Of civilization.
+
+634
+00:26:30,660 --> 00:26:31,040
+SPK_0: Civilizations.
+
+635
+00:26:31,040 --> 00:26:31,300
+SPK_0: Rise.
+
+636
+00:26:31,400 --> 00:26:31,720
+SPK_0: And fall.
+
+637
+00:26:32,180 --> 00:26:32,800
+SPK_0: The fall.
+
+638
+00:26:33,460 --> 00:26:34,140
+SPK_0: Clears out.
+
+639
+00:26:34,220 --> 00:26:34,660
+SPK_0: A lot.
+
+640
+00:26:34,680 --> 00:26:35,080
+SPK_0: Of stuff.
+
+641
+00:26:35,840 --> 00:26:36,600
+SPK_0: A collapse.
+
+642
+00:26:36,700 --> 00:26:37,080
+SPK_0: Makes.
+
+643
+00:26:37,120 --> 00:26:37,360
+SPK_0: New.
+
+644
+00:26:37,700 --> 00:26:38,080
+SPK_0: Possibility.
+
+645
+00:26:38,360 --> 00:26:38,580
+SPK_0: You know.
+
+646
+00:26:38,600 --> 00:26:38,720
+SPK_0: So.
+
+647
+00:26:38,780 --> 00:26:39,260
+SPK_0: The classic.
+
+648
+00:26:39,260 --> 00:26:40,080
+SPK_0: This is now.
+
+649
+00:26:40,140 --> 00:26:40,320
+SPK_0: A birth.
+
+650
+00:26:40,360 --> 00:26:40,500
+SPK_0: Death.
+
+651
+00:26:40,660 --> 00:26:40,940
+SPK_0: Cycle.
+
+652
+00:26:40,980 --> 00:26:41,260
+SPK_0: Dynamic.
+
+653
+00:26:43,580 --> 00:26:43,860
+SPK_1: Flood.
+
+654
+00:26:43,860 --> 00:26:44,120
+SPK_1: Washes.
+
+655
+00:26:44,180 --> 00:26:44,400
+SPK_1: Away.
+
+656
+00:26:44,480 --> 00:26:44,800
+SPK_1: The old.
+
+657
+00:26:45,540 --> 00:26:46,060
+SPK_0: The flood.
+
+658
+00:26:46,120 --> 00:26:46,400
+SPK_0: Washes.
+
+659
+00:26:46,460 --> 00:26:46,620
+SPK_0: It.
+
+660
+00:26:46,620 --> 00:26:46,720
+SPK_0: Away.
+
+661
+00:26:46,820 --> 00:26:46,980
+SPK_0: Which.
+
+662
+00:26:46,980 --> 00:26:47,160
+SPK_0: Yeah.
+
+663
+00:26:47,280 --> 00:26:47,560
+SPK_1: Yeah.
+
+664
+00:26:49,420 --> 00:26:49,580
+SPK_0: Then.
+
+665
+00:26:49,620 --> 00:26:49,880
+SPK_0: The other.
+
+666
+00:26:49,920 --> 00:26:50,160
+SPK_0: Piece.
+
+667
+00:26:50,240 --> 00:26:50,440
+SPK_0: Which.
+
+668
+00:26:50,500 --> 00:26:50,560
+SPK_0: Is.
+
+669
+00:26:50,600 --> 00:26:50,800
+SPK_0: This.
+
+670
+00:26:51,960 --> 00:26:52,400
+SPK_0: We have.
+
+671
+00:26:52,460 --> 00:26:52,700
+SPK_0: Never.
+
+672
+00:26:52,820 --> 00:26:53,100
+SPK_0: Once.
+
+673
+00:26:53,100 --> 00:26:53,220
+SPK_0: In.
+
+674
+00:26:53,240 --> 00:26:53,500
+SPK_0: The human.
+
+675
+00:26:53,600 --> 00:26:53,880
+SPK_0: History.
+
+676
+00:26:53,940 --> 00:26:54,200
+SPK_0: Had.
+
+677
+00:27:09,440 --> 00:27:09,680
+SPK_0: Liberalism.
+
+678
+00:27:09,760 --> 00:27:09,900
+SPK_0: And.
+
+679
+00:27:10,040 --> 00:27:10,060
+SPK_0: By.
+
+680
+00:27:10,120 --> 00:27:10,160
+SPK_0: The.
+
+681
+00:27:10,180 --> 00:27:10,260
+SPK_0: Way.
+
+682
+00:27:10,300 --> 00:27:10,360
+SPK_0: A.
+
+683
+00:27:10,440 --> 00:27:10,500
+SPK_0: Russian.
+
+684
+00:27:10,820 --> 00:27:11,060
+SPK_0: Civilization.
+
+685
+00:27:11,140 --> 00:27:11,260
+SPK_0: Is.
+
+686
+00:27:11,400 --> 00:27:11,640
+SPK_0: Bursting.
+
+687
+00:27:11,720 --> 00:27:11,960
+SPK_0: Forth.
+
+688
+00:27:11,960 --> 00:27:12,020
+SPK_0: An.
+
+689
+00:27:12,120 --> 00:27:12,280
+SPK_0: Indian.
+
+690
+00:27:12,540 --> 00:27:12,780
+SPK_0: Civilization.
+
+691
+00:27:12,880 --> 00:27:12,980
+SPK_0: Is.
+
+692
+00:27:13,040 --> 00:27:13,280
+SPK_0: Bursting.
+
+693
+00:27:13,320 --> 00:27:13,560
+SPK_0: Forth.
+
+694
+00:27:13,760 --> 00:27:14,000
+SPK_0: Which.
+
+695
+00:27:14,080 --> 00:27:14,160
+SPK_0: Are.
+
+696
+00:27:14,300 --> 00:27:14,380
+SPK_0: All.
+
+697
+00:27:14,600 --> 00:27:14,840
+SPK_0: Actually.
+
+698
+00:27:15,420 --> 00:27:15,660
+SPK_0: Real.
+
+699
+00:27:15,900 --> 00:27:16,140
+SPK_0: Independent.
+
+700
+00:27:16,540 --> 00:27:16,780
+SPK_0: Civilization.
+
+701
+00:27:17,080 --> 00:27:17,320
+SPK_0: Structures.
+
+702
+00:27:18,300 --> 00:27:18,540
+SPK_0: There.
+
+703
+00:27:18,660 --> 00:27:18,780
+SPK_0: Is.
+
+704
+00:27:18,780 --> 00:27:18,980
+SPK_0: Something.
+
+705
+00:27:19,060 --> 00:27:19,260
+SPK_0: About.
+
+706
+00:27:19,260 --> 00:27:19,420
+SPK_0: What.
+
+707
+00:27:19,760 --> 00:27:20,000
+SPK_0: Happened.
+
+708
+00:27:20,020 --> 00:27:20,160
+SPK_0: In.
+
+709
+00:27:20,220 --> 00:27:20,240
+SPK_0: The.
+
+710
+00:27:20,540 --> 00:27:20,780
+SPK_0: 20th.
+
+711
+00:27:20,840 --> 00:27:21,060
+SPK_0: Century.
+
+712
+00:27:21,140 --> 00:27:21,220
+SPK_0: In.
+
+713
+00:27:21,220 --> 00:27:21,260
+SPK_0: The.
+
+714
+00:27:21,300 --> 00:27:21,340
+SPK_0: Early.
+
+715
+00:27:21,700 --> 00:27:21,940
+SPK_0: 21st.
+
+716
+00:27:21,960 --> 00:27:22,080
+SPK_0: Where.
+
+717
+00:27:22,180 --> 00:27:22,340
+SPK_0: Everything.
+
+718
+00:27:22,500 --> 00:27:22,740
+SPK_0: Became.
+
+719
+00:27:23,060 --> 00:27:23,300
+SPK_0: Entangled.
+
+720
+00:27:23,380 --> 00:27:23,500
+SPK_0: In.
+
+721
+00:27:23,520 --> 00:27:23,700
+SPK_0: Such.
+
+722
+00:27:23,740 --> 00:27:23,880
+SPK_0: A.
+
+723
+00:27:23,920 --> 00:27:24,060
+SPK_0: Deep.
+
+724
+00:27:24,240 --> 00:27:24,480
+SPK_0: Way.
+
+725
+00:27:25,060 --> 00:27:25,300
+SPK_0: That.
+
+726
+00:27:25,340 --> 00:27:25,440
+SPK_0: The.
+
+727
+00:27:25,780 --> 00:27:26,020
+SPK_0: Collapse.
+
+728
+00:27:26,340 --> 00:27:26,580
+SPK_0: Of.
+
+729
+00:27:26,740 --> 00:27:26,960
+SPK_0: That.
+
+730
+00:27:27,320 --> 00:27:27,560
+SPK_0: Civilization.
+
+731
+00:27:27,860 --> 00:27:28,100
+SPK_0: Structure.
+
+732
+00:27:28,380 --> 00:27:28,620
+SPK_0: And.
+
+733
+00:27:43,080 --> 00:27:43,320
+SPK_1: This.
+
+734
+00:27:43,320 --> 00:27:43,460
+SPK_1: Was.
+
+735
+00:27:45,140 --> 00:27:45,320
+SPK_0: The.
+
+736
+00:27:45,380 --> 00:27:45,520
+SPK_0: Bronze.
+
+737
+00:27:45,540 --> 00:27:45,660
+SPK_0: Age.
+
+738
+00:27:45,740 --> 00:27:45,940
+SPK_0: Collapse.
+
+739
+00:27:46,000 --> 00:27:46,100
+SPK_0: Is.
+
+740
+00:27:46,160 --> 00:27:46,220
+SPK_0: The.
+
+741
+00:27:46,260 --> 00:27:46,380
+SPK_0: Best.
+
+742
+00:27:46,380 --> 00:27:46,520
+SPK_0: One.
+
+743
+00:27:46,540 --> 00:27:46,580
+SPK_0: Of.
+
+744
+00:27:46,620 --> 00:27:46,680
+SPK_0: The.
+
+745
+00:27:46,720 --> 00:27:46,820
+SPK_0: Better.
+
+746
+00:27:47,160 --> 00:27:47,360
+SPK_0: Mappings.
+
+747
+00:27:48,080 --> 00:27:48,280
+SPK_0: And.
+
+748
+00:27:48,620 --> 00:27:48,820
+SPK_0: The.
+
+749
+00:27:49,120 --> 00:27:49,320
+SPK_0: Height.
+
+750
+00:27:49,360 --> 00:27:49,540
+SPK_0: From.
+
+751
+00:27:49,700 --> 00:27:49,900
+SPK_0: Which.
+
+752
+00:27:49,940 --> 00:27:50,100
+SPK_0: We.
+
+753
+00:27:50,200 --> 00:27:50,300
+SPK_0: Will.
+
+754
+00:27:50,460 --> 00:27:50,660
+SPK_0: Fall.
+
+755
+00:27:51,100 --> 00:27:51,300
+SPK_0: There's.
+
+756
+00:27:51,360 --> 00:27:51,440
+SPK_0: The.
+
+757
+00:27:51,580 --> 00:27:51,720
+SPK_0: Height.
+
+758
+00:27:51,760 --> 00:27:51,820
+SPK_0: Of.
+
+759
+00:27:51,860 --> 00:27:51,940
+SPK_0: That.
+
+760
+00:27:52,180 --> 00:27:52,380
+SPK_0: Platform.
+
+761
+00:27:53,120 --> 00:27:53,320
+SPK_0: Is.
+
+762
+00:27:53,760 --> 00:27:54,080
+SPK_0: Wildly.
+
+763
+00:27:54,140 --> 00:27:54,460
+SPK_0: Unique.
+
+764
+00:27:54,520 --> 00:27:54,840
+SPK_0: And.
+
+765
+00:27:54,920 --> 00:27:54,960
+SPK_0: We're.
+
+766
+00:27:55,060 --> 00:27:55,200
+SPK_0: So.
+
+767
+00:27:55,280 --> 00:27:55,500
+SPK_0: Much.
+
+768
+00:27:55,520 --> 00:27:55,820
+SPK_0: Further.
+
+769
+00:27:55,940 --> 00:27:56,160
+SPK_0: Away.
+
+770
+00:27:56,260 --> 00:27:56,440
+SPK_0: From.
+
+771
+00:27:56,480 --> 00:27:56,660
+SPK_0: A.
+
+772
+00:27:57,140 --> 00:27:57,460
+SPK_0: Substrate.
+
+773
+00:27:57,540 --> 00:27:57,800
+SPK_0: Level.
+
+774
+00:27:57,960 --> 00:27:58,280
+SPK_0: Of.
+
+775
+00:27:58,300 --> 00:27:58,580
+SPK_0: Human.
+
+776
+00:27:58,740 --> 00:27:59,060
+SPK_0: Endeavor.
+
+777
+00:27:59,340 --> 00:27:59,660
+SPK_0: Than.
+
+778
+00:27:59,740 --> 00:27:59,960
+SPK_0: Ever.
+
+779
+00:28:00,040 --> 00:28:00,300
+SPK_0: Before.
+
+780
+00:28:00,640 --> 00:28:00,960
+SPK_0: That.
+
+781
+00:28:01,060 --> 00:28:01,200
+SPK_0: A.
+
+782
+00:28:01,300 --> 00:28:01,620
+SPK_0: Fall.
+
+783
+00:28:01,800 --> 00:28:02,020
+SPK_0: Of.
+
+784
+00:28:02,040 --> 00:28:02,240
+SPK_0: Any.
+
+785
+00:28:02,340 --> 00:28:02,660
+SPK_0: Anything.
+
+786
+00:28:02,820 --> 00:28:03,100
+SPK_0: Vague.
+
+787
+00:28:03,180 --> 00:28:03,340
+SPK_0: Like.
+
+788
+00:28:03,400 --> 00:28:03,480
+SPK_0: A.
+
+789
+00:28:18,280 --> 00:28:18,600
+SPK_0: Bronze.
+
+790
+00:28:18,600 --> 00:28:18,740
+SPK_0: Age.
+
+791
+00:28:18,740 --> 00:28:18,820
+SPK_0: Just.
+
+792
+00:28:18,860 --> 00:28:19,060
+SPK_0: Continue.
+
+793
+00:28:19,160 --> 00:28:19,220
+SPK_0: To.
+
+794
+00:28:19,240 --> 00:28:19,420
+SPK_0: Break.
+
+795
+00:28:19,880 --> 00:28:20,080
+SPK_0: Particularly.
+
+796
+00:28:20,200 --> 00:28:20,400
+SPK_0: Given.
+
+797
+00:28:20,420 --> 00:28:20,540
+SPK_0: How.
+
+798
+00:28:20,620 --> 00:28:20,740
+SPK_0: People.
+
+799
+00:28:20,960 --> 00:28:21,160
+SPK_0: Tend.
+
+800
+00:28:21,220 --> 00:28:21,260
+SPK_0: To.
+
+801
+00:28:21,320 --> 00:28:21,520
+SPK_0: Behave.
+
+802
+00:28:21,520 --> 00:28:21,700
+SPK_0: When.
+
+803
+00:28:21,740 --> 00:28:21,900
+SPK_0: Big.
+
+804
+00:28:22,120 --> 00:28:22,320
+SPK_0: Collapses.
+
+805
+00:28:22,340 --> 00:28:22,540
+SPK_0: Tend.
+
+806
+00:28:22,580 --> 00:28:22,660
+SPK_0: To.
+
+807
+00:28:22,680 --> 00:28:22,880
+SPK_0: Occur.
+
+808
+00:28:24,740 --> 00:28:24,940
+SPK_0: But.
+
+809
+00:28:25,280 --> 00:28:25,480
+SPK_0: So.
+
+810
+00:28:25,600 --> 00:28:25,700
+SPK_0: Here's.
+
+811
+00:28:25,780 --> 00:28:25,820
+SPK_0: The.
+
+812
+00:28:25,900 --> 00:28:26,020
+SPK_0: Last.
+
+813
+00:28:26,080 --> 00:28:26,280
+SPK_0: Piece.
+
+814
+00:28:26,340 --> 00:28:26,460
+SPK_0: That.
+
+815
+00:28:26,540 --> 00:28:26,680
+SPK_0: We.
+
+816
+00:28:26,720 --> 00:28:26,740
+SPK_0: Can.
+
+817
+00:28:26,840 --> 00:28:26,920
+SPK_0: Really.
+
+818
+00:28:26,980 --> 00:28:27,120
+SPK_0: Move.
+
+819
+00:28:27,400 --> 00:28:27,600
+SPK_0: But.
+
+820
+00:28:28,060 --> 00:28:28,280
+SPK_0: Here's.
+
+821
+00:28:28,320 --> 00:28:28,380
+SPK_0: My.
+
+822
+00:28:28,620 --> 00:28:28,840
+SPK_0: Proposition.
+
+823
+00:28:29,980 --> 00:28:30,420
+SPK_0: I am.
+
+824
+00:28:30,540 --> 00:28:30,760
+SPK_0: I'm.
+
+825
+00:28:31,060 --> 00:28:31,280
+SPK_0: Reasonably.
+
+826
+00:28:31,460 --> 00:28:31,680
+SPK_0: Convinced.
+
+827
+00:28:31,860 --> 00:28:32,080
+SPK_0: Call.
+
+828
+00:28:32,180 --> 00:28:32,260
+SPK_0: It.
+
+829
+00:28:32,280 --> 00:28:32,400
+SPK_0: Like.
+
+830
+00:28:32,980 --> 00:28:33,200
+SPK_0: 90%.
+
+831
+00:28:33,580 --> 00:28:33,800
+SPK_0: Confident.
+
+832
+00:28:34,680 --> 00:28:34,900
+SPK_0: That.
+
+833
+00:28:34,960 --> 00:28:35,060
+SPK_0: We're.
+
+834
+00:28:35,120 --> 00:28:35,240
+SPK_0: No.
+
+835
+00:28:35,560 --> 00:28:35,780
+SPK_0: Longer.
+
+836
+00:28:35,900 --> 00:28:36,120
+SPK_0: Actually.
+
+837
+00:28:36,200 --> 00:28:36,380
+SPK_0: Even.
+
+838
+00:28:36,420 --> 00:28:36,600
+SPK_0: Just.
+
+839
+00:28:36,780 --> 00:28:37,000
+SPK_0: Dealing.
+
+840
+00:28:37,100 --> 00:28:37,320
+SPK_0: With.
+
+841
+00:28:37,380 --> 00:28:37,540
+SPK_0: A.
+
+842
+00:28:37,660 --> 00:28:37,880
+SPK_0: Given.
+
+843
+00:28:37,920 --> 00:28:38,120
+SPK_0: S.
+
+844
+00:28:38,280 --> 00:28:38,500
+SPK_0: Curve.
+
+845
+00:28:39,640 --> 00:28:39,860
+SPK_0: But.
+
+846
+00:28:39,980 --> 00:28:40,080
+SPK_0: With.
+
+847
+00:28:40,140 --> 00:28:40,240
+SPK_0: The.
+
+848
+00:28:53,420 --> 00:28:53,640
+SPK_0: Mother.
+
+849
+00:28:53,640 --> 00:28:53,940
+SPK_0: Retaining.
+
+850
+00:28:54,160 --> 00:28:54,360
+SPK_0: Over.
+
+851
+00:28:54,420 --> 00:28:54,600
+SPK_0: A.
+
+852
+00:28:54,720 --> 00:28:54,820
+SPK_0: Long.
+
+853
+00:28:55,120 --> 00:28:55,320
+SPK_0: Hall.
+
+854
+00:28:55,440 --> 00:28:55,600
+SPK_0: Through.
+
+855
+00:28:55,660 --> 00:28:55,720
+SPK_0: A.
+
+856
+00:28:55,980 --> 00:28:56,180
+SPK_0: Variety.
+
+857
+00:28:56,200 --> 00:28:56,320
+SPK_0: Of.
+
+858
+00:28:56,340 --> 00:28:56,500
+SPK_0: Different.
+
+859
+00:28:56,960 --> 00:28:57,160
+SPK_0: Substrates.
+
+860
+00:28:57,560 --> 00:28:57,760
+SPK_0: Its.
+
+861
+00:28:57,940 --> 00:28:58,140
+SPK_0: Own.
+
+862
+00:28:58,540 --> 00:28:58,740
+SPK_0: Movement.
+
+863
+00:28:59,420 --> 00:28:59,620
+SPK_0: And.
+
+864
+00:28:59,700 --> 00:28:59,800
+SPK_0: We're.
+
+865
+00:28:59,900 --> 00:28:59,980
+SPK_0: Not.
+
+866
+00:29:00,220 --> 00:29:00,420
+SPK_0: Reaching.
+
+867
+00:29:00,460 --> 00:29:00,580
+SPK_0: The.
+
+868
+00:29:00,620 --> 00:29:00,680
+SPK_0: End.
+
+869
+00:29:00,720 --> 00:29:00,780
+SPK_0: Of.
+
+870
+00:29:00,820 --> 00:29:00,880
+SPK_0: A.
+
+871
+00:29:00,960 --> 00:29:01,160
+SPK_0: Given.
+
+872
+00:29:01,620 --> 00:29:01,820
+SPK_0: Civilization.
+
+873
+00:29:01,900 --> 00:29:02,020
+SPK_0: But.
+
+874
+00:29:02,060 --> 00:29:02,260
+SPK_0: Rather.
+
+875
+00:29:02,400 --> 00:29:02,600
+SPK_0: Reaching.
+
+876
+00:29:02,620 --> 00:29:02,760
+SPK_0: The.
+
+877
+00:29:02,800 --> 00:29:02,920
+SPK_0: End.
+
+878
+00:29:02,920 --> 00:29:03,040
+SPK_0: Of.
+
+879
+00:29:03,500 --> 00:29:03,780
+SPK_0: Civilization.
+
+880
+00:29:03,880 --> 00:29:04,120
+SPK_0: Itself.
+
+881
+00:29:04,320 --> 00:29:04,600
+SPK_0: As.
+
+882
+00:29:04,640 --> 00:29:04,740
+SPK_0: A.
+
+883
+00:29:04,760 --> 00:29:04,940
+SPK_0: Form.
+
+884
+00:29:06,520 --> 00:29:06,800
+SPK_1: Okay.
+
+885
+00:29:07,540 --> 00:29:07,820
+SPK_1: Then.
+
+886
+00:29:08,820 --> 00:29:09,100
+SPK_1: Just.
+
+887
+00:29:09,480 --> 00:29:09,760
+SPK_1: Straightforward.
+
+888
+00:29:10,460 --> 00:29:10,740
+SPK_1: Well.
+
+889
+00:29:10,840 --> 00:29:10,920
+SPK_1: Let's.
+
+890
+00:29:11,040 --> 00:29:11,320
+SPK_1: Let's.
+
+891
+00:29:11,340 --> 00:29:11,480
+SPK_1: Dive.
+
+892
+00:29:11,540 --> 00:29:11,740
+SPK_1: Into.
+
+893
+00:29:11,760 --> 00:29:11,900
+SPK_1: It.
+
+894
+00:29:11,900 --> 00:29:12,140
+SPK_1: Because.
+
+895
+00:29:12,200 --> 00:29:12,380
+SPK_1: I.
+
+896
+00:29:12,440 --> 00:29:12,540
+SPK_1: Think.
+
+897
+00:29:12,600 --> 00:29:12,860
+SPK_1: You.
+
+898
+00:29:12,940 --> 00:29:13,100
+SPK_1: Have.
+
+899
+00:29:13,240 --> 00:29:13,340
+SPK_1: To.
+
+900
+00:29:13,400 --> 00:29:13,580
+SPK_1: Explain.
+
+901
+00:29:13,740 --> 00:29:13,940
+SPK_1: Now.
+
+902
+00:29:14,120 --> 00:29:14,400
+SPK_1: What.
+
+903
+00:29:14,500 --> 00:29:14,540
+SPK_1: Do.
+
+904
+00:29:14,660 --> 00:29:14,800
+SPK_1: You.
+
+905
+00:29:14,840 --> 00:29:15,040
+SPK_1: Mean.
+
+906
+00:29:15,100 --> 00:29:15,380
+SPK_1: That.
+
+907
+00:29:15,720 --> 00:29:16,000
+SPK_1: Civilization.
+
+908
+00:29:32,940 --> 00:29:33,220
+SPK_1: I.
+
+909
+00:29:33,460 --> 00:29:33,740
+SPK_1: Love.
+
+910
+00:29:33,820 --> 00:29:33,900
+SPK_1: You.
+
+911
+00:29:33,940 --> 00:29:34,000
+SPK_1: To.
+
+912
+00:29:34,060 --> 00:29:34,240
+SPK_1: Answers.
+
+913
+00:29:34,280 --> 00:29:34,440
+SPK_1: And.
+
+914
+00:29:34,980 --> 00:29:35,260
+SPK_1: Highlight.
+
+915
+00:29:35,280 --> 00:29:35,480
+SPK_1: Two.
+
+916
+00:29:35,520 --> 00:29:35,800
+SPK_1: Questions.
+
+917
+00:29:35,880 --> 00:29:36,080
+SPK_1: So.
+
+918
+00:29:36,100 --> 00:29:36,280
+SPK_1: Why.
+
+919
+00:29:36,340 --> 00:29:36,440
+SPK_1: The.
+
+920
+00:29:36,540 --> 00:29:36,740
+SPK_1: City.
+
+921
+00:29:36,820 --> 00:29:37,020
+SPK_1: Is.
+
+922
+00:29:37,040 --> 00:29:37,140
+SPK_1: The.
+
+923
+00:29:37,700 --> 00:29:37,980
+SPK_1: Core.
+
+924
+00:29:38,200 --> 00:29:38,480
+SPK_1: Driver.
+
+925
+00:29:38,600 --> 00:29:38,880
+SPK_1: Of.
+
+926
+00:29:39,140 --> 00:29:39,420
+SPK_1: Civilization.
+
+927
+00:29:39,740 --> 00:29:40,020
+SPK_1: What.
+
+928
+00:29:40,160 --> 00:29:40,420
+SPK_1: Is.
+
+929
+00:29:40,500 --> 00:29:40,680
+SPK_1: So.
+
+930
+00:29:40,920 --> 00:29:41,200
+SPK_1: Important.
+
+931
+00:29:41,340 --> 00:29:41,520
+SPK_1: About.
+
+932
+00:29:41,620 --> 00:29:41,760
+SPK_1: The.
+
+933
+00:29:41,800 --> 00:29:42,040
+SPK_1: City.
+
+934
+00:29:42,500 --> 00:29:42,780
+SPK_1: And.
+
+935
+00:29:43,160 --> 00:29:43,440
+SPK_1: Why.
+
+936
+00:29:43,440 --> 00:29:43,540
+SPK_1: Is.
+
+937
+00:29:43,680 --> 00:29:43,700
+SPK_1: This.
+
+938
+00:29:43,780 --> 00:29:43,900
+SPK_1: Breaking.
+
+939
+00:29:44,040 --> 00:29:44,260
+SPK_1: Down.
+
+940
+00:29:55,280 --> 00:29:55,760
+SPK_0: All.
+
+941
+00:29:55,780 --> 00:29:55,960
+SPK_0: Right.
+
+942
+00:29:56,500 --> 00:29:56,980
+SPK_0: I.
+
+943
+00:29:56,980 --> 00:29:57,460
+SPK_0: Am.
+
+944
+00:29:57,460 --> 00:29:57,740
+SPK_0: Going.
+
+945
+00:29:57,740 --> 00:29:57,760
+SPK_0: To.
+
+946
+00:29:57,820 --> 00:29:58,300
+SPK_0: Assume.
+
+947
+00:29:58,620 --> 00:29:59,100
+SPK_0: Now.
+
+948
+00:29:59,100 --> 00:29:59,400
+SPK_0: That.
+
+949
+00:29:59,920 --> 00:30:00,400
+SPK_0: You.
+
+950
+00:30:00,400 --> 00:30:00,640
+SPK_0: Your.
+
+951
+00:30:00,640 --> 00:30:01,000
+SPK_0: Audience.
+
+952
+00:30:01,240 --> 00:30:01,720
+SPK_0: Because.
+
+953
+00:30:01,800 --> 00:30:02,040
+SPK_0: This.
+
+954
+00:30:02,040 --> 00:30:02,520
+SPK_0: Is.
+
+955
+00:30:02,700 --> 00:30:03,180
+SPK_0: We're.
+
+956
+00:30:03,180 --> 00:30:03,560
+SPK_0: Going.
+
+957
+00:30:03,560 --> 00:30:03,800
+SPK_0: Deep.
+
+958
+00:30:03,800 --> 00:30:04,180
+SPK_0: Great.
+
+959
+00:30:12,740 --> 00:30:13,220
+SPK_0: Love.
+
+960
+00:30:13,520 --> 00:30:13,760
+SPK_0: Which.
+
+961
+00:30:13,820 --> 00:30:13,880
+SPK_0: I'm.
+
+962
+00:30:14,000 --> 00:30:14,040
+SPK_0: Going.
+
+963
+00:30:14,160 --> 00:30:14,200
+SPK_0: To.
+
+964
+00:30:14,240 --> 00:30:14,400
+SPK_0: Hopefully.
+
+965
+00:30:14,720 --> 00:30:14,960
+SPK_0: Enrich.
+
+966
+00:30:14,960 --> 00:30:15,140
+SPK_0: That.
+
+967
+00:30:15,320 --> 00:30:15,560
+SPK_0: Thinking.
+
+968
+00:30:16,700 --> 00:30:16,940
+SPK_0: And.
+
+969
+00:30:17,080 --> 00:30:17,320
+SPK_0: Most.
+
+970
+00:30:17,460 --> 00:30:17,700
+SPK_0: Recently.
+
+971
+00:30:17,780 --> 00:30:17,900
+SPK_0: The.
+
+972
+00:30:17,960 --> 00:30:18,180
+SPK_0: Nation.
+
+973
+00:30:18,280 --> 00:30:18,360
+SPK_0: Of.
+
+974
+00:30:18,800 --> 00:30:19,040
+SPK_0: Western.
+
+975
+00:30:19,500 --> 00:30:19,740
+SPK_0: Civilization.
+
+976
+00:30:20,020 --> 00:30:20,260
+SPK_0: And.
+
+977
+00:30:20,440 --> 00:30:20,680
+SPK_0: Christian.
+
+978
+00:30:21,000 --> 00:30:21,240
+SPK_0: Okay.
+
+979
+00:30:21,980 --> 00:30:22,220
+SPK_0: So.
+
+980
+00:30:24,940 --> 00:30:25,180
+SPK_0: What.
+
+981
+00:30:25,220 --> 00:30:25,460
+SPK_0: Do.
+
+982
+00:30:25,560 --> 00:30:25,620
+SPK_0: I.
+
+983
+00:30:25,640 --> 00:30:25,780
+SPK_0: Mean.
+
+984
+00:30:25,840 --> 00:30:25,940
+SPK_0: By.
+
+985
+00:30:26,260 --> 00:30:26,500
+SPK_0: Civilization.
+
+986
+00:30:26,700 --> 00:30:26,940
+SPK_0: There's.
+
+987
+00:30:26,980 --> 00:30:27,020
+SPK_0: A.
+
+988
+00:30:43,800 --> 00:30:44,040
+SPK_0: Lot.
+
+989
+00:30:45,600 --> 00:30:45,860
+SPK_0: Of.
+
+990
+00:30:46,780 --> 00:30:47,000
+SPK_0: Phenomena.
+
+991
+00:30:47,660 --> 00:30:47,920
+SPK_0: So.
+
+992
+00:30:48,060 --> 00:30:48,120
+SPK_0: If.
+
+993
+00:30:48,300 --> 00:30:48,340
+SPK_0: Take.
+
+994
+00:30:48,420 --> 00:30:48,480
+SPK_0: A.
+
+995
+00:30:48,540 --> 00:30:48,620
+SPK_0: Look.
+
+996
+00:30:48,700 --> 00:30:48,780
+SPK_0: At.
+
+997
+00:30:48,820 --> 00:30:48,880
+SPK_0: The.
+
+998
+00:30:49,060 --> 00:30:49,180
+SPK_0: That.
+
+999
+00:30:49,500 --> 00:30:49,760
+SPK_0: Natural.
+
+1000
+00:30:49,880 --> 00:30:50,140
+SPK_0: Phenomena.
+
+1001
+00:30:50,280 --> 00:30:50,480
+SPK_0: Look.
+
+1002
+00:30:51,060 --> 00:30:51,320
+SPK_0: There's.
+
+1003
+00:30:51,400 --> 00:30:51,640
+SPK_0: Roughly.
+
+1004
+00:30:51,700 --> 00:30:51,900
+SPK_0: Two.
+
+1005
+00:30:52,520 --> 00:30:52,780
+SPK_0: Classes.
+
+1006
+00:30:53,500 --> 00:30:53,760
+SPK_0: There.
+
+1007
+00:30:53,980 --> 00:30:54,240
+SPK_0: Are.
+
+1008
+00:30:54,800 --> 00:30:55,060
+SPK_0: Natural.
+
+1009
+00:30:55,220 --> 00:30:55,440
+SPK_0: Phenomena.
+
+1010
+00:30:55,600 --> 00:30:55,780
+SPK_0: That.
+
+1011
+00:30:55,820 --> 00:30:55,880
+SPK_0: Are.
+
+1012
+00:30:55,980 --> 00:30:56,240
+SPK_0: Governed.
+
+1013
+00:30:56,280 --> 00:30:56,540
+SPK_0: By.
+
+1014
+00:30:56,560 --> 00:30:56,820
+SPK_0: The.
+
+1015
+00:30:57,440 --> 00:30:57,720
+SPK_0: Laws.
+
+1016
+00:30:57,720 --> 00:30:57,780
+SPK_0: Of.
+
+1017
+00:30:57,960 --> 00:30:58,240
+SPK_0: Thermodynamics.
+
+1018
+00:30:58,600 --> 00:30:58,880
+SPK_0: Like.
+
+1019
+00:30:59,840 --> 00:31:00,120
+SPK_0: Sands.
+
+1020
+00:31:00,140 --> 00:31:00,280
+SPK_0: From.
+
+1021
+00:31:00,340 --> 00:31:00,400
+SPK_0: An.
+
+1022
+00:31:00,460 --> 00:31:00,740
+SPK_0: Hourglass.
+
+1023
+00:31:01,040 --> 00:31:01,300
+SPK_0: Or.
+
+1024
+00:31:01,360 --> 00:31:01,500
+SPK_0: The.
+
+1025
+00:31:01,540 --> 00:31:01,800
+SPK_0: Freezing.
+
+1026
+00:31:01,860 --> 00:31:01,980
+SPK_0: Of.
+
+1027
+00:31:02,040 --> 00:31:02,300
+SPK_0: Water.
+
+1028
+00:31:03,360 --> 00:31:03,640
+SPK_0: Largely.
+
+1029
+00:31:03,700 --> 00:31:03,800
+SPK_0: The.
+
+1030
+00:31:03,940 --> 00:31:04,220
+SPK_0: Dissipation.
+
+1031
+00:31:04,240 --> 00:31:04,380
+SPK_0: Of.
+
+1032
+00:31:04,420 --> 00:31:04,640
+SPK_0: Energy.
+
+1033
+00:31:04,760 --> 00:31:05,040
+SPK_0: Against.
+
+1034
+00:31:05,120 --> 00:31:05,280
+SPK_0: Some.
+
+1035
+00:31:05,300 --> 00:31:05,580
+SPK_0: Particular.
+
+1036
+00:31:05,800 --> 00:31:06,080
+SPK_0: Radiant.
+
+1037
+00:31:06,660 --> 00:31:06,940
+SPK_0: Or.
+
+1038
+00:31:07,200 --> 00:31:07,480
+SPK_0: Stochastic.
+
+1039
+00:31:09,000 --> 00:31:09,280
+SPK_0: Just.
+
+1040
+00:31:09,440 --> 00:31:09,720
+SPK_0: Chance.
+
+1041
+00:31:10,260 --> 00:31:10,540
+SPK_0: Basic.
+
+1042
+00:31:11,100 --> 00:31:11,380
+SPK_0: Curves.
+
+1043
+00:31:13,420 --> 00:31:13,700
+SPK_0: The.
+
+1044
+00:31:13,700 --> 00:31:13,780
+SPK_0: Cool.
+
+1045
+00:31:13,940 --> 00:31:14,060
+SPK_0: The.
+
+1046
+00:31:14,260 --> 00:31:14,380
+SPK_0: That.
+
+1047
+00:31:14,680 --> 00:31:14,880
+SPK_0: Magma.
+
+1048
+00:31:15,080 --> 00:31:15,280
+SPK_0: Cools.
+
+1049
+00:31:15,280 --> 00:31:15,320
+SPK_0: And.
+
+1050
+00:31:15,440 --> 00:31:15,640
+SPK_0: Forms.
+
+1051
+00:31:15,760 --> 00:31:15,960
+SPK_0: Granite.
+
+1052
+00:31:16,000 --> 00:31:16,200
+SPK_0: If.
+
+1053
+00:31:16,280 --> 00:31:16,320
+SPK_0: This.
+
+1054
+00:31:16,400 --> 00:31:16,480
+SPK_0: Is.
+
+1055
+00:31:16,520 --> 00:31:16,620
+SPK_0: That.
+
+1056
+00:31:16,720 --> 00:31:16,920
+SPK_0: Kind.
+
+1057
+00:31:16,960 --> 00:31:17,000
+SPK_0: Of.
+
+1058
+00:31:17,100 --> 00:31:17,300
+SPK_0: Regime.
+
+1059
+00:31:18,880 --> 00:31:19,080
+SPK_0: The.
+
+1060
+00:31:19,180 --> 00:31:19,280
+SPK_0: Second.
+
+1061
+00:31:19,400 --> 00:31:19,600
+SPK_0: Regime.
+
+1062
+00:31:19,640 --> 00:31:19,720
+SPK_0: Is.
+
+1063
+00:31:19,780 --> 00:31:19,940
+SPK_0: Larger.
+
+1064
+00:31:20,000 --> 00:31:20,080
+SPK_0: The.
+
+1065
+00:31:20,120 --> 00:31:20,260
+SPK_0: Regime.
+
+1066
+00:31:20,320 --> 00:31:20,380
+SPK_0: Of.
+
+1067
+00:31:20,420 --> 00:31:20,540
+SPK_0: Life.
+
+1068
+00:31:21,080 --> 00:31:21,280
+SPK_0: And.
+
+1069
+00:31:21,380 --> 00:31:21,440
+SPK_0: The.
+
+1070
+00:31:21,500 --> 00:31:21,620
+SPK_0: Regime.
+
+1071
+00:31:21,680 --> 00:31:21,780
+SPK_0: Of.
+
+1072
+00:31:21,780 --> 00:31:21,920
+SPK_0: Life.
+
+1073
+00:31:22,000 --> 00:31:22,160
+SPK_0: Actually.
+
+1074
+00:31:22,220 --> 00:31:22,280
+SPK_0: Has.
+
+1075
+00:31:22,360 --> 00:31:22,400
+SPK_0: A.
+
+1076
+00:31:22,480 --> 00:31:22,500
+SPK_0: Very.
+
+1077
+00:31:22,640 --> 00:31:22,800
+SPK_0: Different.
+
+1078
+00:31:22,900 --> 00:31:23,040
+SPK_0: Set.
+
+1079
+00:31:23,080 --> 00:31:23,160
+SPK_0: Of.
+
+1080
+00:31:23,400 --> 00:31:23,560
+SPK_0: Curves.
+
+1081
+00:31:23,580 --> 00:31:23,720
+SPK_0: To.
+
+1082
+00:31:23,740 --> 00:31:23,900
+SPK_0: It.
+
+1083
+00:31:24,320 --> 00:31:24,480
+SPK_0: Behaves.
+
+1084
+00:31:24,720 --> 00:31:24,880
+SPK_0: Differently.
+
+1085
+00:31:24,900 --> 00:31:25,000
+SPK_0: If.
+
+1086
+00:31:25,200 --> 00:31:25,280
+SPK_0: Look.
+
+1087
+00:31:25,300 --> 00:31:25,340
+SPK_0: At.
+
+1088
+00:31:25,380 --> 00:31:25,460
+SPK_0: Say.
+
+1089
+00:31:25,540 --> 00:31:25,620
+SPK_0: For.
+
+1090
+00:31:25,860 --> 00:31:26,020
+SPK_0: Example.
+
+1091
+00:31:26,080 --> 00:31:26,240
+SPK_0: The.
+
+1092
+00:31:26,720 --> 00:31:26,880
+SPK_0: The.
+
+1093
+00:31:27,340 --> 00:31:27,500
+SPK_0: Relationship.
+
+1094
+00:31:27,860 --> 00:31:28,020
+SPK_0: Between.
+
+1095
+00:31:29,180 --> 00:31:29,340
+SPK_0: The.
+
+1096
+00:31:29,620 --> 00:31:29,780
+SPK_0: Mass.
+
+1097
+00:31:29,960 --> 00:31:30,120
+SPK_0: Of.
+
+1098
+00:31:30,180 --> 00:31:30,240
+SPK_0: An.
+
+1099
+00:31:30,440 --> 00:31:30,600
+SPK_1: Organism.
+
+1100
+00:31:31,020 --> 00:31:31,220
+SPK_0: Which.
+
+1101
+00:31:31,900 --> 00:31:32,100
+SPK_0: Roughly.
+
+1102
+00:31:32,380 --> 00:31:32,580
+SPK_0: Represents.
+
+1103
+00:31:32,600 --> 00:31:32,800
+SPK_0: The.
+
+1104
+00:31:32,860 --> 00:31:32,980
+SPK_0: Amount.
+
+1105
+00:31:33,060 --> 00:31:33,120
+SPK_0: Of.
+
+1106
+00:31:33,180 --> 00:31:33,380
+SPK_0: Matter.
+
+1107
+00:31:33,500 --> 00:31:33,700
+SPK_0: That.
+
+1108
+00:31:33,860 --> 00:31:34,060
+SPK_0: Is.
+
+1109
+00:31:34,180 --> 00:31:34,380
+SPK_0: In.
+
+1110
+00:31:34,480 --> 00:31:34,540
+SPK_0: The.
+
+1111
+00:31:34,740 --> 00:31:34,940
+SPK_0: Organism.
+
+1112
+00:31:35,780 --> 00:31:35,980
+SPK_0: And.
+
+1113
+00:31:36,120 --> 00:31:36,160
+SPK_0: The.
+
+1114
+00:31:36,740 --> 00:31:36,940
+SPK_0: Metabolism.
+
+1115
+00:31:37,100 --> 00:31:37,300
+SPK_0: Of.
+
+1116
+00:31:37,360 --> 00:31:37,420
+SPK_0: The.
+
+1117
+00:31:37,640 --> 00:31:37,840
+SPK_1: Organism.
+
+1118
+00:31:38,440 --> 00:31:38,640
+SPK_0: Which.
+
+1119
+00:31:38,920 --> 00:31:39,120
+SPK_0: Represents.
+
+1120
+00:31:39,160 --> 00:31:39,280
+SPK_0: The.
+
+1121
+00:31:39,340 --> 00:31:39,380
+SPK_0: Amount.
+
+1122
+00:31:39,460 --> 00:31:39,520
+SPK_0: Of.
+
+1123
+00:31:39,560 --> 00:31:39,660
+SPK_0: Energy.
+
+1124
+00:31:40,060 --> 00:31:40,260
+SPK_0: Process.
+
+1125
+00:31:40,480 --> 00:31:40,680
+SPK_0: Through.
+
+1126
+00:31:40,800 --> 00:31:41,000
+SPK_0: Put.
+
+1127
+00:31:41,100 --> 00:31:41,300
+SPK_0: That.
+
+1128
+00:31:41,320 --> 00:31:41,400
+SPK_0: The.
+
+1129
+00:31:41,400 --> 00:31:41,740
+SPK_0: Organism.
+
+1130
+00:31:42,040 --> 00:31:42,280
+SPK_0: Uses.
+
+1131
+00:31:43,700 --> 00:31:43,940
+SPK_0: There.
+
+1132
+00:31:44,080 --> 00:31:44,200
+SPK_0: Is.
+
+1133
+00:31:44,300 --> 00:31:44,540
+SPK_0: A.
+
+1134
+00:31:44,780 --> 00:31:45,020
+SPK_0: An.
+
+1135
+00:31:45,360 --> 00:31:45,600
+SPK_0: Asymptotic.
+
+1136
+00:31:45,800 --> 00:31:46,040
+SPK_0: Curve.
+
+1137
+00:31:46,580 --> 00:31:46,820
+SPK_0: As.
+
+1138
+00:31:47,300 --> 00:31:47,520
+SPK_0: You.
+
+1139
+00:31:47,600 --> 00:31:47,840
+SPK_0: Double.
+
+1140
+00:31:47,900 --> 00:31:48,060
+SPK_0: The.
+
+1141
+00:31:48,100 --> 00:31:48,340
+SPK_0: Mass.
+
+1142
+00:31:48,340 --> 00:31:48,520
+SPK_0: Of.
+
+1143
+00:31:48,620 --> 00:31:48,860
+SPK_0: An.
+
+1144
+00:31:48,960 --> 00:31:49,200
+SPK_0: Animal.
+
+1145
+00:31:49,660 --> 00:31:49,900
+SPK_0: You.
+
+1146
+00:31:50,040 --> 00:31:50,280
+SPK_0: Don't.
+
+1147
+00:31:50,280 --> 00:31:50,480
+SPK_0: Double.
+
+1148
+00:31:50,500 --> 00:31:50,620
+SPK_0: The.
+
+1149
+00:31:50,660 --> 00:31:50,780
+SPK_0: Amount.
+
+1150
+00:31:50,840 --> 00:31:50,900
+SPK_0: Of.
+
+1151
+00:31:51,120 --> 00:31:51,360
+SPK_0: Metabolism.
+
+1152
+00:31:51,380 --> 00:31:51,480
+SPK_0: You.
+
+1153
+00:31:51,780 --> 00:31:52,020
+SPK_0: Increase.
+
+1154
+00:31:52,080 --> 00:31:52,160
+SPK_0: The.
+
+1155
+00:31:52,180 --> 00:31:52,280
+SPK_0: Amount.
+
+1156
+00:31:52,300 --> 00:31:52,380
+SPK_0: Of.
+
+1157
+00:31:52,600 --> 00:31:52,840
+SPK_0: Metabolism.
+
+1158
+00:31:52,840 --> 00:31:53,060
+SPK_0: By.
+
+1159
+00:31:53,620 --> 00:31:53,840
+SPK_0: 85%.
+
+1160
+00:31:54,680 --> 00:31:54,900
+SPK_0: So.
+
+1161
+00:31:55,780 --> 00:31:56,000
+SPK_0: There's.
+
+1162
+00:31:56,000 --> 00:31:56,040
+SPK_0: A.
+
+1163
+00:31:56,140 --> 00:31:56,220
+SPK_0: It.
+
+1164
+00:31:56,340 --> 00:31:56,460
+SPK_0: Becomes.
+
+1165
+00:31:56,560 --> 00:31:56,700
+SPK_0: More.
+
+1166
+00:31:56,760 --> 00:31:56,960
+SPK_0: Efficient.
+
+1167
+00:31:57,100 --> 00:31:57,180
+SPK_0: Over.
+
+1168
+00:31:57,240 --> 00:31:57,440
+SPK_0: Time.
+
+1169
+00:31:57,520 --> 00:31:57,740
+SPK_0: For.
+
+1170
+00:31:57,900 --> 00:31:58,120
+SPK_0: Example.
+
+1171
+00:31:59,380 --> 00:31:59,600
+SPK_0: There.
+
+1172
+00:31:59,720 --> 00:31:59,940
+SPK_0: Limits.
+
+1173
+00:31:59,980 --> 00:32:00,080
+SPK_0: To.
+
+1174
+00:32:00,120 --> 00:32:00,260
+SPK_0: It.
+
+1175
+00:32:00,480 --> 00:32:00,700
+SPK_0: Most.
+
+1176
+00:32:00,840 --> 00:32:00,860
+SPK_0: Of.
+
+1177
+00:32:00,940 --> 00:32:00,960
+SPK_0: Those.
+
+1178
+00:32:01,040 --> 00:32:01,180
+SPK_0: Limits.
+
+1179
+00:32:01,200 --> 00:32:01,320
+SPK_0: Are.
+
+1180
+00:32:01,380 --> 00:32:01,480
+SPK_0: Driven.
+
+1181
+00:32:01,640 --> 00:32:01,860
+SPK_0: By.
+
+1182
+00:32:02,100 --> 00:32:02,320
+SPK_0: Gravity.
+
+1183
+00:32:02,540 --> 00:32:02,720
+SPK_0: And.
+
+1184
+00:32:02,780 --> 00:32:02,840
+SPK_0: The.
+
+1185
+00:32:02,900 --> 00:32:03,120
+SPK_0: Ability.
+
+1186
+00:32:03,160 --> 00:32:03,360
+SPK_0: For.
+
+1187
+00:32:03,360 --> 00:32:03,600
+SPK_0: Large.
+
+1188
+00:32:04,180 --> 00:32:04,460
+SPK_0: Organisms.
+
+1189
+00:32:04,520 --> 00:32:04,680
+SPK_0: To.
+
+1190
+00:32:04,700 --> 00:32:04,880
+SPK_0: Live.
+
+1191
+00:32:05,400 --> 00:32:05,680
+SPK_0: But.
+
+1192
+00:32:06,080 --> 00:32:06,360
+SPK_0: It's.
+
+1193
+00:32:06,420 --> 00:32:06,600
+SPK_0: It.
+
+1194
+00:32:06,720 --> 00:32:07,000
+SPK_0: Holds.
+
+1195
+00:32:07,000 --> 00:32:07,080
+SPK_0: Across.
+
+1196
+00:32:07,240 --> 00:32:07,460
+SPK_0: A.
+
+1197
+00:32:07,680 --> 00:32:07,960
+SPK_0: Wide.
+
+1198
+00:32:08,280 --> 00:32:08,560
+SPK_0: Variety.
+
+1199
+00:32:08,580 --> 00:32:08,680
+SPK_0: Of.
+
+1200
+00:32:08,720 --> 00:32:08,820
+SPK_0: Different.
+
+1201
+00:32:09,020 --> 00:32:09,300
+SPK_0: Kinds.
+
+1202
+00:32:09,300 --> 00:32:09,400
+SPK_0: Of.
+
+1203
+00:32:09,460 --> 00:32:09,740
+SPK_0: Organisms.
+
+1204
+00:32:10,020 --> 00:32:10,300
+SPK_0: It.
+
+1205
+00:32:10,340 --> 00:32:10,560
+SPK_0: Holds.
+
+1206
+00:32:10,580 --> 00:32:10,660
+SPK_0: For.
+
+1207
+00:32:10,740 --> 00:32:10,920
+SPK_0: Cells.
+
+1208
+00:32:11,200 --> 00:32:11,320
+SPK_0: It.
+
+1209
+00:32:11,380 --> 00:32:11,640
+SPK_0: Holds.
+
+1210
+00:32:11,660 --> 00:32:11,800
+SPK_0: For.
+
+1211
+00:32:12,320 --> 00:32:12,600
+SPK_0: Rodents.
+
+1212
+00:32:12,700 --> 00:32:12,820
+SPK_0: It.
+
+1213
+00:32:13,720 --> 00:32:14,000
+SPK_0: Holds.
+
+1214
+00:32:14,000 --> 00:32:14,160
+SPK_0: For.
+
+1215
+00:32:15,520 --> 00:32:15,800
+SPK_0: Lizards.
+
+1216
+00:32:15,800 --> 00:32:16,280
+SPK_0: It.
+
+1217
+00:32:17,160 --> 00:32:17,440
+SPK_0: Holds.
+
+1218
+00:32:17,780 --> 00:32:18,060
+SPK_0: For.
+
+1219
+00:32:18,380 --> 00:32:18,660
+SPK_0: Companies.
+
+1220
+00:32:19,180 --> 00:32:19,460
+SPK_0: Groups.
+
+1221
+00:32:19,480 --> 00:32:19,560
+SPK_0: Of.
+
+1222
+00:32:19,640 --> 00:32:19,740
+SPK_0: Humans.
+
+1223
+00:32:19,920 --> 00:32:20,200
+SPK_0: Operating.
+
+1224
+00:32:20,260 --> 00:32:20,440
+SPK_0: Together.
+
+1225
+00:32:20,480 --> 00:32:20,680
+SPK_0: As.
+
+1226
+00:32:21,080 --> 00:32:21,360
+SPK_0: Corporations.
+
+1227
+00:32:22,260 --> 00:32:22,540
+SPK_0: Behave.
+
+1228
+00:32:22,760 --> 00:32:23,040
+SPK_0: Like.
+
+1229
+00:32:23,860 --> 00:32:24,140
+SPK_0: Biological.
+
+1230
+00:32:24,420 --> 00:32:24,700
+SPK_0: Organisms.
+
+1231
+00:32:24,880 --> 00:32:25,160
+SPK_0: In.
+
+1232
+00:32:25,260 --> 00:32:25,540
+SPK_0: This.
+
+1233
+00:32:25,680 --> 00:32:25,960
+SPK_0: Fashion.
+
+1234
+00:32:26,100 --> 00:32:26,260
+SPK_0: Of.
+
+1235
+00:32:26,320 --> 00:32:26,400
+SPK_0: These.
+
+1236
+00:32:26,420 --> 00:32:26,620
+SPK_0: Kinds.
+
+1237
+00:32:26,660 --> 00:32:26,740
+SPK_0: Of.
+
+1238
+00:32:26,760 --> 00:32:26,960
+SPK_0: Curves.
+
+1239
+00:32:28,480 --> 00:32:28,760
+SPK_0: But.
+
+1240
+00:32:28,840 --> 00:32:28,920
+SPK_0: Then.
+
+1241
+00:32:28,940 --> 00:32:29,020
+SPK_0: There's.
+
+1242
+00:32:29,100 --> 00:32:29,180
+SPK_0: A.
+
+1243
+00:32:29,200 --> 00:32:29,460
+SPK_0: Third.
+
+1244
+00:32:29,880 --> 00:32:30,160
+SPK_0: Which.
+
+1245
+00:32:30,260 --> 00:32:30,420
+SPK_0: Is.
+
+1246
+00:32:45,800 --> 00:32:45,960
+SPK_0: Constant.
+
+1247
+00:32:45,980 --> 00:32:46,160
+SPK_0: Across.
+
+1248
+00:32:46,620 --> 00:32:46,820
+SPK_0: Cultures.
+
+1249
+00:32:46,960 --> 00:32:47,160
+SPK_0: And.
+
+1250
+00:32:47,220 --> 00:32:47,400
+SPK_0: Across.
+
+1251
+00:32:47,520 --> 00:32:47,720
+SPK_0: Time.
+
+1252
+00:32:48,400 --> 00:32:48,600
+SPK_0: If.
+
+1253
+00:32:48,720 --> 00:32:48,780
+SPK_0: You.
+
+1254
+00:32:48,900 --> 00:32:49,100
+SPK_0: Double.
+
+1255
+00:32:49,180 --> 00:32:49,280
+SPK_0: The.
+
+1256
+00:32:49,580 --> 00:32:49,780
+SPK_0: Population.
+
+1257
+00:32:49,800 --> 00:32:49,960
+SPK_0: Of.
+
+1258
+00:32:50,000 --> 00:32:50,060
+SPK_0: The.
+
+1259
+00:32:50,080 --> 00:32:50,280
+SPK_0: City.
+
+1260
+00:32:51,340 --> 00:32:51,540
+SPK_0: You.
+
+1261
+00:32:52,100 --> 00:32:52,300
+SPK_0: Increase.
+
+1262
+00:32:52,520 --> 00:32:52,720
+SPK_0: A.
+
+1263
+00:32:52,780 --> 00:32:52,960
+SPK_0: Set.
+
+1264
+00:32:53,020 --> 00:32:53,100
+SPK_0: Of.
+
+1265
+00:32:53,240 --> 00:32:53,440
+SPK_0: Metrics.
+
+1266
+00:32:54,760 --> 00:32:54,960
+SPK_0: Not.
+
+1267
+00:32:55,060 --> 00:32:55,160
+SPK_0: All.
+
+1268
+00:32:55,200 --> 00:32:55,380
+SPK_0: But.
+
+1269
+00:32:55,460 --> 00:32:55,520
+SPK_0: A.
+
+1270
+00:32:55,560 --> 00:32:55,680
+SPK_0: Set.
+
+1271
+00:32:55,680 --> 00:32:55,760
+SPK_0: Of.
+
+1272
+00:32:55,820 --> 00:32:56,020
+SPK_0: Metrics.
+
+1273
+00:32:56,560 --> 00:32:56,760
+SPK_0: By.
+
+1274
+00:32:57,720 --> 00:32:57,920
+SPK_0: 115%.
+
+1275
+00:32:58,800 --> 00:32:59,000
+SPK_0: So.
+
+1276
+00:32:59,900 --> 00:33:00,100
+SPK_0: Increasing.
+
+1277
+00:33:00,380 --> 00:33:00,580
+SPK_0: Returns.
+
+1278
+00:33:00,600 --> 00:33:00,680
+SPK_0: To.
+
+1279
+00:33:00,720 --> 00:33:00,920
+SPK_0: Scale.
+
+1280
+00:33:01,760 --> 00:33:01,960
+SPK_0: Most.
+
+1281
+00:33:02,240 --> 00:33:02,440
+SPK_0: Notably.
+
+1282
+00:33:02,500 --> 00:33:02,600
+SPK_0: You.
+
+1283
+00:33:02,640 --> 00:33:02,760
+SPK_0: Get.
+
+1284
+00:33:02,800 --> 00:33:03,000
+SPK_0: Wealth.
+
+1285
+00:33:03,080 --> 00:33:03,240
+SPK_0: Per.
+
+1286
+00:33:03,400 --> 00:33:03,600
+SPK_0: Capita.
+
+1287
+00:33:03,960 --> 00:33:04,160
+SPK_0: And.
+
+1288
+00:33:04,300 --> 00:33:04,500
+SPK_0: Innovation.
+
+1289
+00:33:04,600 --> 00:33:04,760
+SPK_0: Per.
+
+1290
+00:33:04,960 --> 00:33:05,160
+SPK_0: Capita.
+
+1291
+00:33:05,480 --> 00:33:05,680
+SPK_0: Is.
+
+1292
+00:33:06,060 --> 00:33:06,260
+SPK_0: Increasing.
+
+1293
+00:33:06,520 --> 00:33:06,720
+SPK_0: It's.
+
+1294
+00:33:07,120 --> 00:33:07,320
+SPK_0: Increasing.
+
+1295
+00:33:07,460 --> 00:33:07,660
+SPK_0: Faster.
+
+1296
+00:33:07,820 --> 00:33:07,920
+SPK_0: Than.
+
+1297
+00:33:07,960 --> 00:33:08,040
+SPK_0: The.
+
+1298
+00:33:08,080 --> 00:33:08,180
+SPK_0: Rate.
+
+1299
+00:33:08,200 --> 00:33:08,300
+SPK_0: Of.
+
+1300
+00:33:08,360 --> 00:33:08,560
+SPK_0: Doubling.
+
+1301
+00:33:08,580 --> 00:33:08,740
+SPK_0: Of.
+
+1302
+00:33:08,740 --> 00:33:08,840
+SPK_0: The.
+
+1303
+00:33:09,080 --> 00:33:09,280
+SPK_0: Capita.
+
+1304
+00:33:09,300 --> 00:33:09,420
+SPK_0: So.
+
+1305
+00:33:09,520 --> 00:33:09,580
+SPK_0: If.
+
+1306
+00:33:09,980 --> 00:33:10,180
+SPK_0: Take.
+
+1307
+00:33:10,300 --> 00:33:10,360
+SPK_0: A.
+
+1308
+00:33:10,460 --> 00:33:10,640
+SPK_0: City.
+
+1309
+00:33:11,080 --> 00:33:11,280
+SPK_0: And.
+
+1310
+00:33:11,320 --> 00:33:11,400
+SPK_0: I.
+
+1311
+00:33:11,420 --> 00:33:11,500
+SPK_0: Go.
+
+1312
+00:33:11,600 --> 00:33:11,700
+SPK_0: From.
+
+1313
+00:33:11,760 --> 00:33:11,840
+SPK_0: Like.
+
+1314
+00:33:11,880 --> 00:33:11,940
+SPK_0: A.
+
+1315
+00:33:12,240 --> 00:33:12,440
+SPK_0: Thousand.
+
+1316
+00:33:12,940 --> 00:33:13,140
+SPK_0: Person.
+
+1317
+00:33:13,200 --> 00:33:13,400
+SPK_0: Very.
+
+1318
+00:33:13,520 --> 00:33:13,700
+SPK_0: Small.
+
+1319
+00:33:13,880 --> 00:33:14,080
+SPK_0: Town.
+
+1320
+00:33:14,480 --> 00:33:14,680
+SPK_0: And.
+
+1321
+00:33:14,720 --> 00:33:14,780
+SPK_0: I.
+
+1322
+00:33:14,800 --> 00:33:14,940
+SPK_0: Double.
+
+1323
+00:33:15,040 --> 00:33:15,120
+SPK_0: The.
+
+1324
+00:33:30,140 --> 00:33:30,340
+SPK_0: Two.
+
+1325
+00:33:30,600 --> 00:33:30,800
+SPK_0: Thousand.
+
+1326
+00:33:31,100 --> 00:33:31,300
+SPK_0: Eight.
+
+1327
+00:33:31,300 --> 00:33:31,400
+SPK_0: In.
+
+1328
+00:33:31,560 --> 00:33:31,760
+SPK_0: Smaller.
+
+1329
+00:33:31,760 --> 00:33:31,920
+SPK_0: City.
+
+1330
+00:33:32,300 --> 00:33:32,500
+SPK_0: And.
+
+1331
+00:33:32,640 --> 00:33:32,760
+SPK_0: It.
+
+1332
+00:33:32,980 --> 00:33:33,140
+SPK_0: Seems.
+
+1333
+00:33:33,280 --> 00:33:33,360
+SPK_0: To.
+
+1334
+00:33:33,380 --> 00:33:33,560
+SPK_0: Be.
+
+1335
+00:33:34,500 --> 00:33:34,700
+SPK_0: Entirely.
+
+1336
+00:33:34,740 --> 00:33:34,940
+SPK_0: Driven.
+
+1337
+00:33:34,980 --> 00:33:35,100
+SPK_0: By.
+
+1338
+00:33:35,160 --> 00:33:35,220
+SPK_0: The.
+
+1339
+00:33:35,240 --> 00:33:35,440
+SPK_0: Fact.
+
+1340
+00:33:35,480 --> 00:33:35,560
+SPK_0: That.
+
+1341
+00:33:35,600 --> 00:33:35,680
+SPK_0: They're.
+
+1342
+00:33:35,700 --> 00:33:35,740
+SPK_0: In.
+
+1343
+00:33:35,760 --> 00:33:35,880
+SPK_0: The.
+
+1344
+00:33:35,880 --> 00:33:35,980
+SPK_0: City.
+
+1345
+00:33:36,360 --> 00:33:36,560
+SPK_0: Okay.
+
+1346
+00:33:36,900 --> 00:33:37,100
+SPK_0: Now.
+
+1347
+00:33:37,180 --> 00:33:37,240
+SPK_0: This.
+
+1348
+00:33:37,300 --> 00:33:37,360
+SPK_0: Is.
+
+1349
+00:33:37,520 --> 00:33:37,720
+SPK_0: Empirical.
+
+1350
+00:33:38,100 --> 00:33:38,300
+SPK_0: What.
+
+1351
+00:33:38,400 --> 00:33:38,460
+SPK_0: I'm.
+
+1352
+00:33:38,520 --> 00:33:38,640
+SPK_0: About.
+
+1353
+00:33:38,700 --> 00:33:38,800
+SPK_0: To.
+
+1354
+00:33:38,820 --> 00:33:38,900
+SPK_0: Add.
+
+1355
+00:33:38,900 --> 00:33:39,040
+SPK_0: Next.
+
+1356
+00:33:39,360 --> 00:33:39,640
+SPK_0: Is.
+
+1357
+00:33:40,260 --> 00:33:40,540
+SPK_0: My.
+
+1358
+00:33:40,740 --> 00:33:40,820
+SPK_0: Own.
+
+1359
+00:33:41,040 --> 00:33:41,320
+SPK_0: Thesis.
+
+1360
+00:33:41,840 --> 00:33:42,120
+SPK_0: And.
+
+1361
+00:33:42,420 --> 00:33:42,700
+SPK_0: We'll.
+
+1362
+00:33:42,720 --> 00:33:42,820
+SPK_0: See.
+
+1363
+00:33:43,080 --> 00:33:43,360
+SPK_0: This.
+
+1364
+00:33:43,580 --> 00:33:43,600
+SPK_0: Is.
+
+1365
+00:33:43,660 --> 00:33:43,720
+SPK_0: The.
+
+1366
+00:33:43,780 --> 00:33:43,880
+SPK_0: Thesis.
+
+1367
+00:33:43,960 --> 00:33:44,100
+SPK_0: I'm.
+
+1368
+00:33:44,160 --> 00:33:44,400
+SPK_0: Proposing.
+
+1369
+00:33:46,000 --> 00:33:46,280
+SPK_0: Basically.
+
+1370
+00:33:46,380 --> 00:33:46,620
+SPK_0: The.
+
+1371
+00:33:46,700 --> 00:33:46,980
+SPK_0: Idea.
+
+1372
+00:33:47,380 --> 00:33:47,660
+SPK_0: Is.
+
+1373
+00:33:47,720 --> 00:33:48,000
+SPK_0: That.
+
+1374
+00:33:49,440 --> 00:33:49,720
+SPK_0: There's.
+
+1375
+00:33:49,820 --> 00:33:50,000
+SPK_0: Something.
+
+1376
+00:33:50,080 --> 00:33:50,240
+SPK_0: Going.
+
+1377
+00:33:50,400 --> 00:33:50,640
+SPK_0: On.
+
+1378
+00:33:50,700 --> 00:33:50,980
+SPK_0: In.
+
+1379
+00:33:51,040 --> 00:33:51,180
+SPK_0: The.
+
+1380
+00:33:51,300 --> 00:33:51,380
+SPK_0: Way.
+
+1381
+00:33:51,520 --> 00:33:51,660
+SPK_0: That.
+
+1382
+00:33:52,220 --> 00:33:52,500
+SPK_0: Minds.
+
+1383
+00:33:52,580 --> 00:33:52,860
+SPK_0: Are.
+
+1384
+00:33:52,860 --> 00:33:53,140
+SPK_0: Able.
+
+1385
+00:33:53,260 --> 00:33:53,360
+SPK_0: To.
+
+1386
+00:33:53,860 --> 00:33:54,060
+SPK_0: Collaborate.
+
+1387
+00:33:54,760 --> 00:33:54,960
+SPK_0: Something.
+
+1388
+00:33:55,040 --> 00:33:55,240
+SPK_0: Going.
+
+1389
+00:33:55,400 --> 00:33:55,540
+SPK_0: On.
+
+1390
+00:33:55,740 --> 00:33:55,940
+SPK_0: In.
+
+1391
+00:33:55,980 --> 00:33:56,180
+SPK_0: The.
+
+1392
+00:33:56,360 --> 00:33:56,560
+SPK_0: In.
+
+1393
+00:33:56,700 --> 00:33:56,800
+SPK_0: The.
+
+1394
+00:33:56,820 --> 00:33:56,920
+SPK_0: Say.
+
+1395
+00:33:56,980 --> 00:33:57,080
+SPK_0: The.
+
+1396
+00:33:57,640 --> 00:33:57,840
+SPK_0: Transcendent.
+
+1397
+00:33:58,800 --> 00:33:59,000
+SPK_0: That.
+
+1398
+00:33:59,100 --> 00:33:59,160
+SPK_0: Is.
+
+1399
+00:33:59,340 --> 00:33:59,540
+SPK_0: Different.
+
+1400
+00:33:59,660 --> 00:33:59,760
+SPK_0: Than.
+
+1401
+00:33:59,800 --> 00:33:59,860
+SPK_0: What.
+
+1402
+00:34:00,000 --> 00:34:00,200
+SPK_0: Happens.
+
+1403
+00:34:00,240 --> 00:34:00,320
+SPK_0: At.
+
+1404
+00:34:00,340 --> 00:34:00,400
+SPK_0: The.
+
+1405
+00:34:00,480 --> 00:34:00,600
+SPK_0: Level.
+
+1406
+00:34:00,720 --> 00:34:00,880
+SPK_0: Of.
+
+1407
+00:34:00,940 --> 00:34:01,080
+SPK_0: The.
+
+1408
+00:34:01,520 --> 00:34:01,720
+SPK_0: Physical.
+
+1409
+00:34:01,940 --> 00:34:02,100
+SPK_0: Or.
+
+1410
+00:34:02,300 --> 00:34:02,500
+SPK_0: Let's.
+
+1411
+00:34:02,540 --> 00:34:02,620
+SPK_0: Say.
+
+1412
+00:34:02,640 --> 00:34:02,820
+SPK_0: Even.
+
+1413
+00:34:02,820 --> 00:34:02,860
+SPK_0: The.
+
+1414
+00:34:03,000 --> 00:34:03,200
+SPK_0: Imminent.
+
+1415
+00:34:03,260 --> 00:34:03,400
+SPK_0: The.
+
+1416
+00:34:03,520 --> 00:34:03,720
+SPK_0: Embodied.
+
+1417
+00:34:05,160 --> 00:34:05,360
+SPK_0: And.
+
+1418
+00:34:05,520 --> 00:34:05,660
+SPK_0: That.
+
+1419
+00:34:05,960 --> 00:34:06,160
+SPK_0: When.
+
+1420
+00:34:06,640 --> 00:34:06,840
+SPK_0: Minds.
+
+1421
+00:34:06,900 --> 00:34:07,100
+SPK_0: Enter.
+
+1422
+00:34:07,160 --> 00:34:07,340
+SPK_0: Into.
+
+1423
+00:34:07,700 --> 00:34:07,900
+SPK_0: Relationship.
+
+1424
+00:34:07,920 --> 00:34:08,080
+SPK_0: With.
+
+1425
+00:34:08,140 --> 00:34:08,300
+SPK_0: Other.
+
+1426
+00:34:08,800 --> 00:34:09,000
+SPK_1: Minds.
+
+1427
+00:34:09,020 --> 00:34:09,220
+SPK_1: They.
+
+1428
+00:34:09,420 --> 00:34:09,500
+SPK_0: Able.
+
+1429
+00:34:09,540 --> 00:34:09,600
+SPK_0: To.
+
+1430
+00:34:09,920 --> 00:34:10,120
+SPK_0: Produce.
+
+1431
+00:34:10,360 --> 00:34:10,560
+SPK_0: Innovation.
+
+1432
+00:34:10,720 --> 00:34:10,860
+SPK_0: They.
+
+1433
+00:34:10,900 --> 00:34:10,940
+SPK_0: Are.
+
+1434
+00:34:11,020 --> 00:34:11,060
+SPK_0: Able.
+
+1435
+00:34:11,100 --> 00:34:11,200
+SPK_0: To.
+
+1436
+00:34:11,240 --> 00:34:11,440
+SPK_0: Produce.
+
+1437
+00:34:13,360 --> 00:34:13,560
+SPK_0: Wealth.
+
+1438
+00:34:14,320 --> 00:34:14,520
+SPK_0: They.
+
+1439
+00:34:27,360 --> 00:34:27,560
+SPK_0: Able.
+
+1440
+00:34:27,560 --> 00:34:27,920
+SPK_0: To.
+
+1441
+00:34:31,560 --> 00:34:33,560
+SPK_0: Able.
+
+1442
+00:34:33,560 --> 00:34:34,560
+SPK_0: To.
+
+1443
+00:34:34,560 --> 00:34:36,560
+SPK_0: Produce.
+
+1444
+00:34:36,560 --> 00:34:37,560
+SPK_0: Able.
+
+1445
+00:34:37,560 --> 00:34:38,560
+SPK_0: To.
+
+1446
+00:34:38,560 --> 00:34:39,560
+SPK_0: Product.
+
+1447
+00:34:39,560 --> 00:34:40,560
+SPK_0: Name.
+
+1448
+00:34:40,560 --> 00:34:41,560
+SPK_0: Or.
+
+1449
+00:34:41,560 --> 00:34:42,560
+SPK_0: Having.
+
+1450
+00:34:42,560 --> 00:34:43,560
+SPK_0: Able.
+
+1451
+00:34:43,560 --> 00:34:44,560
+SPK_0: To.
+
+1452
+00:34:44,560 --> 00:34:45,560
+SPK_0: Be.
+
+1453
+00:34:46,560 --> 00:34:47,560
+SPK_0: That.
+
+1454
+00:34:47,560 --> 00:34:48,560
+SPK_0: One.
+
+1455
+00:34:48,560 --> 00:34:49,560
+SPK_0: In.
+
+1456
+00:34:49,560 --> 00:34:50,560
+SPK_0: All.
+
+1457
+00:34:50,560 --> 00:34:51,560
+SPK_0: Time.
+
+1458
+00:34:51,560 --> 00:34:52,560
+SPK_0: Venues.
+
+1459
+00:34:52,560 --> 00:34:53,560
+SPK_0: Is.
+
+1460
+00:34:53,560 --> 00:34:54,560
+SPK_0: Able.
+
+1461
+00:34:54,560 --> 00:34:55,560
+SPK_0: To.
+
+1462
+00:34:55,560 --> 00:34:56,560
+SPK_0: Add.
+
+1463
+00:34:30,680 --> 00:34:38,640
+SPK_0: high level it leverages heavily left to its own devices the logic of that is that eventually all
+
+1464
+00:34:38,640 --> 00:34:45,240
+SPK_0: bodies all human bodies would congregate into a single giant city but here's the here's the rub
+
+1465
+00:34:45,840 --> 00:34:50,980
+SPK_0: we're bodies our bodies are constrained by things like how do we get access to food how do we get
+
+1466
+00:34:50,980 --> 00:34:55,300
+SPK_0: access to air how do we get access to sunlight how do we get access to the way to move waste out
+
+1467
+00:34:55,300 --> 00:35:00,560
+SPK_0: of the of the city or the location that we're in and so the i was an important element space
+
+1468
+00:35:00,560 --> 00:35:07,380
+SPK_0: we are we are physically embodied in space and by the way in time and so we are constrained by the
+
+1469
+00:35:07,980 --> 00:35:13,200
+SPK_0: nature and and the mineral world of the previous two regimes as we're endeavoring to do this so
+
+1470
+00:35:13,200 --> 00:35:22,540
+SPK_0: the problematic of civilization has been when humans became entrained to the potency of this
+
+1471
+00:35:22,540 --> 00:35:25,280
+SPK_0: collaborative power within the context of the
+
+1472
+00:35:25,300 --> 00:35:30,840
+SPK_0: constraints of their ability to actually concentrate people in collaboration and so you
+
+1473
+00:35:30,840 --> 00:35:35,160
+SPK_0: take a look at a given city let's go rome because that's the one i spent the most time on if you
+
+1474
+00:35:35,160 --> 00:35:41,980
+SPK_0: look at it you see three things that are very interesting one is everything is converted into
+
+1475
+00:35:41,980 --> 00:35:48,060
+SPK_0: territory to serve the needs of rome right so that the hinterlands are no longer wilderness
+
+1476
+00:35:48,060 --> 00:35:54,600
+SPK_0: they are farms because they have to be functionally food to move into the center or their water or
+
+1477
+00:35:54,600 --> 00:35:55,140
+SPK_0: their marrow
+
+1478
+00:35:55,300 --> 00:36:00,380
+SPK_0: minerals right their material that are functional they were converted to functional on the basis of
+
+1479
+00:36:00,380 --> 00:36:09,320
+SPK_0: the center second while you have many cities there is in fact a very typical um top most
+
+1480
+00:36:09,320 --> 00:36:13,820
+SPK_0: significant city at the top of the pyramid and then a cluster of two to three cities that are
+
+1481
+00:36:13,820 --> 00:36:17,820
+SPK_0: below it that are roughly half its size then a cluster of 16 that are below them that are roughly
+
+1482
+00:36:17,820 --> 00:36:22,380
+SPK_0: half their size and they tend to be more specialized and so in the united states chicago
+
+1483
+00:36:22,380 --> 00:36:24,780
+SPK_0: is kind of like a mercantile logistics hub
+
+1484
+00:36:25,300 --> 00:36:30,560
+SPK_0: los angeles is an entertainment hub new york is the capital that we move the political capital
+
+1485
+00:36:30,560 --> 00:36:36,560
+SPK_0: that doesn't really matter um typically typically yeah not universally but typically
+
+1486
+00:36:36,560 --> 00:36:43,880
+SPK_0: um and then the next thing is that this continues as long as it can continue right so you basically
+
+1487
+00:36:43,880 --> 00:36:49,460
+SPK_0: have a gambit you have a game or a challenge where i want to get as many people into a centralized
+
+1488
+00:36:49,460 --> 00:36:55,180
+SPK_0: location as possible i actually have to distribute them into different physical locations governing
+
+1489
+00:36:55,300 --> 00:37:00,900
+SPK_0: by my technological capability both in terms of being able to get resources in and energy out
+
+1490
+00:37:00,900 --> 00:37:04,560
+SPK_0: and in terms of just the limits of my ability to put them together so i have to convert them
+
+1491
+00:37:04,560 --> 00:37:11,080
+SPK_0: into functional adjuncts to the centralized system but maybe i just just put it straight
+
+1492
+00:37:11,080 --> 00:37:16,060
+SPK_1: like here comes the roads that's why every empire here comes the roads just here comes the roads
+
+1493
+00:37:16,060 --> 00:37:22,080
+SPK_0: and or canals and or eventually trains right and so exactly so lacking roads there's only so much
+
+1494
+00:37:22,080 --> 00:37:25,280
+SPK_0: i can do oh wait if i smooth out the land and make it more like a centralized system i can do it
+
+1495
+00:37:25,300 --> 00:37:31,240
+SPK_0: on a level i can increase my throughput back and forth oh neat right awesome if i can bring water
+
+1496
+00:37:31,240 --> 00:37:36,500
+SPK_0: in i can increase the number of people who could be in neat and that's why viaducts yeah exactly
+
+1497
+00:37:36,500 --> 00:37:42,920
+SPK_0: why and so my ability to produce wealth and innovation is fighting against the actual
+
+1498
+00:37:42,920 --> 00:37:48,340
+SPK_0: constraints of the physical environment if i can solve those puzzles to unlock a next stage of
+
+1499
+00:37:48,340 --> 00:37:54,680
+SPK_0: growth i get to grow if i can't then i reach some limit and then i end up falling collapsing in some
+
+1500
+00:37:54,680 --> 00:37:55,100
+SPK_0: fashion
+
+1501
+00:37:55,300 --> 00:38:00,400
+SPK_0: as this tension starts to break it more and more people are coming in i can't sustain it i start
+
+1502
+00:38:00,400 --> 00:38:05,360
+SPK_0: getting more and more waste that i can't produce or i get conflicts internally for scarce resources
+
+1503
+00:38:05,360 --> 00:38:10,060
+SPK_0: and i get a collapse of them so that's the city right and the city as you can see every
+
+1504
+00:38:10,060 --> 00:38:14,400
+SPK_0: civilization is ultimately actually the name of the city babylon is a really good way of thinking of
+
+1505
+00:38:14,400 --> 00:38:22,620
+SPK_1: it um okay so what's next i just before we move next just i'm sure you've thought of it but just
+
+1506
+00:38:23,260 --> 00:38:24,300
+SPK_1: again to my audience
+
+1507
+00:38:25,300 --> 00:38:30,520
+SPK_1: what you've been describing while you were describing this i i couldn't get rid of a
+
+1508
+00:38:30,520 --> 00:38:36,080
+SPK_1: feeling that it was a sophisticated scientific and eloquently put in technological language
+
+1509
+00:38:36,080 --> 00:38:42,220
+SPK_1: is the babyl as a story of the tower of babylon just to be very clear like yes it's uh like it
+
+1510
+00:38:42,220 --> 00:38:46,760
+SPK_1: can be some rice and six uh paragraphs as it's done in genesis but effectively it's the same
+
+1511
+00:38:46,760 --> 00:38:54,180
+SPK_1: you have multiplicity like it comes together this multiplicity produced technological innovation the
+
+1512
+00:38:55,300 --> 00:38:59,800
+SPK_1: the bricks as it is in the story and we can see that all technology is in a way a form of a brick
+
+1513
+00:38:59,800 --> 00:39:07,200
+SPK_1: for us then it goes on and on and on and on until it crumbles effectively under its own weight but
+
+1514
+00:39:07,200 --> 00:39:11,500
+SPK_1: here yeah like i have a video with ritual trolling on the channel actually too about the pebble and
+
+1515
+00:39:11,500 --> 00:39:16,760
+SPK_1: there are many many male layers to it and maybe it will be useful for us to talk about them later
+
+1516
+00:39:16,760 --> 00:39:21,300
+SPK_1: but i just want to point out that the problem itself maybe the scale of the problem nowadays
+
+1517
+00:39:21,300 --> 00:39:26,440
+SPK_1: it's pretty big but it's interesting that in our stories the problem is already discussed on this
+
+1518
+00:39:26,440 --> 00:39:32,700
+SPK_1: on this scale like as the biggest imaginable unity what would happen if the biggest
+
+1519
+00:39:34,080 --> 00:39:39,880
+SPK_1: imaginable unity comes together so just one yeah i think this is absolutely correct and so you know
+
+1520
+00:39:39,880 --> 00:39:46,640
+SPK_0: as i interested have entered into the third phase of my of my life let's say i can read that story
+
+1521
+00:39:46,640 --> 00:39:51,040
+SPK_0: and go oh right oh and and and it's for me very nice because
+
+1522
+00:39:52,080 --> 00:39:56,180
+SPK_0: i can point to the world let's say scientifically historically and go
+
+1523
+00:39:56,180 --> 00:40:01,560
+SPK_0: yeah that's actually this is not this is not just a really nice symbol it is in fact i can really
+
+1524
+00:40:01,560 --> 00:40:07,780
+SPK_0: concretely say here's examples of how it operated and operates okay and so but here's
+
+1525
+00:40:07,780 --> 00:40:13,820
+SPK_0: the here's the key point um and the the sort of like like to say to the king's northean side of
+
+1526
+00:40:13,820 --> 00:40:20,960
+SPK_0: things which is culture and civilization are not the same right they're in fact distinct
+
+1527
+00:40:22,120 --> 00:40:29,760
+SPK_0: um and it is not obvious nor do i think it's in fact i would say that the the logic of the model
+
+1528
+00:40:29,760 --> 00:40:37,480
+SPK_0: that i've been producing is that as i said civilization as a form is coming to an end
+
+1529
+00:40:37,480 --> 00:40:42,200
+SPK_0: we're actually reaching the end of that entire arc and let me explain a piece of that like a
+
+1530
+00:40:42,200 --> 00:40:47,060
+SPK_0: just a small yeah remember that in the beginning the proposition was that there was a tension
+
+1531
+00:40:47,060 --> 00:40:50,880
+SPK_0: between the generative capability the exponential
+
+1532
+00:40:51,040 --> 00:40:54,300
+SPK_0: collaborative capacity that emerges when you get minds into collaboration
+
+1533
+00:40:54,900 --> 00:41:00,720
+SPK_0: and the challenge of embodiment okay well of course over the last few years and particularly
+
+1534
+00:41:00,720 --> 00:41:07,820
+SPK_0: in the last couple of decades the power of the digital among other things has enabled more and
+
+1535
+00:41:07,820 --> 00:41:10,720
+SPK_0: more and more of us to do what you and i are doing i don't know if you've noticed but we're
+
+1536
+00:41:10,720 --> 00:41:17,040
+SPK_1: not in the same room we are unfortunately but we are not i would prefer i would prefer it is
+
+1537
+00:41:17,040 --> 00:41:20,860
+SPK_0: preferable but here's the key it makes a difference we are
+
+1538
+00:41:21,040 --> 00:41:25,540
+SPK_0: collaborating our minds are in some meaningful degree of communication right a lot lot lot better
+
+1539
+00:41:25,540 --> 00:41:30,500
+SPK_0: than if we were just texting back and forth um maybe a million times better than if we were
+
+1540
+00:41:30,500 --> 00:41:34,980
+SPK_0: sending letters back and forth because the rate is as much faster i can see your facial expression
+
+1541
+00:41:34,980 --> 00:41:40,500
+SPK_0: so i can hear the tone of your voice um and so the the critical points of what enables
+
+1542
+00:41:40,500 --> 00:41:45,500
+SPK_0: collaboration to occur which is still embodied but now we're embodying it in an increasingly
+
+1543
+00:41:45,500 --> 00:41:50,820
+SPK_0: ephemeral form which means that the center of the city is moving and i
+
+1544
+00:41:51,040 --> 00:41:57,460
+SPK_0: assert this the center of the city is moving from the place where human bodies do human body
+
+1545
+00:41:57,460 --> 00:42:04,240
+SPK_0: things into the virtual and i would argue that we've already moved that center or very close
+
+1546
+00:42:04,240 --> 00:42:09,920
+SPK_0: to the moving of that center and when that occurs it's very interesting i think in fact
+
+1547
+00:42:09,920 --> 00:42:15,160
+SPK_0: it's ultimately really really good though by no means not fraught it is fraught with risk but
+
+1548
+00:42:15,160 --> 00:42:20,880
+SPK_0: nonetheless very very good and here's here's the the shift once you have liberated the
+
+1549
+00:42:21,040 --> 00:42:30,900
+SPK_0: body from the tyranny of being forced into unnatural uh proximity right the city the city
+
+1550
+00:42:30,900 --> 00:42:36,500
+SPK_1: is a deeply unnatural proximity yeah it's not healthy for human beings because i think that
+
+1551
+00:42:36,500 --> 00:42:42,660
+SPK_1: was kind of missed in the previous uh statement that city itself is not natural like as as an
+
+1552
+00:42:42,660 --> 00:42:48,280
+SPK_1: not as an idea but as a phenomenon like we are biologically and socially are not really meant
+
+1553
+00:42:48,280 --> 00:42:50,800
+SPK_1: to live in the cities and that's why again
+
+1554
+00:42:51,040 --> 00:42:58,460
+SPK_1: it's interesting that in a scripture it has this very ambivalent role like abraham leaves the cities
+
+1555
+00:42:58,460 --> 00:43:03,720
+SPK_1: like and it's there is a constant call like exit the babylon exit the city like so there is there
+
+1556
+00:43:03,720 --> 00:43:09,060
+SPK_1: is all like book of exodus like so there is always this tension of it and it i don't think
+
+1557
+00:43:09,060 --> 00:43:14,780
+SPK_1: it's uh on empty spot and your line of argument is another way of highlighting why there is an
+
+1558
+00:43:14,780 --> 00:43:20,520
+SPK_1: internal tension of certain need to exit the city so yeah yeah there's and there's there's many many
+
+1559
+00:43:21,040 --> 00:43:23,480
+SPK_0: things that are going on in this the the the psychological the physiological and the
+
+1560
+00:43:23,480 --> 00:43:30,520
+SPK_0: spiritual consequences of the city are profound and almost entirely negative but the material
+
+1561
+00:43:30,520 --> 00:43:35,320
+SPK_0: benefit of of forcing people into that space is very powerful and so we've kind of been imposed
+
+1562
+00:43:35,320 --> 00:43:40,800
+SPK_0: under the tyranny of that but as soon as that center moves into the virtual um it's like imagine
+
+1563
+00:43:40,800 --> 00:43:46,360
+SPK_0: if the sun somehow just disappeared and the planets were no longer governed by the gravitational pull
+
+1564
+00:43:46,360 --> 00:43:49,520
+SPK_0: of the sun somehow we were able to maintain warmth but just look at that think about that
+
+1565
+00:43:49,520 --> 00:43:49,960
+SPK_0: okay
+
+1566
+00:43:51,040 --> 00:43:58,520
+SPK_0: There's some new center, some new gravitational center that's going to ultimately become that which governs maybe Jupiter or maybe the planets disappear.
+
+1567
+00:43:58,660 --> 00:44:01,720
+SPK_0: But the point is, in our case, in fact, a new center has emerged.
+
+1568
+00:44:01,920 --> 00:44:05,980
+SPK_0: The new center is now, however beautifully, pulling in two different directions.
+
+1569
+00:44:06,560 --> 00:44:20,380
+SPK_0: One direction is human beings are going to be doing what we've been doing, which is finding ways to get better and better at entering into collaboration in the virtual, which I'm going to tag that and come back to that in a second.
+
+1570
+00:44:21,600 --> 00:44:35,920
+SPK_0: And, however, we then are now going to begin noticing more and more that we're becoming liberated to reorient our physical bodies in natural contexts.
+
+1571
+00:44:36,240 --> 00:44:50,660
+SPK_0: And so we'll begin to actually live with our families, for example, form extended kin groups in places where everybody actually feels like the place they're in is a good place, taking responsibility for the natural environment we're in, because that's just obviously good from the point of view of beauty.
+
+1572
+00:44:50,660 --> 00:44:51,840
+SPK_0: For the point of view of health.
+
+1573
+00:44:52,020 --> 00:45:02,180
+SPK_0: And, by the way, noticing something like continuity again, where we sort of reestablish a sense of timelessness that is still in time, like time and timelessness connecting properly.
+
+1574
+00:45:02,300 --> 00:45:04,300
+SPK_0: We're almost getting back to that point of eternity in Kairos.
+
+1575
+00:45:06,940 --> 00:45:08,680
+SPK_0: And we're already beginning to notice this.
+
+1576
+00:45:08,760 --> 00:45:16,280
+SPK_0: And my proposition is that we will begin to notice it more and more and more as the legacy inertia of urbanism begins to fade.
+
+1577
+00:45:16,560 --> 00:45:20,620
+SPK_0: And as more and more and more people are able to move into places that more alive.
+
+1578
+00:45:20,660 --> 00:45:27,280
+SPK_0: Aligned with their more natural proclivities, we will notice things like their birth rates will go up just as just as simple as that.
+
+1579
+00:45:27,340 --> 00:45:28,400
+SPK_0: Like just run the math on that.
+
+1580
+00:45:28,780 --> 00:45:37,820
+SPK_0: People who live in natural places where they are, you know, there are groups of people who care for each other deeply and will care for newborn baby.
+
+1581
+00:45:38,060 --> 00:45:45,600
+SPK_0: Women feel comfortable, will have decided to have children, birth rates will go up and the cities will collapse out of just sheer lack of producing.
+
+1582
+00:45:45,680 --> 00:45:49,840
+SPK_1: And just to strengthen simply, there is space to bring the children up.
+
+1583
+00:45:49,960 --> 00:45:50,480
+SPK_1: Like, you know.
+
+1584
+00:45:50,660 --> 00:45:56,580
+SPK_1: Confined to your 50 square meter, 30 square meter cell in a megapolis.
+
+1585
+00:45:56,680 --> 00:45:56,940
+SPK_1: Exactly.
+
+1586
+00:45:56,940 --> 00:46:00,400
+SPK_1: Like it's not exactly a child encouraging environment.
+
+1587
+00:46:00,540 --> 00:46:11,620
+SPK_0: And just think like fresh air, running around, nature, all the good vital things that will make a human being be things like will be interested in meeting other people and interested in capable of mating and all that other good stuff.
+
+1588
+00:46:11,780 --> 00:46:13,060
+SPK_0: So there's a lot more.
+
+1589
+00:46:13,060 --> 00:46:16,880
+SPK_0: We can see like how these, I suspect, deeper these transitions will begin to move.
+
+1590
+00:46:17,200 --> 00:46:20,520
+SPK_0: And then, you know, the key challenge is how do we hold these two points?
+
+1591
+00:46:20,660 --> 00:46:31,960
+SPK_0: In proper harmony, how do we hold the virtual and the physical, which I think now we can say, how do we hold the transcendent and the imminent in proper harmony becomes the question.
+
+1592
+00:46:33,000 --> 00:46:43,180
+SPK_0: So I would argue strongly that we are, in fact, just flat out at the end of civilization under the terms of its own logic, regardless of anything that we would like to do.
+
+1593
+00:46:43,220 --> 00:46:44,800
+SPK_0: That's just we can't help it.
+
+1594
+00:46:44,840 --> 00:46:46,160
+SPK_0: We're just at that stage.
+
+1595
+00:46:47,960 --> 00:46:50,340
+SPK_0: But what that looks like is very.
+
+1596
+00:46:50,660 --> 00:46:51,640
+SPK_0: Open, open question.
+
+1597
+00:46:53,900 --> 00:46:54,860
+SPK_1: Oh, well.
+
+1598
+00:46:56,340 --> 00:46:58,200
+SPK_1: Several thoughts immediately come to mind.
+
+1599
+00:46:58,300 --> 00:47:09,500
+SPK_1: One, I think, is crucial that from my perspective on a philosophical level, we do have an answer like like it's old answer, but I think it's answer to be rediscovered.
+
+1600
+00:47:09,520 --> 00:47:14,500
+SPK_1: And you mentioned the tension between effectively virtual and material, I can say.
+
+1601
+00:47:14,960 --> 00:47:17,200
+SPK_1: And that is a true bridge.
+
+1602
+00:47:17,420 --> 00:47:19,980
+SPK_1: And in my opinion, not just in my opinion here.
+
+1603
+00:47:20,060 --> 00:47:20,560
+SPK_1: I'm just repeating.
+
+1604
+00:47:20,660 --> 00:47:31,920
+SPK_1: In fact, really, what is well known in orthodox theology and like it's the antidote to both because virtual is not real enough and material is not spirited enough is symbolic.
+
+1605
+00:47:33,080 --> 00:47:37,640
+SPK_1: Like symbol is something which you embody, like the problem of embodiment.
+
+1606
+00:47:37,720 --> 00:47:46,420
+SPK_1: So giving the immaterial meaning because all meanings are immaterial by nature to sense meaningless matter.
+
+1607
+00:47:46,520 --> 00:47:50,500
+SPK_1: And that's exactly what our human, if you want to say, superpower.
+
+1608
+00:47:50,660 --> 00:48:20,520
+SPK_1: Or calling or duty or cross was from the very beginning where I meant to give exactly the meaning to the matter and to connect, to connect heaven and earth to push it in at first, but then you will have, I think, a very because to summarize the argument, effectively, you're saying the city wasn't is not good by itself, but only by a very specific function, which is which is which it enables and this function is of communication and communication enables collaboration.
+
+1609
+00:48:20,620 --> 00:48:20,640
+SPK_1: And communication enables collaboration.
+
+1610
+00:48:20,660 --> 00:48:35,340
+SPK_1: And with the development of new technology for the first time, we can at least conceive moving this constructive beneficial element of a city into the virtual space and leaves the negative element of it behind.
+
+1611
+00:48:35,780 --> 00:48:44,320
+SPK_1: But I want to connect the problem of communication, not exactly the problem, but I think what enables communication, it's not just the close proximity.
+
+1612
+00:48:44,520 --> 00:48:50,620
+SPK_1: And that's what I think is the key, because I don't think it's a coincidence that in English that communication and communication.
+
+1613
+00:48:50,660 --> 00:48:53,640
+SPK_1: Are very closely connected for us.
+
+1614
+00:48:53,740 --> 00:49:08,120
+SPK_1: I think you can properly communicate and collaborate, collaborate only as long as you have a certain level of communion between people who are entering in a certain paradigm of relation and one way of city of doing it.
+
+1615
+00:49:08,240 --> 00:49:17,040
+SPK_1: You can sing was doing it very mean in a very mean fashion artificially, but like, yeah, holding everyone together, let's say, but it is form of communion.
+
+1616
+00:49:17,160 --> 00:49:18,680
+SPK_1: Maybe not exactly voluntarily.
+
+1617
+00:49:18,860 --> 00:49:19,900
+SPK_1: Maybe not exactly.
+
+1618
+00:49:21,440 --> 00:49:24,920
+SPK_1: Nicely done, but it is what will happen when you move virtually.
+
+1619
+00:49:25,280 --> 00:49:26,520
+SPK_1: It is an open question.
+
+1620
+00:49:26,660 --> 00:49:27,900
+SPK_1: That's when I think is.
+
+1621
+00:49:29,680 --> 00:49:37,020
+SPK_1: Basically, the Kingswardian, as you put it, element comes into play because can you have the culture without communion?
+
+1622
+00:49:37,200 --> 00:49:45,220
+SPK_1: For example, my answer would be no, because I think as far as I understand the culture, it is effectively a religion culture called religion.
+
+1623
+00:49:45,360 --> 00:49:48,560
+SPK_1: So what unites people in a certain culture?
+
+1624
+00:49:48,620 --> 00:49:50,360
+SPK_1: It is a common common.
+
+1625
+00:49:50,660 --> 00:49:50,860
+SPK_1: Not kastur or
+
+1626
+00:49:50,860 --> 00:49:51,760
+SPK_1: visibles some truth to come out.
+
+1627
+00:49:51,760 --> 00:49:58,900
+SPK_1: If you want to put it this way and this will present and this does present the real, I think, challenge for the transition.
+
+1628
+00:49:58,900 --> 00:50:02,140
+SPK_1: Like I'm not arguing with you that addition has already happened.
+
+1629
+00:50:02,140 --> 00:50:03,460
+SPK_1: I do agree with you.
+
+1630
+00:50:03,460 --> 00:50:06,640
+SPK_1: It's like the reason should lower roster and there is a whole way of looking at it.
+
+1631
+00:50:06,640 --> 00:50:18,060
+SPK_1: But I totally knew that the city, in a way, it was conceived and it was, yeah, for millennia, the cornerstone of civilization had already lost its importance.
+
+1632
+00:50:18,280 --> 00:50:28,060
+SPK_1: And it's just the nature of habit, old thinking, time, but it will collapse pretty quickly, maybe in the next decade already, depending on the speed of the question.
+
+1633
+00:50:28,540 --> 00:50:30,540
+SPK_1: But then the true problems, I think, will emerge.
+
+1634
+00:50:30,700 --> 00:50:35,460
+SPK_1: The true problem is the problem of communion, the problem of symbols.
+
+1635
+00:50:35,460 --> 00:50:41,220
+SPK_1: What are the immaterial symbols which are holding a decentralized place together?
+
+1636
+00:50:41,480 --> 00:50:46,820
+SPK_1: It's a problem of violence, because it's exactly the problem of unity and multiplicity on another scale.
+
+1637
+00:50:48,560 --> 00:50:58,520
+SPK_1: And you, especially after your baptism, I think you kind of, it's not a new thought for you, but also for the audience.
+
+1638
+00:50:59,200 --> 00:51:05,040
+SPK_1: In the same manner that antidote for war is not peace, but liturgy.
+
+1639
+00:51:05,460 --> 00:51:10,300
+SPK_1: Kind of the antidote for civilization is not barbarism, but church.
+
+1640
+00:51:12,780 --> 00:51:20,380
+SPK_1: And that's where I think we will have the true challenge, because we spent 400 years running exactly from this ontology.
+
+1641
+00:51:21,160 --> 00:51:30,780
+SPK_1: And it's pretty challenging for us even just to pronounce these words, not in the context of a very particular confined space, which we kind of put a spiritual reservation.
+
+1642
+00:51:31,080 --> 00:51:35,000
+SPK_1: Okay, that's a kind of spiritual reservation, but it has nothing to do with the rest of our life.
+
+1643
+00:51:35,480 --> 00:51:52,460
+SPK_1: Whereas, and correct me if I'm wrong, effectively what you end up not proposing, but observing is like, to exit the capital Z crisis of civilizations, you will not just have to embrace it, but you have to make this the part of everything.
+
+1644
+00:51:53,440 --> 00:51:56,500
+SPK_0: Yes, I think this is right.
+
+1645
+00:51:56,560 --> 00:51:58,980
+SPK_0: So this is, I think, quite beautiful.
+
+1646
+00:51:59,060 --> 00:52:03,540
+SPK_0: I don't know if you've noticed, but we've actually, in our conversation, we've actually moved through these phases.
+
+1647
+00:52:03,720 --> 00:52:05,440
+SPK_0: So now we're sitting in the Christian phase.
+
+1648
+00:52:06,180 --> 00:52:07,920
+SPK_0: So let's begin to use that language.
+
+1649
+00:52:09,400 --> 00:52:21,340
+SPK_0: So one of the things that I have noticed in the nature of how the adversary or the serpent operates is that he tries to give us back the thing that he has taken by his own means.
+
+1650
+00:52:21,800 --> 00:52:30,180
+SPK_0: So when we fall from eternity, the serpent bites his own tail and gives us the closed circle and says, well, that's eternity, right?
+
+1651
+00:52:30,200 --> 00:52:30,560
+SPK_0: It's infinite.
+
+1652
+00:52:30,640 --> 00:52:31,660
+SPK_0: You can keep going around it.
+
+1653
+00:52:33,620 --> 00:52:35,020
+SPK_0: Similarly, the alternative.
+
+1654
+00:52:35,460 --> 00:52:40,880
+SPK_0: This is a true communion, which is what this particular version of the adversary can give us.
+
+1655
+00:52:40,920 --> 00:52:41,800
+SPK_0: I call it temptation.
+
+1656
+00:52:42,200 --> 00:52:49,300
+SPK_0: So communion is when a multiplicity is, in fact, brought together into a well-integrated unity, a proper whole.
+
+1657
+00:52:50,180 --> 00:52:56,600
+SPK_0: Temptation is when a bunch of pieces are put together, are brought together into a non-well-integrated whole.
+
+1658
+00:52:56,720 --> 00:53:01,880
+SPK_0: A simple example is like a snowball or even a sandball.
+
+1659
+00:53:02,200 --> 00:53:04,400
+SPK_0: I can, with enough force, right?
+
+1660
+00:53:04,460 --> 00:53:05,140
+SPK_0: With enough material.
+
+1661
+00:53:05,460 --> 00:53:12,360
+SPK_0: With enough material-generated wealth and innovation, I can hold a non-integrated multiplicity into something kind of like communion.
+
+1662
+00:53:12,620 --> 00:53:14,700
+SPK_0: But I'm going to call it temptation, right?
+
+1663
+00:53:14,780 --> 00:53:20,200
+SPK_0: And so, and this is one of the reasons why civilizations collapse, is they don't actually have a true center.
+
+1664
+00:53:20,300 --> 00:53:24,680
+SPK_0: They don't actually have a true communion that holds them together as a thing that is actually whole.
+
+1665
+00:53:25,000 --> 00:53:27,940
+SPK_0: They are held together by some other kinds of forces.
+
+1666
+00:53:28,100 --> 00:53:33,340
+SPK_0: And as those forces reach the end of their binding strength, the real natural state is they're apart.
+
+1667
+00:53:34,600 --> 00:53:35,440
+SPK_0: And, of course, we're not going to do that.
+
+1668
+00:53:35,460 --> 00:53:49,780
+SPK_0: Remember, the history of civilization has, in fact, been cosmopolitan imperialism, which is quite explicitly the bringing together of parts into something like a non-well-integrated whole, usually by some combination of force and wealth.
+
+1669
+00:53:51,400 --> 00:53:51,880
+SPK_1: Complicated.
+
+1670
+00:53:53,140 --> 00:53:54,920
+SPK_1: Some not good face, some good face.
+
+1671
+00:53:56,140 --> 00:54:01,360
+SPK_1: I would be less critical if I would say there was always duality of this.
+
+1672
+00:54:01,520 --> 00:54:05,260
+SPK_1: Because you can say that every time historical empire emerges.
+
+1673
+00:54:05,460 --> 00:54:12,280
+SPK_1: Like, starting from Persian Empire into the Roman Empire, yes, there is wealth, terrorism force, like history has written of it.
+
+1674
+00:54:12,400 --> 00:54:20,680
+SPK_1: But also then there is within it much more voluntarily element of pieces joining together as we tend to think.
+
+1675
+00:54:20,820 --> 00:54:27,040
+SPK_1: Like, there is a very internal dynamic of, like, things trying to fall apart and things trying to not fall apart.
+
+1676
+00:54:27,260 --> 00:54:32,980
+SPK_1: And, yes, what you're saying does play a role every time, but it's not just this.
+
+1677
+00:54:33,180 --> 00:54:34,840
+SPK_1: Like, because when you bring crowds.
+
+1678
+00:54:35,460 --> 00:54:43,820
+SPK_1: When you bring this infrastructure, it's not just you keep the cities together, but you're exactly stopping the, let's say, three kingdoms fighting each other.
+
+1679
+00:54:44,200 --> 00:54:48,800
+SPK_1: Like, there is this, like, now we are all over us.
+
+1680
+00:54:48,960 --> 00:54:54,440
+SPK_1: Like, it was effectively the Persian model because all continental empires are built over it.
+
+1681
+00:54:54,560 --> 00:55:01,280
+SPK_1: So, how Cyrus is the great, he stops the internal squabbling and created the empire.
+
+1682
+00:55:01,580 --> 00:55:05,260
+SPK_1: And this dynamic, I think, is very important.
+
+1683
+00:55:05,460 --> 00:55:06,460
+SPK_1: It's very important to keep up on the mind, like.
+
+1684
+00:55:06,980 --> 00:55:07,420
+SPK_0: Beautiful.
+
+1685
+00:55:07,540 --> 00:55:13,820
+SPK_0: And here's, I'm going to propose that this is ultimately grounded in the Tower of Babel, right?
+
+1686
+00:55:13,860 --> 00:55:15,400
+SPK_0: Because Cyrus is the great, right?
+
+1687
+00:55:15,440 --> 00:55:24,180
+SPK_0: Cyrus is, by means of human ingenuity, human will, human design, producing something which is a simulacrum of communion that does throw off a very large number of benefits.
+
+1688
+00:55:24,260 --> 00:55:26,520
+SPK_0: Not the least of which is something like lowercase p, peace.
+
+1689
+00:55:26,720 --> 00:55:27,160
+SPK_0: Yes.
+
+1690
+00:55:27,180 --> 00:55:28,200
+SPK_0: Lowercase w, wealth.
+
+1691
+00:55:28,300 --> 00:55:34,400
+SPK_0: All of which are real, but all of which are also separate or different from what the King of Kings is proposing, right?
+
+1692
+00:55:34,440 --> 00:55:34,680
+SPK_0: Yes.
+
+1693
+00:55:35,940 --> 00:55:36,680
+SPK_0: And we can do this.
+
+1694
+00:55:36,680 --> 00:55:37,940
+SPK_0: There's lots of different variations on this.
+
+1695
+00:55:37,940 --> 00:55:41,840
+SPK_0: You can also talk about the difference of, like, capital J, judgment and accusation.
+
+1696
+00:55:42,480 --> 00:55:46,580
+SPK_0: Judgment brings things into a proper balance, separates that which needs to be separated.
+
+1697
+00:55:47,300 --> 00:55:49,900
+SPK_0: Accusation breaks apart things that, in fact, should be together.
+
+1698
+00:55:51,160 --> 00:55:57,140
+SPK_0: So, I think this is, and so let's say, so there's a mania.
+
+1699
+00:55:57,400 --> 00:55:58,020
+SPK_0: Is that right?
+
+1700
+00:55:58,080 --> 00:55:58,980
+SPK_0: Yeah, there's a certain mania.
+
+1701
+00:55:59,140 --> 00:56:03,920
+SPK_0: It's a perfect, it is actually perfectly identified as a mania to the degree to which humans,
+
+1702
+00:56:04,600 --> 00:56:09,740
+SPK_0: particularly ones who identify as or endeavor to be great, even if they don't think of themselves as great,
+
+1703
+00:56:10,480 --> 00:56:18,720
+SPK_0: endeavor to produce this kind of pseudo-communion by means of human skillfulness, technique, methodology,
+
+1704
+00:56:19,080 --> 00:56:23,080
+SPK_0: which, by the way, of course, then means on the right-hand shoulder is, in fact, the adversary.
+
+1705
+00:56:24,000 --> 00:56:30,040
+SPK_0: Then they are ultimately participating in the same sensibility of the Tower, of Babel.
+
+1706
+00:56:31,320 --> 00:56:33,700
+SPK_1: Have you read the, I imagine you read,
+
+1707
+00:56:34,280 --> 00:56:35,040
+SPK_1: Goethe's Faust?
+
+1708
+00:56:36,020 --> 00:56:36,900
+SPK_1: Yes, yes.
+
+1709
+00:56:36,980 --> 00:56:38,940
+SPK_0: I've been thinking about him a lot in the past few days, actually.
+
+1710
+00:56:39,780 --> 00:56:41,380
+SPK_1: Well, it is exactly the story.
+
+1711
+00:56:41,560 --> 00:56:44,580
+SPK_1: So, you're trading your reason, like, in the very beginning.
+
+1712
+00:56:44,780 --> 00:56:50,800
+SPK_1: Like, basically, you're getting the power of, you're trading your soul for the superpower of reason over material reality.
+
+1713
+00:56:51,640 --> 00:56:56,020
+SPK_1: And in the second half of the book, which people rarely read because it's long and boring,
+
+1714
+00:56:56,180 --> 00:57:01,580
+SPK_1: but by the end, like, it's interesting that what he ends up is a megalomaniac civilizational project.
+
+1715
+00:57:02,200 --> 00:57:02,600
+SPK_1: Yeah.
+
+1716
+00:57:02,640 --> 00:57:03,900
+SPK_1: Do you remember that he tries to...
+
+1717
+00:57:03,920 --> 00:57:06,120
+SPK_1: He tries to build the system of canals and dams,
+
+1718
+00:57:06,120 --> 00:57:10,360
+SPK_1: and the only thing which was standing in his way was just this little cottage with two old people
+
+1719
+00:57:10,360 --> 00:57:14,900
+SPK_1: who just didn't want to move out to build his megalomaniac common good project.
+
+1720
+00:57:15,160 --> 00:57:17,940
+SPK_1: And that's how, kind of, when falling apart happens.
+
+1721
+00:57:18,300 --> 00:57:20,420
+SPK_1: I think it's just very...
+
+1722
+00:57:20,420 --> 00:57:23,080
+SPK_1: There is something in it, like, connected to what you're talking about.
+
+1723
+00:57:23,320 --> 00:57:27,380
+SPK_0: And you could do an interesting case study if I just think about the Napoleonic archetype,
+
+1724
+00:57:27,380 --> 00:57:30,800
+SPK_0: and this notion, or the Julian line.
+
+1725
+00:57:31,120 --> 00:57:32,500
+SPK_0: It even has to be an individual.
+
+1726
+00:57:32,740 --> 00:57:33,660
+SPK_0: It's a migration.
+
+1727
+00:57:33,660 --> 00:57:38,940
+SPK_0: A migration from Augustus through to Nero shows the same dynamic happening intergenerationally.
+
+1728
+00:57:38,960 --> 00:57:42,580
+SPK_0: I mean, it seems to be a thing that happens for reasons that I think we would notice.
+
+1729
+00:57:42,900 --> 00:57:46,420
+SPK_0: So then we're calling to the deeper, right?
+
+1730
+00:57:46,480 --> 00:57:48,520
+SPK_0: The communion is at the ground.
+
+1731
+00:57:48,680 --> 00:57:52,960
+SPK_0: And, of course, we have advantage of the ability to have access to communion, proper true communion.
+
+1732
+00:57:53,900 --> 00:57:57,560
+SPK_0: And true communion is that to which we have yearned.
+
+1733
+00:57:57,680 --> 00:58:01,980
+SPK_0: And the question is, how are we able to find...
+
+1734
+00:58:02,570 --> 00:58:03,460
+SPK_0: How do we say this right?
+
+1735
+00:58:05,020 --> 00:58:11,320
+SPK_0: In this moment that we are afforded, where simultaneously the tyranny of civilization is in a process of breaking,
+
+1736
+00:58:11,500 --> 00:58:13,180
+SPK_0: so we're in a kind of free fall,
+
+1737
+00:58:14,280 --> 00:58:18,700
+SPK_0: and where everything is necessary, right?
+
+1738
+00:58:18,720 --> 00:58:20,740
+SPK_0: The necessity is as high as it could possibly be.
+
+1739
+00:58:21,880 --> 00:58:26,180
+SPK_0: How are we able to find a way to be drawn towards true communion
+
+1740
+00:58:26,780 --> 00:58:30,960
+SPK_0: and not to be lured into simulated or false communion?
+
+1741
+00:58:32,260 --> 00:58:41,260
+SPK_0: And I think this notion of symbolism, this notion of the proper role of human in bringing together heaven and earth.
+
+1742
+00:58:42,580 --> 00:58:45,820
+SPK_0: And King's North, I think, again, I just want to orient him.
+
+1743
+00:58:46,680 --> 00:58:47,520
+SPK_0: Civilization's over, brother.
+
+1744
+00:58:47,560 --> 00:58:48,340
+SPK_0: You don't have to worry about it.
+
+1745
+00:58:48,360 --> 00:58:48,920
+SPK_0: Yes, you're right.
+
+1746
+00:58:49,620 --> 00:58:50,200
+SPK_0: We're done.
+
+1747
+00:58:50,720 --> 00:58:53,560
+SPK_0: What comes next is not atavistic.
+
+1748
+00:58:53,800 --> 00:58:59,680
+SPK_0: What comes next is a qualitatively different thing of what it looks like when we're actually able to choose
+
+1749
+00:58:59,680 --> 00:59:04,800
+SPK_0: choose to live in accordance with true communion, and they come from there.
+
+1750
+00:59:05,080 --> 00:59:09,140
+SPK_0: And of course, in this case, true communion is communion horizontally, but most importantly, vertically.
+
+1751
+00:59:09,660 --> 00:59:10,180
+SPK_0: Right?
+
+1752
+00:59:10,840 --> 00:59:15,860
+SPK_0: The horizontal happens because the vertical happens, and the vertical happens individually and collectively.
+
+1753
+00:59:16,120 --> 00:59:21,900
+SPK_0: So each individual is in communion vertically through the Son into the Father.
+
+1754
+00:59:22,000 --> 00:59:23,280
+SPK_0: The group comes together.
+
+1755
+00:59:23,400 --> 00:59:28,320
+SPK_0: The group now forms the church, which are all in communion as the Son with the Father.
+
+1756
+00:59:28,360 --> 00:59:29,640
+SPK_0: I mean, it's a very complex thing.
+
+1757
+00:59:29,640 --> 00:59:54,240
+SPK_0: I think that happens, and I can't say that this is sort of like capital T, the thing, the kingdom of heaven, but I can say that the thing that we would be speaking of when we mentioned the kingdom of heaven is the direction, the only possible valid direction, always has been, but in this case, quite concretely, and we can even begin to notice methodologies.
+
+1758
+00:59:54,400 --> 00:59:56,980
+SPK_0: Like, how do we actually, what does it even look like?
+
+1759
+00:59:57,780 --> 00:59:58,560
+SPK_0: Here's an example.
+
+1760
+00:59:58,560 --> 00:59:59,620
+SPK_0: This is one thing I wanted to bring up.
+
+1761
+01:00:01,340 --> 01:00:07,820
+SPK_0: When we think about the virtual, I can put the virtual here, and then I can put the spiritual over here.
+
+1762
+01:00:08,680 --> 01:00:12,980
+SPK_0: They're clearly not the same, but they're weirdly, weirdly proximal.
+
+1763
+01:00:13,820 --> 01:00:23,700
+SPK_0: I can think of like the minimum viable embodiment of, let's just use math as like a very easy, concrete way to think about something that participates more in the spiritual than most things.
+
+1764
+01:00:24,440 --> 01:00:29,540
+SPK_0: The minimum viable embodiment of math happens to show up in the virtual.
+
+1765
+01:00:30,020 --> 01:00:30,860
+SPK_0: I can, I can imagine that.
+
+1766
+01:00:30,880 --> 01:00:35,740
+SPK_0: I can take two numbers and I can add them together in software, right?
+
+1767
+01:00:35,780 --> 01:00:57,520
+SPK_0: In a computer or frankly, even just in my head, but in a computer particularly, and what I'm doing is something in computer science, one might even say is the study of the limit of embodiment, the minimum viable embodiment that allows the actual embodied relationship with the transcendent, which is a weird priesthood, but maybe that's exactly what we need to do.
+
+1768
+01:00:58,780 --> 01:01:00,180
+SPK_0: Catechize all computer scientists.
+
+1769
+01:01:00,880 --> 01:01:07,900
+SPK_1: Uh, that definitely will help at least with something, given the, some demonic elements in it.
+
+1770
+01:01:08,000 --> 01:01:27,300
+SPK_1: I like, and I'm not over exaggerating, you know, the better, like, like the type of people sometimes, no, I just want to come back to the, and suggest like the way I understand it, like exactly speaking about the difference between virtual and symbolical, like what's the, what, what is the connection and where the difference happen?
+
+1771
+01:01:27,380 --> 01:01:28,140
+SPK_1: And it is linguistic.
+
+1772
+01:01:28,300 --> 01:01:29,760
+SPK_1: So maybe you will.
+
+1773
+01:01:30,280 --> 01:01:30,780
+SPK_0: Ah, absolutely.
+
+1774
+01:01:30,880 --> 01:01:45,140
+SPK_1: You can agree with the principle, but try to explain differently to me when I try to explain the difference between virtual and exactly, let's say spiritual is, uh, if, uh, virtual is, uh, so both are immaterial.
+
+1775
+01:01:45,440 --> 01:01:53,900
+SPK_1: What I think is very important, like, what is the common parameter between them is that they're both immaterial.
+
+1776
+01:01:54,040 --> 01:02:00,200
+SPK_1: It is true, but where are the differences, at least in our understanding and in our treatment, we treat.
+
+1777
+01:02:00,200 --> 01:02:13,620
+SPK_1: Virtual immaterial, at least we claim to treat virtual immaterial at something not real enough or not real at all, whereas spiritual is super real.
+
+1778
+01:02:13,800 --> 01:02:15,520
+SPK_1: It is beyond real.
+
+1779
+01:02:15,800 --> 01:02:24,700
+SPK_1: So both are immaterial, but it's kind of the choice you can move into illusion simulation of reality, which by definition is not reality.
+
+1780
+01:02:24,840 --> 01:02:26,940
+SPK_1: Simulation of something is not the thing.
+
+1781
+01:02:26,960 --> 01:02:29,660
+SPK_1: So simulation of reality is not reality.
+
+1782
+01:02:30,200 --> 01:02:36,240
+SPK_1: Whereas spiritual and, uh, is more, it's more than real.
+
+1783
+01:02:36,380 --> 01:02:37,560
+SPK_1: It's real beyond real.
+
+1784
+01:02:37,680 --> 01:02:38,960
+SPK_1: If you want to put it this way.
+
+1785
+01:02:39,020 --> 01:02:48,460
+SPK_1: And I think here comes like practical solution, what we have to do and collectively and individually, et cetera, right at this stage of a flood is I do agree.
+
+1786
+01:02:48,560 --> 01:02:52,760
+SPK_1: We are in the process of plot of the city turning into maybe see them as you propose.
+
+1787
+01:02:52,900 --> 01:02:59,640
+SPK_1: Maybe blood will be longer, not know yet, but, uh, at this stage, it's important to look for the right words.
+
+1788
+01:02:59,640 --> 01:03:11,540
+SPK_1: Like that's an old principle, because I do think we have on a linguistic level, a lot of mess to put mildly, not being given able to properly converse about the most quintessential matters.
+
+1789
+01:03:12,140 --> 01:03:27,580
+SPK_1: It is a big challenge and here rediscovery of the language of old is actually helpful because the more you go into the tradition, like, especially of the first Christianity of the first millennium, the more you read the writings of St Basil and Maximus and.
+
+1790
+01:03:28,300 --> 01:03:28,860
+SPK_1: Gregory.
+
+1791
+01:03:28,860 --> 01:03:50,860
+SPK_1: You would be surprised how, as I'm talking about exactly the same effectively problems we are talking right now, like, yes, the language sounds a little like quite differently, but once you move past beyond your first, let's say reaction, you would, you would see this much more close and that's just as experience of people since writing about this, not material, but super real things.
+
+1792
+01:03:50,960 --> 01:03:52,360
+SPK_1: And that changes your understanding.
+
+1793
+01:03:52,820 --> 01:03:53,340
+SPK_0: Okay.
+
+1794
+01:03:53,400 --> 01:03:58,700
+SPK_0: So notice we're actually doing again, we're becoming self-referential and I think we can combine things really beautifully.
+
+1795
+01:03:58,700 --> 01:04:05,020
+SPK_0: So, um, language, uh, okay.
+
+1796
+01:04:05,220 --> 01:04:09,340
+SPK_0: Oh, and the medium of expression, that's actually even a better way of putting it.
+
+1797
+01:04:09,420 --> 01:04:19,000
+SPK_0: So if I'm reading Basil, I am communing with him by means of a medium of expression.
+
+1798
+01:04:19,200 --> 01:04:21,100
+SPK_0: That medium of expression has at least two elements.
+
+1799
+01:04:21,440 --> 01:04:28,680
+SPK_0: One, as you say, is in fact, the, the way that the transcendent is embodying itself in a particular way.
+
+1800
+01:04:29,860 --> 01:04:30,260
+SPK_0: And the other is the idea of what I call the subbordination.
+
+1801
+01:04:30,260 --> 01:04:30,920
+SPK_0: Or the subbordination, this is the word.
+
+1802
+01:04:31,280 --> 01:04:32,420
+SPK_0: Hypostasis is good here.
+
+1803
+01:04:32,880 --> 01:04:38,180
+SPK_0: The way the transcendent is, is hypostatically bound to the material, to the world in the
+
+1804
+01:04:38,180 --> 01:04:44,520
+SPK_0: form of the language, the Greek language and secondarily, but not separately in the
+
+1805
+01:04:44,520 --> 01:04:47,840
+SPK_0: form of the actual transmission of the written word to my eyeball.
+
+1806
+01:04:48,220 --> 01:04:50,080
+SPK_0: Or the physicality of the written word.
+
+1807
+01:04:51,300 --> 01:04:53,080
+SPK_1: And may it ends a third.
+
+1808
+01:04:53,180 --> 01:04:54,900
+SPK_1: There is a third, and the third is you.
+
+1809
+01:04:55,720 --> 01:04:56,120
+SPK_1: Yes.
+
+1810
+01:04:56,620 --> 01:04:57,020
+SPK_1: Perception.
+
+1811
+01:04:57,420 --> 01:04:57,820
+SPK_1: Yes.
+
+1812
+01:04:57,820 --> 01:04:58,660
+SPK_1: That's what I, the matter of perception.
+
+1813
+01:04:58,660 --> 01:05:03,460
+SPK_1: a matter of a subject because i think that's one topic we didn't talk yet about in what is crucial
+
+1814
+01:05:03,460 --> 01:05:09,060
+SPK_1: in this transition is the whole re-understanding of the problem not problem but the reality of the
+
+1815
+01:05:09,060 --> 01:05:14,180
+SPK_1: subject because it's how you perceive certain things it's very ironic that we live in the age
+
+1816
+01:05:14,180 --> 01:05:19,140
+SPK_1: which pretends that everything is subjective but effectively there is no real place for subjects
+
+1817
+01:05:19,140 --> 01:05:24,080
+SPK_1: there is no true recipient like of this yeah yeah well let's do it just right now like right between
+
+1818
+01:05:24,080 --> 01:05:31,240
+SPK_0: us this is perfect right so you are a subject i am a subject what we're trying to figure out
+
+1819
+01:05:31,240 --> 01:05:36,860
+SPK_0: how to do is to come into a relationship of connection at the level of the transcendent
+
+1820
+01:05:36,860 --> 01:05:42,580
+SPK_0: subjective right in the interior of me in the interior of you we can somehow find the same
+
+1821
+01:05:42,580 --> 01:05:49,940
+SPK_0: location in the mind of god we're having to use this virtual medium which by the way now has
+
+1822
+01:05:49,940 --> 01:05:53,640
+SPK_0: really interesting characteristic of being if we're in the same physical space
+
+1823
+01:05:54,080 --> 01:05:59,140
+SPK_0: we may actually be still saying we're using a virtual medium using air and light and sound
+
+1824
+01:05:59,140 --> 01:06:06,960
+SPK_0: to orient our physical bodies as instrumentalities of our will soul and spirit ultimately allowing us
+
+1825
+01:06:06,960 --> 01:06:12,780
+SPK_0: to orient at the level of our spiritual into connection and there's something about that like
+
+1826
+01:06:12,780 --> 01:06:21,060
+SPK_0: liturgy that is liturgy that is liturgy it's all liturgy is is that um and so to render the
+
+1827
+01:06:21,060 --> 01:06:24,060
+SPK_0: virtual liturgical i would say is that the virtual liturgical is the virtual liturgical
+
+1828
+01:06:24,080 --> 01:06:29,660
+SPK_0: the cardinal challenge of the moment that we're in so i'll take it up a notch like kings north
+
+1829
+01:06:29,660 --> 01:06:34,020
+SPK_0: has correctly pointed out that if we're operating at the level of christian civilization we're
+
+1830
+01:06:34,020 --> 01:06:38,320
+SPK_0: actually not even thinking clearly civilization fortunately is coming to it well fortunately
+
+1831
+01:06:38,320 --> 01:06:44,000
+SPK_0: unfortunately is coming to an end and there's nothing about the endeavoring to reconstitute
+
+1832
+01:06:44,000 --> 01:06:48,420
+SPK_0: as a christian that's going to be meaningful at all and may have negative consequences will
+
+1833
+01:06:48,420 --> 01:06:53,980
+SPK_0: will have negative consequences for the christian side but okay we're now moving into a new
+
+1834
+01:06:54,080 --> 01:06:58,760
+SPK_0: place in this new place we are now able to quite clearly see that the thing that we are endeavoring
+
+1835
+01:06:58,760 --> 01:07:04,200
+SPK_0: to always do is convert the virtual and here now i'm including all forms of the imminent
+
+1836
+01:07:04,200 --> 01:07:10,340
+SPK_0: into the liturgical because the effort is always as you say and your error is exactly right if our
+
+1837
+01:07:10,340 --> 01:07:17,440
+SPK_0: error is pointing down from the spiritual to the embodied to the virtual then we're moving towards
+
+1838
+01:07:17,440 --> 01:07:21,880
+SPK_0: the less than less real we can actually instead of making it like one two three it's just a
+
+1839
+01:07:21,880 --> 01:07:23,180
+SPK_0: continuum of less than less real
+
+1840
+01:07:24,080 --> 01:07:27,600
+SPK_0: in some sense all we're trying to do is convert that to some something about the nature of the
+
+1841
+01:07:27,600 --> 01:07:34,860
+SPK_0: fact that we are physical and we heaven and earth the creation is created there's a reason for it
+
+1842
+01:07:34,860 --> 01:07:39,480
+SPK_0: we have a role to play in it part of our role to play in it is to come into relationships with
+
+1843
+01:07:39,480 --> 01:07:44,180
+SPK_0: each other by means of the created by means of the virtual by means of the physical by means of
+
+1844
+01:07:44,180 --> 01:07:50,240
+SPK_0: the imminent in order to allow us to connect at the level of the spiritual and up and up and up
+
+1845
+01:07:50,240 --> 01:07:53,260
+SPK_0: right you and i when we connect at the level of the spiritual something else happens
+
+1846
+01:07:53,260 --> 01:07:54,020
+SPK_0: is
+
+1847
+01:07:54,080 --> 01:07:58,500
+SPK_0: that the holy spirit is there with us watching right whenever we're together in his name
+
+1848
+01:07:58,500 --> 01:08:05,400
+SPK_0: in his name capital n name then he is with us right and so that is the that is it like that's
+
+1849
+01:08:05,400 --> 01:08:10,460
+SPK_0: the challenge it's funny because i can split that challenge in two ways one challenge is that is
+
+1850
+01:08:10,460 --> 01:08:16,580
+SPK_0: actually just the thing that we're here to do full stop it always has been and also it is the only
+
+1851
+01:08:16,580 --> 01:08:20,640
+SPK_0: viable approach to solve the problem of the catastrophe of the transition from civilization
+
+1852
+01:08:24,080 --> 01:08:28,020
+SPK_1: uh i really like the way you combined it in the end like yeah i do agree it's
+
+1853
+01:08:28,720 --> 01:08:34,760
+SPK_1: not like obviously but it is the only way out of this meta crisis which we started our
+
+1854
+01:08:34,760 --> 01:08:41,660
+SPK_1: conversation because and that's why it's important to first step to recognize it as such you're doing
+
+1855
+01:08:41,660 --> 01:08:46,020
+SPK_1: it on like your work and podcast but that's why i think this conversation today was very important
+
+1856
+01:08:46,720 --> 01:08:55,100
+SPK_1: because so far it is not that easy let me put it this way because exactly 400 years of legacy
+
+1857
+01:08:55,360 --> 01:09:00,340
+SPK_1: is huge like and we can look even deeper we we can look even deeper beyond it but let's say
+
+1858
+01:09:00,780 --> 01:09:06,960
+SPK_1: that at least the last iteration of this capital seed civilization is the modernity which is
+
+1859
+01:09:06,960 --> 01:09:11,640
+SPK_1: the particular very particular version of the same civilization which has very
+
+1860
+01:09:12,560 --> 01:09:18,800
+SPK_1: particular understanding of reality per se which has led to which has been replicated
+
+1861
+01:09:18,800 --> 01:09:25,340
+SPK_1: over 400 years like even though being parasitical in nature it provided less gigantic material but
+
+1862
+01:09:30,940 --> 01:09:43,640
+SPK_1: the importance of the material uh is there so it's very interesting to just think about
+
+1863
+01:09:43,640 --> 01:09:44,080
+SPK_1: it's very interesting to think about the impact that it has on you as a creator of a certain
+
+1864
+01:09:44,080 --> 01:09:46,860
+SPK_1: community if you could just speak a little bit about it but let me also point out that
+
+1865
+01:09:46,860 --> 01:09:50,740
+SPK_1: when we have conversations with the creators of a particular community you can sound a little bit
+
+1866
+01:09:50,740 --> 01:09:55,280
+SPK_1: different even if it's only the co-creator you can also sound a little bit different but
+
+1867
+01:09:55,280 --> 01:09:55,340
+SPK_1: it's not necessarily because we talk about it because we don't have any certain history or
+
+1868
+01:09:55,340 --> 01:10:02,300
+SPK_1: into civilization and honest answer is yes it is but not just and i think that's what you've
+
+1869
+01:10:02,300 --> 01:10:08,140
+SPK_1: been trying to show like it is embedded but it's not the connection is not just linear connection
+
+1870
+01:10:08,140 --> 01:10:13,120
+SPK_0: and it's not straightforward connection and it's not it's not it's not it's not as you say
+
+1871
+01:10:13,120 --> 01:10:20,380
+SPK_0: essential it is not essential in this in this sense meaning yeah um technological innovation
+
+1872
+01:10:20,380 --> 01:10:27,680
+SPK_0: is what causes civilization not the other way around and that there are ways to achieve
+
+1873
+01:10:27,680 --> 01:10:32,460
+SPK_0: technological innovation that are separate from civilization wow that's big
+
+1874
+01:10:32,460 --> 01:10:42,900
+SPK_1: yeah i i think that i i think that's the key whereas the so far at least we've been only
+
+1875
+01:10:42,900 --> 01:10:48,120
+SPK_1: highlighting at least in a let's say secular discourse we've been only been highlighting
+
+1876
+01:10:48,540 --> 01:10:50,300
+SPK_1: the constructive material element
+
+1877
+01:10:50,380 --> 01:10:56,240
+SPK_1: of civilization as a facilitator of a technological process and uh been really
+
+1878
+01:10:56,240 --> 01:11:02,540
+SPK_1: neglecting this uh spiritual but also you can say immaterial problems civilization entails by
+
+1879
+01:11:02,540 --> 01:11:08,020
+SPK_1: itself which was always preserved in a tradition at least but not just to be told not just a
+
+1880
+01:11:08,020 --> 01:11:14,480
+SPK_1: christian tradition like most of the traditions of globally are very cautious about the problems
+
+1881
+01:11:14,480 --> 01:11:20,240
+SPK_1: of civilizations like even being simple question of the you know more small and big cities like
+
+1882
+01:11:20,380 --> 01:11:25,380
+SPK_1: and we have the tablets from babylonian age people complaining about it but even on a bigger level
+
+1883
+01:11:25,380 --> 01:11:29,440
+SPK_1: because there is a certain like we didn't go deep into it but there is a certain price you have to
+
+1884
+01:11:29,440 --> 01:11:36,780
+SPK_1: pay in a city of exactly uh effectively nominalistic price you you need to you need to atomize yourself
+
+1885
+01:11:36,780 --> 01:11:42,860
+SPK_0: like nominalism you know what nice yeah absolutely but that's really a good phrase the nominalistic
+
+1886
+01:11:42,860 --> 01:11:47,860
+SPK_0: price is beautiful you can almost feel like you can feel that selling of the soul sensibility
+
+1887
+01:11:47,860 --> 01:11:50,100
+SPK_1: yeah uh
+
+1888
+01:11:50,380 --> 01:11:55,760
+SPK_1: and that's exactly the challenge because the problem is even though like we managed to create
+
+1889
+01:11:55,760 --> 01:12:02,680
+SPK_1: a really good let's say i don't know multiplicators transistors etc like let's say for every x element
+
+1890
+01:12:02,680 --> 01:12:07,020
+SPK_1: of you you're getting more and more material and hence now we live in the wealthiest material
+
+1891
+01:12:07,020 --> 01:12:12,020
+SPK_1: civilization ever existed like we live as kings but let's be straightforward even the poorest
+
+1892
+01:12:12,680 --> 01:12:18,320
+SPK_1: maybe not the poorest man of us but the poorest man in america lives like a king like by material
+
+1893
+01:12:18,320 --> 01:12:19,940
+SPK_1: standards of the civilization
+
+1894
+01:12:20,380 --> 01:12:28,620
+SPK_1: but the price you had to pay is the most lonely people ever walked the planet earth and there is
+
+1895
+01:12:28,620 --> 01:12:33,060
+SPK_1: this intrinsic connection and i absolutely agree with you that i think that is exactly the lie
+
+1896
+01:12:33,640 --> 01:12:39,940
+SPK_1: and the deal which is kind of proposed to us that you can have this but only with this like you can
+
+1897
+01:12:39,940 --> 01:12:45,780
+SPK_1: you can't these two things aren't separate and it takes time to really realize whether they are
+
+1898
+01:12:45,780 --> 01:12:49,280
+SPK_1: how they're connected what is the connection i think you've been doing it very beautifully
+
+1899
+01:12:50,380 --> 01:12:55,080
+SPK_1: but thank you but this nominalistic price just to hammer down this point and i think it's important
+
+1900
+01:12:55,080 --> 01:12:59,780
+SPK_1: we need to understand that it is one of the reasons why this civilization is ending because by its
+
+1901
+01:12:59,780 --> 01:13:06,580
+SPK_1: very nature it is limited there is only so much humanness in any per every particular human you
+
+1902
+01:13:06,580 --> 01:13:12,780
+SPK_1: can give you already effectively given your nation like you'll say you're mostly given your culture
+
+1903
+01:13:12,780 --> 01:13:17,880
+SPK_1: you're mostly given your nation you mostly have given away your family like because we can talk
+
+1904
+01:13:17,880 --> 01:13:19,660
+SPK_1: a lot about the structure absolutely
+
+1905
+01:13:21,040 --> 01:13:29,760
+SPK_1: age like to an extent and generally sex go on into this and the only thing left basically it's
+
+1906
+01:13:29,760 --> 01:13:35,020
+SPK_1: i would say it's this right life itself like this whole question of like just living like
+
+1907
+01:13:35,020 --> 01:13:40,920
+SPK_1: physically like producing you know chemical and physical elements but basically we've given up
+
+1908
+01:13:40,920 --> 01:13:45,800
+SPK_1: almost everything for this current price without really realizing it there is not much more to give
+
+1909
+01:13:45,800 --> 01:13:50,360
+SPK_1: but the imperative of constant doubling is not disappeared so it simply cannot make the next
+
+1910
+01:13:50,380 --> 01:13:55,520
+SPK_1: step without collapsing so just even on this symbolic level it makes total sense what you've
+
+1911
+01:13:55,520 --> 01:14:00,420
+SPK_0: been describing in a technical course wow yeah that's beautiful it's uh and it's wild because
+
+1912
+01:14:00,420 --> 01:14:05,780
+SPK_0: as you say if i take that lens that way of looking at it and i trace all the way back all
+
+1913
+01:14:05,780 --> 01:14:10,620
+SPK_0: these different elements of the poly crisis we can see that they actually all have show this
+
+1914
+01:14:10,620 --> 01:14:15,320
+SPK_0: their symptoms of the same thing yeah you know so i can say okay let me look at the debasement
+
+1915
+01:14:15,320 --> 01:14:19,780
+SPK_0: of the currency oh okay i get it this maps this is what's happening you know counterfeiting everything
+
+1916
+01:14:20,380 --> 01:14:24,160
+SPK_0: counterfeit currency that's what's happening when i take a look at stories you know let's just
+
+1917
+01:14:24,160 --> 01:14:28,420
+SPK_0: take a look at something like i don't know even just like something as banal as star wars and the
+
+1918
+01:14:28,420 --> 01:14:33,740
+SPK_0: strip mining of the soul of star wars for over time like to the degree to which a teenager a
+
+1919
+01:14:33,740 --> 01:14:38,580
+SPK_0: jewish teenager in the 1930s could produce something uh connected to the divine in the
+
+1920
+01:14:38,580 --> 01:14:44,300
+SPK_0: form of marvel i guess he's in the 40s and then the strip mining of that into the super salient
+
+1921
+01:14:44,300 --> 01:14:50,120
+SPK_0: purely super salient with no soul left over like 99.99 pure stimulus
+
+1922
+01:14:50,380 --> 01:14:54,760
+SPK_0: and then you point zero zero zero one percent soul you know there's there's a point in which
+
+1923
+01:14:54,760 --> 01:14:58,480
+SPK_0: it just the whole thing just topples over and you're seeing that ever food you know we see it
+
+1924
+01:14:58,480 --> 01:15:02,940
+SPK_0: everywhere it's weird actually if you think about it like wow it's weird that it would show up so
+
+1925
+01:15:03,640 --> 01:15:07,080
+SPK_0: mechanistically independent like everything and i can just think about it right and notice how that
+
+1926
+01:15:07,080 --> 01:15:13,460
+SPK_1: happens okay so there we go yeah so to sum it up we do live in a very interesting page
+
+1927
+01:15:13,460 --> 01:15:20,000
+SPK_1: and in a very interesting time like i i do think we do live in a meta crisis and just to sum it up
+
+1928
+01:15:20,980 --> 01:15:25,640
+SPK_1: and not to sum it up a final thought since we have a little bit more time and that's something
+
+1929
+01:15:25,640 --> 01:15:32,220
+SPK_1: you told me before we started the recording to end it on a more positive note i do think if there
+
+1930
+01:15:32,220 --> 01:15:41,860
+SPK_1: is one big spark of positivity in all of this mess is that we do have appetite and what is even
+
+1931
+01:15:41,860 --> 01:15:50,220
+SPK_1: more important maybe or equally as important capacity to at least look beyond this uh let's say
+
+1932
+01:15:50,380 --> 01:15:56,320
+SPK_1: puzzle represented an escapable puzzle the appetite is that i do think we want to leave
+
+1933
+01:15:56,320 --> 01:16:00,660
+SPK_1: and that's what coming back to the problem of crisis like the crisis will reveal whether we
+
+1934
+01:16:00,660 --> 01:16:05,080
+SPK_1: want to leave or we want to die you're gonna say this the only question we've been like in
+
+1935
+01:16:05,080 --> 01:16:09,000
+SPK_1: our personal life and civil and cultural life and like from the beginning to the end but the
+
+1936
+01:16:09,000 --> 01:16:13,680
+SPK_1: question of life versus death and communion is the ultimate form of life whether let's say
+
+1937
+01:16:14,820 --> 01:16:20,200
+SPK_1: babylon tower is the ultimate form of civilization but death like so that's all coming together
+
+1938
+01:16:20,380 --> 01:16:27,580
+SPK_1: and if we want to leave we do have we do have an appetite for it and there is so many thinkers and
+
+1939
+01:16:28,540 --> 01:16:34,900
+SPK_1: facilitators and material things happening right now which i only think are exactly liking the
+
+1940
+01:16:34,900 --> 01:16:39,560
+SPK_1: right words i honestly think based on our conversation and you and previous conversations
+
+1941
+01:16:39,560 --> 01:16:44,440
+SPK_1: we've had like in private and like with other people we are much more developed materialism
+
+1942
+01:16:44,440 --> 01:16:49,760
+SPK_1: we think we are like it's exactly the question of that feels like it's exactly the question of
+
+1943
+01:16:50,380 --> 01:16:56,940
+SPK_1: it's exactly the question of finding the right way of expressing this and directing exactly this
+
+1944
+01:16:57,640 --> 01:17:03,660
+SPK_1: element and for the and for quite a while it was numb let's let's be realistic it was good enough so
+
+1945
+01:17:04,080 --> 01:17:11,120
+SPK_1: why bother but as in like many different stories uh the flood is coming the flood is effectively
+
+1946
+01:17:11,120 --> 01:17:18,520
+SPK_1: already came so the fire you can say like has already been happening and it's only the question
+
+1947
+01:17:18,520 --> 01:17:20,300
+SPK_1: of us what we're going to do
+
+1948
+01:17:20,380 --> 01:17:26,020
+SPK_1: maybe do you want to conclude in some way or like just reflect on the whole journey
+
+1949
+01:17:26,020 --> 01:17:39,840
+SPK_0: um yeah i mean the sense that i just i notice is that there's every time there's been a
+
+1950
+01:17:39,840 --> 01:17:44,020
+SPK_0: this revelation the word revelation that you put in the revelatory experience of crisis
+
+1951
+01:17:44,760 --> 01:17:51,960
+SPK_0: every time the crisis has come to enough of a head to force people to look at it squarely
+
+1952
+01:17:52,840 --> 01:17:59,180
+SPK_0: some number of people have had some quality of revelation and that that desire to live and by
+
+1953
+01:17:59,180 --> 01:18:03,300
+SPK_0: the way that more even deeper that desire to come to communion let's just put it very very clearly
+
+1954
+01:18:03,300 --> 01:18:07,860
+SPK_0: that's the actual desire right the desire is to come into communion you know we've been turned
+
+1955
+01:18:07,860 --> 01:18:14,460
+SPK_0: upside down inside out and been put in blindfolds and somebody's lit lit a fire over there to make
+
+1956
+01:18:14,460 --> 01:18:20,760
+SPK_0: it feel like that's the sun but the reality is we desire communion and as the crisis comes to a peak
+
+1957
+01:18:20,760 --> 01:18:22,220
+SPK_0: people have
+
+1958
+01:18:22,220 --> 01:18:28,740
+SPK_0: have some set of revelations that orients them towards trying to find their way back
+
+1959
+01:18:28,740 --> 01:18:40,200
+SPK_1: onto the right path and that's the good news well it is thank you very much i i think it was
+
+1960
+01:18:40,200 --> 01:18:45,560
+SPK_1: absolutely fascinating and wonderful topic as uh good conversations which
+
+1961
+01:18:46,160 --> 01:18:51,880
+SPK_1: we only touched the tips of the iceberg but i think the very fact that we had it and i really
+
+1962
+01:18:51,880 --> 01:18:57,020
+SPK_1: grateful for you to coming because exactly i will be honest a little bit of your background because
+
+1963
+01:18:57,020 --> 01:19:03,980
+SPK_1: like of this uh big tech you know uh very what we consider to be the most modern and even
+
+1964
+01:19:03,980 --> 01:19:10,460
+SPK_1: super modern post-modern man and the very fact of you talking about these problems in the manner
+
+1965
+01:19:10,460 --> 01:19:16,240
+SPK_1: you do and understanding them and reacting towards them is an effect symbolic like it
+
+1966
+01:19:16,240 --> 01:19:21,740
+SPK_1: is an effect symbolic like that this personal journey of reaching to a certain height
+
+1967
+01:19:21,880 --> 01:19:29,280
+SPK_1: but also it's kind of in a way the certain low and effectively making the certain jumps through
+
+1968
+01:19:29,280 --> 01:19:34,420
+SPK_1: it like as a symbol just to finish like i think it is very symbolic to the whole meta crisis and
+
+1969
+01:19:35,080 --> 01:19:39,980
+SPK_1: my personal story and your personal story thing remember that in dante i think it's one of the
+
+1970
+01:19:39,980 --> 01:19:47,860
+SPK_1: most fascinating uh small details in the whole story that the exit from hell is on its very bottom
+
+1971
+01:19:47,860 --> 01:19:51,860
+SPK_1: like it's effectively right right and right behind it
+
+1972
+01:19:51,880 --> 01:19:58,560
+SPK_1: behind the person like the ninth circle and then the dante ends up being walked into the purgatory
+
+1973
+01:19:59,280 --> 01:20:04,060
+SPK_1: well i think in a way like what is happening right now is a little bit akin to this story
+
+1974
+01:20:04,060 --> 01:20:09,440
+SPK_1: and then it is positive element to it so then thank you very much for coming
+
+1975
+01:20:09,940 --> 01:20:14,660
+SPK_0: yeah really delighted um i'm really excited to see what happens as a result of this conversation
+
+1976
+01:20:15,680 --> 01:20:19,060
+SPK_1: well hope we will have more that will be very very beautiful great
+
+1977
+01:20:19,060 --> 01:20:20,600
+SPK_1: all right brother okay
+

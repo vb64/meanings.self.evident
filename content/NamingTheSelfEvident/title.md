@@ -15,3 +15,8 @@ and how ancient Christian anthropology illuminates the crises of our time.
 - PATTERNS OF POLITICAL COMMUNITY | Jonathan Pageau and Shchelin Pavel. March 09, 2026
 - BABEL AND LEVIATHAN | Richard Rohlin and Pavel Shchelin. March 12, 2026
 - THE ILLUSION OF MODERN POLITICAL | Jonathan Pageau and Shchelin Pavel. March 15, 2026
+- ON MULTIPLICITY AND THE SPIRIT OF REFORM | Richard Rohlin and Pavel Shchelin. March 17, 2026
+- METACRISIS | Jordan Hall and Pavel Shchelin. March 24, 2026
+- CIVILIZATION AS LITURGY | Jordan Hall and Pavel Shchelin. March 31, 2026
+- Universal Table Part I - The Hidden Medicine | John Heers. April 17, 2026
+- Universal Table Part II - The Spitit of Supra | John Heers. April 23, 2026

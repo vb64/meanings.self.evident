@@ -29,6 +29,12 @@ MDATA = {
       ("2026_03_09", (Speak.Pageau, Speak.ShchelinEn)),
       ("2026_03_12", (Speak.ShchelinEn, Speak.Rohlin)),
       ("2026_03_15", (Speak.ShchelinEn, Speak.Pageau)),
+
+      ("2026_03_17", (Speak.ShchelinEn, Speak.Rohlin)),
+      ("2026_03_24", (Speak.Hall_J, Speak.ShchelinEn)),
+      ("2026_03_31", (Speak.Hall_J, Speak.ShchelinEn)),
+      ("2026_04_17", (Speak.Heers_J, Speak.ShchelinEn)),
+      ("2026_04_23", (Speak.ShchelinEn, Speak.Heers_J)),
   ],
   Course.Shelest: [
       ("2025_12_01", (Speak.Shelest, Speak.Shchelin)),
