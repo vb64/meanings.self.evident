@@ -6,3 +6,4 @@
 - [x] [Цена небытия.](the-price-of-non-existance.md) 23 марта 2026
 - [x] [Упразднение и благовремение](uprazdenenie-blagovremenie.md) 06 апреля 2026
 - [x] [Кредит или дар.](credit-or-gift.md) 19 апреля 2026
+- [ ] [Эрос бытия.](eros.md) 18 мая 2026
