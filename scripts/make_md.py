@@ -103,7 +103,7 @@ MDATA = {
       ("2026_04_06", (Speak.Shchelin, Speak.Chernov)),
   ],
   Course.Mash: [
-      ("2026_05_21", (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)),
+      ("2026_05_21", (Speak.Izotov, Speak.Shchelin, Speak.OrlovSm)),
   ],
 }
 
