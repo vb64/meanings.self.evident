@@ -102,7 +102,11 @@ MDATA = {
       ("2026_03_18", (Speak.Shchelin, Speak.Chernov)),
       ("2026_04_06", (Speak.Shchelin, Speak.Chernov)),
   ],
+  Course.Mash: [
+      ("2026_05_21", (Speak.Shchelin, Speak.Izotov, Speak.OrlovSm)),
+  ],
 }
+
 
 def proc_md(in_file, out_file, speakers):
     print(in_file)
@@ -141,6 +145,8 @@ def main():
     podcast(Course.Sputnik)
     podcast(Course.NamingTheSelfEvident)
     podcast(Course.Chernov)
+    podcast(Course.Mash)
+
 
 if __name__ == '__main__':
     main()
