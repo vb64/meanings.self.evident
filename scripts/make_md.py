@@ -18,6 +18,7 @@ MDATA = {
       ("Season06/credit-or-gift", (Speak.Shchelin, Speak.Golub)),
       ("Season06/eros", (Speak.Golub, Speak.Shchelin)),
       ("Season06/family", (Speak.Golub, Speak.Shchelin)),
+      ("Season06/vybor-benedikta", (Speak.Golub, Speak.Shchelin)),
   ],
   Course.NamingTheSelfEvident: [
       ("2026_02_27", (Speak.ShchelinEn, Speak.Hall_J)),
