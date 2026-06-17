@@ -84,6 +84,7 @@ class Speak:
     AIvanchenko = "А.Иванченко"
     DZlobin = "Д.Злобин"
     APivovarov = "А.Пивоваров"
+    APredelin = "А.Пределин"
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
