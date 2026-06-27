@@ -88,6 +88,7 @@ MDATA = {
       ("2026_03_19", (Speak.Shchelin, Speak.Kniazev, Speak.Uralov, Speak.Kniazev, Speak.Chadaev, Speak.Shchelin, Speak.Uralov)),
       ("2026_04_16", (Speak.Shchelin, Speak.Kniazev, Speak.Uralov, Speak.Shchelin, Speak.Chadaev, Speak.Uralov, Speak.Kniazev)),
       ("2026_05_14", (Speak.Chadaev, Speak.Shchelin, Speak.Shchelin, Speak.Chadaev, Speak.Uralov, Speak.Kniazev)),
+      ("2026_06_25", (Speak.Chadaev, Speak.Shchelin, Speak.Shchelin, Speak.Chadaev, Speak.Uralov, Speak.Kniazev)),
   ],
   Course.Tkachev: [
       ("2025_12_13", (Speak.Shchelin, Speak.ATkachev)),
