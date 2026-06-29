@@ -20,3 +20,6 @@ and how ancient Christian anthropology illuminates the crises of our time.
 - CIVILIZATION AS LITURGY | Jordan Hall and Pavel Shchelin. March 31, 2026
 - Universal Table Part I - The Hidden Medicine | John Heers. April 17, 2026
 - Universal Table Part II - The Spitit of Supra | John Heers. April 23, 2026
+- Universal Table Part III - The One Lord | John Heers April 30, 2026
+- Universal Table Part IV - Hair of The Dog May 08, 2026
+- Universal Table Part V - Supra Sacrifice May 15, 2026

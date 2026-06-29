@@ -9,7 +9,7 @@
 
 - [ ] 68/72 [В поисках Смысла](InSearchOfMeaning/README.md). Павел Щелин и Евгений Голуб.
 - [x] 09/09 [Гностическое Мышление](GnosticThinking/README.md). Лекции из совместного проекта с Юрием Романенко.
-- [ ] 00/16 [Naming The Self Evident](NamingTheSelfEvident/README.md)
+- [ ] 00/19 [Naming The Self Evident](NamingTheSelfEvident/README.md)
 - [ ] 00/09 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 01/09 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".

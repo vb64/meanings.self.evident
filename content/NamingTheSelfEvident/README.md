@@ -22,3 +22,6 @@ https://www.youtube.com/@NamingTheSelfEvident
 - [ ] [CIVILIZATION AS LITURGY | Jordan Hall and Pavel Shchelin](2026_03_31.md) March 31, 2026
 - [ ] [Universal Table Part I - The Hidden Medicine | John Heers](2026_04_17.md) April 17, 2026
 - [ ] [Universal Table Part II - The Spitit of Supra | John Heers](2026_04_23.md) April 23, 2026
+- [ ] [Universal Table Part III - The One Lord | John Heers](2026_04_30.md) April 30, 2026
+- [ ] [Universal Table Part IV - Hair of The Dog](2026_05_08.md) May 08, 2026
+- [ ] [Universal Table Part V - Supra Sacrifice](2026_05_15.md) May 15, 2026
