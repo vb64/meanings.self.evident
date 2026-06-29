@@ -13,7 +13,7 @@
 - [ ] 00/09 [Videos with English Speaking guests.](English/README.md)
 - [ ] 00/03 [Архетипы США.](Usa/README.md)
 - [ ] 01/09 [Эфиры с Алексеем Черновым.](Chernov/README.md) "По следам Пеликана".
-- [ ] 00/09 Протоиерей [Андрей Ткачёв.](Tkachev/README.md)
+- [ ] 00/11 Протоиерей [Андрей Ткачёв.](Tkachev/README.md)
 - [ ] 00/04 [Беседы с Андреем Баумейстером.](Baumeister/README.md)
 - [ ] 00/04 [Mash Room](Mash/README.md). Не выходя из комнаты.
 - [ ] 00/15 [Беседы с Алексеем Арестовичем](Arestovich/README.md)
@@ -29,4 +29,4 @@
 - [ ] 00/03 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
 - [ ] 00/05 Эфиры на [Радио Спутник](Sputnik/README.md)
-- [ ] 00/24 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/26 [Отдельные беседы.](Singles/README.md)

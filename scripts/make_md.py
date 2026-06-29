@@ -61,6 +61,7 @@ MDATA = {
       ("2025_12_04_1", (Speak.Panchenko, Speak.Shchelin)),
       ("2025_12_04_2", (Speak.Panchenko, Speak.MShevchenko, Speak.Shchelin)),
       ("2026_02_25", (Speak.Shchelin, Speak.Panchenko)),
+      ("2026_06_22", (Speak.Panchenko, Speak.Shchelin)),
   ],
   Course.Singles: [
       ("2025_12_07", (Speak.Shchelin, Speak.PAndreev)),
@@ -72,6 +73,8 @@ MDATA = {
       ("2026_04_30", (Speak.Shchelin, Speak.APivovarov)),
       ("2026_06_03", (Speak.Shchelin, Speak.Latynina)),
       ("2026_06_15", (Speak.Shchelin, Speak.APredelin)),
+      ("2026_06_26", (Speak.Shchelin, Speak.FBirukov)),
+      ("2026_06_27", (Speak.Shchelin, Speak.NArtemieva)),
   ],
   Course.Safarov: [
       ("2025_12_23", (Speak.Shchelin, Speak.RSafarov)),
@@ -100,6 +103,8 @@ MDATA = {
       ("2026_04_03", (Speak.ATkachev, Speak.Shchelin)),
       ("2026_04_23", (Speak.Shchelin, Speak.ATkachev)),
       ("2026_05_01", (Speak.Shchelin, Speak.ATkachev)),
+      ("2026_06_19", (Speak.Shchelin, Speak.ATkachev)),
+      ("2026_06_26", (Speak.ATkachev, Speak.Shchelin)),
   ],
   Course.Sputnik: [
       ("2025_12_14", (Speak.Shchelin, Speak.POstrovsky, Speak.PUvarova)),
