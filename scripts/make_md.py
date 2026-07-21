@@ -128,6 +128,9 @@ MDATA = {
   Course.Mash: [
       ("2026_05_21", (Speak.Izotov, Speak.Shchelin, Speak.OrlovSm)),
   ],
+  Course.Sobolev: [
+      ("2026_07_18", (Speak.Sobolev, Speak.Shchelin)),
+  ],
 }
 
 
@@ -169,6 +172,7 @@ def main():
     podcast(Course.NamingTheSelfEvident)
     podcast(Course.Chernov)
     podcast(Course.Mash)
+    podcast(Course.Sobolev)
 
 
 if __name__ == '__main__':

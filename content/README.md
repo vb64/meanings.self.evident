@@ -26,7 +26,7 @@
 - [ ] 00/34 [Александр Бобылев и НАРОД.](Bobileff/README.md)
 - [ ] 00/04 [Беседы с Романом Химичем.](Khimich/README.md)
 - [ ] 00/10 [Камиль Аскерханов.](Mnenie/README.md) YouTube канал "Мнение".
-- [ ] 00/03 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
+- [ ] 00/04 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
 - [ ] 00/05 Эфиры на [Радио Спутник](Sputnik/README.md)
 - [ ] 00/27 [Отдельные беседы.](Singles/README.md)
