@@ -129,7 +129,7 @@ MDATA = {
       ("2026_05_21", (Speak.Izotov, Speak.Shchelin, Speak.OrlovSm)),
   ],
   Course.Sobolev: [
-      ("2026_07_18", (Speak.Sobolev, Speak.Shchelin)),
+      ("2026_07_18", (Speak.Shchelin, Speak.Sobolev)),
   ],
 }
 
