@@ -25,6 +25,7 @@ class Course:
     Safarov = "Safarov"
     Tkachev = "Tkachev"
     Sputnik = "Sputnik"
+    Latynina = "Latynina"
 
 
 class Speak:

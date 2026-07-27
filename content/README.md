@@ -29,4 +29,5 @@
 - [ ] 00/04 [Эфиры на YouTube канале SOBOLEV.](Sobolev/README.md)
 - [ ] 00/04 [Эфиры на YouTube канале polit.world.](PolitWorld/README.md)
 - [ ] 00/05 Эфиры на [Радио Спутник](Sputnik/README.md)
-- [ ] 00/27 [Отдельные беседы.](Singles/README.md)
+- [ ] 00/04 [Эфиры с Ю.Латыниной.](Latynina/README.md)
+- [ ] 00/24 [Отдельные беседы.](Singles/README.md)
