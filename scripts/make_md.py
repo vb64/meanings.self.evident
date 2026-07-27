@@ -132,7 +132,7 @@ MDATA = {
   Course.Latynina: [
       ("2026_01_25", (Speak.Shchelin, Speak.Latynina)),
       ("2026_06_03", (Speak.Shchelin, Speak.Latynina)),
-#      ("2026_07_27", (Speak.Shchelin, Speak.Latynina)),
+      ("2026_07_27", (Speak.Shchelin, Speak.Latynina)),
   ],
 }
 
