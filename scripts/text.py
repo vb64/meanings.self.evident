@@ -430,6 +430,18 @@ GOLUB_SEASON_05 = [
   ("Season05/the-ontological-hangover", True, reversed(GOLUB)),
   ("Season05/end-of-willpower", True, reversed(GOLUB)),
 ]
+GOLUB_SEASON_06 = [
+  ("Season06/what-is-freedom", True, reversed(GOLUB)),
+  ("Season06/the-only-questtion", True, reversed(GOLUB)),
+  ("Season06/memory", True, reversed(GOLUB)),
+  ("Season06/the-price-of-non-existance", True, reversed(GOLUB)),
+  ("Season06/uprazdenenie-blagovremenie", True, reversed(GOLUB)),
+  ("Season06/credit-or-gift", True, reversed(GOLUB)),
+  ("Season06/eros", True, reversed(GOLUB)),
+  ("Season06/family", True, reversed(GOLUB)),
+  ("Season06/vybor-benedikta", True, reversed(GOLUB)),
+  ("Season06/yazyk-vechnosti", True, reversed(GOLUB)),
+]
 GOLUB_OTHER = [
   ("Singles/polit_nemota", True, reversed(GOLUB)),
   ("Singles/straw_man", True, GOLUB),
@@ -439,6 +451,7 @@ GOLUB_OTHER = [
   ("Singles/2026_01_05", True, GOLUB),
   ("Singles/2026_01_07", True, GOLUB),
   ("Singles/2026_01_09", True, GOLUB),
+  ("Singles/2026_04_05", True, GOLUB),
 ]
 
 

@@ -106,91 +106,91 @@ def main(argv):
       "Cтенограммы цикла «Гностическое Мышление».",
       'Гностическое_мышление.pdf'
     )
-    podcast(
-      Course.Mash,
-      "Cтенограммы подкастов «Mash Room».",
-      'Mash_Room.pdf'
-    )
-    podcast(
-      Course.Shelest,
-      "Cтенограммы эфиров с А.Шелестом.",
-      'Шелест.pdf'
-    )
-    podcast(
-      Course.Panchenko,
-      "Cтенограммы эфиров с Д.Панченко.",
-      'Панченко.pdf'
-    )
-    podcast(
-      Course.Dudnik,
-      "Cтенограммы эфиров с С.Дудником.",
-      'Дудник.pdf'
-    )
-    podcast(
-      Course.Chernov,
-      "Cтенограммы эфиров с А.Черновым. По следам Пеликана.",
-      'Чернов.pdf'
-    )
-    podcast(
-      Course.English,
-      "Playlist `Videos with English Speaking guests` at the 'Pavel Shchelin' YouTube channel.",
-      'English.pdf'
-    )
-    podcast(
-      Course.Usa,
-      "Стенограммы плейлиста 'Архетипы США' YouTube-канала @PavelShchelin.",
-      'Архетипы_США.pdf'
-    )
-    podcast(
-      Course.Bobileff,
-      "Стенограммы роликов из плейлиста 'Павел Щелин' YouTube канала 'Александр Бобылев и НАРОД'.",
-      'Бобылев_и_НАРОД.pdf'
-    )
-    podcast(
-      Course.Baumeister,
-      "Беседы с Андреем Баумейстером.",
-      'Баумейстер.pdf'
-    )
-    podcast(
-      Course.Arestovich,
-      "Стенограммы роликов из плейлиста 'Беседы с Павлом Щелиным' на YouTube канале 'Alexey Arestovych'",
-      'Арестович.pdf'
-    )
-    podcast(
-      Course.Chernobaev,
-      "Стенограммы роликов из YouTube канала 'Николай Чернобаев'.",
-      'Чернобаев.pdf'
-    )
-    podcast(
-      Course.Khimich,
-      "Беседы с Романом Химичем.",
-      'Химич.pdf'
-    )
-    podcast(
-      Course.Mnenie,
-      "Камиль Аскерханов. YouTube канал 'Мнение'.",
-      'Мнение.pdf'
-    )
-    podcast(
-      Course.PolitWorld,
-      "Эфиры на YouTube канале polit.world.",
-      'polit_world.pdf'
-    )
-    podcast(
-      Course.Singles,
-      "Отдельные беседы.",
-      'Отдельные_беседы.pdf'
-    )
-    podcast(
-      Course.Uralov,
-      "Эфиры с Чадаевым и Ураловым 'Чистота Понимания'.",
-      'Чистота_Понимания.pdf'
-    )
-    podcast(
-      Course.Sobolev,
-      "Эфиры на YouTube канале SOBOLEV.",
-      'Николай Соболев.pdf'
-    )
+#     podcast(
+#       Course.Mash,
+#       "Cтенограммы подкастов «Mash Room».",
+#       'Mash_Room.pdf'
+#     )
+#     podcast(
+#       Course.Shelest,
+#       "Cтенограммы эфиров с А.Шелестом.",
+#       'Шелест.pdf'
+#     )
+#     podcast(
+#       Course.Panchenko,
+#       "Cтенограммы эфиров с Д.Панченко.",
+#       'Панченко.pdf'
+#     )
+#     podcast(
+#       Course.Dudnik,
+#       "Cтенограммы эфиров с С.Дудником.",
+#       'Дудник.pdf'
+#     )
+#     podcast(
+#       Course.Chernov,
+#       "Cтенограммы эфиров с А.Черновым. По следам Пеликана.",
+#       'Чернов.pdf'
+#     )
+#     podcast(
+#       Course.English,
+#       "Playlist `Videos with English Speaking guests` at the 'Pavel Shchelin' YouTube channel.",
+#       'English.pdf'
+#     )
+#     podcast(
+#       Course.Usa,
+#       "Стенограммы плейлиста 'Архетипы США' YouTube-канала @PavelShchelin.",
+#       'Архетипы_США.pdf'
+#     )
+#     podcast(
+#       Course.Bobileff,
+#       "Стенограммы роликов из плейлиста 'Павел Щелин' YouTube канала 'Александр Бобылев и НАРОД'.",
+#       'Бобылев_и_НАРОД.pdf'
+#     )
+#     podcast(
+#       Course.Baumeister,
+#       "Беседы с Андреем Баумейстером.",
+#       'Баумейстер.pdf'
+#     )
+#     podcast(
+#       Course.Arestovich,
+#       "Стенограммы роликов из плейлиста 'Беседы с Павлом Щелиным' на YouTube канале 'Alexey Arestovych'",
+#       'Арестович.pdf'
+#     )
+#     podcast(
+#       Course.Chernobaev,
+#       "Стенограммы роликов из YouTube канала 'Николай Чернобаев'.",
+#       'Чернобаев.pdf'
+#     )
+#     podcast(
+#       Course.Khimich,
+#       "Беседы с Романом Химичем.",
+#       'Химич.pdf'
+#     )
+#     podcast(
+#       Course.Mnenie,
+#       "Камиль Аскерханов. YouTube канал 'Мнение'.",
+#       'Мнение.pdf'
+#     )
+#     podcast(
+#       Course.PolitWorld,
+#       "Эфиры на YouTube канале polit.world.",
+#       'polit_world.pdf'
+#     )
+#     podcast(
+#       Course.Singles,
+#       "Отдельные беседы.",
+#       'Отдельные_беседы.pdf'
+#     )
+#     podcast(
+#       Course.Uralov,
+#       "Эфиры с Чадаевым и Ураловым 'Чистота Понимания'.",
+#       'Чистота_Понимания.pdf'
+#     )
+#     podcast(
+#       Course.Sobolev,
+#       "Эфиры на YouTube канале SOBOLEV.",
+#       'Николай Соболев.pdf'
+#     )
 
 
 if __name__ == '__main__':
