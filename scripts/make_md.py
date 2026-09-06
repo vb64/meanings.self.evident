@@ -135,6 +135,7 @@ MDATA = {
   ],
   Course.Mash: [
       ("2026_05_21", (Speak.Izotov, Speak.Shchelin, Speak.OrlovSm)),
+      ("2026_09_03", (Speak.Izotov, Speak.Shchelin, Speak.OrlovSm)),
   ],
   Course.Sobolev: [
       ("2026_07_18", (Speak.Shchelin, Speak.Sobolev)),
