@@ -89,6 +89,7 @@ class Speak:
     FBirukov = "Ф.Бирюков"
     NArtemieva = "Н.Артемьева"
     ABabaev = "А.Бабаев"
+    VKuchushev = "В.Кучушев"  # RTVI
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
