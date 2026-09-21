@@ -90,6 +90,8 @@ class Speak:
     NArtemieva = "Н.Артемьева"
     ABabaev = "А.Бабаев"
     VKuchushev = "В.Кучушев"  # RTVI
+    AFedorov = "А.Федоров"  # Предельный переход
+    AMorozov = "А.Морозов"  # Предельный переход
 
     ShchelinEn = "P.Shchelin"
     Rohlin = "R.Rohlin"
